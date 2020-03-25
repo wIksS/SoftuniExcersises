@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\bin\Debug\netcoreapp2.2\EmailValidation.deps.json
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\bin\Debug\netcoreapp2.2\EmailValidation.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\bin\Debug\netcoreapp2.2\EmailValidation.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\bin\Debug\netcoreapp2.2\EmailValidation.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\bin\Debug\netcoreapp2.2\EmailValidation.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\EmailValidation\obj\Debug\netcoreapp2.2\EmailValidation.pdb

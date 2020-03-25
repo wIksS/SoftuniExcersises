@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\bin\Debug\netcoreapp2.2\Registration.deps.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\bin\Debug\netcoreapp2.2\Registration.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\bin\Debug\netcoreapp2.2\Registration.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\bin\Debug\netcoreapp2.2\Registration.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\bin\Debug\netcoreapp2.2\Registration.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\Registration\obj\Debug\netcoreapp2.2\Registration.pdb

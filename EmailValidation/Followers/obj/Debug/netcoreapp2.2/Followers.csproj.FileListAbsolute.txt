@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\bin\Debug\netcoreapp2.2\Followers.deps.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\bin\Debug\netcoreapp2.2\Followers.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\bin\Debug\netcoreapp2.2\Followers.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\bin\Debug\netcoreapp2.2\Followers.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\bin\Debug\netcoreapp2.2\Followers.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\Followers\obj\Debug\netcoreapp2.2\Followers.csprojAssemblyReference.cache

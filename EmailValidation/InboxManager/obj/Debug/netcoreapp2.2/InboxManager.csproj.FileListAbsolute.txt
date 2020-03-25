@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\bin\Debug\netcoreapp2.2\InboxManager.deps.json
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\bin\Debug\netcoreapp2.2\InboxManager.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\bin\Debug\netcoreapp2.2\InboxManager.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\bin\Debug\netcoreapp2.2\InboxManager.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\bin\Debug\netcoreapp2.2\InboxManager.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.dll
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.pdb
+C:\Users\Guest Lector\source\repos\EmailValidation\InboxManager\obj\Debug\netcoreapp2.2\InboxManager.csprojAssemblyReference.cache
