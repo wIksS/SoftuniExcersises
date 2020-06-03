@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.exe
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.deps.json
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.runtimeconfig.json
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.dll
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\bin\Debug\netcoreapp3.1\2.ReverseArr.pdb
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\obj\Debug\netcoreapp3.1\2.ReverseArr.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\obj\Debug\netcoreapp3.1\2.ReverseArr.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\obj\Debug\netcoreapp3.1\2.ReverseArr.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\obj\Debug\netcoreapp3.1\2.ReverseArr.dll
+C:\Users\User\source\repos\ArraysDemos\2.ReverseArr\obj\Debug\netcoreapp3.1\2.ReverseArr.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.exe
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.deps.json
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.runtimeconfig.json
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.dll
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\bin\Debug\netcoreapp3.1\3.Rounding.pdb
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\obj\Debug\netcoreapp3.1\3.Rounding.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\obj\Debug\netcoreapp3.1\3.Rounding.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\obj\Debug\netcoreapp3.1\3.Rounding.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\obj\Debug\netcoreapp3.1\3.Rounding.dll
+C:\Users\User\source\repos\ArraysDemos\3.Rounding\obj\Debug\netcoreapp3.1\3.Rounding.pdb

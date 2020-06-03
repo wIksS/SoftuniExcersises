@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.exe
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.deps.json
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.dll
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.pdb
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.dll
+C:\Users\User\source\repos\ArraysDemos\4.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\4.ReverseArrayOfStrings.pdb
