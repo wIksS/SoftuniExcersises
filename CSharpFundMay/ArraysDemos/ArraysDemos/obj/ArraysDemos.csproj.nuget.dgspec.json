@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj": {}
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj": {
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj",
         "projectName": "ArraysDemos",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\ArraysDemos\\ArraysDemos.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\ArraysDemos\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\ArraysDemos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

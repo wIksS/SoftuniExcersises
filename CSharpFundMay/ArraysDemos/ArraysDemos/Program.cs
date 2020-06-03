@@ -8,11 +8,14 @@ namespace ArraysDemos
         static void Main(string[] args)
         {
             int[] arr = { 1, 2, 3, 4 };
-            foreach (int number in arr)
+
+            int sum = 0;
+            foreach (var num in arr)
             {
-                Console.WriteLine(number);               
+                sum += num;
             }
-            Console.WriteLine(number);
+
+            Console.WriteLine(sum);
         }
     }
 }

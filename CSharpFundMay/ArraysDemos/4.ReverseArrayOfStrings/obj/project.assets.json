@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ArraysDemos\\4.ReverseArrayOfStrings\\4.ReverseArrayOfStrings.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\4.ReverseArrayOfStrings\\4.ReverseArrayOfStrings.csproj",
       "projectName": "4.ReverseArrayOfStrings",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\4.ReverseArrayOfStrings\\4.ReverseArrayOfStrings.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\4.ReverseArrayOfStrings\\4.ReverseArrayOfStrings.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\4.ReverseArrayOfStrings\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\4.ReverseArrayOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\2.ReverseArr\\2.ReverseArr.csproj": {}
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\8.CondenseArray\\8.CondenseArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\2.ReverseArr\\2.ReverseArr.csproj": {
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\8.CondenseArray\\8.CondenseArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\2.ReverseArr\\2.ReverseArr.csproj",
-        "projectName": "2.ReverseArr",
-        "projectPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\2.ReverseArr\\2.ReverseArr.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\8.CondenseArray\\8.CondenseArray.csproj",
+        "projectName": "8.CondenseArray",
+        "projectPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\8.CondenseArray\\8.CondenseArray.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\2.ReverseArr\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\8.CondenseArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

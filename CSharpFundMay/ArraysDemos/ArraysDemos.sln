@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysDemos", "ArraysDemos\ArraysDemos.csproj", "{A4DF687F-85EB-4440-B191-80911BFD037A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysDemos", "ArraysDemos\ArraysDemos.csproj", "{A4DF687F-85EB-4440-B191-80911BFD037A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.DaysOfWeek", "1.DaysOfWeek\1.DaysOfWeek.csproj", "{78FC7365-A825-4425-8CD9-D329A2A08EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.DaysOfWeek", "1.DaysOfWeek\1.DaysOfWeek.csproj", "{78FC7365-A825-4425-8CD9-D329A2A08EDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReverseArr", "2.ReverseArr\2.ReverseArr.csproj", "{561FB31B-92BF-4B8A-BAA2-3A322A2A38C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.ReverseArr", "2.ReverseArr\2.ReverseArr.csproj", "{561FB31B-92BF-4B8A-BAA2-3A322A2A38C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Rounding", "3.Rounding\3.Rounding.csproj", "{7B55A126-99C1-4535-9168-82DDC8248FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Rounding", "3.Rounding\3.Rounding.csproj", "{7B55A126-99C1-4535-9168-82DDC8248FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ReverseArrayOfStrings", "4.ReverseArrayOfStrings\4.ReverseArrayOfStrings.csproj", "{B9FC3990-E5B2-4A18-8CE0-44633B01BE85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.ReverseArrayOfStrings", "4.ReverseArrayOfStrings\4.ReverseArrayOfStrings.csproj", "{B9FC3990-E5B2-4A18-8CE0-44633B01BE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.CondenseArray", "8.CondenseArray\8.CondenseArray.csproj", "{009AB01E-77A3-43AA-8BA3-C747932F72FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B9FC3990-E5B2-4A18-8CE0-44633B01BE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FC3990-E5B2-4A18-8CE0-44633B01BE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FC3990-E5B2-4A18-8CE0-44633B01BE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009AB01E-77A3-43AA-8BA3-C747932F72FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009AB01E-77A3-43AA-8BA3-C747932F72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009AB01E-77A3-43AA-8BA3-C747932F72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009AB01E-77A3-43AA-8BA3-C747932F72FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

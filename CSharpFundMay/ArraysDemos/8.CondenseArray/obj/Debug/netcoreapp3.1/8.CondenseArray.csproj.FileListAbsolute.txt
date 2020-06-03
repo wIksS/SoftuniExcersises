@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.exe
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.deps.json
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.runtimeconfig.json
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.dll
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\bin\Debug\netcoreapp3.1\8.CondenseArray.pdb
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\obj\Debug\netcoreapp3.1\8.CondenseArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\obj\Debug\netcoreapp3.1\8.CondenseArray.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\obj\Debug\netcoreapp3.1\8.CondenseArray.dll
+C:\Users\User\source\repos\SoftuniExcersises\CSharpFundMay\ArraysDemos\8.CondenseArray\obj\Debug\netcoreapp3.1\8.CondenseArray.pdb

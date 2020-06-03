@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj": {}
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj": {
+    "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj",
         "projectName": "1.DaysOfWeek",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\1.DaysOfWeek\\1.DaysOfWeek.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ArraysDemos\\1.DaysOfWeek\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\SoftuniExcersises\\CSharpFundMay\\ArraysDemos\\1.DaysOfWeek\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
