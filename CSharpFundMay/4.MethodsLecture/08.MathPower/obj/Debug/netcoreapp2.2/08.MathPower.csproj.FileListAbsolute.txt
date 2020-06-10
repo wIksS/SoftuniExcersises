@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\bin\Debug\netcoreapp2.2\08.MathPower.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\bin\Debug\netcoreapp2.2\08.MathPower.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\bin\Debug\netcoreapp2.2\08.MathPower.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\bin\Debug\netcoreapp2.2\08.MathPower.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\bin\Debug\netcoreapp2.2\08.MathPower.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\08.MathPower\obj\Debug\netcoreapp2.2\08.MathPower.pdb

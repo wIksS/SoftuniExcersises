@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\bin\Debug\netcoreapp2.2\MethodOverloading.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\bin\Debug\netcoreapp2.2\MethodOverloading.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\bin\Debug\netcoreapp2.2\MethodOverloading.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\bin\Debug\netcoreapp2.2\MethodOverloading.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\bin\Debug\netcoreapp2.2\MethodOverloading.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\obj\Debug\netcoreapp2.2\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\obj\Debug\netcoreapp2.2\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\obj\Debug\netcoreapp2.2\MethodOverloading.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\obj\Debug\netcoreapp2.2\MethodOverloading.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodOverloading\obj\Debug\netcoreapp2.2\MethodOverloading.pdb

@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\bin\Debug\netcoreapp2.2\03.PrintTriangles.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\bin\Debug\netcoreapp2.2\03.PrintTriangles.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\bin\Debug\netcoreapp2.2\03.PrintTriangles.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\bin\Debug\netcoreapp2.2\03.PrintTriangles.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\bin\Debug\netcoreapp2.2\03.PrintTriangles.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\obj\Debug\netcoreapp2.2\03.PrintTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\obj\Debug\netcoreapp2.2\03.PrintTriangles.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\obj\Debug\netcoreapp2.2\03.PrintTriangles.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\obj\Debug\netcoreapp2.2\03.PrintTriangles.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\03.PrintTriangles\obj\Debug\netcoreapp2.2\03.PrintTriangles.pdb

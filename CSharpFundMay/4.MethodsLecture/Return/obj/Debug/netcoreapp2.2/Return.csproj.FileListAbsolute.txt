@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\bin\Debug\netcoreapp2.2\Return.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\bin\Debug\netcoreapp2.2\Return.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\bin\Debug\netcoreapp2.2\Return.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\bin\Debug\netcoreapp2.2\Return.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\bin\Debug\netcoreapp2.2\Return.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\obj\Debug\netcoreapp2.2\Return.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\obj\Debug\netcoreapp2.2\Return.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\obj\Debug\netcoreapp2.2\Return.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\obj\Debug\netcoreapp2.2\Return.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\Return\obj\Debug\netcoreapp2.2\Return.pdb

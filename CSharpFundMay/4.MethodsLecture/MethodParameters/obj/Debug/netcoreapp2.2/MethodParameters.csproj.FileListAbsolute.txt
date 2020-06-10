@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\bin\Debug\netcoreapp2.2\MethodParameters.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\bin\Debug\netcoreapp2.2\MethodParameters.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\bin\Debug\netcoreapp2.2\MethodParameters.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\bin\Debug\netcoreapp2.2\MethodParameters.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\bin\Debug\netcoreapp2.2\MethodParameters.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\MethodParameters\obj\Debug\netcoreapp2.2\MethodParameters.pdb

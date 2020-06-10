@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\bin\Debug\netcoreapp2.2\01.Sign.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\bin\Debug\netcoreapp2.2\01.Sign.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\bin\Debug\netcoreapp2.2\01.Sign.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\bin\Debug\netcoreapp2.2\01.Sign.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\bin\Debug\netcoreapp2.2\01.Sign.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\obj\Debug\netcoreapp2.2\01.Sign.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\obj\Debug\netcoreapp2.2\01.Sign.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\obj\Debug\netcoreapp2.2\01.Sign.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\obj\Debug\netcoreapp2.2\01.Sign.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\01.Sign\obj\Debug\netcoreapp2.2\01.Sign.pdb

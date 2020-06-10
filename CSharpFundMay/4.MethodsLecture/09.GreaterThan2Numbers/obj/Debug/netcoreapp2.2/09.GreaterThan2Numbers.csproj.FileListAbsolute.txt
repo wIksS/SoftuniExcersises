@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\bin\Debug\netcoreapp2.2\09.GreaterThan2Numbers.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\bin\Debug\netcoreapp2.2\09.GreaterThan2Numbers.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\bin\Debug\netcoreapp2.2\09.GreaterThan2Numbers.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\bin\Debug\netcoreapp2.2\09.GreaterThan2Numbers.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\bin\Debug\netcoreapp2.2\09.GreaterThan2Numbers.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\obj\Debug\netcoreapp2.2\09.GreaterThan2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\obj\Debug\netcoreapp2.2\09.GreaterThan2Numbers.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\obj\Debug\netcoreapp2.2\09.GreaterThan2Numbers.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\obj\Debug\netcoreapp2.2\09.GreaterThan2Numbers.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\09.GreaterThan2Numbers\obj\Debug\netcoreapp2.2\09.GreaterThan2Numbers.pdb

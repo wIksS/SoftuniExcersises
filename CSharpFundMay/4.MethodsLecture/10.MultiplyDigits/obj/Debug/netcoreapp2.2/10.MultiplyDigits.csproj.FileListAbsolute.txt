@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\bin\Debug\netcoreapp2.2\10.MultiplyDigits.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\bin\Debug\netcoreapp2.2\10.MultiplyDigits.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\bin\Debug\netcoreapp2.2\10.MultiplyDigits.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\bin\Debug\netcoreapp2.2\10.MultiplyDigits.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\bin\Debug\netcoreapp2.2\10.MultiplyDigits.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\10.MultiplyDigits\obj\Debug\netcoreapp2.2\10.MultiplyDigits.pdb

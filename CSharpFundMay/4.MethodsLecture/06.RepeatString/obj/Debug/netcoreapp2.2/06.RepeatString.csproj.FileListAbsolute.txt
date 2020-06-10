@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\bin\Debug\netcoreapp2.2\06.RepeatString.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\bin\Debug\netcoreapp2.2\06.RepeatString.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\bin\Debug\netcoreapp2.2\06.RepeatString.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\bin\Debug\netcoreapp2.2\06.RepeatString.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\bin\Debug\netcoreapp2.2\06.RepeatString.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\obj\Debug\netcoreapp2.2\06.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\obj\Debug\netcoreapp2.2\06.RepeatString.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\obj\Debug\netcoreapp2.2\06.RepeatString.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\obj\Debug\netcoreapp2.2\06.RepeatString.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\06.RepeatString\obj\Debug\netcoreapp2.2\06.RepeatString.pdb

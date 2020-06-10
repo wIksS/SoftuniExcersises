@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\bin\Debug\netcoreapp2.2\05.CalculateRectangleArea.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\bin\Debug\netcoreapp2.2\05.CalculateRectangleArea.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\bin\Debug\netcoreapp2.2\05.CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\bin\Debug\netcoreapp2.2\05.CalculateRectangleArea.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\bin\Debug\netcoreapp2.2\05.CalculateRectangleArea.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\obj\Debug\netcoreapp2.2\05.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\obj\Debug\netcoreapp2.2\05.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\obj\Debug\netcoreapp2.2\05.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\obj\Debug\netcoreapp2.2\05.CalculateRectangleArea.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\05.CalculateRectangleArea\obj\Debug\netcoreapp2.2\05.CalculateRectangleArea.pdb

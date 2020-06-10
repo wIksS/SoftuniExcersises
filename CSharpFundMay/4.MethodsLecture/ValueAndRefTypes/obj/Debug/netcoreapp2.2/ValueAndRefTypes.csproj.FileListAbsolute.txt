@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\bin\Debug\netcoreapp2.2\ValueAndRefTypes.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\bin\Debug\netcoreapp2.2\ValueAndRefTypes.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\bin\Debug\netcoreapp2.2\ValueAndRefTypes.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\bin\Debug\netcoreapp2.2\ValueAndRefTypes.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\bin\Debug\netcoreapp2.2\ValueAndRefTypes.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\obj\Debug\netcoreapp2.2\ValueAndRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\obj\Debug\netcoreapp2.2\ValueAndRefTypes.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\obj\Debug\netcoreapp2.2\ValueAndRefTypes.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\obj\Debug\netcoreapp2.2\ValueAndRefTypes.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\ValueAndRefTypes\obj\Debug\netcoreapp2.2\ValueAndRefTypes.pdb

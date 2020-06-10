@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\bin\Debug\netcoreapp2.2\OptionalParameters.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\bin\Debug\netcoreapp2.2\OptionalParameters.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\bin\Debug\netcoreapp2.2\OptionalParameters.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\bin\Debug\netcoreapp2.2\OptionalParameters.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\bin\Debug\netcoreapp2.2\OptionalParameters.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\OptionalParameters\obj\Debug\netcoreapp2.2\OptionalParameters.pdb

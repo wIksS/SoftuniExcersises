@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\bin\Debug\netcoreapp2.2\4.MethodsLecture.deps.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\bin\Debug\netcoreapp2.2\4.MethodsLecture.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\bin\Debug\netcoreapp2.2\4.MethodsLecture.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\bin\Debug\netcoreapp2.2\4.MethodsLecture.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\bin\Debug\netcoreapp2.2\4.MethodsLecture.pdb
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.dll
+C:\Users\Guest Lector\source\repos\4.MethodsLecture\4.MethodsLecture\obj\Debug\netcoreapp2.2\4.MethodsLecture.pdb
