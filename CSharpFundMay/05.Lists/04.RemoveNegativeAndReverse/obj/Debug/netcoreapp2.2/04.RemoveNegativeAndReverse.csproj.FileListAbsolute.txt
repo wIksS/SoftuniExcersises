@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\bin\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\bin\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\bin\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\bin\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.dll
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\bin\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\obj\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\obj\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\obj\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\obj\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.dll
+C:\Users\Guest Lector\source\repos\05.Lists\04.RemoveNegativeAndReverse\obj\Debug\netcoreapp2.2\04.RemoveNegativeAndReverse.pdb

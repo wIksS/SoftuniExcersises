@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\bin\Debug\netcoreapp2.2\05.Lists.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\bin\Debug\netcoreapp2.2\05.Lists.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\bin\Debug\netcoreapp2.2\05.Lists.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\bin\Debug\netcoreapp2.2\05.Lists.dll
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\bin\Debug\netcoreapp2.2\05.Lists.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.dll
+C:\Users\Guest Lector\source\repos\05.Lists\05.Lists\obj\Debug\netcoreapp2.2\05.Lists.pdb

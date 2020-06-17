@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.dll
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.dll
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.pdb

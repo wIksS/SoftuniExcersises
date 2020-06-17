@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\bin\Debug\netcoreapp2.2\Swap.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\bin\Debug\netcoreapp2.2\Swap.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\bin\Debug\netcoreapp2.2\Swap.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\bin\Debug\netcoreapp2.2\Swap.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\bin\Debug\netcoreapp2.2\Swap.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\obj\Debug\netcoreapp2.2\Swap.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\obj\Debug\netcoreapp2.2\Swap.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\obj\Debug\netcoreapp2.2\Swap.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\obj\Debug\netcoreapp2.2\Swap.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Swap\obj\Debug\netcoreapp2.2\Swap.pdb

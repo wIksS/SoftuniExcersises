@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\bin\Debug\netcoreapp2.2\RemoveAt.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\bin\Debug\netcoreapp2.2\RemoveAt.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\bin\Debug\netcoreapp2.2\RemoveAt.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\bin\Debug\netcoreapp2.2\RemoveAt.dll
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\bin\Debug\netcoreapp2.2\RemoveAt.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.dll
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\RemoveAt\obj\Debug\netcoreapp2.2\RemoveAt.csprojAssemblyReference.cache

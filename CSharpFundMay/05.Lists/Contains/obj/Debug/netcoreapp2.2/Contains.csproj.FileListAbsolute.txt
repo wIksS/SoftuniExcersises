@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\bin\Debug\netcoreapp2.2\Contains.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\bin\Debug\netcoreapp2.2\Contains.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\bin\Debug\netcoreapp2.2\Contains.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\bin\Debug\netcoreapp2.2\Contains.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\bin\Debug\netcoreapp2.2\Contains.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\obj\Debug\netcoreapp2.2\Contains.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\obj\Debug\netcoreapp2.2\Contains.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\obj\Debug\netcoreapp2.2\Contains.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\obj\Debug\netcoreapp2.2\Contains.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Contains\obj\Debug\netcoreapp2.2\Contains.pdb

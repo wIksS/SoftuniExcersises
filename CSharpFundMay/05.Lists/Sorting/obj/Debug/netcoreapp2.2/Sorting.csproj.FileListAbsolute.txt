@@ -1,0 +1,14 @@
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\Sorting.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\Sorting.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\Sorting.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\Sorting.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\ViktorLibrary.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\bin\Debug\netcoreapp2.2\ViktorLibrary.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.csproj.CopyComplete
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Sorting\obj\Debug\netcoreapp2.2\Sorting.pdb

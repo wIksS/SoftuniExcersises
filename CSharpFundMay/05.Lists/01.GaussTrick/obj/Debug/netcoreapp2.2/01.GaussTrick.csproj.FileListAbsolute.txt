@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\bin\Debug\netcoreapp2.2\01.GaussTrick.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\bin\Debug\netcoreapp2.2\01.GaussTrick.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\bin\Debug\netcoreapp2.2\01.GaussTrick.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\bin\Debug\netcoreapp2.2\01.GaussTrick.dll
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\bin\Debug\netcoreapp2.2\01.GaussTrick.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\obj\Debug\netcoreapp2.2\01.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\obj\Debug\netcoreapp2.2\01.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\obj\Debug\netcoreapp2.2\01.GaussTrick.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\obj\Debug\netcoreapp2.2\01.GaussTrick.dll
+C:\Users\Guest Lector\source\repos\05.Lists\01.GaussTrick\obj\Debug\netcoreapp2.2\01.GaussTrick.pdb

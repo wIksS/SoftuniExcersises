@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\bin\Debug\netcoreapp2.2\FindIndexes.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\bin\Debug\netcoreapp2.2\FindIndexes.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\bin\Debug\netcoreapp2.2\FindIndexes.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\bin\Debug\netcoreapp2.2\FindIndexes.dll
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\bin\Debug\netcoreapp2.2\FindIndexes.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\obj\Debug\netcoreapp2.2\FindIndexes.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\obj\Debug\netcoreapp2.2\FindIndexes.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\obj\Debug\netcoreapp2.2\FindIndexes.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\obj\Debug\netcoreapp2.2\FindIndexes.dll
+C:\Users\Guest Lector\source\repos\05.Lists\FindIndexes\obj\Debug\netcoreapp2.2\FindIndexes.pdb

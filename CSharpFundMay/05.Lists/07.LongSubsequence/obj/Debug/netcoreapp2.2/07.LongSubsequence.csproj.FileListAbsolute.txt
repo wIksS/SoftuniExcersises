@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\bin\Debug\netcoreapp2.2\07.LongSubsequence.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\bin\Debug\netcoreapp2.2\07.LongSubsequence.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\bin\Debug\netcoreapp2.2\07.LongSubsequence.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\bin\Debug\netcoreapp2.2\07.LongSubsequence.dll
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\bin\Debug\netcoreapp2.2\07.LongSubsequence.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\obj\Debug\netcoreapp2.2\07.LongSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\obj\Debug\netcoreapp2.2\07.LongSubsequence.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\obj\Debug\netcoreapp2.2\07.LongSubsequence.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\obj\Debug\netcoreapp2.2\07.LongSubsequence.dll
+C:\Users\Guest Lector\source\repos\05.Lists\07.LongSubsequence\obj\Debug\netcoreapp2.2\07.LongSubsequence.pdb

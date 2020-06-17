@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\bin\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\bin\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\bin\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\bin\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.dll
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\bin\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\obj\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\obj\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\obj\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\obj\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.dll
+C:\Users\Guest Lector\source\repos\05.Lists\06.LongesIncreasingSubsequence\obj\Debug\netcoreapp2.2\06.LongesIncreasingSubsequence.pdb

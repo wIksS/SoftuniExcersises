@@ -1,0 +1,14 @@
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\02.MergeLists.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\02.MergeLists.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\02.MergeLists.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\02.MergeLists.dll
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\02.MergeLists.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.dll
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\ViktorLibrary.dll
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\bin\Debug\netcoreapp2.2\ViktorLibrary.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\05.Lists\02.MergeLists\obj\Debug\netcoreapp2.2\02.MergeLists.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "02.MergeLists/1.0.0": {
+        "dependencies": {
+          "ViktorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "02.MergeLists.dll": {}
+        }
+      },
+      "ViktorLibrary/1.0.0": {
+        "runtime": {
+          "ViktorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.MergeLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViktorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

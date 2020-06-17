@@ -1,0 +1,10 @@
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\bin\Debug\netcoreapp2.2\03.ListOfProducts.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\bin\Debug\netcoreapp2.2\03.ListOfProducts.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\bin\Debug\netcoreapp2.2\03.ListOfProducts.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\bin\Debug\netcoreapp2.2\03.ListOfProducts.dll
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\bin\Debug\netcoreapp2.2\03.ListOfProducts.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\obj\Debug\netcoreapp2.2\03.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\obj\Debug\netcoreapp2.2\03.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\obj\Debug\netcoreapp2.2\03.ListOfProducts.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\obj\Debug\netcoreapp2.2\03.ListOfProducts.dll
+C:\Users\Guest Lector\source\repos\05.Lists\04.ListOfProducts\obj\Debug\netcoreapp2.2\03.ListOfProducts.pdb

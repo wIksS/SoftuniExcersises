@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\source\repos\05.Lists\Library\bin\Debug\netcoreapp2.2\ViktorLibrary.deps.json
+C:\Users\Guest Lector\source\repos\05.Lists\Library\bin\Debug\netcoreapp2.2\ViktorLibrary.runtimeconfig.json
+C:\Users\Guest Lector\source\repos\05.Lists\Library\bin\Debug\netcoreapp2.2\ViktorLibrary.runtimeconfig.dev.json
+C:\Users\Guest Lector\source\repos\05.Lists\Library\bin\Debug\netcoreapp2.2\ViktorLibrary.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Library\bin\Debug\netcoreapp2.2\ViktorLibrary.pdb
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.csprojAssemblyReference.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.AssemblyInfo.cs
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.dll
+C:\Users\Guest Lector\source\repos\05.Lists\Library\obj\Debug\netcoreapp2.2\ViktorLibrary.pdb
