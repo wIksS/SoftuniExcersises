@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.exe
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\bin\Debug\netcoreapp3.1\StaticSecondExampel.pdb
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\obj\Debug\netcoreapp3.1\StaticSecondExampel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\obj\Debug\netcoreapp3.1\StaticSecondExampel.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\obj\Debug\netcoreapp3.1\StaticSecondExampel.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticSecondExampel\obj\Debug\netcoreapp3.1\StaticSecondExampel.pdb

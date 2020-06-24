@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.exe
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.dll
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\bin\Debug\netcoreapp3.1\01.DateOfWeek.pdb
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\obj\Debug\netcoreapp3.1\01.DateOfWeek.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\obj\Debug\netcoreapp3.1\01.DateOfWeek.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\obj\Debug\netcoreapp3.1\01.DateOfWeek.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\obj\Debug\netcoreapp3.1\01.DateOfWeek.dll
+C:\Users\User\source\repos\ClassesAndObjects\01.DateOfWeek\obj\Debug\netcoreapp3.1\01.DateOfWeek.pdb

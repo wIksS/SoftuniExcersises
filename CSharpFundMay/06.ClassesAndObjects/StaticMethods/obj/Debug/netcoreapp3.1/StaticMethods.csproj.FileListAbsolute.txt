@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.exe
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.pdb
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.exe
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.dll
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\StudentWithoutClass.pdb
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\StudentWithoutClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\StudentWithoutClass.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\StudentWithoutClass.dll
+C:\Users\User\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\StudentWithoutClass.pdb

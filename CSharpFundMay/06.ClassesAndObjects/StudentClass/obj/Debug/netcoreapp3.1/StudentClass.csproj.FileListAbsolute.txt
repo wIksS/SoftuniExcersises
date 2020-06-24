@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.exe
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.pdb
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\User\source\repos\ClassesAndObjects\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.pdb

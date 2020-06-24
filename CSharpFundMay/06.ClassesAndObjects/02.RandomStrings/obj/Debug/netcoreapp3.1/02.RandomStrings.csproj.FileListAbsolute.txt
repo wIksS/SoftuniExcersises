@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.exe
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.dll
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\bin\Debug\netcoreapp3.1\02.RandomStrings.pdb
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\obj\Debug\netcoreapp3.1\02.RandomStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\obj\Debug\netcoreapp3.1\02.RandomStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\obj\Debug\netcoreapp3.1\02.RandomStrings.dll
+C:\Users\User\source\repos\ClassesAndObjects\02.RandomStrings\obj\Debug\netcoreapp3.1\02.RandomStrings.pdb

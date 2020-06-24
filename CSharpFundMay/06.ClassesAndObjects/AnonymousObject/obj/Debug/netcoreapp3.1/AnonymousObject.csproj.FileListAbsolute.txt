@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.exe
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.dll
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.pdb
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.dll
+C:\Users\User\source\repos\ClassesAndObjects\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.pdb

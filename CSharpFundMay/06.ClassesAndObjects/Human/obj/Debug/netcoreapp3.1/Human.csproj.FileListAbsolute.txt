@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.exe
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.dll
+C:\Users\User\source\repos\ClassesAndObjects\Human\bin\Debug\netcoreapp3.1\Human.pdb
+C:\Users\User\source\repos\ClassesAndObjects\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\Human\obj\Debug\netcoreapp3.1\Human.dll
+C:\Users\User\source\repos\ClassesAndObjects\Human\obj\Debug\netcoreapp3.1\Human.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.exe
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.deps.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.runtimeconfig.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\bin\Debug\netcoreapp3.1\StaticBuiltIn.pdb
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\obj\Debug\netcoreapp3.1\StaticBuiltIn.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\obj\Debug\netcoreapp3.1\StaticBuiltIn.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\obj\Debug\netcoreapp3.1\StaticBuiltIn.dll
+C:\Users\User\source\repos\ClassesAndObjects\StaticBuiltIn\obj\Debug\netcoreapp3.1\StaticBuiltIn.pdb
