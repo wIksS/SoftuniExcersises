@@ -1,0 +1,13 @@
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache

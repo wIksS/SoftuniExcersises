@@ -1,0 +1,13 @@
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.exe
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.deps.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.runtimeconfig.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.runtimeconfig.dev.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\bin\Debug\netcoreapp3.1\GenericsMoreDemos.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.AssemblyInfoInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.AssemblyInfo.cs
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.csproj.CoreCompileInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.genruntimeconfig.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericsMoreDemos\obj\Debug\netcoreapp3.1\GenericsMoreDemos.csprojAssemblyReference.cache

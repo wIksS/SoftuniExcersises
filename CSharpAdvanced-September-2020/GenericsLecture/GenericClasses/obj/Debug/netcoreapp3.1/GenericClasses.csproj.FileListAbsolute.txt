@@ -1,0 +1,13 @@
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.exe
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.deps.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.dev.json
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfoInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfo.cs
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.genruntimeconfig.cache
+C:\Users\ViktorDakov\source\repos\GenericsLecture\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csprojAssemblyReference.cache

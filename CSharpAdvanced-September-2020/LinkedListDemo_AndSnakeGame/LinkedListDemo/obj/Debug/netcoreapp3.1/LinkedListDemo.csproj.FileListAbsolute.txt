@@ -1,0 +1,13 @@
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.exe
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.deps.json
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.json
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.dll
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.pdb
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfo.cs
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.dll
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.pdb
+C:\Users\ViktorDakov\source\repos\LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.genruntimeconfig.cache

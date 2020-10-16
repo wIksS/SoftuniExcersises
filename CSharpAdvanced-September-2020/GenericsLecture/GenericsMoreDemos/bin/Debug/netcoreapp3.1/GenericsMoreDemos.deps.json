@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GenericsMoreDemos/1.0.0": {
+        "runtime": {
+          "GenericsMoreDemos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericsMoreDemos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
