@@ -1,0 +1,11 @@
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.exe
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.deps.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.runtimeconfig.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.runtimeconfig.dev.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\bin\Debug\netcoreapp3.1\Revolt.pdb
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\obj\Debug\netcoreapp3.1\Revolt.csprojAssemblyReference.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\obj\Debug\netcoreapp3.1\Revolt.AssemblyInfoInputs.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\obj\Debug\netcoreapp3.1\Revolt.AssemblyInfo.cs
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\obj\Debug\netcoreapp3.1\Revolt.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Revolt\obj\Debug\netcoreapp3.1\Revolt.pdb

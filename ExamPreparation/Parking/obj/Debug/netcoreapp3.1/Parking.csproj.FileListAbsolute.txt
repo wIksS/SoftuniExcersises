@@ -1,0 +1,11 @@
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache

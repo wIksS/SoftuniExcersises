@@ -1,0 +1,11 @@
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.exe
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.deps.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.dev.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.pdb
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.csprojAssemblyReference.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfoInputs.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfo.cs
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Viktor\Downloads\03. Parking_Skeleton\Parking\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
