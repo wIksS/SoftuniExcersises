@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\Viktor\source\repos\Algorithms\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb

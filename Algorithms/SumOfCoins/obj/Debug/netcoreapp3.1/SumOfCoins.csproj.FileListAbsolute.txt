@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\Viktor\source\repos\Algorithms\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb

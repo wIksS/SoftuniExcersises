@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.exe
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.deps.json
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\Viktor\source\repos\Algorithms\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.pdb

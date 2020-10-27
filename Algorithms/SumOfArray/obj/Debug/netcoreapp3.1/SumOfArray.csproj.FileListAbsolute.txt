@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.exe
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.deps.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.dll
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\bin\Debug\netcoreapp3.1\SumOfArray.pdb
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.dll
+C:\Users\Viktor\source\repos\Algorithms\SumOfArray\obj\Debug\netcoreapp3.1\SumOfArray.pdb

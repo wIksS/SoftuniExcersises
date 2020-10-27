@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuickAndMergeSortComparison/1.0.0": {
+        "dependencies": {
+          "MergeSort": "1.0.0",
+          "QuickSort": "1.0.0"
+        },
+        "runtime": {
+          "QuickAndMergeSortComparison.dll": {}
+        }
+      },
+      "MergeSort/1.0.0": {
+        "runtime": {
+          "MergeSort.dll": {}
+        }
+      },
+      "QuickSort/1.0.0": {
+        "runtime": {
+          "QuickSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickAndMergeSortComparison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MergeSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

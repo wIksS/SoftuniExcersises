@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Viktor\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb

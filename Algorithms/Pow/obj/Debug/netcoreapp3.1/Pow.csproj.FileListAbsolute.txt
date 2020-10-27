@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.exe
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.deps.json
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.dll
+C:\Users\Viktor\source\repos\Algorithms\Pow\bin\Debug\netcoreapp3.1\Pow.pdb
+C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.dll
+C:\Users\Viktor\source\repos\Algorithms\Pow\obj\Debug\netcoreapp3.1\Pow.pdb

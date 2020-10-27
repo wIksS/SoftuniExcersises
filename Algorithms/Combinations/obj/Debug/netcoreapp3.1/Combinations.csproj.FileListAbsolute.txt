@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Algorithms\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Algorithms\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Viktor\source\repos\Algorithms\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\Viktor\source\repos\Algorithms\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\Viktor\source\repos\Algorithms\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
