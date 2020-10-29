@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb

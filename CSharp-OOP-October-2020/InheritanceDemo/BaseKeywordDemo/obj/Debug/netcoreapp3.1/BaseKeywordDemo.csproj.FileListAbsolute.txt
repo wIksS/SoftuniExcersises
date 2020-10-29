@@ -1,0 +1,11 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\bin\Debug\netcoreapp3.1\BaseKeywordDemo.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\obj\Debug\netcoreapp3.1\BaseKeywordDemo.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\obj\Debug\netcoreapp3.1\BaseKeywordDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\obj\Debug\netcoreapp3.1\BaseKeywordDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\obj\Debug\netcoreapp3.1\BaseKeywordDemo.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\BaseKeywordDemo\obj\Debug\netcoreapp3.1\BaseKeywordDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.pdb

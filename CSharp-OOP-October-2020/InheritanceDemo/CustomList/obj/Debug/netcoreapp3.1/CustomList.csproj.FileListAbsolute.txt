@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\bin\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\obj\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomList\obj\Debug\netcoreapp3.1\CustomList.pdb

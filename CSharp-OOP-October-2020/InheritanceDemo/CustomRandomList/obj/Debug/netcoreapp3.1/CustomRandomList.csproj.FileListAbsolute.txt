@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb

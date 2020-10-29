@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Person\obj\Debug\netcoreapp3.1\Person.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\obj\Debug\netcoreapp3.1\Farm.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\Farm\obj\Debug\netcoreapp3.1\Farm.pdb

@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.exe
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.deps.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.runtimeconfig.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\bin\Debug\netcoreapp3.1\ShadowingMembers.pdb
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\obj\Debug\netcoreapp3.1\ShadowingMembers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\obj\Debug\netcoreapp3.1\ShadowingMembers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\obj\Debug\netcoreapp3.1\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\SoftuniExcersises\InheritanceDemo\ShadowingMembers\obj\Debug\netcoreapp3.1\ShadowingMembers.pdb
