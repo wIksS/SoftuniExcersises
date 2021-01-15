@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj": {}
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj": {
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj",
         "projectName": "PrintingMatrix",
-        "projectPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\PrintingMatrix\\PrintingMatrix.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\PrintingMatrix\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\PrintingMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

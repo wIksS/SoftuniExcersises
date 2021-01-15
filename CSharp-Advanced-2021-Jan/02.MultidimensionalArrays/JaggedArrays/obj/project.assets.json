@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\JaggedArrays\\JaggedArrays.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\JaggedArrays\\JaggedArrays.csproj",
       "projectName": "JaggedArrays",
-      "projectPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\JaggedArrays\\JaggedArrays.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\JaggedArrays\\JaggedArrays.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\JaggedArrays\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\JaggedArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

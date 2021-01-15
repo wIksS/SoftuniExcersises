@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumColumns", "02.SumColu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SquareSum", "03.SquareSum\03.SquareSum.csproj", "{A662AF7C-7543-4FBE-A503-B161E4975C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrays", "JaggedArrays\JaggedArrays.csproj", "{0FD47B3E-1F4E-421A-85AC-55A233263104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrays", "JaggedArrays\JaggedArrays.csproj", "{0FD47B3E-1F4E-421A-85AC-55A233263104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayModification", "04.ArrayModification\04.ArrayModification.csproj", "{793427A3-64DE-42F2-AAC4-F0CA2F5BFA86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ArrayModification", "04.ArrayModification\04.ArrayModification.csproj", "{793427A3-64DE-42F2-AAC4-F0CA2F5BFA86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PascalTriangle", "05.PascalTriangle\05.PascalTriangle.csproj", "{761FEB73-57E5-4677-B690-9A0AD7F94B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PascalTriangle", "05.PascalTriangle\05.PascalTriangle.csproj", "{761FEB73-57E5-4677-B690-9A0AD7F94B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{19D64A42-7EDF-4562-8A03-B490F30AE764}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{761FEB73-57E5-4677-B690-9A0AD7F94B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{761FEB73-57E5-4677-B690-9A0AD7F94B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{761FEB73-57E5-4677-B690-9A0AD7F94B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D64A42-7EDF-4562-8A03-B490F30AE764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D64A42-7EDF-4562-8A03-B490F30AE764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D64A42-7EDF-4562-8A03-B490F30AE764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D64A42-7EDF-4562-8A03-B490F30AE764}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

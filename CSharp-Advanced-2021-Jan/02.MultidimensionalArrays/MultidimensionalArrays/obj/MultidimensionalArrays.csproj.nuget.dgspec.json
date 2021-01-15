@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj": {}
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj": {
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj",
         "projectName": "MultidimensionalArrays",
-        "projectPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\MultidimensionalArrays\\MultidimensionalArrays.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\MultidimensionalArrays\\MultidimensionalArrays\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\02.MultidimensionalArrays\\MultidimensionalArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

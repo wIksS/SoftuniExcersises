@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.exe
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-Advanced-2021-Jan\02.MultidimensionalArrays\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.genruntimeconfig.cache
