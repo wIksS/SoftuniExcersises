@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.exe
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.dll
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\bin\Debug\netcoreapp3.1\05.UniqueNames.pdb
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\obj\Debug\netcoreapp3.1\05.UniqueNames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\obj\Debug\netcoreapp3.1\05.UniqueNames.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\obj\Debug\netcoreapp3.1\05.UniqueNames.dll
+C:\Users\User\source\repos\DictionariesAndSets\05.UniqueNames\obj\Debug\netcoreapp3.1\05.UniqueNames.pdb

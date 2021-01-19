@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.exe
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.dll
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\bin\Debug\netcoreapp3.1\HashSets.pdb
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\obj\Debug\netcoreapp3.1\HashSets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\obj\Debug\netcoreapp3.1\HashSets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\obj\Debug\netcoreapp3.1\HashSets.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\obj\Debug\netcoreapp3.1\HashSets.dll
+C:\Users\User\source\repos\DictionariesAndSets\HashSets\obj\Debug\netcoreapp3.1\HashSets.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.exe
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.dll
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\bin\Debug\netcoreapp3.1\CustomHashsetImplementation.pdb
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\obj\Debug\netcoreapp3.1\CustomHashsetImplementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\obj\Debug\netcoreapp3.1\CustomHashsetImplementation.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\obj\Debug\netcoreapp3.1\CustomHashsetImplementation.dll
+C:\Users\User\source\repos\DictionariesAndSets\CustomHashsetImplementation\obj\Debug\netcoreapp3.1\CustomHashsetImplementation.pdb

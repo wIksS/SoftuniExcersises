@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.exe
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.dll
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\bin\Debug\netcoreapp3.1\04.Continents.pdb
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\obj\Debug\netcoreapp3.1\04.Continents.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\obj\Debug\netcoreapp3.1\04.Continents.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\obj\Debug\netcoreapp3.1\04.Continents.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\obj\Debug\netcoreapp3.1\04.Continents.dll
+C:\Users\User\source\repos\DictionariesAndSets\04.Continents\obj\Debug\netcoreapp3.1\04.Continents.pdb

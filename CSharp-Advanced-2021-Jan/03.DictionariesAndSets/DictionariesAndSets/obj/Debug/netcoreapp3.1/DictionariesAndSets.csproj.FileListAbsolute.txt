@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.exe
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.dll
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\bin\Debug\netcoreapp3.1\DictionariesAndSets.pdb
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\obj\Debug\netcoreapp3.1\DictionariesAndSets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\obj\Debug\netcoreapp3.1\DictionariesAndSets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\obj\Debug\netcoreapp3.1\DictionariesAndSets.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\obj\Debug\netcoreapp3.1\DictionariesAndSets.dll
+C:\Users\User\source\repos\DictionariesAndSets\DictionariesAndSets\obj\Debug\netcoreapp3.1\DictionariesAndSets.pdb

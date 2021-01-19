@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.exe
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.deps.json
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.runtimeconfig.json
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.dll
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\bin\Debug\netcoreapp3.1\01.SameValuesInArray.pdb
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\obj\Debug\netcoreapp3.1\01.SameValuesInArray.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\obj\Debug\netcoreapp3.1\01.SameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\obj\Debug\netcoreapp3.1\01.SameValuesInArray.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\obj\Debug\netcoreapp3.1\01.SameValuesInArray.dll
+C:\Users\User\source\repos\DictionariesAndSets\01.SameValuesInArray\obj\Debug\netcoreapp3.1\01.SameValuesInArray.pdb
