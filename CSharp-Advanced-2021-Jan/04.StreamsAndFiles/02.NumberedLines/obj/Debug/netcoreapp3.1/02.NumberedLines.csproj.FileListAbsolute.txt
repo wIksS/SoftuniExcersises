@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.exe
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.dll
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\bin\Debug\netcoreapp3.1\02.NumberedLines.pdb
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\obj\Debug\netcoreapp3.1\02.NumberedLines.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\obj\Debug\netcoreapp3.1\02.NumberedLines.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\obj\Debug\netcoreapp3.1\02.NumberedLines.dll
+C:\Users\User\source\repos\StreamsAndFiles\02.NumberedLines\obj\Debug\netcoreapp3.1\02.NumberedLines.pdb

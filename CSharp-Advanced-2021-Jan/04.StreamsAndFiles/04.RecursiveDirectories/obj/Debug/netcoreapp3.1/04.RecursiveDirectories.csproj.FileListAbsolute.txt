@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.exe
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.dll
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\bin\Debug\netcoreapp3.1\04.RecursiveDirectories.pdb
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\obj\Debug\netcoreapp3.1\04.RecursiveDirectories.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\obj\Debug\netcoreapp3.1\04.RecursiveDirectories.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\obj\Debug\netcoreapp3.1\04.RecursiveDirectories.dll
+C:\Users\User\source\repos\StreamsAndFiles\04.RecursiveDirectories\obj\Debug\netcoreapp3.1\04.RecursiveDirectories.pdb

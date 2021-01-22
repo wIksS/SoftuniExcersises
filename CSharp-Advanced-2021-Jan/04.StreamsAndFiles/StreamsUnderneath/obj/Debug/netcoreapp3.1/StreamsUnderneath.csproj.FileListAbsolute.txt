@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.exe
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.dll
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\bin\Debug\netcoreapp3.1\StreamsUnderneath.pdb
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\obj\Debug\netcoreapp3.1\StreamsUnderneath.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\obj\Debug\netcoreapp3.1\StreamsUnderneath.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\obj\Debug\netcoreapp3.1\StreamsUnderneath.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\obj\Debug\netcoreapp3.1\StreamsUnderneath.dll
+C:\Users\User\source\repos\StreamsAndFiles\StreamsUnderneath\obj\Debug\netcoreapp3.1\StreamsUnderneath.pdb

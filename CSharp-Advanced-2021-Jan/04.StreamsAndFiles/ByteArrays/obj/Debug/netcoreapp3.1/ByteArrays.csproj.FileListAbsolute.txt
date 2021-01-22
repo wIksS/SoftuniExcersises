@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.exe
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.dll
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.pdb
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.dll
+C:\Users\User\source\repos\StreamsAndFiles\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.pdb

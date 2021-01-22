@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.exe
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.dll
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\bin\Debug\netcoreapp3.1\01.Oddlines.pdb
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\obj\Debug\netcoreapp3.1\01.Oddlines.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\obj\Debug\netcoreapp3.1\01.Oddlines.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\obj\Debug\netcoreapp3.1\01.Oddlines.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\obj\Debug\netcoreapp3.1\01.Oddlines.dll
+C:\Users\User\source\repos\StreamsAndFiles\01.Oddlines\obj\Debug\netcoreapp3.1\01.Oddlines.pdb

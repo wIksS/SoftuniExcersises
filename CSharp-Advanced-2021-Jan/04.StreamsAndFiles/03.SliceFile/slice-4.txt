@@ -1,0 +1,13 @@
+mReader.Length - (int)streamReader.Position;
+                            byte[] lastBuffer = new byte[remainingBytes];
+                            streamReader.Read(lastBuffer, 0, remainingBytes);
+                            streamWriter.Write(lastBuffer, 0, lastBuffer.Length);
+                        }
+                    }
+                }
+
+
+            }
+        }
+    }
+}

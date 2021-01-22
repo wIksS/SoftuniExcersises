@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.exe
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.deps.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.runtimeconfig.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.runtimeconfig.dev.json
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.dll
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.pdb
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.AssemblyInfo.cs
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.dll
+C:\Users\User\source\repos\StreamsAndFiles\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.pdb
