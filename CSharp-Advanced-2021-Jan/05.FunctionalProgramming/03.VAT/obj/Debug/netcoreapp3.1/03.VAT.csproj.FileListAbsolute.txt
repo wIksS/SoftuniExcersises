@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.exe
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.dll
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\bin\Debug\netcoreapp3.1\03.VAT.pdb
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.dll
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.pdb
+C:\Users\user\source\repos\FunctionalProgramming\03.VAT\obj\Debug\netcoreapp3.1\03.VAT.genruntimeconfig.cache

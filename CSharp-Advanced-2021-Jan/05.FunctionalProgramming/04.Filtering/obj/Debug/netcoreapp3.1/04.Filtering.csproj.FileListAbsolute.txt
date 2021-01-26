@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.exe
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.dll
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\bin\Debug\netcoreapp3.1\04.Filtering.pdb
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.dll
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.pdb
+C:\Users\user\source\repos\FunctionalProgramming\04.Filtering\obj\Debug\netcoreapp3.1\04.Filtering.genruntimeconfig.cache

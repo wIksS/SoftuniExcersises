@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.exe
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.dll
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\bin\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.pdb
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.dll
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.pdb
+C:\Users\user\source\repos\FunctionalProgramming\FunctionalProgrammingVsOOP\obj\Debug\netcoreapp3.1\FunctionalProgrammingVsOOP.genruntimeconfig.cache

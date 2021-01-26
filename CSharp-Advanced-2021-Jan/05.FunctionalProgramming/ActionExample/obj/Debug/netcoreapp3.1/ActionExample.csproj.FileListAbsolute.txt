@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.exe
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.dll
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.pdb
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.dll
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.pdb
+C:\Users\user\source\repos\FunctionalProgramming\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.genruntimeconfig.cache

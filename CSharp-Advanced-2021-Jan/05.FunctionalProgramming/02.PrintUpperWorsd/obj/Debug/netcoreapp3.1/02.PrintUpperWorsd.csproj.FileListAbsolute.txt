@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.exe
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.dll
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\bin\Debug\netcoreapp3.1\02.PrintUpperWorsd.pdb
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.dll
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.pdb
+C:\Users\user\source\repos\FunctionalProgramming\02.PrintUpperWorsd\obj\Debug\netcoreapp3.1\02.PrintUpperWorsd.genruntimeconfig.cache

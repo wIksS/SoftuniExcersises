@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.exe
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.dll
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.pdb
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.dll
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.pdb
+C:\Users\user\source\repos\FunctionalProgramming\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.genruntimeconfig.cache

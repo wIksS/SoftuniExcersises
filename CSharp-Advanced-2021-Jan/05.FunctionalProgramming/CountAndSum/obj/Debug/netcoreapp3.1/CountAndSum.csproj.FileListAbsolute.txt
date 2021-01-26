@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.exe
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.dll
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\bin\Debug\netcoreapp3.1\CountAndSum.pdb
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.dll
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.pdb
+C:\Users\user\source\repos\FunctionalProgramming\CountAndSum\obj\Debug\netcoreapp3.1\CountAndSum.genruntimeconfig.cache
