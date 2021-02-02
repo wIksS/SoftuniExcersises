@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.exe
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.deps.json
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.dll
+C:\Users\user\source\repos\DefiningClasses\People\bin\Debug\netcoreapp3.1\People.pdb
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.dll
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.pdb
+C:\Users\user\source\repos\DefiningClasses\People\obj\Debug\netcoreapp3.1\People.genruntimeconfig.cache

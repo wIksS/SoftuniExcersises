@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.exe
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.deps.json
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.dll
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.pdb
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.dll
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.pdb
+C:\Users\user\source\repos\DefiningClasses\ValueTypesAndRefferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndRefferenceTypes.genruntimeconfig.cache

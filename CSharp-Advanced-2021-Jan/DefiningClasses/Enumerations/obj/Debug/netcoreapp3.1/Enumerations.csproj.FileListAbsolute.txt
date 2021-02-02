@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.exe
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.deps.json
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.dev.json
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\user\source\repos\DefiningClasses\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\user\source\repos\DefiningClasses\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.genruntimeconfig.cache
