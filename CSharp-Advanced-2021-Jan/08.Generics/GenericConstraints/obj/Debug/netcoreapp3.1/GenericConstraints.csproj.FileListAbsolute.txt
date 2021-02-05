@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.exe
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.deps.json
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.runtimeconfig.json
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.dll
+C:\Users\user\source\repos\Generics\GenericConstraints\bin\Debug\netcoreapp3.1\GenericConstraints.pdb
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.dll
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.pdb
+C:\Users\user\source\repos\Generics\GenericConstraints\obj\Debug\netcoreapp3.1\GenericConstraints.genruntimeconfig.cache

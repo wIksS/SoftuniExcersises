@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\user\source\repos\Generics\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\user\source\repos\Generics\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.exe
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.deps.json
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.runtimeconfig.json
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.dll
+C:\Users\user\source\repos\Generics\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.pdb
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.dll
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.pdb
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.genruntimeconfig.cache
+C:\Users\user\source\repos\Generics\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.csprojAssemblyReference.cache

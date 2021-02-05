@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\user\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\user\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.exe
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.deps.json
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.runtimeconfig.json
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.dll
+C:\Users\user\source\repos\Generics\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.pdb
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.AssemblyInfo.cs
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.dll
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.pdb
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.genruntimeconfig.cache
+C:\Users\user\source\repos\Generics\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.csprojAssemblyReference.cache
