@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.exe
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.deps.json
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.dll
+C:\Users\user\source\repos\ExamPreparation\Bees\bin\Debug\netcoreapp3.1\Bees.pdb
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.dll
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.pdb
+C:\Users\user\source\repos\ExamPreparation\Bees\obj\Debug\netcoreapp3.1\Bees.genruntimeconfig.cache
