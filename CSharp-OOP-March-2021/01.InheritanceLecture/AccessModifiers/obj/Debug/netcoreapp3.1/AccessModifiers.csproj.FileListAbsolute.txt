@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\user\source\repos\InheritanceLecture\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.exe
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.deps.json
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.runtimeconfig.dev.json
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.dll
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\bin\Debug\netcoreapp3.1\InheritanceLecture.pdb
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.dll
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.pdb
+C:\Users\user\source\repos\InheritanceLecture\InheritanceLecture\obj\Debug\netcoreapp3.1\InheritanceLecture.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceLecture", "InheritanceLecture\InheritanceLecture.csproj", "{9A7FCB97-1F0B-4A1D-A7A9-55EA1497BD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorInheritance", "ConstructorInheritance\ConstructorInheritance.csproj", "{B6F47B51-94CB-4AC3-B014-E2F271845F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingMethods", "HidingMethods\HidingMethods.csproj", "{0B1DF7A2-8FC4-4171-9514-D8F2CBB00AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "Farm\Farm.csproj", "{F6FE8A36-D8AE-4EC0-8362-8EC7A5B1CC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{C6784E42-7E19-4B0F-9599-3E58DBEE814E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{D8C954AB-FA6B-48A3-83D4-163A0DFEFB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{353B26C5-C676-481D-B89E-1C9A950864C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7FCB97-1F0B-4A1D-A7A9-55EA1497BD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7FCB97-1F0B-4A1D-A7A9-55EA1497BD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7FCB97-1F0B-4A1D-A7A9-55EA1497BD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7FCB97-1F0B-4A1D-A7A9-55EA1497BD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F47B51-94CB-4AC3-B014-E2F271845F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F47B51-94CB-4AC3-B014-E2F271845F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F47B51-94CB-4AC3-B014-E2F271845F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F47B51-94CB-4AC3-B014-E2F271845F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1DF7A2-8FC4-4171-9514-D8F2CBB00AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1DF7A2-8FC4-4171-9514-D8F2CBB00AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1DF7A2-8FC4-4171-9514-D8F2CBB00AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1DF7A2-8FC4-4171-9514-D8F2CBB00AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FE8A36-D8AE-4EC0-8362-8EC7A5B1CC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FE8A36-D8AE-4EC0-8362-8EC7A5B1CC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FE8A36-D8AE-4EC0-8362-8EC7A5B1CC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FE8A36-D8AE-4EC0-8362-8EC7A5B1CC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6784E42-7E19-4B0F-9599-3E58DBEE814E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6784E42-7E19-4B0F-9599-3E58DBEE814E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6784E42-7E19-4B0F-9599-3E58DBEE814E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6784E42-7E19-4B0F-9599-3E58DBEE814E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C954AB-FA6B-48A3-83D4-163A0DFEFB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C954AB-FA6B-48A3-83D4-163A0DFEFB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C954AB-FA6B-48A3-83D4-163A0DFEFB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C954AB-FA6B-48A3-83D4-163A0DFEFB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353B26C5-C676-481D-B89E-1C9A950864C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353B26C5-C676-481D-B89E-1C9A950864C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353B26C5-C676-481D-B89E-1C9A950864C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353B26C5-C676-481D-B89E-1C9A950864C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA7C8CB-4EA1-43C4-B58F-95CE96CA052B}
+	EndGlobalSection
+EndGlobal

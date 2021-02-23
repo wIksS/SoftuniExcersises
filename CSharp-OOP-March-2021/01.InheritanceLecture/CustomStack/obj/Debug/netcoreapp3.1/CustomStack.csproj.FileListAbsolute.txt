@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\user\source\repos\InheritanceLecture\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

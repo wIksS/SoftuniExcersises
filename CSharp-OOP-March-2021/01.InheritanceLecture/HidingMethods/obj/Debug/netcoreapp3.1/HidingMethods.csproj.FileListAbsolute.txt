@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.exe
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.deps.json
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.runtimeconfig.json
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.runtimeconfig.dev.json
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.dll
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\bin\Debug\netcoreapp3.1\HidingMethods.pdb
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.AssemblyInfo.cs
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.dll
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.pdb
+C:\Users\user\source\repos\InheritanceLecture\HidingMethods\obj\Debug\netcoreapp3.1\HidingMethods.genruntimeconfig.cache
