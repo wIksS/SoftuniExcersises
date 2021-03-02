@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\CustomRandomList\\CustomRandomList.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\CustomRandomList\\CustomRandomList.csproj",
       "projectName": "CustomRandomList",
-      "projectPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\CustomRandomList\\CustomRandomList.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\CustomRandomList\\CustomRandomList.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\CustomRandomList\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\CustomRandomList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

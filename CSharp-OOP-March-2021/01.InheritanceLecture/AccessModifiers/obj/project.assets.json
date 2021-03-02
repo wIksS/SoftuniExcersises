@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\AccessModifiers\\AccessModifiers.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\AccessModifiers\\AccessModifiers.csproj",
       "projectName": "AccessModifiers",
-      "projectPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\AccessModifiers\\AccessModifiers.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\AccessModifiers\\AccessModifiers.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\AccessModifiers\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\AccessModifiers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

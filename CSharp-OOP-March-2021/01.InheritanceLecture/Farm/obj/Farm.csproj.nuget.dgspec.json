@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\InheritanceLecture\\Farm\\Farm.csproj": {}
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\Farm\\Farm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\InheritanceLecture\\Farm\\Farm.csproj": {
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\Farm\\Farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\Farm\\Farm.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\Farm\\Farm.csproj",
         "projectName": "Farm",
-        "projectPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\Farm\\Farm.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\Farm\\Farm.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\Farm\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\Farm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

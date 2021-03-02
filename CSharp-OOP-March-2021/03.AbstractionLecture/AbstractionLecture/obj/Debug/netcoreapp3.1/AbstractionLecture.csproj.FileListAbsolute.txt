@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.exe
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.deps.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.runtimeconfig.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.runtimeconfig.dev.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.dll
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\bin\Debug\netcoreapp3.1\AbstractionLecture.pdb
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.dll
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.pdb
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.genruntimeconfig.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractionLecture\obj\Debug\netcoreapp3.1\AbstractionLecture.csprojAssemblyReference.cache

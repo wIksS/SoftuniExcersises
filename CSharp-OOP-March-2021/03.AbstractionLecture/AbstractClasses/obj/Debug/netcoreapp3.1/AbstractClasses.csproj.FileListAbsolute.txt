@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\user\source\repos\AbstractionLecture\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

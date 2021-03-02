@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.exe
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.deps.json
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.runtimeconfig.json
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.dll
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\ThisExample.pdb
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.AssemblyInfo.cs
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.dll
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.pdb
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.genruntimeconfig.cache
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\user\source\repos\Encapsulation\ThisExample\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\user\source\repos\Encapsulation\ThisExample\obj\Debug\netcoreapp3.1\ThisExample.csproj.CopyComplete

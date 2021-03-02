@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RecursionProperty/1.0.0": {
+        "runtime": {
+          "RecursionProperty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecursionProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

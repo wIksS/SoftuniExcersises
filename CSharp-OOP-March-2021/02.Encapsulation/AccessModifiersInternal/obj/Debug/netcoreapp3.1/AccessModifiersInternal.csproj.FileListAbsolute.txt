@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.AssemblyInfo.cs
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.exe
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.deps.json
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.runtimeconfig.json
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.runtimeconfig.dev.json
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.dll
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiersInternal.pdb
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.csproj.CopyComplete
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.dll
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.pdb
+C:\Users\user\source\repos\Encapsulation\AccessModifiersInternal\obj\Debug\netcoreapp3.1\AccessModifiersInternal.genruntimeconfig.cache

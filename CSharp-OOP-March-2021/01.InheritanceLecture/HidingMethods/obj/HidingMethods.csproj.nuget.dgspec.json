@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\InheritanceLecture\\HidingMethods\\HidingMethods.csproj": {}
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\HidingMethods\\HidingMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\InheritanceLecture\\HidingMethods\\HidingMethods.csproj": {
+    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\HidingMethods\\HidingMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\HidingMethods\\HidingMethods.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\HidingMethods\\HidingMethods.csproj",
         "projectName": "HidingMethods",
-        "projectPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\HidingMethods\\HidingMethods.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\HidingMethods\\HidingMethods.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\InheritanceLecture\\HidingMethods\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\CSharp-OOP-March-2021\\01.InheritanceLecture\\HidingMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
