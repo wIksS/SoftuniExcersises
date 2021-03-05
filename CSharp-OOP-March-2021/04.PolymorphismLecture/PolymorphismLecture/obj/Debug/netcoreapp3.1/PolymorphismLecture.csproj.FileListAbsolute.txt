@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.exe
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.deps.json
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.runtimeconfig.json
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.runtimeconfig.dev.json
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.dll
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\bin\Debug\netcoreapp3.1\PolymorphismLecture.pdb
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.AssemblyInfo.cs
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.dll
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.pdb
+C:\Users\user\source\repos\PolymorphismLecture\PolymorphismLecture\obj\Debug\netcoreapp3.1\PolymorphismLecture.genruntimeconfig.cache

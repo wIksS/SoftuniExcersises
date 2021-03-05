@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\BallsGame\\BallsGame.csproj": {}
+    "C:\\Users\\user\\source\\repos\\PolymorphismLecture\\Operations\\Operations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\BallsGame\\BallsGame.csproj": {
+    "C:\\Users\\user\\source\\repos\\PolymorphismLecture\\Operations\\Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\BallsGame\\BallsGame.csproj",
-        "projectName": "BallsGame",
-        "projectPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\BallsGame\\BallsGame.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\PolymorphismLecture\\Operations\\Operations.csproj",
+        "projectName": "Operations",
+        "projectPath": "C:\\Users\\user\\source\\repos\\PolymorphismLecture\\Operations\\Operations.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\BallsGame\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\PolymorphismLecture\\Operations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

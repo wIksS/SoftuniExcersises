@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.exe
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.deps.json
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.runtimeconfig.json
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.dll
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.pdb
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.dll
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.pdb
+C:\Users\user\source\repos\PolymorphismLecture\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.genruntimeconfig.cache
