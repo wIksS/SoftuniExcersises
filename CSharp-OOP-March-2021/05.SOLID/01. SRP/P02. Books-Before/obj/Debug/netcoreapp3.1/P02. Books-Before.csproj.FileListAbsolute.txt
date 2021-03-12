@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\bin\Debug\netcoreapp3.1\P02. Books-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.csprojAssemblyReference.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\01. SRP\P02. Books-Before\obj\Debug\netcoreapp3.1\P02. Books-Before.genruntimeconfig.cache

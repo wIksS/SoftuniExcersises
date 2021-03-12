@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\bin\Debug\netcoreapp3.1\P01. HelloWorld-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.csprojAssemblyReference.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\05. DIP\P01. HelloWorld-Before\obj\Debug\netcoreapp3.1\P01. HelloWorld-Before.genruntimeconfig.cache

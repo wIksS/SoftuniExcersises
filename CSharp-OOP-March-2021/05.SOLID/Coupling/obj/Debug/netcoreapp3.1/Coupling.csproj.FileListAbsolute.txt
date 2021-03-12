@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\bin\Debug\netcoreapp3.1\Coupling.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Coupling\obj\Debug\netcoreapp3.1\Coupling.genruntimeconfig.cache

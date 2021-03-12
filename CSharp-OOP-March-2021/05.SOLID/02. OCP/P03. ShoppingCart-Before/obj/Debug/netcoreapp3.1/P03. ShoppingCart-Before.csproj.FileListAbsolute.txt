@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\bin\Debug\netcoreapp3.1\P03. ShoppingCart-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.csprojAssemblyReference.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\02. OCP\P03. ShoppingCart-Before\obj\Debug\netcoreapp3.1\P03. ShoppingCart-Before.genruntimeconfig.cache

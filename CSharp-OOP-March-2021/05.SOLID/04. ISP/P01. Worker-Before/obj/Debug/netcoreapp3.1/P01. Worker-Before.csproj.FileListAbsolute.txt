@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\bin\Debug\netcoreapp3.1\P01. Worker-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.csprojAssemblyReference.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\04. ISP\P01. Worker-Before\obj\Debug\netcoreapp3.1\P01. Worker-Before.genruntimeconfig.cache

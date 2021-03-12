@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\bin\Debug\netcoreapp3.1\DependencyInversionAgain.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\DependencyInversionAgain\obj\Debug\netcoreapp3.1\DependencyInversionAgain.genruntimeconfig.cache

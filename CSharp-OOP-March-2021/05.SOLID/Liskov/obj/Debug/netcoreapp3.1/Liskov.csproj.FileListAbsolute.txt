@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.exe
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.deps.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.dev.json
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\bin\Debug\netcoreapp3.1\Liskov.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.csprojAssemblyReference.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfo.cs
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.dll
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.pdb
+C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\Liskov\obj\Debug\netcoreapp3.1\Liskov.genruntimeconfig.cache
