@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.exe
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.deps.json
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.runtimeconfig.json
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.runtimeconfig.dev.json
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.dll
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\bin\Debug\netcoreapp3.1\CreateInstanceConstructors.pdb
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.dll
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.pdb
+C:\Users\User\source\repos\Reflection\CreateInstanceConstructors\obj\Debug\netcoreapp3.1\CreateInstanceConstructors.genruntimeconfig.cache

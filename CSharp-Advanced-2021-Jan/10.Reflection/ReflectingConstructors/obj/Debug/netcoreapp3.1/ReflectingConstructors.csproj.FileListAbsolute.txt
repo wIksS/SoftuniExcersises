@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.exe
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.deps.json
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.runtimeconfig.json
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.runtimeconfig.dev.json
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.dll
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\bin\Debug\netcoreapp3.1\ReflectingConstructors.pdb
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.dll
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.pdb
+C:\Users\User\source\repos\Reflection\ReflectingConstructors\obj\Debug\netcoreapp3.1\ReflectingConstructors.genruntimeconfig.cache

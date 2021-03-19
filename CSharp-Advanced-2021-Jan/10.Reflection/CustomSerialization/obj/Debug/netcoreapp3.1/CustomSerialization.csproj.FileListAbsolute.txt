@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.exe
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.deps.json
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.runtimeconfig.json
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.runtimeconfig.dev.json
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.dll
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\CustomSerialization.pdb
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.dll
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.pdb
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflection\CustomSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection\CustomSerialization\obj\Debug\netcoreapp3.1\CustomSerialization.csproj.CopyComplete

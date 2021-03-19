@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.exe
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.deps.json
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.runtimeconfig.json
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.runtimeconfig.dev.json
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.dll
+C:\Users\User\source\repos\Reflection\ReflectingMethods\bin\Debug\netcoreapp3.1\ReflectingMethods.pdb
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.dll
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.pdb
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflection\ReflectingMethods\obj\Debug\netcoreapp3.1\ReflectingMethods.csprojAssemblyReference.cache

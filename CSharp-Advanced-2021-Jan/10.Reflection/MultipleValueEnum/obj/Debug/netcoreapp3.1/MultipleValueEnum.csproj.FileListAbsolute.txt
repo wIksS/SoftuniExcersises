@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.exe
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.deps.json
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.runtimeconfig.json
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.dll
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\bin\Debug\netcoreapp3.1\MultipleValueEnum.pdb
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.dll
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.pdb
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflection\MultipleValueEnum\obj\Debug\netcoreapp3.1\MultipleValueEnum.csprojAssemblyReference.cache
