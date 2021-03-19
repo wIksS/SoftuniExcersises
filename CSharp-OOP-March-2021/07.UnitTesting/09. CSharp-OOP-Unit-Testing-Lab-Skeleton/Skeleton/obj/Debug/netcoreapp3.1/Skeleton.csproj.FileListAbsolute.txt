@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\user\Downloads\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
