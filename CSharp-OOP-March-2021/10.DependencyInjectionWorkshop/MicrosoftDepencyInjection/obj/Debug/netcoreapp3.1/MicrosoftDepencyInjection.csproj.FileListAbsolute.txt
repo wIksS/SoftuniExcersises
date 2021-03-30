@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.exe
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.AssemblyInfo.cs
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.deps.json
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.runtimeconfig.json
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.runtimeconfig.dev.json
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.dll
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\MicrosoftDepencyInjection.pdb
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.csproj.CopyComplete
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.dll
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.pdb
+C:\Users\user\source\repos\DependencyInjectionWorkshop\MicrosoftDepencyInjection\obj\Debug\netcoreapp3.1\MicrosoftDepencyInjection.genruntimeconfig.cache

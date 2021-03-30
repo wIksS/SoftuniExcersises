@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

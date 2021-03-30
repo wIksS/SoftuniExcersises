@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.exe
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.deps.json
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.runtimeconfig.json
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.runtimeconfig.dev.json
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.dll
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\bin\Debug\netcoreapp3.1\DesignPatternsLecture.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.AssemblyInfo.cs
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.dll
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\DesignPatternsLecture\obj\Debug\netcoreapp3.1\DesignPatternsLecture.genruntimeconfig.cache

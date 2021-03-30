@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\user\source\repos\DesignPatternsLecture\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.genruntimeconfig.cache
