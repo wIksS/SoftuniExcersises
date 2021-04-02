@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\CSharp-OOP-March-2021\ExamPreparation\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
