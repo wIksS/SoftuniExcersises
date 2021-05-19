@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\bin\Debug\netcoreapp3.1\06.TheathePromotions.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\06.TheathePromotions\obj\Debug\netcoreapp3.1\06.TheathePromotions.genruntimeconfig.cache

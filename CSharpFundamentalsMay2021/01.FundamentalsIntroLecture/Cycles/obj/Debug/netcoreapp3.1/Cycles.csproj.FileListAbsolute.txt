@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\bin\Debug\netcoreapp3.1\Cycles.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\Cycles\obj\Debug\netcoreapp3.1\Cycles.genruntimeconfig.cache

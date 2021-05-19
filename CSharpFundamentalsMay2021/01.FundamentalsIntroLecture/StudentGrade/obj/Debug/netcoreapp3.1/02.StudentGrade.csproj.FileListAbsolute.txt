@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\bin\Debug\netcoreapp3.1\02.StudentGrade.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\StudentGrade\obj\Debug\netcoreapp3.1\02.StudentGrade.genruntimeconfig.cache

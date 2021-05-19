@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\bin\Debug\netcoreapp3.1\11.DatetimeBug.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\11.DatetimeBug\obj\Debug\netcoreapp3.1\11.DatetimeBug.genruntimeconfig.cache

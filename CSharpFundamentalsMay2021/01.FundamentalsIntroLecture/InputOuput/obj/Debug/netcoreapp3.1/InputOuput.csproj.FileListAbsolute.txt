@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\bin\Debug\netcoreapp3.1\InputOuput.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\InputOuput\obj\Debug\netcoreapp3.1\InputOuput.genruntimeconfig.cache

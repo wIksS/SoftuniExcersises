@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\bin\Debug\netcoreapp3.1\05.LanguageByCountry.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\04.LanguageByCountry\obj\Debug\netcoreapp3.1\05.LanguageByCountry.genruntimeconfig.cache

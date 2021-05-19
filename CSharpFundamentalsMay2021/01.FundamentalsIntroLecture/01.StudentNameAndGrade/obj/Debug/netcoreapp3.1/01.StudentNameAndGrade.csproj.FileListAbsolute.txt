@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\bin\Debug\netcoreapp3.1\01.StudentNameAndGrade.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\01.StudentNameAndGrade\obj\Debug\netcoreapp3.1\01.StudentNameAndGrade.genruntimeconfig.cache

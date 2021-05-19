@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache

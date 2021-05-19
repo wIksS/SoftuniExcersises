@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.genruntimeconfig.cache

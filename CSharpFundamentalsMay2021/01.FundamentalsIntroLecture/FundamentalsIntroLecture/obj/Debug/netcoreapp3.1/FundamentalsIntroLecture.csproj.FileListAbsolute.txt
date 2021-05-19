@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.exe
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.deps.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.runtimeconfig.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.runtimeconfig.dev.json
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\bin\Debug\netcoreapp3.1\FundamentalsIntroLecture.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.AssemblyInfo.cs
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.dll
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.pdb
+C:\Users\user\source\repos\FundamentalsIntroLecture\FundamentalsIntroLecture\obj\Debug\netcoreapp3.1\FundamentalsIntroLecture.genruntimeconfig.cache
