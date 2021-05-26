@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.exe
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.dll
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.dll
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.genruntimeconfig.cache

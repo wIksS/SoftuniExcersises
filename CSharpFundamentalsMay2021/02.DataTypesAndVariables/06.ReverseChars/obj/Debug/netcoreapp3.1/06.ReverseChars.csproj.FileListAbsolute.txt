@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.exe
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.dll
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\bin\Debug\netcoreapp3.1\06.ReverseChars.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.dll
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\06.ReverseChars\obj\Debug\netcoreapp3.1\06.ReverseChars.genruntimeconfig.cache

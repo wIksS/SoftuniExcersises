@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\Conversion\obj\Debug\netcoreapp3.1\Conversion.genruntimeconfig.cache

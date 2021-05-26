@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.exe
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.dll
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\bin\Debug\netcoreapp3.1\03.NSum.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.dll
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\03.NSum\obj\Debug\netcoreapp3.1\03.NSum.genruntimeconfig.cache

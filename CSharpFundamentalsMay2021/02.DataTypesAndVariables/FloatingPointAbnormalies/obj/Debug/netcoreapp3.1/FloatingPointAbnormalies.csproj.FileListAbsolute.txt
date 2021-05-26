@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.exe
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.dll
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\bin\Debug\netcoreapp3.1\FloatingPointAbnormalies.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.dll
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\FloatingPointAbnormalies\obj\Debug\netcoreapp3.1\FloatingPointAbnormalies.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.exe
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.dll
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\bin\Debug\netcoreapp3.1\SpecialChars.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.dll
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\SpecialChars\obj\Debug\netcoreapp3.1\SpecialChars.genruntimeconfig.cache

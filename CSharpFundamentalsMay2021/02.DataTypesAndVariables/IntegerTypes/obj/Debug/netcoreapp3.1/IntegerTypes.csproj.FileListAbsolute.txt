@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.exe
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.dll
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\bin\Debug\netcoreapp3.1\IntegerTypes.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.dll
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\IntegerTypes\obj\Debug\netcoreapp3.1\IntegerTypes.genruntimeconfig.cache

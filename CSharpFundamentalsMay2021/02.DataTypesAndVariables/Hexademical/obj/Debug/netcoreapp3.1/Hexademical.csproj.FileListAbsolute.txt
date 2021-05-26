@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.exe
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.dll
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\bin\Debug\netcoreapp3.1\Hexademical.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.dll
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\Hexademical\obj\Debug\netcoreapp3.1\Hexademical.genruntimeconfig.cache

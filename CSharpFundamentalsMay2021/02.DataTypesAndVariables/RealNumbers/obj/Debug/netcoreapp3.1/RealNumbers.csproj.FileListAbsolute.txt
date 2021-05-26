@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.exe
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.deps.json
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.runtimeconfig.json
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.dll
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\bin\Debug\netcoreapp3.1\RealNumbers.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.dll
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.pdb
+C:\Users\user\source\repos\DataTypesAndVariables\RealNumbers\obj\Debug\netcoreapp3.1\RealNumbers.genruntimeconfig.cache
