@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.exe
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.deps.json
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.dll
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\bin\Debug\netcoreapp3.1\03.AwayFromZeroRounding.pdb
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.dll
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.pdb
+C:\Users\user\source\repos\Arrays\03.AwayFromZeroRounding\obj\Debug\netcoreapp3.1\03.AwayFromZeroRounding.genruntimeconfig.cache

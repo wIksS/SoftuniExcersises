@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.exe
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.deps.json
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.dll
+C:\Users\user\source\repos\Arrays\SplitArray\bin\Debug\netcoreapp3.1\SplitArray.pdb
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.dll
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.pdb
+C:\Users\user\source\repos\Arrays\SplitArray\obj\Debug\netcoreapp3.1\SplitArray.genruntimeconfig.cache

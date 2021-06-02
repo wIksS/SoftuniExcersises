@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.exe
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.deps.json
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.dll
+C:\Users\user\source\repos\Arrays\StringJoin\bin\Debug\netcoreapp3.1\StringJoin.pdb
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.dll
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.pdb
+C:\Users\user\source\repos\Arrays\StringJoin\obj\Debug\netcoreapp3.1\StringJoin.genruntimeconfig.cache

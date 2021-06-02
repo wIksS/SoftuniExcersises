@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.exe
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.deps.json
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.dll
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\bin\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.pdb
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.dll
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.pdb
+C:\Users\user\source\repos\Arrays\ReadNumbersFromSingleLine\obj\Debug\netcoreapp3.1\ReadNumbersFromSingleLine.genruntimeconfig.cache

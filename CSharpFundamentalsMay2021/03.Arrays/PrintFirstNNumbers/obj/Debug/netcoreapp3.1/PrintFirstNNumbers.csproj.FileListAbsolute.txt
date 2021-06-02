@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.exe
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.deps.json
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.dll
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\bin\Debug\netcoreapp3.1\PrintFirstNNumbers.pdb
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.dll
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.pdb
+C:\Users\user\source\repos\Arrays\PrintFirstNNumbers\obj\Debug\netcoreapp3.1\PrintFirstNNumbers.genruntimeconfig.cache

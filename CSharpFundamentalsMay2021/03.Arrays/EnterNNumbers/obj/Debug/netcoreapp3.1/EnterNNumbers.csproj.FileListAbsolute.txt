@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.exe
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.deps.json
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.dll
+C:\Users\user\source\repos\Arrays\EnterNNumbers\bin\Debug\netcoreapp3.1\EnterNNumbers.pdb
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.dll
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.pdb
+C:\Users\user\source\repos\Arrays\EnterNNumbers\obj\Debug\netcoreapp3.1\EnterNNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+C:\Users\user\source\repos\Arrays\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+C:\Users\user\source\repos\Arrays\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache
