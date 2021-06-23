@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.exe
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.deps.json
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.runtimeconfig.json
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.runtimeconfig.dev.json
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.dll
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\bin\Debug\netcoreapp3.1\02.NFactorial.pdb
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.AssemblyInfo.cs
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.dll
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.pdb
+C:\Users\user\source\repos\ClassesAndObjects\02.NFactorial\obj\Debug\netcoreapp3.1\02.NFactorial.genruntimeconfig.cache

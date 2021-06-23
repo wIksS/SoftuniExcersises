@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.exe
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.deps.json
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.json
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.dev.json
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.dll
+C:\Users\user\source\repos\ClassesAndObjects\Dog\bin\Debug\netcoreapp3.1\Dog.pdb
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfo.cs
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.dll
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.pdb
+C:\Users\user\source\repos\ClassesAndObjects\Dog\obj\Debug\netcoreapp3.1\Dog.genruntimeconfig.cache

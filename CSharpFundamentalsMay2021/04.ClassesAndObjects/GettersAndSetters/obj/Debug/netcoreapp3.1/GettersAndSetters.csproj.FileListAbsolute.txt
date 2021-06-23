@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.exe
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.deps.json
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.json
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.dev.json
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.dll
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.pdb
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfo.cs
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.dll
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.pdb
+C:\Users\user\source\repos\ClassesAndObjects\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.genruntimeconfig.cache
