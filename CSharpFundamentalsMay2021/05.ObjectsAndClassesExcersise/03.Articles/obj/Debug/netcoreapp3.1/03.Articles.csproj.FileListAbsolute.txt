@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.exe
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\bin\Debug\netcoreapp3.1\03.Articles.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\03.Articles\obj\Debug\netcoreapp3.1\03.Articles.genruntimeconfig.cache

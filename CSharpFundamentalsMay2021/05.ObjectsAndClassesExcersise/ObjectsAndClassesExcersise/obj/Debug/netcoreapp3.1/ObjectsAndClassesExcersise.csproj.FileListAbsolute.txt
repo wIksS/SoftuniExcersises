@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.exe
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\ObjectsAndClassesExcersise.genruntimeconfig.cache

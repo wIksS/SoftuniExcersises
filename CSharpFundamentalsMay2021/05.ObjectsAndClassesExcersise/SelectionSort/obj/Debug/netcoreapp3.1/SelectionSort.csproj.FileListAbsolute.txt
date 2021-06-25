@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

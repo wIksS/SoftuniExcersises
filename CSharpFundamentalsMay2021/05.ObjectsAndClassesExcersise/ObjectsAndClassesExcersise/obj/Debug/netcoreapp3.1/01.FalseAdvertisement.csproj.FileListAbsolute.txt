@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.exe
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.deps.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\bin\Debug\netcoreapp3.1\01.FalseAdvertisement.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.dll
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.pdb
+C:\Users\user\source\repos\ObjectsAndClassesExcersise\ObjectsAndClassesExcersise\obj\Debug\netcoreapp3.1\01.FalseAdvertisement.genruntimeconfig.cache
