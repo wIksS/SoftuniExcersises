@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.exe
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.deps.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.runtimeconfig.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.runtimeconfig.dev.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\bin\Debug\netcoreapp3.1\SlowComplexities.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.AssemblyInfo.cs
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\SlowComplexities\obj\Debug\netcoreapp3.1\SlowComplexities.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.exe
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.deps.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.runtimeconfig.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.runtimeconfig.dev.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\bin\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.csprojAssemblyReference.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.AssemblyInfo.cs
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\01.DataStructuresAndComplexity\obj\Debug\netcoreapp3.1\01.DataStructuresAndComplexity.genruntimeconfig.cache

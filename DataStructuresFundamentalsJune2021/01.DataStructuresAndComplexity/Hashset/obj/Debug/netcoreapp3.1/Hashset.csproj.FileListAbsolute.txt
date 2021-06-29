@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.exe
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.deps.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.runtimeconfig.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.runtimeconfig.dev.json
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\bin\Debug\netcoreapp3.1\Hashset.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.csprojAssemblyReference.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.AssemblyInfo.cs
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.dll
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.pdb
+C:\Users\user\source\repos\01.DataStructuresAndComplexity\Hashset\obj\Debug\netcoreapp3.1\Hashset.genruntimeconfig.cache
