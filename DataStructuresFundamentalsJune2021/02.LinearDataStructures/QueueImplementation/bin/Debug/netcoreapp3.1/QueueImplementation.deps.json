@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QueueImplementation/1.0.0": {
+        "dependencies": {
+          "02.ImplementLinkedList": "1.0.0"
+        },
+        "runtime": {
+          "QueueImplementation.dll": {}
+        }
+      },
+      "02.ImplementLinkedList/1.0.0": {
+        "runtime": {
+          "02.ImplementLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueueImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02.ImplementLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.exe
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.deps.json
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.runtimeconfig.json
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.runtimeconfig.dev.json
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.dll
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\StackImplementation.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.AssemblyInfo.cs
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.dll
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.genruntimeconfig.cache
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.exe
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.dll
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\StackImplementation\obj\Debug\netcoreapp3.1\StackImplementation.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.exe
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.exe
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.deps.json
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.runtimeconfig.json
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.runtimeconfig.dev.json
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.dll
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\QueueImplementation.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.dll
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\bin\Debug\netcoreapp3.1\02.ImplementLinkedList.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.AssemblyInfo.cs
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.csproj.CopyComplete
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.dll
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.pdb
+C:\Users\user\source\repos\02.LinearDataStructures\QueueImplementation\obj\Debug\netcoreapp3.1\QueueImplementation.genruntimeconfig.cache
