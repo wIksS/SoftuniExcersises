@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.exe
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.deps.json
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.runtimeconfig.json
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.dll
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\bin\Debug\netcoreapp3.1\ToDictionary.pdb
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.AssemblyInfo.cs
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.dll
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.pdb
+C:\Users\user\source\repos\AssossiativeArrays\ToDictionary\obj\Debug\netcoreapp3.1\ToDictionary.genruntimeconfig.cache
