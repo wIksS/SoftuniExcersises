@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.pdb

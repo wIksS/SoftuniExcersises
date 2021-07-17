@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYXzBuE/gapYLY+mxcUBtJgM/bxorhD7ETSvxMytf8U1ugRyXMUY9UkehM6HnJZSSX05HOPwpywlepxTA5VaBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\SoftuniRepo\\SoftuniExcersises\\DataStructuresFundamentalsJune2021\\04.Heaps-BST\\03.PriorityQueue\\03.PriorityQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

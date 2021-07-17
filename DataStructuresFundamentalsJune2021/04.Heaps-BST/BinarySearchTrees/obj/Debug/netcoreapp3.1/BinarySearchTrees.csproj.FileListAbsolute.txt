@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.exe
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\BinarySearchTrees.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\CommonDataStructures.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\bin\Debug\netcoreapp3.1\CommonDataStructures.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.csproj.CopyComplete
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\BinarySearchTrees\obj\Debug\netcoreapp3.1\BinarySearchTrees.genruntimeconfig.cache

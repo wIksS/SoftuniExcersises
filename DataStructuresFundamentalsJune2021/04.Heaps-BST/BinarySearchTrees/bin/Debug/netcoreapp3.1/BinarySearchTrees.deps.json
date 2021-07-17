@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BinarySearchTrees/1.0.0": {
+        "dependencies": {
+          "CommonDataStructures": "1.0.0"
+        },
+        "runtime": {
+          "BinarySearchTrees.dll": {}
+        }
+      },
+      "CommonDataStructures/1.0.0": {
+        "runtime": {
+          "CommonDataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearchTrees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonDataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

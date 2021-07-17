@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache

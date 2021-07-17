@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\bin\Debug\netstandard2.0\CommonDataStructures.deps.json
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\bin\Debug\netstandard2.0\CommonDataStructures.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\bin\Debug\netstandard2.0\CommonDataStructures.pdb
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\obj\Debug\netstandard2.0\CommonDataStructures.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\obj\Debug\netstandard2.0\CommonDataStructures.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\obj\Debug\netstandard2.0\CommonDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\obj\Debug\netstandard2.0\CommonDataStructures.dll
+C:\Users\user\Desktop\SoftuniRepo\SoftuniExcersises\DataStructuresFundamentalsJune2021\04.Heaps-BST\CommonDataStructures\obj\Debug\netstandard2.0\CommonDataStructures.pdb
