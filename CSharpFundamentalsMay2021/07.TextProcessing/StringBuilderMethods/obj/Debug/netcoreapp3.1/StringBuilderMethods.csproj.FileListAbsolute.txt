@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.exe
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.deps.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.dll
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.pdb
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.dll
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.pdb
+C:\Users\user\source\repos\TextProcessing\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.genruntimeconfig.cache

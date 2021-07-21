@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.exe
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.deps.json
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.dll
+C:\Users\user\source\repos\TextProcessing\TextProcessing\bin\Debug\netcoreapp3.1\TextProcessing.pdb
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.dll
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.pdb
+C:\Users\user\source\repos\TextProcessing\TextProcessing\obj\Debug\netcoreapp3.1\TextProcessing.genruntimeconfig.cache

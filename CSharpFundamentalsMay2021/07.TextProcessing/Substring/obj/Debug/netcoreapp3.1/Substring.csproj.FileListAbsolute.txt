@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\user\source\repos\TextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\user\source\repos\TextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

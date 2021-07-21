@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.exe
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.deps.json
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.dll
+C:\Users\user\source\repos\TextProcessing\Replace\bin\Debug\netcoreapp3.1\Replace.pdb
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.dll
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.pdb
+C:\Users\user\source\repos\TextProcessing\Replace\obj\Debug\netcoreapp3.1\Replace.genruntimeconfig.cache

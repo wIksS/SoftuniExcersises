@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.exe
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.deps.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.dll
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\bin\Debug\netcoreapp3.1\StringBuilderPerformance.pdb
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.dll
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.pdb
+C:\Users\user\source\repos\TextProcessing\StringBuilderPerformance\obj\Debug\netcoreapp3.1\StringBuilderPerformance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.exe
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.deps.json
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.dll
+C:\Users\user\source\repos\TextProcessing\02.Substring\bin\Debug\netcoreapp3.1\02.Substring.pdb
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.dll
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.pdb
+C:\Users\user\source\repos\TextProcessing\02.Substring\obj\Debug\netcoreapp3.1\02.Substring.genruntimeconfig.cache

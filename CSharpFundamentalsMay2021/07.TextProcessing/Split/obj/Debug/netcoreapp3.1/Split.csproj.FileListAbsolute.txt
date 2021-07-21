@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.exe
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.deps.json
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.dll
+C:\Users\user\source\repos\TextProcessing\Split\bin\Debug\netcoreapp3.1\Split.pdb
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.dll
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.pdb
+C:\Users\user\source\repos\TextProcessing\Split\obj\Debug\netcoreapp3.1\Split.genruntimeconfig.cache
