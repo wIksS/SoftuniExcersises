@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\bin\Debug\netstandard2.0\02.Data.deps.json
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\bin\Debug\netstandard2.0\02.Data.dll
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\bin\Debug\netstandard2.0\02.Data.pdb
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.csprojAssemblyReference.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfo.cs
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.dll
+C:\Users\user\Downloads\01. Loader_Skeleton\02.Data\obj\Debug\netstandard2.0\02.Data.pdb

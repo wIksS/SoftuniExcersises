@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.exe
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.deps.json
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.json
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.dev.json
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.dll
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\TestData.pdb
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\02.Data.dll
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\bin\Debug\netcoreapp3.1\02.Data.pdb
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfo.cs
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.csproj.CopyComplete
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.dll
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.pdb
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.genruntimeconfig.cache
+C:\Users\user\Downloads\01. Loader_Skeleton\TestData\obj\Debug\netcoreapp3.1\TestData.csprojAssemblyReference.cache
