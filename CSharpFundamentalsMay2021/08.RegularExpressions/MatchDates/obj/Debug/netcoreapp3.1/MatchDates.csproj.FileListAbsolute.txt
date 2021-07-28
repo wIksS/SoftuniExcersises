@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.exe
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.deps.json
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.json
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\user\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfo.cs
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\user\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.genruntimeconfig.cache

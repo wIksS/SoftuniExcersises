@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.exe
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.deps.json
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.runtimeconfig.json
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.dll
+C:\Users\user\source\repos\RegularExpressions\Html\bin\Debug\netcoreapp3.1\Html.pdb
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.AssemblyInfo.cs
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.dll
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.pdb
+C:\Users\user\source\repos\RegularExpressions\Html\obj\Debug\netcoreapp3.1\Html.genruntimeconfig.cache

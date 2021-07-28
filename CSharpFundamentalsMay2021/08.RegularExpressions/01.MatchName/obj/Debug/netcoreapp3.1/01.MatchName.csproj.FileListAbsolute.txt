@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.exe
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.deps.json
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.runtimeconfig.json
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.dll
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\bin\Debug\netcoreapp3.1\01.MatchName.pdb
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.AssemblyInfo.cs
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.dll
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.pdb
+C:\Users\user\source\repos\RegularExpressions\01.MatchName\obj\Debug\netcoreapp3.1\01.MatchName.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.exe
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.deps.json
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.runtimeconfig.json
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.dll
+C:\Users\user\source\repos\RegularExpressions\ImotBg\bin\Debug\netcoreapp3.1\ImotBg.pdb
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.AssemblyInfo.cs
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.dll
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.pdb
+C:\Users\user\source\repos\RegularExpressions\ImotBg\obj\Debug\netcoreapp3.1\ImotBg.genruntimeconfig.cache
