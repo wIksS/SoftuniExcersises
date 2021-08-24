@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.exe
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.deps.json
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.runtimeconfig.json
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.runtimeconfig.dev.json
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.dll
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\bin\Debug\netcoreapp3.1\RedBlackTress.pdb
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.AssemblyInfo.cs
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.dll
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.pdb
+C:\Users\user\source\repos\RedBlackTress\RedBlackTress\obj\Debug\netcoreapp3.1\RedBlackTress.genruntimeconfig.cache
