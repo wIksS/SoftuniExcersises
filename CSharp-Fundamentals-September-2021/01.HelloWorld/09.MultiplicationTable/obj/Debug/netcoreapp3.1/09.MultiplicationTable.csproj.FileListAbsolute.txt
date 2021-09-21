@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.exe
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.deps.json
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.dll
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\bin\Debug\netcoreapp3.1\09.MultiplicationTable.pdb
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.dll
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.pdb
+C:\Users\user\source\repos\HelloWorld\09.MultiplicationTable\obj\Debug\netcoreapp3.1\09.MultiplicationTable.genruntimeconfig.cache

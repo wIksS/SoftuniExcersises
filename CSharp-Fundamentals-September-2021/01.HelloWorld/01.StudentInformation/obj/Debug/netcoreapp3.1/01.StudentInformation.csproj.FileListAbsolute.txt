@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.exe
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.deps.json
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.dll
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.pdb
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.dll
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.pdb
+C:\Users\user\source\repos\HelloWorld\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.genruntimeconfig.cache

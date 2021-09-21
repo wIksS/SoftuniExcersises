@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\user\source\repos\HelloWorld\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\user\source\repos\HelloWorld\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\user\source\repos\HelloWorld\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\user\source\repos\HelloWorld\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.exe
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.deps.json
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.dll
+C:\Users\user\source\repos\HelloWorld\WhileCycles\bin\Debug\netcoreapp3.1\WhileCycles.pdb
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.dll
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.pdb
+C:\Users\user\source\repos\HelloWorld\WhileCycles\obj\Debug\netcoreapp3.1\WhileCycles.genruntimeconfig.cache

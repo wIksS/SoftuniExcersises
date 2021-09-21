@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\bin\Debug\netcoreapp3.1\01.MetersToKilometers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\01.MetersToKilometers\obj\Debug\netcoreapp3.1\01.MetersToKilometers.genruntimeconfig.cache

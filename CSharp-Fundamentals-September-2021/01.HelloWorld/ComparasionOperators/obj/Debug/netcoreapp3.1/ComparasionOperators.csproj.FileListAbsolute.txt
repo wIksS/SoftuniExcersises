@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.exe
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.deps.json
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.dll
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\bin\Debug\netcoreapp3.1\ComparasionOperators.pdb
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.dll
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.pdb
+C:\Users\user\source\repos\HelloWorld\ComparasionOperators\obj\Debug\netcoreapp3.1\ComparasionOperators.genruntimeconfig.cache

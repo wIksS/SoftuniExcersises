@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\bin\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\SeptemberDataTypesAndVariables\obj\Debug\netcoreapp3.1\SeptemberDataTypesAndVariables.genruntimeconfig.cache

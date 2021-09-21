@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.exe
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.deps.json
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.dll
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\bin\Debug\netcoreapp3.1\06.TheatrePromotions.pdb
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.dll
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.pdb
+C:\Users\user\source\repos\HelloWorld\06.TheatrePromotions\obj\Debug\netcoreapp3.1\06.TheatrePromotions.genruntimeconfig.cache

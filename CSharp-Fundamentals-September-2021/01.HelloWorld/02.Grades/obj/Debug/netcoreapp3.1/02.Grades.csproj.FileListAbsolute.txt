@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.exe
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.deps.json
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.dll
+C:\Users\user\source\repos\HelloWorld\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.pdb
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.dll
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.pdb
+C:\Users\user\source\repos\HelloWorld\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.genruntimeconfig.cache

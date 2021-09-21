@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.exe
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.deps.json
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.dll
+C:\Users\user\source\repos\HelloWorld\08.OddSum\bin\Debug\netcoreapp3.1\08.OddSum.pdb
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.dll
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.pdb
+C:\Users\user\source\repos\HelloWorld\08.OddSum\obj\Debug\netcoreapp3.1\08.OddSum.genruntimeconfig.cache

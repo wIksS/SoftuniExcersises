@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.exe
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.deps.json
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.dll
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\bin\Debug\netcoreapp3.1\03.TimeAfter30Mins.pdb
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.dll
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.pdb
+C:\Users\user\source\repos\HelloWorld\03.TimeAfter30Mins\obj\Debug\netcoreapp3.1\03.TimeAfter30Mins.genruntimeconfig.cache

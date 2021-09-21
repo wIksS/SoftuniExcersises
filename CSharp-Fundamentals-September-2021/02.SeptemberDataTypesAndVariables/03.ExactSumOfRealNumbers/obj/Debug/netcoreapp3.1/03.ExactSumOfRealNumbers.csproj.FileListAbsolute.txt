@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.genruntimeconfig.cache

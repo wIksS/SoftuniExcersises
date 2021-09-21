@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\bin\Debug\netcoreapp3.1\05.Centuries.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\05.Centuries\obj\Debug\netcoreapp3.1\05.Centuries.genruntimeconfig.cache

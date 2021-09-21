@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.exe
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.deps.json
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.dll
+C:\Users\user\source\repos\HelloWorld\InputOutput\bin\Debug\netcoreapp3.1\InputOutput.pdb
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.dll
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.pdb
+C:\Users\user\source\repos\HelloWorld\InputOutput\obj\Debug\netcoreapp3.1\InputOutput.genruntimeconfig.cache

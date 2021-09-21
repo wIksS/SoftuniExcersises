@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.exe
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.deps.json
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.dll
+C:\Users\user\source\repos\HelloWorld\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.pdb
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.dll
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.pdb
+C:\Users\user\source\repos\HelloWorld\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.genruntimeconfig.cache

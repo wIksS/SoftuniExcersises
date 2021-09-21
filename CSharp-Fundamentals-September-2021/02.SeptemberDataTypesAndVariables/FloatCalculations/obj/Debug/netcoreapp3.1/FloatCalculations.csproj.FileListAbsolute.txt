@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\bin\Debug\netcoreapp3.1\FloatCalculations.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\FloatCalculations\obj\Debug\netcoreapp3.1\FloatCalculations.genruntimeconfig.cache

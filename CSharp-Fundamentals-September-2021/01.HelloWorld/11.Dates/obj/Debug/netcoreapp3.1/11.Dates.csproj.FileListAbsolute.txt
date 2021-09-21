@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.exe
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.deps.json
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.dll
+C:\Users\user\source\repos\HelloWorld\11.Dates\bin\Debug\netcoreapp3.1\11.Dates.pdb
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.dll
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.pdb
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.genruntimeconfig.cache
+C:\Users\user\source\repos\HelloWorld\11.Dates\obj\Debug\netcoreapp3.1\11.Dates.csproj.AssemblyReference.cache

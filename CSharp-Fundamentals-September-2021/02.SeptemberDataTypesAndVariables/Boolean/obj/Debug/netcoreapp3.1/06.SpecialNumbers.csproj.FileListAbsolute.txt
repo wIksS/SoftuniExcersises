@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\bin\Debug\netcoreapp3.1\06.SpecialNumbers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Boolean\obj\Debug\netcoreapp3.1\06.SpecialNumbers.genruntimeconfig.cache

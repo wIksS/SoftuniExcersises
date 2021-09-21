@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\bin\Debug\netcoreapp3.1\Verbatim.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Verbatim\obj\Debug\netcoreapp3.1\Verbatim.genruntimeconfig.cache

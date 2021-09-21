@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\bin\Debug\netcoreapp3.1\RealTypes.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\RealTypes\obj\Debug\netcoreapp3.1\RealTypes.genruntimeconfig.cache

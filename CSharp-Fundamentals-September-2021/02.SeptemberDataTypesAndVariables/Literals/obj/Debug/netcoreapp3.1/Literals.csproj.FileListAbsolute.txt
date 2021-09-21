@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\bin\Debug\netcoreapp3.1\Literals.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.genruntimeconfig.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\Literals\obj\Debug\netcoreapp3.1\Literals.csproj.AssemblyReference.cache

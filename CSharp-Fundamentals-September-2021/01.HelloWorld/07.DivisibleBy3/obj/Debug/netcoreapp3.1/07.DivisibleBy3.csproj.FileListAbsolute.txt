@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.exe
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.deps.json
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.dll
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\bin\Debug\netcoreapp3.1\07.DivisibleBy3.pdb
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.dll
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.pdb
+C:\Users\user\source\repos\HelloWorld\07.DivisibleBy3\obj\Debug\netcoreapp3.1\07.DivisibleBy3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.exe
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.deps.json
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.runtimeconfig.json
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.runtimeconfig.dev.json
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.dll
+C:\Users\user\source\repos\HelloWorld\05.Languages\bin\Debug\netcoreapp3.1\05.Languages.pdb
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.dll
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.pdb
+C:\Users\user\source\repos\HelloWorld\05.Languages\obj\Debug\netcoreapp3.1\05.Languages.genruntimeconfig.cache

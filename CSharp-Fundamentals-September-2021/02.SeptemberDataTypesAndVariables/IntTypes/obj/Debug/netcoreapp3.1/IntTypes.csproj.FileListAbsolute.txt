@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.exe
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.deps.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.runtimeconfig.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.runtimeconfig.dev.json
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\bin\Debug\netcoreapp3.1\IntTypes.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.AssemblyInfo.cs
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.dll
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.pdb
+C:\Users\user\source\repos\SeptemberDataTypesAndVariables\IntTypes\obj\Debug\netcoreapp3.1\IntTypes.genruntimeconfig.cache
