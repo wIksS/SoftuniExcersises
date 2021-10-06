@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.exe
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.deps.json
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.dll
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\bin\Debug\netcoreapp3.1\ManipulateArrays.pdb
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.dll
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.pdb
+C:\Users\user\source\repos\ArraysSeptember\ManipulateArrays\obj\Debug\netcoreapp3.1\ManipulateArrays.genruntimeconfig.cache

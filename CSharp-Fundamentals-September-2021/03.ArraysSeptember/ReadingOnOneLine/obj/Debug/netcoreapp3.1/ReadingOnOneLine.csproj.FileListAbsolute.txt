@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.exe
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.deps.json
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.dll
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\bin\Debug\netcoreapp3.1\ReadingOnOneLine.pdb
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.dll
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.pdb
+C:\Users\user\source\repos\ArraysSeptember\ReadingOnOneLine\obj\Debug\netcoreapp3.1\ReadingOnOneLine.genruntimeconfig.cache

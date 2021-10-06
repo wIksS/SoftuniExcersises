@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.exe
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.deps.json
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.dll
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\bin\Debug\netcoreapp3.1\03.Rounding.pdb
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.dll
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.pdb
+C:\Users\user\source\repos\ArraysSeptember\03.Rounding\obj\Debug\netcoreapp3.1\03.Rounding.genruntimeconfig.cache

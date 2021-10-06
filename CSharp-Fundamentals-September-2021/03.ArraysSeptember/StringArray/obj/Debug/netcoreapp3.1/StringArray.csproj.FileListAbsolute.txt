@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.exe
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.deps.json
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\user\source\repos\ArraysSeptember\StringArray\bin\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\user\source\repos\ArraysSeptember\StringArray\obj\Debug\netcoreapp3.1\StringArray.genruntimeconfig.cache

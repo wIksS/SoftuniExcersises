@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.exe
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.deps.json
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.dll
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\bin\Debug\netcoreapp3.1\ArraysSeptember.pdb
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.dll
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.pdb
+C:\Users\user\source\repos\ArraysSeptember\ArraysSeptember\obj\Debug\netcoreapp3.1\ArraysSeptember.genruntimeconfig.cache

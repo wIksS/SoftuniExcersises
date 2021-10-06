@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.exe
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.deps.json
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\bin\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.dll
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.pdb
+C:\Users\user\source\repos\ArraysSeptember\ForeachLoop\obj\Debug\netcoreapp3.1\ForeachLoop.genruntimeconfig.cache

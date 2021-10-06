@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.exe
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.deps.json
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.dll
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.pdb
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.dll
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.pdb
+C:\Users\user\source\repos\ArraysSeptember\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.genruntimeconfig.cache

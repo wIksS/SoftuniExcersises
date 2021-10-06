@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.exe
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.deps.json
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.runtimeconfig.json
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.dll
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.NumbersInReverseOrder.pdb
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.dll
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.pdb
+C:\Users\user\source\repos\ArraysSeptember\02.NumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.NumbersInReverseOrder.genruntimeconfig.cache
