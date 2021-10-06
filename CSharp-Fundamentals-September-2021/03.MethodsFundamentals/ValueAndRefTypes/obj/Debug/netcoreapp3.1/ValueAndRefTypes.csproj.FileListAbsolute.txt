@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.exe
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.dll
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\bin\Debug\netcoreapp3.1\ValueAndRefTypes.pdb
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.dll
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.pdb
+C:\Users\user\source\repos\MethodsFundamentals\ValueAndRefTypes\obj\Debug\netcoreapp3.1\ValueAndRefTypes.genruntimeconfig.cache

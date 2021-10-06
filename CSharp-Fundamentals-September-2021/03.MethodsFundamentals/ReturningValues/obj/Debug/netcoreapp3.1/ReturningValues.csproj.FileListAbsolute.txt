@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.exe
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.dll
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\bin\Debug\netcoreapp3.1\ReturningValues.pdb
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.dll
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.pdb
+C:\Users\user\source\repos\MethodsFundamentals\ReturningValues\obj\Debug\netcoreapp3.1\ReturningValues.genruntimeconfig.cache

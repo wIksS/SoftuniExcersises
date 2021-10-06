@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.exe
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.dll
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\bin\Debug\netcoreapp3.1\05.RectangleArea.pdb
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.dll
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.pdb
+C:\Users\user\source\repos\MethodsFundamentals\05.RectangleArea\obj\Debug\netcoreapp3.1\05.RectangleArea.genruntimeconfig.cache

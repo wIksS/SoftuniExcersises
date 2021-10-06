@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.exe
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.dll
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\bin\Debug\netcoreapp3.1\07.GetMax.pdb
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.dll
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.pdb
+C:\Users\user\source\repos\MethodsFundamentals\07.GetMax\obj\Debug\netcoreapp3.1\07.GetMax.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.exe
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.dll
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\bin\Debug\netcoreapp3.1\01.PrintSign.pdb
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.dll
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.pdb
+C:\Users\user\source\repos\MethodsFundamentals\01.PrintSign\obj\Debug\netcoreapp3.1\01.PrintSign.genruntimeconfig.cache

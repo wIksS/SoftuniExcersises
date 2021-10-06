@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.exe
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.dll
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\bin\Debug\netcoreapp3.1\OptionalParams.pdb
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.dll
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.pdb
+C:\Users\user\source\repos\MethodsFundamentals\OptionalParams\obj\Debug\netcoreapp3.1\OptionalParams.genruntimeconfig.cache

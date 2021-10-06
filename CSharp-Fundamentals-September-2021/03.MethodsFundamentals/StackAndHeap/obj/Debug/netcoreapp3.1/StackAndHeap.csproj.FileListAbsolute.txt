@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.exe
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.dll
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\bin\Debug\netcoreapp3.1\StackAndHeap.pdb
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.dll
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.pdb
+C:\Users\user\source\repos\MethodsFundamentals\StackAndHeap\obj\Debug\netcoreapp3.1\StackAndHeap.genruntimeconfig.cache

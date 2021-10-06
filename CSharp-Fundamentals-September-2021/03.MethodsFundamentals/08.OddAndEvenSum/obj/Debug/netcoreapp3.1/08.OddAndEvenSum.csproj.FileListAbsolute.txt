@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.exe
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.deps.json
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.runtimeconfig.json
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.dll
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\bin\Debug\netcoreapp3.1\08.OddAndEvenSum.pdb
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.dll
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.pdb
+C:\Users\user\source\repos\MethodsFundamentals\08.OddAndEvenSum\obj\Debug\netcoreapp3.1\08.OddAndEvenSum.genruntimeconfig.cache
