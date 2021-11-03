@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.exe
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.dll
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\bin\Debug\netcoreapp3.1\04.WordFilter.pdb
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.dll
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.pdb
+C:\Users\user\source\repos\AssosiativeArrays\04.WordFilter\obj\Debug\netcoreapp3.1\04.WordFilter.genruntimeconfig.cache

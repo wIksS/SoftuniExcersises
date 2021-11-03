@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.exe
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.dll
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\bin\Debug\netcoreapp3.1\05.SortNumbers.pdb
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.dll
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.pdb
+C:\Users\user\source\repos\AssosiativeArrays\05.SortNumbers\obj\Debug\netcoreapp3.1\05.SortNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.exe
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.dll
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\bin\Debug\netcoreapp3.1\AssosiativeArrays.pdb
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.dll
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.pdb
+C:\Users\user\source\repos\AssosiativeArrays\AssosiativeArrays\obj\Debug\netcoreapp3.1\AssosiativeArrays.genruntimeconfig.cache

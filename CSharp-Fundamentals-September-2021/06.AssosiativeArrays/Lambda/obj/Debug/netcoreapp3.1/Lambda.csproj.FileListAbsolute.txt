@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache

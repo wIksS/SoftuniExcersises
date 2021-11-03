@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.exe
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.dll
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\bin\Debug\netcoreapp3.1\02.WordSynonyms.pdb
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.dll
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.pdb
+C:\Users\user\source\repos\AssosiativeArrays\02.WordSynonyms\obj\Debug\netcoreapp3.1\02.WordSynonyms.genruntimeconfig.cache

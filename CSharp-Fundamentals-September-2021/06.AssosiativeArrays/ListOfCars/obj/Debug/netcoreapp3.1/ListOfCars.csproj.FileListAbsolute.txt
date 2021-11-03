@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.exe
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.dll
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\bin\Debug\netcoreapp3.1\ListOfCars.pdb
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.dll
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.pdb
+C:\Users\user\source\repos\AssosiativeArrays\ListOfCars\obj\Debug\netcoreapp3.1\ListOfCars.genruntimeconfig.cache

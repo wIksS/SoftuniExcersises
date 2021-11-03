@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.exe
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.dll
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\bin\Debug\netcoreapp3.1\SortedDictionaries.pdb
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.dll
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.pdb
+C:\Users\user\source\repos\AssosiativeArrays\SortedDictionaries\obj\Debug\netcoreapp3.1\SortedDictionaries.genruntimeconfig.cache

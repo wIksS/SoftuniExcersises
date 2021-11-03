@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.exe
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.dll
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\bin\Debug\netcoreapp3.1\Prodcuts.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.dll
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Prodcuts\obj\Debug\netcoreapp3.1\Prodcuts.genruntimeconfig.cache

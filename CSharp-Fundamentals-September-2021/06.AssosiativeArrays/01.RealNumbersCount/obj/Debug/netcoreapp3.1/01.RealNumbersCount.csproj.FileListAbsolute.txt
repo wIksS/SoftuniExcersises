@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.exe
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.dll
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\bin\Debug\netcoreapp3.1\01.RealNumbersCount.pdb
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.dll
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.pdb
+C:\Users\user\source\repos\AssosiativeArrays\01.RealNumbersCount\obj\Debug\netcoreapp3.1\01.RealNumbersCount.genruntimeconfig.cache

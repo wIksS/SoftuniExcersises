@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.exe
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.deps.json
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.runtimeconfig.json
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.dll
+C:\Users\user\source\repos\AssosiativeArrays\Where\bin\Debug\netcoreapp3.1\Where.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.AssemblyInfo.cs
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.dll
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.pdb
+C:\Users\user\source\repos\AssosiativeArrays\Where\obj\Debug\netcoreapp3.1\Where.genruntimeconfig.cache
