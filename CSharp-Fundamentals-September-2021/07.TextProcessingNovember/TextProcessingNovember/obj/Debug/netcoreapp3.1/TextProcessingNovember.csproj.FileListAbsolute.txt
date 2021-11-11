@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.exe
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.dll
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\bin\Debug\netcoreapp3.1\TextProcessingNovember.pdb
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.dll
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.pdb
+C:\Users\user\source\repos\TextProcessingNovember\TextProcessingNovember\obj\Debug\netcoreapp3.1\TextProcessingNovember.genruntimeconfig.cache

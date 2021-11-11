@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.exe
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.dll
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\bin\Debug\netcoreapp3.1\03.Replace.pdb
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.dll
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.pdb
+C:\Users\user\source\repos\TextProcessingNovember\03.Replace\obj\Debug\netcoreapp3.1\03.Replace.genruntimeconfig.cache

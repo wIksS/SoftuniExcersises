@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.exe
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.dll
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\bin\Debug\netcoreapp3.1\01.RepeatStrings.pdb
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.dll
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.pdb
+C:\Users\user\source\repos\TextProcessingNovember\01.RepeatStrings\obj\Debug\netcoreapp3.1\01.RepeatStrings.genruntimeconfig.cache

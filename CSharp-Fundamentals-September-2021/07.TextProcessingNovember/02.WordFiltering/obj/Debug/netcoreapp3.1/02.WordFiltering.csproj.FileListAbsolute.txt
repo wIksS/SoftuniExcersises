@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.exe
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.dll
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\bin\Debug\netcoreapp3.1\02.WordFiltering.pdb
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.dll
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.pdb
+C:\Users\user\source\repos\TextProcessingNovember\02.WordFiltering\obj\Debug\netcoreapp3.1\02.WordFiltering.genruntimeconfig.cache

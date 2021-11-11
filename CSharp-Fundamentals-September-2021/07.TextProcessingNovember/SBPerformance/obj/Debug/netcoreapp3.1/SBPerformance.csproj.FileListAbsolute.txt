@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.exe
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.dll
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\bin\Debug\netcoreapp3.1\SBPerformance.pdb
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.dll
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.pdb
+C:\Users\user\source\repos\TextProcessingNovember\SBPerformance\obj\Debug\netcoreapp3.1\SBPerformance.genruntimeconfig.cache

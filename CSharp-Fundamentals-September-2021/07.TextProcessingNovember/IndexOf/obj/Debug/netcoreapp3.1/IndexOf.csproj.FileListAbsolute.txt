@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.exe
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.dll
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.pdb
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.dll
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.pdb
+C:\Users\user\source\repos\TextProcessingNovember\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.genruntimeconfig.cache

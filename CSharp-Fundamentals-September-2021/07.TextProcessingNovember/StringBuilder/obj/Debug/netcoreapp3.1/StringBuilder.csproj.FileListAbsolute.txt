@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\user\source\repos\TextProcessingNovember\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache

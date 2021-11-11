@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.exe
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.dll
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\bin\Debug\netcoreapp3.1\Splitting.pdb
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.dll
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.pdb
+C:\Users\user\source\repos\TextProcessingNovember\Splitting\obj\Debug\netcoreapp3.1\Splitting.genruntimeconfig.cache

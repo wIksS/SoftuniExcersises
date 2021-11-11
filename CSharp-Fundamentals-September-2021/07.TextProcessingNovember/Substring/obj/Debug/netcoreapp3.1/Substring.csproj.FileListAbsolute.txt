@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\user\source\repos\TextProcessingNovember\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\user\source\repos\TextProcessingNovember\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

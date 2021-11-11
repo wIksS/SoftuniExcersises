@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.exe
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.deps.json
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.runtimeconfig.json
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.runtimeconfig.dev.json
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.dll
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\bin\Debug\netcoreapp3.1\SoftuniString.pdb
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.AssemblyInfo.cs
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.dll
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.pdb
+C:\Users\user\source\repos\TextProcessingNovember\SoftuniString\obj\Debug\netcoreapp3.1\SoftuniString.genruntimeconfig.cache
