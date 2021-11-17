@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.exe
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.deps.json
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.runtimeconfig.json
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.dll
+C:\Users\user\source\repos\RegexNovember\RegexNovember\bin\Debug\netcoreapp3.1\RegexNovember.pdb
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.AssemblyInfo.cs
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.dll
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.pdb
+C:\Users\user\source\repos\RegexNovember\RegexNovember\obj\Debug\netcoreapp3.1\RegexNovember.genruntimeconfig.cache

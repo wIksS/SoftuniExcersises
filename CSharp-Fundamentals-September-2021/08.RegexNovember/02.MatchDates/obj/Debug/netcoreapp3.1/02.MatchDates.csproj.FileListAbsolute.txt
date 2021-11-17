@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.exe
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.deps.json
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.runtimeconfig.json
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.dll
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\bin\Debug\netcoreapp3.1\02.MatchDates.pdb
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.AssemblyInfo.cs
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.dll
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.pdb
+C:\Users\user\source\repos\RegexNovember\02.MatchDates\obj\Debug\netcoreapp3.1\02.MatchDates.genruntimeconfig.cache

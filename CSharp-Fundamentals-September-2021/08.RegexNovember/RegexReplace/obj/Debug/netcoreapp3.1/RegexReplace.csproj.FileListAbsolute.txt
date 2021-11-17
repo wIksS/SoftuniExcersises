@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.exe
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.deps.json
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.runtimeconfig.json
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.dll
+C:\Users\user\source\repos\RegexNovember\RegexReplace\bin\Debug\netcoreapp3.1\RegexReplace.pdb
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.AssemblyInfo.cs
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.dll
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.pdb
+C:\Users\user\source\repos\RegexNovember\RegexReplace\obj\Debug\netcoreapp3.1\RegexReplace.genruntimeconfig.cache

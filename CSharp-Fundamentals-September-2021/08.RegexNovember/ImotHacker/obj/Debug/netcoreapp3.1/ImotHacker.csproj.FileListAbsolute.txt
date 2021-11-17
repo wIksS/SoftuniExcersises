@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.exe
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.deps.json
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.runtimeconfig.json
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.runtimeconfig.dev.json
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.dll
+C:\Users\user\source\repos\RegexNovember\ImotHacker\bin\Debug\netcoreapp3.1\ImotHacker.pdb
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.AssemblyInfo.cs
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.dll
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.pdb
+C:\Users\user\source\repos\RegexNovember\ImotHacker\obj\Debug\netcoreapp3.1\ImotHacker.genruntimeconfig.cache
