@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\bin\Debug\netcoreapp3.1\05.PrintUniqueNames.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\05.PrintUniqueNames\obj\Debug\netcoreapp3.1\05.PrintUniqueNames.genruntimeconfig.cache

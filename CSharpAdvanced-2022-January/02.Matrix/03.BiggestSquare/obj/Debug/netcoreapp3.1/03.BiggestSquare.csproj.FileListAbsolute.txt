@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.exe
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.dll
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\bin\Debug\netcoreapp3.1\03.BiggestSquare.pdb
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.dll
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.pdb
+C:\Users\Viktor\source\repos\02.Matrix\03.BiggestSquare\obj\Debug\netcoreapp3.1\03.BiggestSquare.genruntimeconfig.cache

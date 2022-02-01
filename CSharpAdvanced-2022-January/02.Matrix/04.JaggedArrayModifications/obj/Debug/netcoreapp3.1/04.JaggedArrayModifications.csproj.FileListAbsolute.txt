@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.exe
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.dll
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\bin\Debug\netcoreapp3.1\04.JaggedArrayModifications.pdb
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.dll
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.pdb
+C:\Users\Viktor\source\repos\02.Matrix\04.JaggedArrayModifications\obj\Debug\netcoreapp3.1\04.JaggedArrayModifications.genruntimeconfig.cache

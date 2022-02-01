@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.exe
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.deps.json
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.dll
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.pdb
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.dll
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.pdb
+C:\Users\Viktor\source\repos\04.Streams\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.genruntimeconfig.cache

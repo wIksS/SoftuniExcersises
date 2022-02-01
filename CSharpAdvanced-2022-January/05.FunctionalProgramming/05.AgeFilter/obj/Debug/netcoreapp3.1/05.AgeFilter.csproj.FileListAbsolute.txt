@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\bin\Debug\netcoreapp3.1\05.AgeFilter.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\05.AgeFilter\obj\Debug\netcoreapp3.1\05.AgeFilter.genruntimeconfig.cache

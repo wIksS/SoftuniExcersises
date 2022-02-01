@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.exe
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.deps.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\bin\Debug\netcoreapp3.1\05.HotPotato.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\05.HotPotato\obj\Debug\netcoreapp3.1\05.HotPotato.genruntimeconfig.cache

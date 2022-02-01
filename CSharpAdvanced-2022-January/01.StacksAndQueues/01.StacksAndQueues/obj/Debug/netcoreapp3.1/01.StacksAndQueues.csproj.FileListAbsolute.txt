@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.exe
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.deps.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\bin\Debug\netcoreapp3.1\01.StacksAndQueues.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\01.StacksAndQueues\obj\Debug\netcoreapp3.1\01.StacksAndQueues.genruntimeconfig.cache

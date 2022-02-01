@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.exe
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.dll
+C:\Users\Viktor\source\repos\02.Matrix\Printing\bin\Debug\netcoreapp3.1\Printing.pdb
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.dll
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.pdb
+C:\Users\Viktor\source\repos\02.Matrix\Printing\obj\Debug\netcoreapp3.1\Printing.genruntimeconfig.cache

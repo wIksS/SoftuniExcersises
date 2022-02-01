@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.exe
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.dll
+C:\Users\Viktor\source\repos\02.Matrix\2DList\bin\Debug\netcoreapp3.1\2DList.pdb
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.dll
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.pdb
+C:\Users\Viktor\source\repos\02.Matrix\2DList\obj\Debug\netcoreapp3.1\2DList.genruntimeconfig.cache

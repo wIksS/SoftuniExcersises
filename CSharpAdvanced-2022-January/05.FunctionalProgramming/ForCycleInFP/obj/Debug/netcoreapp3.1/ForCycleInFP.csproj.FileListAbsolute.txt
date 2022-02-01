@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\bin\Debug\netcoreapp3.1\ForCycleInFP.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\ForCycleInFP\obj\Debug\netcoreapp3.1\ForCycleInFP.genruntimeconfig.cache

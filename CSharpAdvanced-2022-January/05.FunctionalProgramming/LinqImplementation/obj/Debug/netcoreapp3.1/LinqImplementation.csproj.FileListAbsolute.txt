@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\bin\Debug\netcoreapp3.1\LinqImplementation.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\LinqImplementation\obj\Debug\netcoreapp3.1\LinqImplementation.genruntimeconfig.cache

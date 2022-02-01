@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.exe
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.deps.json
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.dll
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\bin\Debug\netcoreapp3.1\FileExtensions.pdb
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.dll
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.pdb
+C:\Users\Viktor\source\repos\04.Streams\FileExtensions\obj\Debug\netcoreapp3.1\FileExtensions.genruntimeconfig.cache

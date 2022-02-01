@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.exe
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.deps.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\bin\Debug\netcoreapp3.1\UtilityMethods.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\UtilityMethods\obj\Debug\netcoreapp3.1\UtilityMethods.genruntimeconfig.cache

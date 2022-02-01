@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.exe
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.dll
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\bin\Debug\netcoreapp3.1\02.MatrixColSum.pdb
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.dll
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.pdb
+C:\Users\Viktor\source\repos\02.Matrix\02.MatrixColSum\obj\Debug\netcoreapp3.1\02.MatrixColSum.genruntimeconfig.cache

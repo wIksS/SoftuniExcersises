@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\bin\Debug\netcoreapp3.1\TimeAnalisys.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\TimeAnalisys\obj\Debug\netcoreapp3.1\TimeAnalisys.genruntimeconfig.cache

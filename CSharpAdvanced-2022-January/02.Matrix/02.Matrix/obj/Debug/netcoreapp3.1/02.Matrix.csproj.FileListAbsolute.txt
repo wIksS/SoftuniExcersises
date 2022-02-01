@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.exe
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.deps.json
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.dll
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\bin\Debug\netcoreapp3.1\02.Matrix.pdb
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.dll
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.pdb
+C:\Users\Viktor\source\repos\02.Matrix\02.Matrix\obj\Debug\netcoreapp3.1\02.Matrix.genruntimeconfig.cache

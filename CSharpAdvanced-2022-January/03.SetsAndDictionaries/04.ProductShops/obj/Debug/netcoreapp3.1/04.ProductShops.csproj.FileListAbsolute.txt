@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\bin\Debug\netcoreapp3.1\04.ProductShops.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\04.ProductShops\obj\Debug\netcoreapp3.1\04.ProductShops.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\bin\Debug\netcoreapp3.1\03.CapitalLetters.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\03.CapitalLetters\obj\Debug\netcoreapp3.1\03.CapitalLetters.genruntimeconfig.cache

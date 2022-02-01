@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\bin\Debug\netcoreapp3.1\03.AverageStudentGrades.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\03.AverageStudentGrades\obj\Debug\netcoreapp3.1\03.AverageStudentGrades.genruntimeconfig.cache

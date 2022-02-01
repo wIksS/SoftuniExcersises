@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\bin\Debug\netcoreapp3.1\Action.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\Action\obj\Debug\netcoreapp3.1\Action.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Viktor\source\repos\05.DefiningClasses\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache

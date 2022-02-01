@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.genruntimeconfig.cache

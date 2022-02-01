@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Namespaces/1.0.0": {
+        "dependencies": {
+          "CarManufacturer": "1.0.0",
+          "Spectre.Console": "0.43.0"
+        },
+        "runtime": {
+          "Namespaces.dll": {}
+        }
+      },
+      "Spectre.Console/0.43.0": {
+        "dependencies": {
+          "System.Memory": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.43.0.0"
+          }
+        }
+      },
+      "System.Memory/4.5.0": {},
+      "CarManufacturer/1.0.0": {
+        "runtime": {
+          "CarManufacturer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.43.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TyfzVxx3jHr1FeeI9Z6Jn6QTnP7KduV14dn9GTYc0v/t2h4L6WJ0Kc2DOnOJUlGBQ/qXK4P+HITIR/JTHcKYLg==",
+      "path": "spectre.console/0.43.0",
+      "hashPath": "spectre.console.0.43.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m0psCSpUxTGfvwyO0i03ajXVhgBqyXlibXz0Mo1dtKGjaHrXFLnuQ8rNBTmWRqbfRjr4eC6Wah4X5FfuFDu5og==",
+      "path": "system.memory/4.5.0",
+      "hashPath": "system.memory.4.5.0.nupkg.sha512"
+    },
+    "CarManufacturer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

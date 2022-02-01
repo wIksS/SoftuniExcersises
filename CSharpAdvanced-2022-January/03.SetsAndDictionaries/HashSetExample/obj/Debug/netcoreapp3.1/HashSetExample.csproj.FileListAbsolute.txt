@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.genruntimeconfig.cache

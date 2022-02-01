@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\bin\Debug\netcoreapp3.1\01.NumberOccurences.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\01.NumberOccurences\obj\Debug\netcoreapp3.1\01.NumberOccurences.genruntimeconfig.cache

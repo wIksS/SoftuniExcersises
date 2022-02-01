@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.exe
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.deps.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\bin\Debug\netcoreapp3.1\03.MatchingBrackets.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\03.MatchingBrackets\obj\Debug\netcoreapp3.1\03.MatchingBrackets.genruntimeconfig.cache

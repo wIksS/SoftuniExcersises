@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.exe
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.deps.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.dll
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\bin\Debug\netcoreapp3.1\StackAndHeap.pdb
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.dll
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.pdb
+C:\Users\Viktor\source\repos\05.DefiningClasses\ConsoleApp1\obj\Debug\netcoreapp3.1\StackAndHeap.genruntimeconfig.cache

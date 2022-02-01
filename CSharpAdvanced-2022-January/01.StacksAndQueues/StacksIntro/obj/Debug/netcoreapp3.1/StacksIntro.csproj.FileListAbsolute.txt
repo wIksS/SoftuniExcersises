@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.exe
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.deps.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\bin\Debug\netcoreapp3.1\StacksIntro.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.dll
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.pdb
+C:\Users\Viktor\source\repos\01.StacksAndQueues\StacksIntro\obj\Debug\netcoreapp3.1\StacksIntro.genruntimeconfig.cache

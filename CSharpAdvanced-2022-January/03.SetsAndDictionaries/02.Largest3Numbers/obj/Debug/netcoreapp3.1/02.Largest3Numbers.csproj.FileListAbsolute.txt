@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.exe
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.deps.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.runtimeconfig.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\bin\Debug\netcoreapp3.1\02.Largest3Numbers.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.dll
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.pdb
+C:\Users\Viktor\source\repos\SetsAndDictionaries\02.Largest3Numbers\obj\Debug\netcoreapp3.1\02.Largest3Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.exe
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.deps.json
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.dll
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.pdb
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.dll
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.pdb
+C:\Users\Viktor\source\repos\04.Streams\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.genruntimeconfig.cache

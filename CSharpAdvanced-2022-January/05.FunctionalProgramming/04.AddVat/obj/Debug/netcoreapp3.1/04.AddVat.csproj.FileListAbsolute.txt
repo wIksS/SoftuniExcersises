@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.exe
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.deps.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.runtimeconfig.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\bin\Debug\netcoreapp3.1\04.AddVat.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.dll
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.pdb
+C:\Users\Viktor\source\repos\FunctionalProgramming\04.AddVat\obj\Debug\netcoreapp3.1\04.AddVat.genruntimeconfig.cache
