@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.exe
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.deps.json
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.runtimeconfig.json
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\bin\Debug\netcoreapp3.1\TryParseSoftuni.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\TryParseSoftuni\obj\Debug\netcoreapp3.1\TryParseSoftuni.genruntimeconfig.cache

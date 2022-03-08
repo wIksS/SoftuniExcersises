@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.exe
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.deps.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.runtimeconfig.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\ref\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\net5.0\IsKeyword.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\ref\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\net5.0\IsKeyword.genruntimeconfig.cache

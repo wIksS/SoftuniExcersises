@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\Viktor\source\repos\Inheritance\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache

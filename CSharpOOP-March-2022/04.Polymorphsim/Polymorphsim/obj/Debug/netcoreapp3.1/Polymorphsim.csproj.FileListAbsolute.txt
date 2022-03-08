@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.exe
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.deps.json
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.runtimeconfig.json
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.dll
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\bin\Debug\netcoreapp3.1\Polymorphsim.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.dll
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\Polymorphsim\obj\Debug\netcoreapp3.1\Polymorphsim.genruntimeconfig.cache

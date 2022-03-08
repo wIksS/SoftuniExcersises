@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.exe
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.deps.json
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.runtimeconfig.json
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\bin\Debug\netcoreapp3.1\Finally.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\Finally\obj\Debug\netcoreapp3.1\Finally.genruntimeconfig.cache

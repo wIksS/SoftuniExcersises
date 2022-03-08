@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.exe
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.deps.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.runtimeconfig.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\bin\Debug\netcoreapp3.1\IsKeyword.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.dll
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.pdb
+C:\Users\Viktor\source\repos\Polymorphsim\IsKeyword\obj\Debug\netcoreapp3.1\IsKeyword.genruntimeconfig.cache

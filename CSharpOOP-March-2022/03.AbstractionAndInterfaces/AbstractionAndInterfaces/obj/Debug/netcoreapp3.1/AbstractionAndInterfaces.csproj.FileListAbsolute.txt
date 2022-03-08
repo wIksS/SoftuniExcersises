@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.exe
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.deps.json
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.runtimeconfig.json
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.dll
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionAndInterfaces.pdb
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.dll
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.pdb
+C:\Users\Viktor\source\repos\AbstractionAndInterfaces\AbstractionAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionAndInterfaces.genruntimeconfig.cache

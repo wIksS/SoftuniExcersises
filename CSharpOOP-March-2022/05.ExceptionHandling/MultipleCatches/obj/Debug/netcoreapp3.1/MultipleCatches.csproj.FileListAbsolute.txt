@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.exe
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.deps.json
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.runtimeconfig.json
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\bin\Debug\netcoreapp3.1\MultipleCatches.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\MultipleCatches\obj\Debug\netcoreapp3.1\MultipleCatches.genruntimeconfig.cache

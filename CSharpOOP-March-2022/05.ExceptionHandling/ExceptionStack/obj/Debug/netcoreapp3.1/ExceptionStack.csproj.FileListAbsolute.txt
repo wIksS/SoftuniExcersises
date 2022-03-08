@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.exe
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.deps.json
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.runtimeconfig.json
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\bin\Debug\netcoreapp3.1\ExceptionStack.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\ExceptionStack\obj\Debug\netcoreapp3.1\ExceptionStack.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Viktor\source\repos\Inheritance\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

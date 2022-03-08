@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.exe
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.deps.json
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.runtimeconfig.json
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\bin\Debug\netcoreapp3.1\InnerExceptions.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.dll
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.pdb
+C:\Users\Viktor\source\repos\ExceptionHandling\InnerExceptions\obj\Debug\netcoreapp3.1\InnerExceptions.genruntimeconfig.cache
