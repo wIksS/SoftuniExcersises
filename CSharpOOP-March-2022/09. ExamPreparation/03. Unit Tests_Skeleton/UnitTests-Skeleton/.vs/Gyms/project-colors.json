@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "838df7ff-38af-4c19-811b-e198ec73f7e1": {
+      "ProjectGuid": "838df7ff-38af-4c19-811b-e198ec73f7e1",
+      "DisplayName": "Gyms",
+      "ColorIndex": 0
+    },
+    "95305376-1ad8-4e54-9b8b-f8ecbdd2d234": {
+      "ProjectGuid": "95305376-1ad8-4e54-9b8b-f8ecbdd2d234",
+      "DisplayName": "Gyms.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

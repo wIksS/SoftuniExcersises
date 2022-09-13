@@ -11,3 +11,17 @@ C:\Users\Viktor\source\repos\AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3
 C:\Users\Viktor\source\repos\AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.dll
 C:\Users\Viktor\source\repos\AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.pdb
 C:\Users\Viktor\source\repos\AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharpOOP-March-2022\03.AbstractionAndInterfaces\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache

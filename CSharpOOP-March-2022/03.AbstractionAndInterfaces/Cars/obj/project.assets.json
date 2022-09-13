@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\Cars\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\Cars\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\Cars\\Cars.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\Cars\\Cars.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\Cars\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\Cars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

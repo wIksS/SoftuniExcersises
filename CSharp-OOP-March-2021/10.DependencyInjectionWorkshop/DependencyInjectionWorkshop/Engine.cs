@@ -25,9 +25,9 @@ namespace DependencyInjectionWorkshop
             this.reader = reader;
             gameObjects = new List<IGameObject>();
             enemies = new List<IGameObject>();
-            ball = InjectorSingleton.Instance.Resolve<Ball>();
+            ball = InjectorSingleton.Instance.Inject<Ball>();
             gameObjects.Add(ball);
-            enemies.Add(InjectorSingleton.Instance.Resolve<Enemy>());
+            enemies.Add(InjectorSingleton.Instance.Inject<Enemy>());
         }
 
         public void Start()

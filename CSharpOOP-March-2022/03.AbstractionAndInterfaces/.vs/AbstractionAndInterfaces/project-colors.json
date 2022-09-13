@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "724b0f44-8d58-481c-9c28-7014521dbd05": {
+      "ProjectGuid": "724b0f44-8d58-481c-9c28-7014521dbd05",
+      "DisplayName": "Game",
+      "ColorIndex": 0
+    },
+    "0d6972c4-e466-4ca6-aa82-75b650441a16": {
+      "ProjectGuid": "0d6972c4-e466-4ca6-aa82-75b650441a16",
+      "DisplayName": "Cars",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

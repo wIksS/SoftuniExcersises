@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.exe
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.deps.json
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.runtimeconfig.json
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\bin\Debug\netcoreapp3.1\Performance.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\Performance\obj\Debug\netcoreapp3.1\Performance.genruntimeconfig.cache

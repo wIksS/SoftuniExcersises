@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.exe
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.deps.json
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.runtimeconfig.json
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\bin\Debug\netcoreapp3.1\QueueExampels.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\QueueExampels\obj\Debug\netcoreapp3.1\QueueExampels.genruntimeconfig.cache

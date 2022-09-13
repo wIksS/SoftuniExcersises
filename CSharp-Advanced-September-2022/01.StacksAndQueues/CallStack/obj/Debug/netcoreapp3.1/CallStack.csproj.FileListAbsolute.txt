@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.exe
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.deps.json
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.runtimeconfig.json
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\bin\Debug\netcoreapp3.1\CallStack.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.dll
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.pdb
+C:\Users\Viktor\source\repos\StacksAndQueues\CallStack\obj\Debug\netcoreapp3.1\CallStack.genruntimeconfig.cache

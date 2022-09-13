@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "M4RlhAiGuCq7bgt93gOBhSSf76rc+Xkebyti0XsPQueD6zMBI+EHYJriye9TeLJKR8+hqyseVkIiRRfB8YltYA==",
+  "dgSpecHash": "2qUdlhcbnQwQ805fxOfztcV2xmNyEBPEV2O1qxwwu0nBG9W/Rhu9dzDN3orHOaMo+Z6mvSyhB7nShidGkOk++Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\DependencyInjectionWorkshop\\MicrosoftDepencyInjection\\MicrosoftDepencyInjection.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-March-2021\\10.DependencyInjectionWorkshop\\MicrosoftDepencyInjection\\MicrosoftDepencyInjection.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

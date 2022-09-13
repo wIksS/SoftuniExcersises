@@ -11,7 +11,7 @@ namespace DependencyInjectionWorkshop
     {
         static void Main(string[] args)
         {
-            Engine engine = InjectorSingleton.Instance.Resolve<Engine>();
+            Engine engine = InjectorSingleton.Instance.Inject<Engine>();
 
             engine.Start();
             engine.End();

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\AbstractionAndInterfaces\\AbstractionAndInterfaces.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\AbstractionAndInterfaces\\AbstractionAndInterfaces.csproj",
       "projectName": "AbstractionAndInterfaces",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\AbstractionAndInterfaces\\AbstractionAndInterfaces.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\AbstractionAndInterfaces\\AbstractionAndInterfaces.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\AbstractionAndInterfaces\\AbstractionAndInterfaces\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpOOP-March-2022\\03.AbstractionAndInterfaces\\AbstractionAndInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
