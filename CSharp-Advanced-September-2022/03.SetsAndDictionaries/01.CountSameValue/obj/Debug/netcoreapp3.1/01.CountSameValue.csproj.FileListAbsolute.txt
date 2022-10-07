@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\bin\Debug\netcoreapp3.1\01.CountSameValue.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\01.CountSameValue\obj\Debug\netcoreapp3.1\01.CountSameValue.genruntimeconfig.cache

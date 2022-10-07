@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.exe
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.deps.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\bin\Debug\netcoreapp3.1\05.DefiningClassesSeptember.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\05.DefiningClassesSeptember\obj\Debug\netcoreapp3.1\05.DefiningClassesSeptember.genruntimeconfig.cache

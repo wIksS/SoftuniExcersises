@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.exe
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.dll
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\bin\Debug\netcoreapp3.1\ReadingJaggedArrays.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.dll
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\02.Matrices\ReadingJaggedArrays\obj\Debug\netcoreapp3.1\ReadingJaggedArrays.csproj.AssemblyReference.cache

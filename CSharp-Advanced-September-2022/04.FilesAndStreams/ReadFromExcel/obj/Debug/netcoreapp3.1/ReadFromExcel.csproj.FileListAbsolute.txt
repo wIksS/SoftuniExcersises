@@ -1,0 +1,17 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ReadFromExcel.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.csproj.CopyComplete
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromExcel\obj\Debug\netcoreapp3.1\ReadFromExcel.genruntimeconfig.cache

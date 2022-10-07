@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBfiWkpetBvhN3kvDhOO8y/Y+fseQG6XQBLahmmabJJWU22acIshn88gniR5yx+Hus4RlEqfQElYxrp3DrxdLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\04.FilesAndStreams\\ReadFromExcel\\ReadFromExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

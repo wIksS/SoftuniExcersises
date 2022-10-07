@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.exe
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.dll
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\bin\Debug\netcoreapp3.1\Cubes.pdb
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.dll
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.pdb
+C:\Users\Viktor\source\repos\02.Matrices\Cubes\obj\Debug\netcoreapp3.1\Cubes.genruntimeconfig.cache

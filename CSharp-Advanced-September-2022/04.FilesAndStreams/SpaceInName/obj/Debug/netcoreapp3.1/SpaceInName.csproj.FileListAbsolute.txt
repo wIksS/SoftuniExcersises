@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\bin\Debug\netcoreapp3.1\SpaceInName.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\SpaceInName\obj\Debug\netcoreapp3.1\SpaceInName.genruntimeconfig.cache

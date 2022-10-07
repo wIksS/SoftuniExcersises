@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\bin\Debug\netcoreapp3.1\04.NestedDictionaries.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\04.NestedDictionaries\obj\Debug\netcoreapp3.1\04.NestedDictionaries.genruntimeconfig.cache

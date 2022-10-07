@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\bin\Debug\netcoreapp3.1\02.TakeTop3.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\02.TakeTop3\obj\Debug\netcoreapp3.1\02.TakeTop3.genruntimeconfig.cache

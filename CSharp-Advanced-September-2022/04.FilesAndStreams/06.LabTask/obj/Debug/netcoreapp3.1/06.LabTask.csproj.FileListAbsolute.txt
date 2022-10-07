@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\bin\Debug\netcoreapp3.1\06.LabTask.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\06.LabTask\obj\Debug\netcoreapp3.1\06.LabTask.genruntimeconfig.cache

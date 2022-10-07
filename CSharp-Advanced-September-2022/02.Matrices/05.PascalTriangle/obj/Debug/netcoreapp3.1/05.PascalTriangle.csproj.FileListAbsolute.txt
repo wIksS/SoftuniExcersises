@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.exe
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.dll
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\bin\Debug\netcoreapp3.1\05.PascalTriangle.pdb
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.dll
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.pdb
+C:\Users\Viktor\source\repos\02.Matrices\05.PascalTriangle\obj\Debug\netcoreapp3.1\05.PascalTriangle.genruntimeconfig.cache

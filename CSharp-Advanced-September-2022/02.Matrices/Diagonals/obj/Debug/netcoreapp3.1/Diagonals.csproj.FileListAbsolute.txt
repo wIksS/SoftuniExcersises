@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.exe
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.dll
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\bin\Debug\netcoreapp3.1\Diagonals.pdb
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.dll
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.pdb
+C:\Users\Viktor\source\repos\02.Matrices\Diagonals\obj\Debug\netcoreapp3.1\Diagonals.genruntimeconfig.cache

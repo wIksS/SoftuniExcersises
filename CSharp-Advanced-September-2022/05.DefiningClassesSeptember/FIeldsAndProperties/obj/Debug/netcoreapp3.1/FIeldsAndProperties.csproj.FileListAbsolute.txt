@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.exe
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.deps.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\bin\Debug\netcoreapp3.1\FIeldsAndProperties.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\FIeldsAndProperties\obj\Debug\netcoreapp3.1\FIeldsAndProperties.genruntimeconfig.cache

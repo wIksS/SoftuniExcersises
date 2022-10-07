@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.exe
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.dll
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\bin\Debug\netcoreapp3.1\04.MatrixModification.pdb
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.dll
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.pdb
+C:\Users\Viktor\source\repos\02.Matrices\04.MatrixModification\obj\Debug\netcoreapp3.1\04.MatrixModification.genruntimeconfig.cache

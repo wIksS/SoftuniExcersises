@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.exe
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.dll
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\bin\Debug\netcoreapp3.1\ShortReading.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.dll
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ShortReading\obj\Debug\netcoreapp3.1\ShortReading.genruntimeconfig.cache

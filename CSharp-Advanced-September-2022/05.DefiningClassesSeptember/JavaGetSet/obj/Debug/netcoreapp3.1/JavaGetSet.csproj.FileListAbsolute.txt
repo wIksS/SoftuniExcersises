@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.exe
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.deps.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\bin\Debug\netcoreapp3.1\JavaGetSet.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.dll
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.pdb
+C:\Users\Viktor\source\repos\05.DefiningClassesSeptember\JavaGetSet\obj\Debug\netcoreapp3.1\JavaGetSet.genruntimeconfig.cache

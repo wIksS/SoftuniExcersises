@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1616b2b1-3b62-4db8-9959-a7ce5617bdd7": {
+      "ProjectGuid": "1616b2b1-3b62-4db8-9959-a7ce5617bdd7",
+      "DisplayName": "05.DefiningClassesSeptember",
+      "ColorIndex": 0
+    },
+    "026219be-1981-45a1-9c28-455745ffb88f": {
+      "ProjectGuid": "026219be-1981-45a1-9c28-455745ffb88f",
+      "DisplayName": "Dice",
+      "ColorIndex": 1
+    },
+    "eb53b6b3-601c-4677-b6a9-a8e01cc3398f": {
+      "ProjectGuid": "eb53b6b3-601c-4677-b6a9-a8e01cc3398f",
+      "DisplayName": "FIeldsAndProperties",
+      "ColorIndex": 2
+    },
+    "310ed4fb-d761-4d01-9a57-b233d29dbb5b": {
+      "ProjectGuid": "310ed4fb-d761-4d01-9a57-b233d29dbb5b",
+      "DisplayName": "JavaGetSet",
+      "ColorIndex": 3
+    },
+    "79a8b424-48f8-4898-bef1-625c5d13d81b": {
+      "ProjectGuid": "79a8b424-48f8-4898-bef1-625c5d13d81b",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 4
+    },
+    "6dcca1aa-37f4-45c4-a5db-2a7ae199deb6": {
+      "ProjectGuid": "6dcca1aa-37f4-45c4-a5db-2a7ae199deb6",
+      "DisplayName": "Constructors",
+      "ColorIndex": 5
+    },
+    "5b09a58b-a25e-48dc-bfba-484c19d3dc3b": {
+      "ProjectGuid": "5b09a58b-a25e-48dc-bfba-484c19d3dc3b",
+      "DisplayName": "Enumerations",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4be3d6cd-4fb1-4a55-b304-cf2bb29549b1": {
+      "ProjectGuid": "4be3d6cd-4fb1-4a55-b304-cf2bb29549b1",
+      "DisplayName": "Static",
+      "ColorIndex": 7
+    },
+    "eec694f0-2f05-4dd1-8653-56bed24b365b": {
+      "ProjectGuid": "eec694f0-2f05-4dd1-8653-56bed24b365b",
+      "DisplayName": "Namespaces",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

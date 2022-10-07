@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.exe
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.dll
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\bin\Debug\netcoreapp3.1\Matrices.pdb
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.dll
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.pdb
+C:\Users\Viktor\source\repos\02.Matrices\02.Matrices\obj\Debug\netcoreapp3.1\Matrices.genruntimeconfig.cache

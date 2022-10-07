@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d87a6170-565d-4e21-8762-dba62fa6d970": {
+      "ProjectGuid": "d87a6170-565d-4e21-8762-dba62fa6d970",
+      "DisplayName": "04.FilesAndStreams",
+      "ColorIndex": 0
+    },
+    "bb832356-f6d1-4229-9763-7afbc8345d60": {
+      "ProjectGuid": "bb832356-f6d1-4229-9763-7afbc8345d60",
+      "DisplayName": "StreamWriterExample",
+      "ColorIndex": 1
+    },
+    "96a11e58-c734-427c-984a-7b3de6c8055e": {
+      "ProjectGuid": "96a11e58-c734-427c-984a-7b3de6c8055e",
+      "DisplayName": "01.LineNumbers",
+      "ColorIndex": 2
+    },
+    "084bd3d8-170e-4141-a78d-e530caa0b3d2": {
+      "ProjectGuid": "084bd3d8-170e-4141-a78d-e530caa0b3d2",
+      "DisplayName": "ReadFromWord",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "595eddd3-8613-46d3-8a52-2da89dfe2036": {
+      "ProjectGuid": "595eddd3-8613-46d3-8a52-2da89dfe2036",
+      "DisplayName": "02.PrintOddLines",
+      "ColorIndex": 4
+    },
+    "e5bd0085-c6a2-4b72-a658-566bc20ba4ee": {
+      "ProjectGuid": "e5bd0085-c6a2-4b72-a658-566bc20ba4ee",
+      "DisplayName": "SpaceInName",
+      "ColorIndex": 5
+    },
+    "dc3e5fe5-3fa7-4739-9dee-a8c1870a4bfe": {
+      "ProjectGuid": "dc3e5fe5-3fa7-4739-9dee-a8c1870a4bfe",
+      "DisplayName": "OddLines",
+      "ColorIndex": 6
+    },
+    "59fa6669-e19c-4ac5-b001-41bd07fe9dad": {
+      "ProjectGuid": "59fa6669-e19c-4ac5-b001-41bd07fe9dad",
+      "DisplayName": "Streams",
+      "ColorIndex": 7
+    },
+    "4b1199b6-67ce-412d-a66d-12977c9e0c71": {
+      "ProjectGuid": "4b1199b6-67ce-412d-a66d-12977c9e0c71",
+      "DisplayName": "Encryption",
+      "ColorIndex": 8
+    },
+    "53cb380f-89d6-43aa-9459-31f980bd105a": {
+      "ProjectGuid": "53cb380f-89d6-43aa-9459-31f980bd105a",
+      "DisplayName": "FileClass",
+      "ColorIndex": 9
+    },
+    "6526bba3-e7f9-4f3f-a537-86f09345860b": {
+      "ProjectGuid": "6526bba3-e7f9-4f3f-a537-86f09345860b",
+      "DisplayName": "Directories",
+      "ColorIndex": 10
+    },
+    "ccf9d812-6de1-43b1-82f5-6231bd125998": {
+      "ProjectGuid": "ccf9d812-6de1-43b1-82f5-6231bd125998",
+      "DisplayName": "06.DirectoryInfo",
+      "ColorIndex": 11
+    },
+    "5f371a6b-a2d4-4ddf-9502-f4ef06bf8368": {
+      "ProjectGuid": "5f371a6b-a2d4-4ddf-9502-f4ef06bf8368",
+      "DisplayName": "06.LabTask",
+      "ColorIndex": 12
+    },
+    "2f63aff3-9a12-49ab-b49b-515cec75528b": {
+      "ProjectGuid": "2f63aff3-9a12-49ab-b49b-515cec75528b",
+      "DisplayName": "ExtractSpecialBytes",
+      "ColorIndex": 13
+    },
+    "ed1db65c-c3e6-4fe3-add3-00dce55371db": {
+      "ProjectGuid": "ed1db65c-c3e6-4fe3-add3-00dce55371db",
+      "DisplayName": "07.Lab-SplitFiles",
+      "ColorIndex": 14
+    },
+    "4eb42f85-379b-4819-9f01-4edd4ebe8f33": {
+      "ProjectGuid": "4eb42f85-379b-4819-9f01-4edd4ebe8f33",
+      "DisplayName": "ReadFromExcel",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

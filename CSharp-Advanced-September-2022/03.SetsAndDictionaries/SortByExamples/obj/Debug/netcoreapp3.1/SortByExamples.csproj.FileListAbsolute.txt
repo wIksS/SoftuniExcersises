@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\bin\Debug\netcoreapp3.1\SortByExamples.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\SortByExamples\obj\Debug\netcoreapp3.1\SortByExamples.genruntimeconfig.cache

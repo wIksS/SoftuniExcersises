@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\bin\Debug\netcoreapp3.1\05.Continents.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\05.Continents\obj\Debug\netcoreapp3.1\05.Continents.genruntimeconfig.cache

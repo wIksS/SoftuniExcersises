@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\bin\Debug\netcoreapp3.1\02.PrintOddLines.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\02.PrintOddLines\obj\Debug\netcoreapp3.1\02.PrintOddLines.genruntimeconfig.cache

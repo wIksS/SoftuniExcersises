@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.exe
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.deps.json
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.dll
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\bin\Debug\netcoreapp3.1\ListDownsize.pdb
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.dll
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.pdb
+C:\Users\Viktor\source\repos\06.LinkedList\ListDownsize\obj\Debug\netcoreapp3.1\ListDownsize.genruntimeconfig.cache

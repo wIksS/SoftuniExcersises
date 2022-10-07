@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\bin\Debug\netcoreapp3.1\ReadFromWord.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\ReadFromWord\obj\Debug\netcoreapp3.1\ReadFromWord.genruntimeconfig.cache

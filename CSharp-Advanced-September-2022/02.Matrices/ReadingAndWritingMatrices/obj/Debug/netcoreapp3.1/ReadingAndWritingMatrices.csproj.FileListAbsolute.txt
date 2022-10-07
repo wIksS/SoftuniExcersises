@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.exe
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.dll
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\bin\Debug\netcoreapp3.1\ReadingAndWritingMatrices.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.dll
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ReadingAndWritingMatrices\obj\Debug\netcoreapp3.1\ReadingAndWritingMatrices.genruntimeconfig.cache

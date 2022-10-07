@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7933f8a-d633-4711-b4e9-1ab8d4a8c368": {
+      "ProjectGuid": "d7933f8a-d633-4711-b4e9-1ab8d4a8c368",
+      "DisplayName": "05.DefiningClasses",
+      "ColorIndex": 0
+    },
+    "0e2abb61-8f1d-432a-b0d4-b9e9f28c4aa6": {
+      "ProjectGuid": "0e2abb61-8f1d-432a-b0d4-b9e9f28c4aa6",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 1
+    },
+    "1bf639b0-387f-42d0-9578-9dd2fa8f7057": {
+      "ProjectGuid": "1bf639b0-387f-42d0-9578-9dd2fa8f7057",
+      "DisplayName": "Constructors",
+      "ColorIndex": 2
+    },
+    "5e279f74-ae7f-4fc5-aaac-1ba10ba80ca4": {
+      "ProjectGuid": "5e279f74-ae7f-4fc5-aaac-1ba10ba80ca4",
+      "DisplayName": "Enumerations",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

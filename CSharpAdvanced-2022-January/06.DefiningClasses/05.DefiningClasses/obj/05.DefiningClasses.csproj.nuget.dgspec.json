@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj",
         "projectName": "05.DefiningClasses",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\05.DefiningClasses\\05.DefiningClasses.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\05.DefiningClasses\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\05.DefiningClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

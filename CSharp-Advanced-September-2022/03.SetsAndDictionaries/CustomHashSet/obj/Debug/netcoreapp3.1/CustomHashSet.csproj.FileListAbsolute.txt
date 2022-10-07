@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.exe
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.deps.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.dll
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.pdb
+C:\Users\Viktor\source\repos\03.SetsAndDictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.genruntimeconfig.cache

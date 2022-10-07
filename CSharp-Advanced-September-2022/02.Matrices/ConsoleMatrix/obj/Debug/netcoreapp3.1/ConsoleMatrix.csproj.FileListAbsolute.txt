@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.exe
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.dll
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\bin\Debug\netcoreapp3.1\ConsoleMatrix.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.dll
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.pdb
+C:\Users\Viktor\source\repos\02.Matrices\ConsoleMatrix\obj\Debug\netcoreapp3.1\ConsoleMatrix.genruntimeconfig.cache

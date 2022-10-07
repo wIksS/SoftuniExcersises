@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RKrjQ5LJoDPp+tdmEPlJ6X1gwuzwj4zmJCmtbf9IXw2FJr5JPa14UMgJKEAFI38uyFsHMm0TZktNjjKy4B+5Vg==",
+  "dgSpecHash": "qn70+08oq13MKu0QB3sfAVE75mBY+u/+uccDprx0uB1EQNZTNwOKOkxsNS7CAwelin0CFmZQgu1wdcacck4hew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\05.DefiningClasses\\Namespaces\\Namespaces.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharpAdvanced-2022-January\\06.DefiningClasses\\Namespaces\\Namespaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\spectre.console\\0.43.0\\spectre.console.0.43.0.nupkg.sha512",
     "C:\\Users\\Viktor\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"

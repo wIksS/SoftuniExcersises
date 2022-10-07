@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.exe
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.deps.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\bin\Debug\netcoreapp3.1\StreamWriterExample.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.dll
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.pdb
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\04.FilesAndStreams\StreamWriterExampel\obj\Debug\netcoreapp3.1\StreamWriterExample.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.exe
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.deps.json
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.dll
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\bin\Debug\netcoreapp3.1\02.SumColumns.pdb
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.dll
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.pdb
+C:\Users\Viktor\source\repos\02.Matrices\02.SumColumns\obj\Debug\netcoreapp3.1\02.SumColumns.genruntimeconfig.cache
