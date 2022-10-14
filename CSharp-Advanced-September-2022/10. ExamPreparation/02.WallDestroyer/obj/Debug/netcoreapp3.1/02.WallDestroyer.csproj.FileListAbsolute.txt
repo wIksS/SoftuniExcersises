@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.exe
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.deps.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.runtimeconfig.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.genruntimeconfig.cache

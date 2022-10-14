@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.exe
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.deps.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.dll
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\bin\Debug\netcoreapp3.1\ObjectCasting.pdb
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.dll
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.pdb
+C:\Users\Viktor\source\repos\08.Generics\ObjectCasting\obj\Debug\netcoreapp3.1\ObjectCasting.genruntimeconfig.cache

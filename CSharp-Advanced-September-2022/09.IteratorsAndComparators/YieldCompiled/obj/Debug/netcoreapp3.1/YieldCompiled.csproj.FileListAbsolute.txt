@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.exe
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.deps.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\bin\Debug\netcoreapp3.1\YieldCompiled.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldCompiled\obj\Debug\netcoreapp3.1\YieldCompiled.genruntimeconfig.cache

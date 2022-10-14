@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.exe
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.deps.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\bin\Debug\netcoreapp3.1\YieldReturn2.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\YieldReturn2\obj\Debug\netcoreapp3.1\YieldReturn2.genruntimeconfig.cache

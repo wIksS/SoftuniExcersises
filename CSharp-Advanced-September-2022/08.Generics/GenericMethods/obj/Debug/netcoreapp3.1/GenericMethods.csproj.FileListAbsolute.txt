@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.exe
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.deps.json
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.dll
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.pdb
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.dll
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.pdb
+C:\Users\Viktor\source\repos\08.Generics\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.genruntimeconfig.cache

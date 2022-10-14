@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\Viktor\source\repos\08.Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.exe
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.deps.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\bin\Debug\netcoreapp3.1\Comparable.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Comparable\obj\Debug\netcoreapp3.1\Comparable.genruntimeconfig.cache

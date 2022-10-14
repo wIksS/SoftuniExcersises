@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.exe
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.deps.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\bin\Debug\netcoreapp3.1\IntEnumerator.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\IntEnumerator\obj\Debug\netcoreapp3.1\IntEnumerator.genruntimeconfig.cache

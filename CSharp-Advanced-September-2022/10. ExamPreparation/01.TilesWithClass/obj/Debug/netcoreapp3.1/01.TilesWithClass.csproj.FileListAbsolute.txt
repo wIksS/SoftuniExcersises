@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.exe
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.deps.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.runtimeconfig.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\bin\Debug\netcoreapp3.1\01.TilesWithClass.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\01.TilesWithClass\obj\Debug\netcoreapp3.1\01.TilesWithClass.genruntimeconfig.cache

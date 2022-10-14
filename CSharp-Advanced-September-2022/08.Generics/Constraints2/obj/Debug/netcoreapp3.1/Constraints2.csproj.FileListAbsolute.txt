@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.exe
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.deps.json
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.dll
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\bin\Debug\netcoreapp3.1\Constraints2.pdb
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.dll
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.pdb
+C:\Users\Viktor\source\repos\08.Generics\Constraints2\obj\Debug\netcoreapp3.1\Constraints2.genruntimeconfig.cache

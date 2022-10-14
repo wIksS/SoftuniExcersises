@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\Viktor\source\repos\08.Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

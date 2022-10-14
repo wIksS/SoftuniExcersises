@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.exe
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.deps.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\bin\Debug\netcoreapp3.1\Params.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.dll
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.pdb
+C:\Users\Viktor\source\repos\09.IteratorsAndComparators\Params\obj\Debug\netcoreapp3.1\Params.genruntimeconfig.cache

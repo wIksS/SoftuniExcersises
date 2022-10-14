@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\Viktor\source\repos\10. ExamPreparation\Renovators-Skeleton\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

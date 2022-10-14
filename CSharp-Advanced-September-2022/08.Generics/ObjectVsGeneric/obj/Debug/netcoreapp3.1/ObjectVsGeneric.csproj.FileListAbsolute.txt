@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.exe
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.deps.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.dll
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\bin\Debug\netcoreapp3.1\ObjectVsGeneric.pdb
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.dll
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.pdb
+C:\Users\Viktor\source\repos\08.Generics\ObjectVsGeneric\obj\Debug\netcoreapp3.1\ObjectVsGeneric.genruntimeconfig.cache
