@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.exe
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.deps.json
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.dll
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\bin\Debug\netcoreapp3.1\VirtualMethodsInConstructors.pdb
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.dll
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.pdb
+C:\Users\Viktor\source\repos\06.Solid\VirtualMethodsInConstructors\obj\Debug\netcoreapp3.1\VirtualMethodsInConstructors.genruntimeconfig.cache

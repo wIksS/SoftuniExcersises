@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\bin\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\StructExample\obj\Debug\netcoreapp3.1\StructExample.genruntimeconfig.cache

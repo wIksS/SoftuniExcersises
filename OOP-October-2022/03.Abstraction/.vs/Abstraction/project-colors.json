@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "815e46db-0624-4be6-a49d-e0622afb8aa5": {
+      "ProjectGuid": "815e46db-0624-4be6-a49d-e0622afb8aa5",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 0
+    },
+    "1cecf371-f433-420e-9600-0d1f08db1e32": {
+      "ProjectGuid": "1cecf371-f433-420e-9600-0d1f08db1e32",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 1
+    },
+    "b0b59201-808c-4391-8a45-7a96811f24bd": {
+      "ProjectGuid": "b0b59201-808c-4391-8a45-7a96811f24bd",
+      "DisplayName": "Shapes",
+      "ColorIndex": 2
+    },
+    "4f6c2351-1a35-4df4-bfde-4e2eaf3debff": {
+      "ProjectGuid": "4f6c2351-1a35-4df4-bfde-4e2eaf3debff",
+      "DisplayName": "AbstractClass",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "06ec2211-06c4-4cf0-8173-24bab237d4a0": {
+      "ProjectGuid": "06ec2211-06c4-4cf0-8173-24bab237d4a0",
+      "DisplayName": "Cars",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

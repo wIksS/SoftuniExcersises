@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "396cb62e-a617-4b13-a7bd-2b7e4158eab6": {
+      "ProjectGuid": "396cb62e-a617-4b13-a7bd-2b7e4158eab6",
+      "DisplayName": "DependencyInjectionDrawer",
+      "ColorIndex": 0
+    },
+    "759cde41-700c-43f1-9a54-d6edfd04c70e": {
+      "ProjectGuid": "759cde41-700c-43f1-9a54-d6edfd04c70e",
+      "DisplayName": "DependencyInjectionPromotions",
+      "ColorIndex": 1
+    },
+    "f3acb5e6-b987-4dc3-8fe1-be331e59531c": {
+      "ProjectGuid": "f3acb5e6-b987-4dc3-8fe1-be331e59531c",
+      "DisplayName": "InterfaceSeggregation",
+      "ColorIndex": 2
+    },
+    "311a0dde-8ba2-4c95-a131-4137d5149c3e": {
+      "ProjectGuid": "311a0dde-8ba2-4c95-a131-4137d5149c3e",
+      "DisplayName": "LiskovSubstitutionPrinciple",
+      "ColorIndex": 3
+    },
+    "931231d4-3377-4fcd-9e79-ca5fe1548876": {
+      "ProjectGuid": "931231d4-3377-4fcd-9e79-ca5fe1548876",
+      "DisplayName": "VirtualMethodsInConstructors",
+      "ColorIndex": 4
+    },
+    "c5c9c10a-28c0-47b9-9838-861964b0c3b6": {
+      "ProjectGuid": "c5c9c10a-28c0-47b9-9838-861964b0c3b6",
+      "DisplayName": "DatabaseLiskov",
+      "ColorIndex": 5
+    },
+    "8375c20a-9f2e-4896-a6bf-537d7454f243": {
+      "ProjectGuid": "8375c20a-9f2e-4896-a6bf-537d7454f243",
+      "DisplayName": "RectangleLiskov",
+      "ColorIndex": 6
+    },
+    "393c305a-3dff-4a98-a28c-938e34f2536c": {
+      "ProjectGuid": "393c305a-3dff-4a98-a28c-938e34f2536c",
+      "DisplayName": "OpenClosedPromotions",
+      "ColorIndex": 7
+    },
+    "f82bf986-c552-4a52-b3bf-d9f6b670c1fc": {
+      "ProjectGuid": "f82bf986-c552-4a52-b3bf-d9f6b670c1fc",
+      "DisplayName": "OpenClosed",
+      "ColorIndex": 8
+    },
+    "da660122-fa72-43a4-bda4-68a9f6f6b836": {
+      "ProjectGuid": "da660122-fa72-43a4-bda4-68a9f6f6b836",
+      "DisplayName": "SingleResponsibilityAfter",
+      "ColorIndex": 9
+    },
+    "1517b9bb-b3bb-4b99-b064-2581bf720ca5": {
+      "ProjectGuid": "1517b9bb-b3bb-4b99-b064-2581bf720ca5",
+      "DisplayName": "SingleResponsibility-Before",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

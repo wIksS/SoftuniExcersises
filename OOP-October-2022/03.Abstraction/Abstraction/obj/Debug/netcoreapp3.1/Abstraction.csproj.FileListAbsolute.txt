@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Viktor\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

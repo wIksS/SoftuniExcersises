@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqdlHCGcgS6C1wYJy355Ib899c/ImIpeZnZHaCer3GoRG6wJhYS/8abQdKaLJJxIAE58JIZznTISvmrwj8mXrw==",
+  "dgSpecHash": "EdRinvhsSsRiOpu8SDcBnv4kwLf2SEK9EvNrVdC+nnjB6b30kAGyKM+Y4NhLWTehThGAQRpeOrDoiTwpwF8Ahg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\07. CSharp-OOP-SOLID-Demo-Resources\\Demo-Resources\\02. OCP\\P02. DrawingShape-Before\\P02. DrawingShape-Before.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-March-2021\\05.SOLID\\02. OCP\\P02. DrawingShape-Before\\P02. DrawingShape-Before.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

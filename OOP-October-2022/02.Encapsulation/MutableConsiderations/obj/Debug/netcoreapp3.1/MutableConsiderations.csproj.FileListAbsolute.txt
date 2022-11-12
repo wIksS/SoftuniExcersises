@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\bin\Debug\netcoreapp3.1\MutableConsiderations.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\MutableConsiderations\obj\Debug\netcoreapp3.1\MutableConsiderations.genruntimeconfig.cache

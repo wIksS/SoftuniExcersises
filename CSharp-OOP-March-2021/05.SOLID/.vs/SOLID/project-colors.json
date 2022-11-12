@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ec24c9c-942b-4b51-bcc6-20d0470a38d8": {
+      "ProjectGuid": "5ec24c9c-942b-4b51-bcc6-20d0470a38d8",
+      "DisplayName": "P01. DrawingShape-Before",
+      "ColorIndex": 0
+    },
+    "d2bfa197-bc51-491b-acc6-1e199b0ce603": {
+      "ProjectGuid": "d2bfa197-bc51-491b-acc6-1e199b0ce603",
+      "DisplayName": "P02. Books-Before",
+      "ColorIndex": 1
+    },
+    "4fb36ea3-65d2-439c-b848-859b8ad07846": {
+      "ProjectGuid": "4fb36ea3-65d2-439c-b848-859b8ad07846",
+      "DisplayName": "P01. FileStream-Before",
+      "ColorIndex": 2
+    },
+    "4446526e-b9ab-45bc-bdb6-626c630ef2c4": {
+      "ProjectGuid": "4446526e-b9ab-45bc-bdb6-626c630ef2c4",
+      "DisplayName": "Coupling",
+      "ColorIndex": 3
+    },
+    "e5da8547-bf39-4fc8-a9cc-c6897d5d1455": {
+      "ProjectGuid": "e5da8547-bf39-4fc8-a9cc-c6897d5d1455",
+      "DisplayName": "AdapterPattern",
+      "ColorIndex": 4
+    },
+    "4eef967e-1f22-4fa5-9b62-1d770188718c": {
+      "ProjectGuid": "4eef967e-1f22-4fa5-9b62-1d770188718c",
+      "DisplayName": "OpenClosed",
+      "ColorIndex": 5
+    },
+    "05b92667-885a-4b9b-a20a-b979c166be7b": {
+      "ProjectGuid": "05b92667-885a-4b9b-a20a-b979c166be7b",
+      "DisplayName": "Liskov",
+      "ColorIndex": 6
+    },
+    "aab05112-cfdb-44bb-929a-302c5b1cf105": {
+      "ProjectGuid": "aab05112-cfdb-44bb-929a-302c5b1cf105",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 7
+    },
+    "7b9226d6-abd5-48d4-8521-5cb03ebf7f54": {
+      "ProjectGuid": "7b9226d6-abd5-48d4-8521-5cb03ebf7f54",
+      "DisplayName": "P02. Worker-Before",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

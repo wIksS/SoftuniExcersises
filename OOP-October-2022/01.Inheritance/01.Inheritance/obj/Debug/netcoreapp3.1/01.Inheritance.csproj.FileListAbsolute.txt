@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.exe
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.deps.json
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.dll
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\bin\Debug\netcoreapp3.1\01.Inheritance.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.dll
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\01.Inheritance\obj\Debug\netcoreapp3.1\01.Inheritance.genruntimeconfig.cache

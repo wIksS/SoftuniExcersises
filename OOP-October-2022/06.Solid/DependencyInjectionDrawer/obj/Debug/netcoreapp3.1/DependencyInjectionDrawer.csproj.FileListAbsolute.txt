@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.exe
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.deps.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.dll
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\bin\Debug\netcoreapp3.1\DependencyInjectionDrawer.pdb
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.dll
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.pdb
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionDrawer\obj\Debug\netcoreapp3.1\DependencyInjectionDrawer.genruntimeconfig.cache

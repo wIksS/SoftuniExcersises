@@ -22,18 +22,18 @@ namespace OpenClosed
 
             ISortingStrategy soringStrategy = (ISortingStrategy)Activator.CreateInstance(strategy);
 
-            if (strategyName == "Merge")
-            {
-                soringStrategy = new MergeSorter();
-            }
-            if (strategyName == "Merge")
-            {
-                soringStrategy = new MergeSorter();
-            }
-            if (strategyName == "Merge")
-            {
-                soringStrategy = new MergeSorter();
-            }
+            //if (strategyName == "Merge")
+            //{
+            //    soringStrategy = new MergeSorter();
+            //}
+            //if (strategyName == "Merge")
+            //{
+            //    soringStrategy = new MergeSorter();
+            //}
+            //if (strategyName == "Merge")
+            //{
+            //    soringStrategy = new MergeSorter();
+            //}
 
             Sorter sorter = new Sorter(soringStrategy);
 

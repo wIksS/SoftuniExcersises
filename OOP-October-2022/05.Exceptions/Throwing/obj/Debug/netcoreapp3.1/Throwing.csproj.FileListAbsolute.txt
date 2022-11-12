@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.exe
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.dll
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\bin\Debug\netcoreapp3.1\Throwing.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.dll
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\Throwing\obj\Debug\netcoreapp3.1\Throwing.genruntimeconfig.cache

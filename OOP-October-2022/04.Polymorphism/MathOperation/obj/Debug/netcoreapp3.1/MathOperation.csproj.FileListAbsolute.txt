@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.genruntimeconfig.cache

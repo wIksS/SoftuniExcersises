@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.exe
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.dll
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.dll
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.genruntimeconfig.cache

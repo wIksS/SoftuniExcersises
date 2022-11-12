@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.exe
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\bin\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\Auth\obj\Debug\netcoreapp3.1\Auth.genruntimeconfig.cache

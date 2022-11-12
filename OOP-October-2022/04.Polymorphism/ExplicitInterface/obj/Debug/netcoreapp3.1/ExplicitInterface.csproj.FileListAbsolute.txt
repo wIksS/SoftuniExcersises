@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.genruntimeconfig.cache

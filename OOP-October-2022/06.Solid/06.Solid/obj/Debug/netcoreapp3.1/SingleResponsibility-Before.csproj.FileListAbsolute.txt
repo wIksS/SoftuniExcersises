@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.exe
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.deps.json
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.dll
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\bin\Debug\netcoreapp3.1\SingleResponsibility-Before.pdb
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.dll
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.pdb
+C:\Users\Viktor\source\repos\06.Solid\06.Solid\obj\Debug\netcoreapp3.1\SingleResponsibility-Before.genruntimeconfig.cache

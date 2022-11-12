@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache

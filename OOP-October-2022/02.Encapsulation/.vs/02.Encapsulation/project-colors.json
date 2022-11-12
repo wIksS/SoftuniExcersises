@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc031307-4740-435c-8ff8-60883d55485f": {
+      "ProjectGuid": "bc031307-4740-435c-8ff8-60883d55485f",
+      "DisplayName": "02.Encapsulation",
+      "ColorIndex": 0
+    },
+    "6882cb8a-dbe7-4ecf-9ad9-5e2d5425ea27": {
+      "ProjectGuid": "6882cb8a-dbe7-4ecf-9ad9-5e2d5425ea27",
+      "DisplayName": "RestarauntEncapsulation",
+      "ColorIndex": 1
+    },
+    "d4864a86-ddef-473e-ae46-b6c978436827": {
+      "ProjectGuid": "d4864a86-ddef-473e-ae46-b6c978436827",
+      "DisplayName": "RestarauntNoEncapsulation",
+      "ColorIndex": 2
+    },
+    "13e6f380-64d6-4ca2-b6a9-dfab678cc722": {
+      "ProjectGuid": "13e6f380-64d6-4ca2-b6a9-dfab678cc722",
+      "DisplayName": "ThisKeyword",
+      "ColorIndex": 3
+    },
+    "d367f38b-ec62-4fe7-a055-c98f4d3bedb8": {
+      "ProjectGuid": "d367f38b-ec62-4fe7-a055-c98f4d3bedb8",
+      "DisplayName": "Modifiers",
+      "ColorIndex": 4
+    },
+    "019e904d-0a24-4555-98e9-f852ea971482": {
+      "ProjectGuid": "019e904d-0a24-4555-98e9-f852ea971482",
+      "DisplayName": "ModifiersAnotherAssembly",
+      "ColorIndex": 5
+    },
+    "4b390746-1581-4fc4-8a1e-2b42db5c933f": {
+      "ProjectGuid": "4b390746-1581-4fc4-8a1e-2b42db5c933f",
+      "DisplayName": "PersonsInfo",
+      "ColorIndex": 6
+    },
+    "35e726f2-c0cf-47dd-8060-c2503d0f18d6": {
+      "ProjectGuid": "35e726f2-c0cf-47dd-8060-c2503d0f18d6",
+      "DisplayName": "MutableConsiderations",
+      "ColorIndex": 7
+    },
+    "73cea51f-c0e5-4ec2-b154-196a9eb4561a": {
+      "ProjectGuid": "73cea51f-c0e5-4ec2-b154-196a9eb4561a",
+      "DisplayName": "DecimalCOmma",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

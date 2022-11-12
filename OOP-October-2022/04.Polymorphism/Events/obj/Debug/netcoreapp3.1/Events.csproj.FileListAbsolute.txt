@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

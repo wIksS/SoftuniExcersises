@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\bin\Debug\netcoreapp3.1\AsKeyword.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\AsKeyword\obj\Debug\netcoreapp3.1\AsKeyword.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kC90GyEhkL58vnz4LgCEy3YActdWcuRnIlAEPxF9tOxnZz/6xTLJQ0xXOQiQhQX7GqrLJgB9I9Il/M0pcUf4hg==",
+  "dgSpecHash": "/00e76Uwh+hnOxUps/Tqwi+C34wiQ9T/6GwbVG4MkMSB4y+8g9CW4X6YkMitsTVEyUKUIK15PSRRnmN/E+v5aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\07. CSharp-OOP-SOLID-Demo-Resources\\Demo-Resources\\DependencyInversionAgain\\DependencyInversionAgain.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-March-2021\\05.SOLID\\DependencyInversionAgain\\DependencyInversionAgain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

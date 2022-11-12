@@ -10,3 +10,17 @@ C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\OpenC
 C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
 C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
 C:\Users\user\Downloads\07. CSharp-OOP-SOLID-Demo-Resources\Demo-Resources\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-March-2021\05.SOLID\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache

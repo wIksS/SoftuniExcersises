@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.exe
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.dll
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\bin\Debug\netcoreapp3.1\05.Exceptions.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.dll
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\05.Exceptions\obj\Debug\netcoreapp3.1\05.Exceptions.genruntimeconfig.cache

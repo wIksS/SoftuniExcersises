@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShapesWithPolymorphism/1.0.0": {
+        "runtime": {
+          "ShapesWithPolymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapesWithPolymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.exe
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.deps.json
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.dll
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\bin\Debug\netcoreapp3.1\OpenClosedPromotions.pdb
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.dll
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.pdb
+C:\Users\Viktor\source\repos\06.Solid\OpenClosedPromotions\obj\Debug\netcoreapp3.1\OpenClosedPromotions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.exe
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.dll
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\bin\Debug\netcoreapp3.1\ExceptionLifecycle.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.dll
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\ExceptionLifecycle\obj\Debug\netcoreapp3.1\ExceptionLifecycle.genruntimeconfig.cache

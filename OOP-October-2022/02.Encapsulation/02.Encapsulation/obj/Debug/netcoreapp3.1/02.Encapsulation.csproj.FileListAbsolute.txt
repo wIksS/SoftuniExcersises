@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\bin\Debug\netcoreapp3.1\02.Encapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\02.Encapsulation\obj\Debug\netcoreapp3.1\02.Encapsulation.genruntimeconfig.cache

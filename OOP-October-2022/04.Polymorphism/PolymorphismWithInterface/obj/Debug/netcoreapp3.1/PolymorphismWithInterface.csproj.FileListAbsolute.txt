@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\bin\Debug\netcoreapp3.1\PolymorphismWithInterface.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\PolymorphismWithInterface\obj\Debug\netcoreapp3.1\PolymorphismWithInterface.genruntimeconfig.cache

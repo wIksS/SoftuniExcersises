@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.exe
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.deps.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.runtimeconfig.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.dll
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\bin\Debug\netcoreapp3.1\TryCatchAll.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.dll
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.pdb
+C:\Users\Viktor\source\repos\05.Exceptions\TryCatchAll\obj\Debug\netcoreapp3.1\TryCatchAll.genruntimeconfig.cache

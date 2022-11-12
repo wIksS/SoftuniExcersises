@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75e1cb5c-f018-4c1e-90ed-446027e525d1": {
+      "ProjectGuid": "75e1cb5c-f018-4c1e-90ed-446027e525d1",
+      "DisplayName": "Auth",
+      "ColorIndex": 0
+    },
+    "0d81ba2e-0b64-43bd-a516-4de3061c7d34": {
+      "ProjectGuid": "0d81ba2e-0b64-43bd-a516-4de3061c7d34",
+      "DisplayName": "Calculator",
+      "ColorIndex": 1
+    },
+    "e5f7c5b4-427e-4f0c-a613-862e26d9af22": {
+      "ProjectGuid": "e5f7c5b4-427e-4f0c-a613-862e26d9af22",
+      "DisplayName": "InnerExceptions",
+      "ColorIndex": 2
+    },
+    "ff619eda-d987-4b45-9556-91c613033935": {
+      "ProjectGuid": "ff619eda-d987-4b45-9556-91c613033935",
+      "DisplayName": "CustomExceptions",
+      "ColorIndex": 3
+    },
+    "2983ae32-8632-44d2-919b-9cbe3d4d47d4": {
+      "ProjectGuid": "2983ae32-8632-44d2-919b-9cbe3d4d47d4",
+      "DisplayName": "ThrowExample",
+      "ColorIndex": 4
+    },
+    "6d5c4b49-889d-4c4b-a0f6-96cb0eae13c1": {
+      "ProjectGuid": "6d5c4b49-889d-4c4b-a0f6-96cb0eae13c1",
+      "DisplayName": "Documentation",
+      "ColorIndex": 5
+    },
+    "2cd043c3-61ee-436d-abae-1f384771c0ed": {
+      "ProjectGuid": "2cd043c3-61ee-436d-abae-1f384771c0ed",
+      "DisplayName": "ExceptionLifecycle",
+      "ColorIndex": 6
+    },
+    "b7b84647-0ae9-4125-84be-07c97b694e18": {
+      "ProjectGuid": "b7b84647-0ae9-4125-84be-07c97b694e18",
+      "DisplayName": "InnerException",
+      "ColorIndex": 7
+    },
+    "b945a774-1c35-4e7b-abaf-84f2d97287a3": {
+      "ProjectGuid": "b945a774-1c35-4e7b-abaf-84f2d97287a3",
+      "DisplayName": "Throwing",
+      "ColorIndex": 8
+    },
+    "b369dbe9-f54f-4702-add0-699046ed4e21": {
+      "ProjectGuid": "b369dbe9-f54f-4702-add0-699046ed4e21",
+      "DisplayName": "Finally",
+      "ColorIndex": 9
+    },
+    "575eb40a-3835-493e-8afc-d77cea89821d": {
+      "ProjectGuid": "575eb40a-3835-493e-8afc-d77cea89821d",
+      "DisplayName": "TryCatchFinally2",
+      "ColorIndex": 10
+    },
+    "0369592d-b41f-4dcf-98c9-48d63808b964": {
+      "ProjectGuid": "0369592d-b41f-4dcf-98c9-48d63808b964",
+      "DisplayName": "TryCatchFinally",
+      "ColorIndex": 11
+    },
+    "e49c7bfb-5789-46e6-ac5f-ce34fe3f0e5b": {
+      "ProjectGuid": "e49c7bfb-5789-46e6-ac5f-ce34fe3f0e5b",
+      "DisplayName": "TryCatchAll",
+      "ColorIndex": 12
+    },
+    "ab1b7c37-3b44-4929-915d-faf3ea09d75a": {
+      "ProjectGuid": "ab1b7c37-3b44-4929-915d-faf3ea09d75a",
+      "DisplayName": "TryCatch",
+      "ColorIndex": 13
+    },
+    "db1b65d0-bca3-40ea-9acf-bd29529195fc": {
+      "ProjectGuid": "db1b65d0-bca3-40ea-9acf-bd29529195fc",
+      "DisplayName": "05.Exceptions",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

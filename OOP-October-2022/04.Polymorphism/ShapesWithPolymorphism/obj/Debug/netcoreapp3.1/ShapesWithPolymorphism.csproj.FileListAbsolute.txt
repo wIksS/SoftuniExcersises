@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\bin\Debug\netcoreapp3.1\ShapesWithPolymorphism.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\ShapesWithPolymorphism\obj\Debug\netcoreapp3.1\ShapesWithPolymorphism.csproj.AssemblyReference.cache

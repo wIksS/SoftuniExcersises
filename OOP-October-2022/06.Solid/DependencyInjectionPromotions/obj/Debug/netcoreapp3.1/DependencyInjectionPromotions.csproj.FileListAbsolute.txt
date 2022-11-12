@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.exe
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.deps.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.runtimeconfig.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.dll
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\bin\Debug\netcoreapp3.1\DependencyInjectionPromotions.pdb
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.dll
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.pdb
+C:\Users\Viktor\source\repos\06.Solid\DependencyInjectionPromotions\obj\Debug\netcoreapp3.1\DependencyInjectionPromotions.genruntimeconfig.cache

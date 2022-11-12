@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.exe
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.deps.json
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.dll
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\bin\Debug\netcoreapp3.1\Shadowing.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.dll
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\01.Inheritance\Shadowing\obj\Debug\netcoreapp3.1\Shadowing.csproj.AssemblyReference.cache

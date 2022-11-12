@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.genruntimeconfig.cache

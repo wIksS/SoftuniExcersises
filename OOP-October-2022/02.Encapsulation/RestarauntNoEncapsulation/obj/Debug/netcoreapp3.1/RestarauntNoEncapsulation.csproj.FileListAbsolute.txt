@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\bin\Debug\netcoreapp3.1\RestarauntNoEncapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\RestarauntNoEncapsulation\obj\Debug\netcoreapp3.1\RestarauntNoEncapsulation.genruntimeconfig.cache

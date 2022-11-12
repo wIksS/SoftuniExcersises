@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.exe
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.deps.json
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.runtimeconfig.json
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\bin\Debug\netcoreapp3.1\VarPattern.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.dll
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.pdb
+C:\Users\Viktor\source\repos\04.Polymorphism\VarPattern\obj\Debug\netcoreapp3.1\VarPattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\Viktor\source\repos\01.Inheritance\Indexators\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache

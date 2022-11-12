@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgD7d9nvOkmGAlVnloB/K+ajQ3NonuESvHc236mr34DbiT07Yn70jSzdOGi2AziXSMOfbD77xTwYoeVgoxjtUA==",
+  "dgSpecHash": "O68dqp7YGGuVkh1j1cCfFQJ13oEOxdkNU7RMxtDEyrIPBWqW9R2uSrfLLUFASoFWWgpyBf2Gt4FNwC4ZtHXwrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\07. CSharp-OOP-SOLID-Demo-Resources\\Demo-Resources\\AdapterPattern\\AdapterPattern.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-March-2021\\05.SOLID\\AdapterPattern\\AdapterPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

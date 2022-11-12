@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\bin\Debug\netcoreapp3.1\RestarauntEncapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\Restaraunt\obj\Debug\netcoreapp3.1\RestarauntEncapsulation.genruntimeconfig.cache

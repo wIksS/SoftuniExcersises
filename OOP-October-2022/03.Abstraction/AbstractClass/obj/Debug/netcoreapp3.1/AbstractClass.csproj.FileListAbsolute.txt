@@ -1,0 +1,5 @@
+C:\Users\Viktor\source\repos\Abstraction\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\Abstraction\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\Abstraction\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Abstraction\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Abstraction\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache

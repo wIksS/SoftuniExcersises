@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.exe
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.deps.json
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.runtimeconfig.json
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\bin\Debug\netcoreapp3.1\DecimalCOmma.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.dll
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.pdb
+C:\Users\Viktor\source\repos\02.Encapsulation\DecimalCOmma\obj\Debug\netcoreapp3.1\DecimalCOmma.genruntimeconfig.cache
