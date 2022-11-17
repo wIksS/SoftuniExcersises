@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.exe
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\bin\Debug\netcoreapp3.1\TypeTypes.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeTypes\obj\Debug\netcoreapp3.1\TypeTypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.exe
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.dll
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\bin\Debug\netcoreapp3.1\GetInterfaces.pdb
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.dll
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.pdb
+C:\Users\Viktor\source\repos\07.Reflection\GetInterfaces\obj\Debug\netcoreapp3.1\GetInterfaces.genruntimeconfig.cache

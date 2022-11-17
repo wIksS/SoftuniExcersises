@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.exe
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.dll
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.pdb
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.dll
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.pdb
+C:\Users\Viktor\source\repos\07.Reflection\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.exe
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.dll
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\bin\Debug\netcoreapp3.1\IsAssignableFrom.pdb
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.dll
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.pdb
+C:\Users\Viktor\source\repos\07.Reflection\IsAssignableFrom\obj\Debug\netcoreapp3.1\IsAssignableFrom.genruntimeconfig.cache

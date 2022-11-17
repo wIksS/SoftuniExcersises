@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.exe
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.dll
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\bin\Debug\netcoreapp3.1\BindingFlagsExample.pdb
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.dll
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.pdb
+C:\Users\Viktor\source\repos\07.Reflection\BindingFlags\obj\Debug\netcoreapp3.1\BindingFlagsExample.genruntimeconfig.cache

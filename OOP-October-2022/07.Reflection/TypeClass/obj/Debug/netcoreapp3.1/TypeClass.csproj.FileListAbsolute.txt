@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.exe
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\bin\Debug\netcoreapp3.1\TypeClass.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeClass\obj\Debug\netcoreapp3.1\TypeClass.genruntimeconfig.cache

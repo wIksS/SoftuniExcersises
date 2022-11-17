@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.exe
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\bin\Debug\netcoreapp3.1\TypeofVsGetType.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.dll
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.pdb
+C:\Users\Viktor\source\repos\07.Reflection\TypeofVsGetType\obj\Debug\netcoreapp3.1\TypeofVsGetType.genruntimeconfig.cache

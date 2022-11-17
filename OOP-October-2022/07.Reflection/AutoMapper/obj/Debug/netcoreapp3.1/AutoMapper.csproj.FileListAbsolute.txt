@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.exe
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.pdb
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.pdb
+C:\Users\Viktor\source\repos\07.Reflection\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.genruntimeconfig.cache

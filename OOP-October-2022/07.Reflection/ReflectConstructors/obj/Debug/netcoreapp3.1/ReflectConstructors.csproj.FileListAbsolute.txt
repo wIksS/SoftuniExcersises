@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.exe
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.dll
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\bin\Debug\netcoreapp3.1\ReflectConstructors.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.dll
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ReflectConstructors\obj\Debug\netcoreapp3.1\ReflectConstructors.genruntimeconfig.cache

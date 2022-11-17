@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.exe
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.dll
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\bin\Debug\netcoreapp3.1\ReflectionOnFields.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.dll
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ReflectionOnFields\obj\Debug\netcoreapp3.1\ReflectionOnFields.genruntimeconfig.cache

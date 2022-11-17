@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Viktor\source\repos\07.Reflection\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Viktor\source\repos\07.Reflection\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

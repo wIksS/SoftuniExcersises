@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.exe
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.deps.json
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.runtimeconfig.json
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.dll
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\bin\Debug\netcoreapp3.1\ActivatorCreate.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.dll
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.pdb
+C:\Users\Viktor\source\repos\07.Reflection\ActivatorCreate\obj\Debug\netcoreapp3.1\ActivatorCreate.genruntimeconfig.cache
