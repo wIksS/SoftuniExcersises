@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartphoneShop", "SmartphoneShop\SmartphoneShop.csproj", "{3C9411AD-6841-444F-9243-416D78B7B43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartphoneShop.Tests", "SmartphoneShop.Tests\SmartphoneShop.Tests.csproj", "{912F2A04-97B9-4033-9FEA-9D11E4BA9EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9411AD-6841-444F-9243-416D78B7B43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9411AD-6841-444F-9243-416D78B7B43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9411AD-6841-444F-9243-416D78B7B43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9411AD-6841-444F-9243-416D78B7B43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912F2A04-97B9-4033-9FEA-9D11E4BA9EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912F2A04-97B9-4033-9FEA-9D11E4BA9EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912F2A04-97B9-4033-9FEA-9D11E4BA9EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912F2A04-97B9-4033-9FEA-9D11E4BA9EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4F782E-79C6-4D56-99C2-653B884E8682}
+	EndGlobalSection
+EndGlobal

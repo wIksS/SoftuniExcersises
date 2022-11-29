@@ -1,0 +1,17 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\DeviceId.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CopyComplete
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

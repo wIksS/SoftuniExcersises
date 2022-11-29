@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.exe
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.deps.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.dll
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Promotions.pdb
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.dll
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.pdb
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Promotions\obj\Debug\netcoreapp3.1\Promotions.csproj.CopyComplete

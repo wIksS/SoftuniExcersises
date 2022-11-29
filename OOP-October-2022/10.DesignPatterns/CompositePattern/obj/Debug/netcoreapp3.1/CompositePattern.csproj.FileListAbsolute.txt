@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache

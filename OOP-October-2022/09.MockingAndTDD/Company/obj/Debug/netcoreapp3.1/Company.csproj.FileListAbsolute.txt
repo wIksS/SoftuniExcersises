@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Viktor\source\repos\09.MockingAndTDD\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache

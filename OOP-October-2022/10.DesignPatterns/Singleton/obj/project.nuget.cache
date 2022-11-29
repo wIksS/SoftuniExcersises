@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSPBeFKzQ48AVF/1GnLrojv5+InDnujIpmmpAa4MhyXWRlJLGUGjNHOFMlkVl06DTNjx4h+kN2Fougb9s1D+CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\deviceid\\6.2.0\\deviceid.6.2.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

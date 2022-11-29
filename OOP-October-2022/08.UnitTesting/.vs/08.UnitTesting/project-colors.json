@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "789a7027-c5b1-4e17-a5d2-26c5d5bca112": {
+      "ProjectGuid": "789a7027-c5b1-4e17-a5d2-26c5d5bca112",
+      "DisplayName": "Throws",
+      "ColorIndex": 0
+    },
+    "df5e33c8-aaae-449f-8648-777130c5e8cb": {
+      "ProjectGuid": "df5e33c8-aaae-449f-8648-777130c5e8cb",
+      "DisplayName": "Skeleton",
+      "ColorIndex": 1
+    },
+    "5d82338e-6532-4a20-807a-d7c03bfb3361": {
+      "ProjectGuid": "5d82338e-6532-4a20-807a-d7c03bfb3361",
+      "DisplayName": "Skeleton.Tests",
+      "ColorIndex": 2
+    },
+    "3e8ecc95-ac5b-42c4-8299-824228577c51": {
+      "ProjectGuid": "3e8ecc95-ac5b-42c4-8299-824228577c51",
+      "DisplayName": "PromotionsTests",
+      "ColorIndex": 3
+    },
+    "a618aadc-4e82-432f-b6a6-ef0cb64846a7": {
+      "ProjectGuid": "a618aadc-4e82-432f-b6a6-ef0cb64846a7",
+      "DisplayName": "UnitTestingTests",
+      "ColorIndex": 4
+    },
+    "14c4c9c4-1a26-4836-a33c-fc87284c4ac8": {
+      "ProjectGuid": "14c4c9c4-1a26-4836-a33c-fc87284c4ac8",
+      "DisplayName": "TestSetupAndTeardown",
+      "ColorIndex": 5
+    },
+    "79f940bd-7ca1-404f-8524-bded383cc62e": {
+      "ProjectGuid": "79f940bd-7ca1-404f-8524-bded383cc62e",
+      "DisplayName": "BookingTests",
+      "ColorIndex": 6
+    },
+    "6ab07939-79c9-4b36-be11-1d60a9fe2c18": {
+      "ProjectGuid": "6ab07939-79c9-4b36-be11-1d60a9fe2c18",
+      "DisplayName": "Booking",
+      "ColorIndex": 7
+    },
+    "15cad4d1-f7f7-4c50-8e1e-a69641fb4285": {
+      "ProjectGuid": "15cad4d1-f7f7-4c50-8e1e-a69641fb4285",
+      "DisplayName": "08.UnitTesting",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

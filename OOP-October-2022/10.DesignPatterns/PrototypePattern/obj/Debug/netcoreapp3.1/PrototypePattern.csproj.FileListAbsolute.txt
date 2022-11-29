@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CopyComplete

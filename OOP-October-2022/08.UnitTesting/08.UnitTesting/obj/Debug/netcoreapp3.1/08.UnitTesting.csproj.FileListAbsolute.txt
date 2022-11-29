@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.exe
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.deps.json
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.dll
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\08.UnitTesting.pdb
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.csproj.CopyComplete
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.dll
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.pdb
+C:\Users\Viktor\source\repos\08.UnitTesting\08.UnitTesting\obj\Debug\netcoreapp3.1\08.UnitTesting.genruntimeconfig.cache

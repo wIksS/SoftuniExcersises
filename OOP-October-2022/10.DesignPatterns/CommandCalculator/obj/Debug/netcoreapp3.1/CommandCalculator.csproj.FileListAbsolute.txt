@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\bin\Debug\netcoreapp3.1\CommandCalculator.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\CommandCalculator\obj\Debug\netcoreapp3.1\CommandCalculator.genruntimeconfig.cache

@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DeviceId/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.DotNet.PlatformAbstractions": "3.1.6"
+        },
+        "compile": {
+          "lib/netstandard2.0/DeviceId.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DeviceId.dll": {}
+        }
+      },
+      "Microsoft.DotNet.PlatformAbstractions/3.1.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeviceId/6.2.0": {
+      "sha512": "WvYzWimLcckQkaUCcsZtDsMTNcMzRh+tw8rmqO4KdD08b7Hwp3SpWtynoVq9sT+bFvl6ca6SnnqX2DZDra/kTw==",
+      "type": "package",
+      "path": "deviceid/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "deviceid.6.2.0.nupkg.sha512",
+        "deviceid.nuspec",
+        "lib/net35/DeviceId.dll",
+        "lib/net35/DeviceId.xml",
+        "lib/net40/DeviceId.dll",
+        "lib/net40/DeviceId.xml",
+        "lib/net5.0/DeviceId.dll",
+        "lib/net5.0/DeviceId.xml",
+        "lib/net6.0/DeviceId.dll",
+        "lib/net6.0/DeviceId.xml",
+        "lib/netstandard2.0/DeviceId.dll",
+        "lib/netstandard2.0/DeviceId.xml"
+      ]
+    },
+    "Microsoft.DotNet.PlatformAbstractions/3.1.6": {
+      "sha512": "jek4XYaQ/PGUwDKKhwR8K47Uh1189PFzMeLqO83mXrXQVIpARZCcfuDedH50YDTepBkfijCZN5U/vZi++erxtg==",
+      "type": "package",
+      "path": "microsoft.dotnet.platformabstractions/3.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/net45/Microsoft.DotNet.PlatformAbstractions.xml",
+        "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.xml",
+        "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.xml",
+        "microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+        "microsoft.dotnet.platformabstractions.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DeviceId >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Viktor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\Singleton\\Singleton.csproj",
+      "projectName": "Singleton",
+      "projectPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\Singleton\\Singleton.csproj",
+      "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\Singleton\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "DeviceId": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

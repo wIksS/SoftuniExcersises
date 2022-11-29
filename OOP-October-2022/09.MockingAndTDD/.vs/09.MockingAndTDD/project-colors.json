@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5cc6fe0-f516-45de-8728-ee35f97abe91": {
+      "ProjectGuid": "a5cc6fe0-f516-45de-8728-ee35f97abe91",
+      "DisplayName": "09.MockingAndTDD",
+      "ColorIndex": 0
+    },
+    "758b4702-8289-47a5-b910-08a1f53d2019": {
+      "ProjectGuid": "758b4702-8289-47a5-b910-08a1f53d2019",
+      "DisplayName": "Promotions",
+      "ColorIndex": 1
+    },
+    "7398c7c2-7171-419a-8809-73c9926fbc3d": {
+      "ProjectGuid": "7398c7c2-7171-419a-8809-73c9926fbc3d",
+      "DisplayName": "Promotions.Test",
+      "ColorIndex": 2
+    },
+    "ee0cabd3-0f08-4918-a549-1e29a3838c6a": {
+      "ProjectGuid": "ee0cabd3-0f08-4918-a549-1e29a3838c6a",
+      "DisplayName": "MoqExample",
+      "ColorIndex": 3
+    },
+    "d8b0b92c-f2f6-41e5-bdf7-4f459dd41c15": {
+      "ProjectGuid": "d8b0b92c-f2f6-41e5-bdf7-4f459dd41c15",
+      "DisplayName": "MoqExamples",
+      "ColorIndex": 4
+    },
+    "6462695f-b710-4ef2-87bc-6e586bb41821": {
+      "ProjectGuid": "6462695f-b710-4ef2-87bc-6e586bb41821",
+      "DisplayName": "MoqExample2",
+      "ColorIndex": 5
+    },
+    "10d61f44-062d-4b6d-83df-892bcee13dd6": {
+      "ProjectGuid": "10d61f44-062d-4b6d-83df-892bcee13dd6",
+      "DisplayName": "MoqCalculator",
+      "ColorIndex": 6
+    },
+    "2481b63b-baac-4384-9741-9294690bef5b": {
+      "ProjectGuid": "2481b63b-baac-4384-9741-9294690bef5b",
+      "DisplayName": "TDDGame",
+      "ColorIndex": 7
+    },
+    "95b0e385-fc4a-425f-b58d-866cfbf85872": {
+      "ProjectGuid": "95b0e385-fc4a-425f-b58d-866cfbf85872",
+      "DisplayName": "Company",
+      "ColorIndex": 8
+    },
+    "f84d5b4d-d8cb-41f7-9891-aaf9e9c9d265": {
+      "ProjectGuid": "f84d5b4d-d8cb-41f7-9891-aaf9e9c9d265",
+      "DisplayName": "Company.Tests",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

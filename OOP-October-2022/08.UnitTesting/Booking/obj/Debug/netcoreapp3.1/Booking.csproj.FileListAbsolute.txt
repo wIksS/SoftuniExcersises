@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.exe
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.deps.json
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.runtimeconfig.json
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.dll
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\bin\Debug\netcoreapp3.1\Booking.pdb
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.dll
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.pdb
+C:\Users\Viktor\source\repos\08.UnitTesting\Booking\obj\Debug\netcoreapp3.1\Booking.genruntimeconfig.cache

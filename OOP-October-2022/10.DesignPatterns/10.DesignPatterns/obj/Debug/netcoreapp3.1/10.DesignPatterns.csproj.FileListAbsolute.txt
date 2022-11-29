@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\bin\Debug\netcoreapp3.1\10.DesignPatterns.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\10.DesignPatterns\obj\Debug\netcoreapp3.1\10.DesignPatterns.genruntimeconfig.cache

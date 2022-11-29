@@ -1,0 +1,43 @@
+Pilot Charles_Leclerc is created.
+Car Ferrari, model SF71H is created.
+Pilot Charles_Leclerc will drive a Ferrari SF71H car.
+Car Ferrari, model SF1000 is created.
+Pilot Carlos_Sainz is created.
+Pilot Carlos_Sainz will drive a Ferrari SF1000 car.
+Race Portuguese_GP is created.
+Pilot Charles_Leclerc is added to the Portuguese_GP race.
+Pilot Carlos_Sainz is added to the Portuguese_GP race.
+Race Spanish_GP does not exist.
+Pilot Alexander_Albon is created.
+Car Williams, model FW43 is created.
+Pilot Alexander_Albon will drive a Williams FW43 car.
+Race Miami_GP is created.
+Pilot Nicholas_Latifi is created.
+Car Williams, model FW43B is created.
+Pilot Nicholas_Latifi will drive a Williams FW43B car.
+Pilot Charles_Leclerc is added to the Miami_GP race.
+Pilot Carlos_Sainz is added to the Miami_GP race.
+Pilot Alexander_Albon is added to the Miami_GP race.
+Pilot Nicholas_Latifi is added to the Miami_GP race.
+Pilot Alexander_Albon is added to the Portuguese_GP race.
+Pilot Nicholas_Latifi is added to the Portuguese_GP race.
+Can not add pilot Nicholas_Latifi to the race.
+Race Monaco_GP is created.
+Pilot Alexander_Albon wins the Miami_GP race.
+Pilot Carlos_Sainz is second in the Miami_GP race.
+Pilot Charles_Leclerc is third in the Miami_GP race.
+Pilot Alexander_Albon has 1 wins.
+Pilot Charles_Leclerc has 0 wins.
+Pilot Carlos_Sainz has 0 wins.
+Pilot Nicholas_Latifi has 0 wins.
+Pilot Alexander_Albon wins the Portuguese_GP race.
+Pilot Carlos_Sainz is second in the Portuguese_GP race.
+Pilot Charles_Leclerc is third in the Portuguese_GP race.
+The Portuguese_GP race has:
+Participants: 4
+Number of laps: 50
+Took place: Yes
+The Miami_GP race has:
+Participants: 4
+Number of laps: 57
+Took place: Yes

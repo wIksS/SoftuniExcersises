@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.exe
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.deps.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.runtimeconfig.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\bin\Debug\netcoreapp3.1\LazyExample.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.dll
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.pdb
+C:\Users\Viktor\source\repos\10.DesignPatterns\LazyExample\obj\Debug\netcoreapp3.1\LazyExample.genruntimeconfig.cache
