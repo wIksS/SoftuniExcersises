@@ -1,0 +1,17 @@
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.exe
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.deps.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.runtimeconfig.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DITest.pdb
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DIFramework.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\bin\Debug\netcoreapp3.1\DIFramework.pdb
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.csproj.CopyComplete
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.pdb
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\DITest\obj\Debug\netcoreapp3.1\DITest.genruntimeconfig.cache

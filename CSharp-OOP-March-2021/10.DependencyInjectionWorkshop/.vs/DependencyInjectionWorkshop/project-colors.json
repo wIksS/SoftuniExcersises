@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90c685d5-0795-4ece-9e1e-cce888c64e95": {
+      "ProjectGuid": "90c685d5-0795-4ece-9e1e-cce888c64e95",
+      "DisplayName": "DependencyInjectionWorkshop",
+      "ColorIndex": 0
+    },
+    "eb025441-fb11-412a-992b-3f9668996cbe": {
+      "ProjectGuid": "eb025441-fb11-412a-992b-3f9668996cbe",
+      "DisplayName": "MicrosoftDepencyInjection",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,17 @@
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.exe
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.deps.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.runtimeconfig.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.pdb
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.pdb
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\obj\Debug\netcoreapp3.1\12.DIFrameworkWorkshop.csproj.CopyComplete
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\DIFramework.dll
+C:\Users\Viktor\source\repos\12.DIFrameworkWorkshop\12.DIFrameworkWorkshop\bin\Debug\netcoreapp3.1\DIFramework.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "12.DIFrameworkWorkshop/1.0.0": {
+        "dependencies": {
+          "DIFramework": "1.0.0"
+        },
+        "runtime": {
+          "12.DIFrameworkWorkshop.dll": {}
+        }
+      },
+      "DIFramework/1.0.0": {
+        "runtime": {
+          "DIFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12.DIFrameworkWorkshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
