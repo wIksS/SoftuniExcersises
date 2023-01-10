@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\bin\Debug\netcoreapp3.1\StackUtilities.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackUtilities\obj\Debug\netcoreapp3.1\StackUtilities.genruntimeconfig.cache

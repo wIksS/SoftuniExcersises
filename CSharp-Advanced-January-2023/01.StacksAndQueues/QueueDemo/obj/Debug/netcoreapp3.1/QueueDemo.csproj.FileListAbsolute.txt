@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.genruntimeconfig.cache

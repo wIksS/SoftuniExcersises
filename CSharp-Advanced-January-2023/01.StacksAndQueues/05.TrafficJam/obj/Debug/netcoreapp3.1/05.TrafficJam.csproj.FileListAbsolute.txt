@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\bin\Debug\netcoreapp3.1\05.TrafficJam.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\05.TrafficJam\obj\Debug\netcoreapp3.1\05.TrafficJam.genruntimeconfig.cache

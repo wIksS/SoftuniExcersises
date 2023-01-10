@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.genruntimeconfig.cache

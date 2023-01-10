@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\bin\Debug\netcoreapp3.1\QueueDemo2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\QueueDemo2\obj\Debug\netcoreapp3.1\QueueDemo2.genruntimeconfig.cache

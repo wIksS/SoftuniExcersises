@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\bin\Debug\netcoreapp3.1\StackVsList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\01.StacksAndQueues\StackVsList\obj\Debug\netcoreapp3.1\StackVsList.genruntimeconfig.cache
