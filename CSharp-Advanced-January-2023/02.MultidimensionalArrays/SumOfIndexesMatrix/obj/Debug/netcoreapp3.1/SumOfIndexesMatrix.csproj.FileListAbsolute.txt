@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\bin\Debug\netcoreapp3.1\SumOfIndexesMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\SumOfIndexesMatrix\obj\Debug\netcoreapp3.1\SumOfIndexesMatrix.genruntimeconfig.cache

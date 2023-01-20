@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d67e1cf0-b42e-455f-8b7a-bcfab5b1d9ce": {
+      "ProjectGuid": "d67e1cf0-b42e-455f-8b7a-bcfab5b1d9ce",
+      "DisplayName": "02.MultidimensionalArrays",
+      "ColorIndex": 0
+    },
+    "cc1a7796-1666-487e-accb-4aa656005bf7": {
+      "ProjectGuid": "cc1a7796-1666-487e-accb-4aa656005bf7",
+      "DisplayName": "Matrices",
+      "ColorIndex": 1
+    },
+    "0a194b7e-0671-46b7-9d53-a49ccdb468b3": {
+      "ProjectGuid": "0a194b7e-0671-46b7-9d53-a49ccdb468b3",
+      "DisplayName": "ConsoleAsMatrix",
+      "ColorIndex": 2
+    },
+    "3fa69450-2ff7-4e78-a3f6-2404b1b59e7a": {
+      "ProjectGuid": "3fa69450-2ff7-4e78-a3f6-2404b1b59e7a",
+      "DisplayName": "MatrixSyntax",
+      "ColorIndex": 3
+    },
+    "e589d57f-6660-423b-b714-a95afa8844d6": {
+      "ProjectGuid": "e589d57f-6660-423b-b714-a95afa8844d6",
+      "DisplayName": "MorskiChess",
+      "ColorIndex": 4
+    },
+    "f1fb7121-3f55-4d64-80d1-2fcb48c99be7": {
+      "ProjectGuid": "f1fb7121-3f55-4d64-80d1-2fcb48c99be7",
+      "DisplayName": "PrintingMatrix",
+      "ColorIndex": 5
+    },
+    "a59bb75a-38d6-448a-a76e-bc366a9c6133": {
+      "ProjectGuid": "a59bb75a-38d6-448a-a76e-bc366a9c6133",
+      "DisplayName": "ReadingMatrix",
+      "ColorIndex": 6
+    },
+    "4988141b-2f15-4ad9-9e76-51cb6d6621b8": {
+      "ProjectGuid": "4988141b-2f15-4ad9-9e76-51cb6d6621b8",
+      "DisplayName": "ReadingMatrixShort",
+      "ColorIndex": 7
+    },
+    "8af8d278-b067-4e41-bc7b-bec3a0934ddf": {
+      "ProjectGuid": "8af8d278-b067-4e41-bc7b-bec3a0934ddf",
+      "DisplayName": "01.SumMatrix",
+      "ColorIndex": 8
+    },
+    "67d82aff-97e3-4d16-baf5-c5360c3b859e": {
+      "ProjectGuid": "67d82aff-97e3-4d16-baf5-c5360c3b859e",
+      "DisplayName": "Cube",
+      "ColorIndex": 9
+    },
+    "308672a4-7d87-4486-bfe4-f64f23d6ad76": {
+      "ProjectGuid": "308672a4-7d87-4486-bfe4-f64f23d6ad76",
+      "DisplayName": "02.SumMatrixColumns",
+      "ColorIndex": 10
+    },
+    "3393a11a-0662-4cc5-a569-3618c1c10f70": {
+      "ProjectGuid": "3393a11a-0662-4cc5-a569-3618c1c10f70",
+      "DisplayName": "SumOfIndexesMatrix",
+      "ColorIndex": 11
+    },
+    "e9e3e9a3-081a-4579-a26c-2c45b80b0df0": {
+      "ProjectGuid": "e9e3e9a3-081a-4579-a26c-2c45b80b0df0",
+      "DisplayName": "Diagonals",
+      "ColorIndex": 12
+    },
+    "cfd51653-66d2-4642-b918-3b76b413f062": {
+      "ProjectGuid": "cfd51653-66d2-4642-b918-3b76b413f062",
+      "DisplayName": "03.SquareSum",
+      "ColorIndex": 13
+    },
+    "76503a81-4bb7-4090-9534-22f2a8d86c3f": {
+      "ProjectGuid": "76503a81-4bb7-4090-9534-22f2a8d86c3f",
+      "DisplayName": "JaggedArrays",
+      "ColorIndex": 14
+    },
+    "c928fd61-2bd5-4d30-ba27-100140648071": {
+      "ProjectGuid": "c928fd61-2bd5-4d30-ba27-100140648071",
+      "DisplayName": "ReadJaggedArray",
+      "ColorIndex": 15
+    },
+    "3e3b2721-ab9f-486d-80ef-67bb88c99fe6": {
+      "ProjectGuid": "3e3b2721-ab9f-486d-80ef-67bb88c99fe6",
+      "DisplayName": "PrintJaggedInForeach",
+      "ColorIndex": 0
+    },
+    "8e0e4b2e-3e0c-402d-990d-4a17f78c4d0d": {
+      "ProjectGuid": "8e0e4b2e-3e0c-402d-990d-4a17f78c4d0d",
+      "DisplayName": "05.JaggedArrayModification",
+      "ColorIndex": 1
+    },
+    "29fd92be-8f0d-44da-9255-40895378d4c1": {
+      "ProjectGuid": "29fd92be-8f0d-44da-9255-40895378d4c1",
+      "DisplayName": "06.PascalTriangle",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\bin\Debug\netcoreapp3.1\02.OrderTop3Numbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\02.OrderTop3Numbers\obj\Debug\netcoreapp3.1\02.OrderTop3Numbers.genruntimeconfig.cache

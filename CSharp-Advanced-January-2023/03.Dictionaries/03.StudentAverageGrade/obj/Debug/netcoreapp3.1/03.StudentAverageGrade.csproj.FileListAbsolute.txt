@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\bin\Debug\netcoreapp3.1\03.StudentAverageGrade.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.StudentAverageGrade\obj\Debug\netcoreapp3.1\03.StudentAverageGrade.genruntimeconfig.cache

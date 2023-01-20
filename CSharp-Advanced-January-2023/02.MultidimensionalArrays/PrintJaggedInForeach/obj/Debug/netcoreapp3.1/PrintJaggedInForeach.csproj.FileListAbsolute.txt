@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\bin\Debug\netcoreapp3.1\PrintJaggedInForeach.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintJaggedInForeach\obj\Debug\netcoreapp3.1\PrintJaggedInForeach.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\bin\Debug\netcoreapp3.1\Files.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Files\obj\Debug\netcoreapp3.1\Files.genruntimeconfig.cache

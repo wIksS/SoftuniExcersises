@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\bin\Debug\netcoreapp3.1\Directories.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\Directories\obj\Debug\netcoreapp3.1\Directories.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\bin\Debug\netcoreapp3.1\MatrixSyntax.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MatrixSyntax\obj\Debug\netcoreapp3.1\MatrixSyntax.genruntimeconfig.cache

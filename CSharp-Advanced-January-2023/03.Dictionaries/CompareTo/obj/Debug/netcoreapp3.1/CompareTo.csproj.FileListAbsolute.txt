@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.genruntimeconfig.cache

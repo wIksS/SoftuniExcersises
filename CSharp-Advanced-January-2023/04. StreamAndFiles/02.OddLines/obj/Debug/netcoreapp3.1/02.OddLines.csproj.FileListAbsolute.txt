@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\bin\Debug\netcoreapp3.1\02.OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\02.OddLines\obj\Debug\netcoreapp3.1\02.OddLines.genruntimeconfig.cache

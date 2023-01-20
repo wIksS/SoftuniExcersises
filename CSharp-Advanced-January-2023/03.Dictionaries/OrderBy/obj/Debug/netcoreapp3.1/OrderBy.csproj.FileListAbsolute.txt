@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\bin\Debug\netcoreapp3.1\OrderBy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderBy\obj\Debug\netcoreapp3.1\OrderBy.genruntimeconfig.cache

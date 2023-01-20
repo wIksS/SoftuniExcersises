@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bb8c3b6-60d3-4add-8ddf-d3de38d90a8a": {
+      "ProjectGuid": "8bb8c3b6-60d3-4add-8ddf-d3de38d90a8a",
+      "DisplayName": "03.Dictionaries",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3db8bddb-9783-442f-b6a6-04827ae61fb2": {
+      "ProjectGuid": "3db8bddb-9783-442f-b6a6-04827ae61fb2",
+      "DisplayName": "SortedDictionary",
+      "ColorIndex": 1
+    },
+    "de3f89e0-ed57-4b9a-a05b-ba2e322c63d4": {
+      "ProjectGuid": "de3f89e0-ed57-4b9a-a05b-ba2e322c63d4",
+      "DisplayName": "CompareTo",
+      "ColorIndex": 2
+    },
+    "1799590b-aaaf-4f1d-8cfc-c43e467611c5": {
+      "ProjectGuid": "1799590b-aaaf-4f1d-8cfc-c43e467611c5",
+      "DisplayName": "01.CountSameValuesInArray",
+      "ColorIndex": 3
+    },
+    "ec83d56b-4f79-4cef-a223-d94f03c08b89": {
+      "ProjectGuid": "ec83d56b-4f79-4cef-a223-d94f03c08b89",
+      "DisplayName": "OrderBy",
+      "ColorIndex": 4
+    },
+    "9e4470ef-f581-4704-8af1-1a5402562b22": {
+      "ProjectGuid": "9e4470ef-f581-4704-8af1-1a5402562b22",
+      "DisplayName": "OrderByDictionaries",
+      "ColorIndex": 5
+    },
+    "58400f58-eea4-4cb5-bedc-4cb68daf19fe": {
+      "ProjectGuid": "58400f58-eea4-4cb5-bedc-4cb68daf19fe",
+      "DisplayName": "02.OrderTop3Numbers",
+      "ColorIndex": 6
+    },
+    "db378b62-3169-43a2-a688-da5bc7f5345c": {
+      "ProjectGuid": "db378b62-3169-43a2-a688-da5bc7f5345c",
+      "DisplayName": "03.StudentAverageGrade",
+      "ColorIndex": 7
+    },
+    "e5ad3f2d-3229-4a6a-9bb4-eff3974ed966": {
+      "ProjectGuid": "e5ad3f2d-3229-4a6a-9bb4-eff3974ed966",
+      "DisplayName": "NestedDictionaries",
+      "ColorIndex": 8
+    },
+    "aee870a7-2f09-4baf-bad1-ea2193066a14": {
+      "ProjectGuid": "aee870a7-2f09-4baf-bad1-ea2193066a14",
+      "DisplayName": "04.ProductShop",
+      "ColorIndex": 9
+    },
+    "62ef765a-5164-4180-9a25-ccde9c8fe5ee": {
+      "ProjectGuid": "62ef765a-5164-4180-9a25-ccde9c8fe5ee",
+      "DisplayName": "05.ContinentsCountriesCities",
+      "ColorIndex": 10
+    },
+    "5aa2f2d4-4c3b-404f-898a-7a9fc55557b7": {
+      "ProjectGuid": "5aa2f2d4-4c3b-404f-898a-7a9fc55557b7",
+      "DisplayName": "Sets",
+      "ColorIndex": 11
+    },
+    "4adbfcc2-d77c-4f49-8021-5789f3921c5e": {
+      "ProjectGuid": "4adbfcc2-d77c-4f49-8021-5789f3921c5e",
+      "DisplayName": "UniqueNames",
+      "ColorIndex": 12
+    },
+    "0c12b2e0-f4f6-4ce9-9006-40532e9e0199": {
+      "ProjectGuid": "0c12b2e0-f4f6-4ce9-9006-40532e9e0199",
+      "DisplayName": "HashFunctions",
+      "ColorIndex": 13
+    },
+    "10b7975e-72ab-4abb-b285-9d784d8c9500": {
+      "ProjectGuid": "10b7975e-72ab-4abb-b285-9d784d8c9500",
+      "DisplayName": "CustomHashSet",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

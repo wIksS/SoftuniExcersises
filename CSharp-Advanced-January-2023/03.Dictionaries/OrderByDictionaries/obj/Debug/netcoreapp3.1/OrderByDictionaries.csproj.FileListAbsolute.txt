@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\bin\Debug\netcoreapp3.1\OrderByDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\OrderByDictionaries\obj\Debug\netcoreapp3.1\OrderByDictionaries.genruntimeconfig.cache

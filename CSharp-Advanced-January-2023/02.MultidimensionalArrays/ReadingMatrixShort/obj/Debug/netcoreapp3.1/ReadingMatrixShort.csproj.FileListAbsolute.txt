@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\bin\Debug\netcoreapp3.1\ReadingMatrixShort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadingMatrixShort\obj\Debug\netcoreapp3.1\ReadingMatrixShort.genruntimeconfig.cache

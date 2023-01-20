@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\bin\Debug\netcoreapp3.1\ConsoleAsMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ConsoleAsMatrix\obj\Debug\netcoreapp3.1\ConsoleAsMatrix.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\bin\Debug\netcoreapp3.1\UniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\UniqueNames\obj\Debug\netcoreapp3.1\UniqueNames.genruntimeconfig.cache

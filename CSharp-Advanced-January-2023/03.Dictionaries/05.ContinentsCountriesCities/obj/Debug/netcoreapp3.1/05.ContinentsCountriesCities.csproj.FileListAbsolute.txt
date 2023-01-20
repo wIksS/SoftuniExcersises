@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\bin\Debug\netcoreapp3.1\05.ContinentsCountriesCities.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\05.ContinentsCountriesCities\obj\Debug\netcoreapp3.1\05.ContinentsCountriesCities.genruntimeconfig.cache

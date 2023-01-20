@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\bin\Debug\netcoreapp3.1\CustomHashSet.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\CustomHashSet\obj\Debug\netcoreapp3.1\CustomHashSet.genruntimeconfig.cache

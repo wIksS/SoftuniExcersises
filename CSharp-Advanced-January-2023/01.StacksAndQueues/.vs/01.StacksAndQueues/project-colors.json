@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "516398e9-03c2-4898-bc9f-4c0afea7c29e": {
+      "ProjectGuid": "516398e9-03c2-4898-bc9f-4c0afea7c29e",
+      "DisplayName": "01.StacksAndQueues",
+      "ColorIndex": 0
+    },
+    "a8de68da-211f-41c9-8223-05d5e7bb73fb": {
+      "ProjectGuid": "a8de68da-211f-41c9-8223-05d5e7bb73fb",
+      "DisplayName": "StackDemo",
+      "ColorIndex": 1
+    },
+    "942a8bd2-eda3-4bae-b3ea-b2f0bb7af65f": {
+      "ProjectGuid": "942a8bd2-eda3-4bae-b3ea-b2f0bb7af65f",
+      "DisplayName": "01.ReverseString",
+      "ColorIndex": 2
+    },
+    "49146ae9-04db-421f-b0db-c26a15204a9b": {
+      "ProjectGuid": "49146ae9-04db-421f-b0db-c26a15204a9b",
+      "DisplayName": "StackVsList",
+      "ColorIndex": 3
+    },
+    "f118f225-2ddb-4f89-90ac-c23c1313cf59": {
+      "ProjectGuid": "f118f225-2ddb-4f89-90ac-c23c1313cf59",
+      "DisplayName": "StackUtilities",
+      "ColorIndex": 4
+    },
+    "e457d61c-ad21-4d0b-b411-f498937add4a": {
+      "ProjectGuid": "e457d61c-ad21-4d0b-b411-f498937add4a",
+      "DisplayName": "02.StackSum",
+      "ColorIndex": 5
+    },
+    "c05817e0-452c-47bc-85c6-092dff135ed6": {
+      "ProjectGuid": "c05817e0-452c-47bc-85c6-092dff135ed6",
+      "DisplayName": "03.MatchingBrackets",
+      "ColorIndex": 6
+    },
+    "1c0c97b9-bf4a-46a3-96bf-73a49a1f64b7": {
+      "ProjectGuid": "1c0c97b9-bf4a-46a3-96bf-73a49a1f64b7",
+      "DisplayName": "QueueDemo",
+      "ColorIndex": 7
+    },
+    "066cdd33-b5c4-42a6-8906-438ec978ba90": {
+      "ProjectGuid": "066cdd33-b5c4-42a6-8906-438ec978ba90",
+      "DisplayName": "QueueDemo2",
+      "ColorIndex": 8
+    },
+    "a6f63c21-6309-4504-bc36-9f55c055fc50": {
+      "ProjectGuid": "a6f63c21-6309-4504-bc36-9f55c055fc50",
+      "DisplayName": "HotPotato",
+      "ColorIndex": 9
+    },
+    "d5bd86ac-9e0d-42d0-bc5d-3dc3cf09d3da": {
+      "ProjectGuid": "d5bd86ac-9e0d-42d0-bc5d-3dc3cf09d3da",
+      "DisplayName": "05.TrafficJam",
+      "ColorIndex": 10
+    },
+    "39c806de-080b-4904-95e5-dbd89db2fa1c": {
+      "ProjectGuid": "39c806de-080b-4904-95e5-dbd89db2fa1c",
+      "DisplayName": "CallStack",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

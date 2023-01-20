@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\bin\Debug\netcoreapp3.1\GetDirInformation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\GetDirInformation\obj\Debug\netcoreapp3.1\GetDirInformation.genruntimeconfig.cache

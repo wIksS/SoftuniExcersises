@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\bin\Debug\netcoreapp3.1\MorskiChess.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\MorskiChess\obj\Debug\netcoreapp3.1\MorskiChess.genruntimeconfig.cache

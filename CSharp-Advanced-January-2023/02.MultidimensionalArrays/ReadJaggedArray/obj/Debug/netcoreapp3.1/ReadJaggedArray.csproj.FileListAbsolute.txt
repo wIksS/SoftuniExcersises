@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\netcoreapp3.1\ReadJaggedArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\netcoreapp3.1\ReadJaggedArray.genruntimeconfig.cache

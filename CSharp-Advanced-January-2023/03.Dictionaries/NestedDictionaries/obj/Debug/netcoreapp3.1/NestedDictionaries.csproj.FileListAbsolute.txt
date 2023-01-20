@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\bin\Debug\netcoreapp3.1\NestedDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\NestedDictionaries\obj\Debug\netcoreapp3.1\NestedDictionaries.genruntimeconfig.cache

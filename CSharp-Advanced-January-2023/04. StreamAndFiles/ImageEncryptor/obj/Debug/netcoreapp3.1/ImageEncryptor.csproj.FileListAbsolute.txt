@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\bin\Debug\netcoreapp3.1\ImageEncryptor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\ImageEncryptor\obj\Debug\netcoreapp3.1\ImageEncryptor.genruntimeconfig.cache

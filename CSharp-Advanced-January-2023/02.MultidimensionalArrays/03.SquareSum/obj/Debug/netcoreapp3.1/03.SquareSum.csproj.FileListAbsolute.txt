@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\bin\Debug\netcoreapp3.1\03.SquareSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\03.SquareSum\obj\Debug\netcoreapp3.1\03.SquareSum.genruntimeconfig.cache

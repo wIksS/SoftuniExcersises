@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\bin\Debug\netcoreapp3.1\SplitFile.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\04. StreamAndFiles\SplitFile\obj\Debug\netcoreapp3.1\SplitFile.genruntimeconfig.cache

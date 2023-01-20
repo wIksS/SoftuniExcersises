@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\bin\Debug\netcoreapp3.1\PrintingMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\PrintingMatrix\obj\Debug\netcoreapp3.1\PrintingMatrix.genruntimeconfig.cache

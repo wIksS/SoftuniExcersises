@@ -1,0 +1,13 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\02.MultidimensionalArrays\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.genruntimeconfig.cache

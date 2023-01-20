@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\bin\Debug\netcoreapp3.1\03.Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\03.Dictionaries\obj\Debug\netcoreapp3.1\03.Dictionaries.genruntimeconfig.cache

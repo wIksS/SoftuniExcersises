@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\03.Dictionaries\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.genruntimeconfig.cache
