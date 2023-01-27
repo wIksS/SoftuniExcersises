@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\EnumerationsAdvanced.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\EnumerationsAdvanced.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\EnumerationsAdvanced.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\EnumerationsAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\ref\EnumerationsAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\bin\Debug\net6.0\EnumerationsAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\ref\EnumerationsAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\EnumerationsAdvanced\obj\Debug\net6.0\EnumerationsAdvanced.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\ref\Recursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\ref\Recursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache

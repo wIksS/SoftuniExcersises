@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad3c7d0a-2330-4c2b-aab7-f56622619fdf": {
+      "ProjectGuid": "ad3c7d0a-2330-4c2b-aab7-f56622619fdf",
+      "DisplayName": "06.Classes",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "77743f14-ab4e-49e0-86ea-b3aef69e6588": {
+      "ProjectGuid": "77743f14-ab4e-49e0-86ea-b3aef69e6588",
+      "DisplayName": "CollectionRefferrenecesToClasses",
+      "ColorIndex": 1
+    },
+    "91249e1a-59ae-4c03-8891-20a812fe4427": {
+      "ProjectGuid": "91249e1a-59ae-4c03-8891-20a812fe4427",
+      "DisplayName": "ClassMembers",
+      "ColorIndex": 2
+    },
+    "65f6590a-cd52-4f32-ae17-8006c4bd88dd": {
+      "ProjectGuid": "65f6590a-cd52-4f32-ae17-8006c4bd88dd",
+      "DisplayName": "ClassReferrences",
+      "ColorIndex": 3
+    },
+    "fbd21c3f-b9c1-4867-9b06-b534d21a11a8": {
+      "ProjectGuid": "fbd21c3f-b9c1-4867-9b06-b534d21a11a8",
+      "DisplayName": "Fields",
+      "ColorIndex": 4
+    },
+    "8ea4879e-6c26-4129-a574-585514cc09c0": {
+      "ProjectGuid": "8ea4879e-6c26-4129-a574-585514cc09c0",
+      "DisplayName": "Properties",
+      "ColorIndex": 5
+    },
+    "d6ef465a-4933-4c2f-8213-46c30ab2a5a3": {
+      "ProjectGuid": "d6ef465a-4933-4c2f-8213-46c30ab2a5a3",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 6
+    },
+    "7241a512-c3c0-4aad-a324-5e24d0564822": {
+      "ProjectGuid": "7241a512-c3c0-4aad-a324-5e24d0564822",
+      "DisplayName": "Constructors",
+      "ColorIndex": 7
+    },
+    "db5c7af9-899f-424c-803a-62eb02bf021f": {
+      "ProjectGuid": "db5c7af9-899f-424c-803a-62eb02bf021f",
+      "DisplayName": "Enumerations",
+      "ColorIndex": 8
+    },
+    "f4bf4fca-6037-4354-a308-455a140cb4f9": {
+      "ProjectGuid": "f4bf4fca-6037-4354-a308-455a140cb4f9",
+      "DisplayName": "EnumerationsAdvanced",
+      "ColorIndex": 9
+    },
+    "14b87790-5e5a-4e03-82da-75964b4bdf6c": {
+      "ProjectGuid": "14b87790-5e5a-4e03-82da-75964b4bdf6c",
+      "DisplayName": "Static",
+      "ColorIndex": 10
+    },
+    "48f1516e-ed98-4210-9b10-5b717796c41d": {
+      "ProjectGuid": "48f1516e-ed98-4210-9b10-5b717796c41d",
+      "DisplayName": "StaticAdvanced",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

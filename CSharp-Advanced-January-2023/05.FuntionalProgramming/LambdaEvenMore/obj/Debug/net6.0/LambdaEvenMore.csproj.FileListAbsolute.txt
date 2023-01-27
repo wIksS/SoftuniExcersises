@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\LambdaEvenMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\LambdaEvenMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\LambdaEvenMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\LambdaEvenMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\ref\LambdaEvenMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\bin\Debug\net6.0\LambdaEvenMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\ref\LambdaEvenMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\LambdaEvenMore\obj\Debug\net6.0\LambdaEvenMore.genruntimeconfig.cache

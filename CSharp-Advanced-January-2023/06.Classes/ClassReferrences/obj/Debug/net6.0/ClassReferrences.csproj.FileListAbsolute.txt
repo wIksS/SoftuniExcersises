@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ClassReferrences.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ClassReferrences.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ClassReferrences.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ClassReferrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ref\ClassReferrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\bin\Debug\net6.0\ClassReferrences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ref\ClassReferrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\ClassReferrences\obj\Debug\net6.0\ClassReferrences.genruntimeconfig.cache

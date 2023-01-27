@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\PureFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\PureFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\PureFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\PureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\ref\PureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\bin\Debug\net6.0\PureFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\ref\PureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\PureFunctions\obj\Debug\net6.0\PureFunctions.genruntimeconfig.cache

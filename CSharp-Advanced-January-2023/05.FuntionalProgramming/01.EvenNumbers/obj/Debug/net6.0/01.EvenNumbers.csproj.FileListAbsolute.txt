@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\01.EvenNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\01.EvenNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\01.EvenNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\01.EvenNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\ref\01.EvenNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\bin\Debug\net6.0\01.EvenNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\ref\01.EvenNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\01.EvenNumbers\obj\Debug\net6.0\01.EvenNumbers.genruntimeconfig.cache

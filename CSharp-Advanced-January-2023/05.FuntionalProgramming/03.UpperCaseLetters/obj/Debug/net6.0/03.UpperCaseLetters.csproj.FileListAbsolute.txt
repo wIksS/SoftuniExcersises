@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\03.UpperCaseLetters.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\03.UpperCaseLetters.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\03.UpperCaseLetters.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\03.UpperCaseLetters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\ref\03.UpperCaseLetters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\bin\Debug\net6.0\03.UpperCaseLetters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\ref\03.UpperCaseLetters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\03.UpperCaseLetters\obj\Debug\net6.0\03.UpperCaseLetters.genruntimeconfig.cache

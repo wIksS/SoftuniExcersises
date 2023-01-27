@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\05.FuntionalProgramming.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\05.FuntionalProgramming.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\05.FuntionalProgramming.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\05.FuntionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\ref\05.FuntionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\bin\Debug\net6.0\05.FuntionalProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\ref\05.FuntionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\05.FuntionalProgramming\05.FuntionalProgramming\obj\Debug\net6.0\05.FuntionalProgramming.genruntimeconfig.cache

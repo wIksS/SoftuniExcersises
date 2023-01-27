@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9205083e-9721-4564-ac3d-21e591f69226": {
+      "ProjectGuid": "9205083e-9721-4564-ac3d-21e591f69226",
+      "DisplayName": "05.FuntionalProgramming",
+      "ColorIndex": 0
+    },
+    "d9bfaa02-9b82-4ce8-9aa6-d4e1153acb3d": {
+      "ProjectGuid": "d9bfaa02-9b82-4ce8-9aa6-d4e1153acb3d",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "81e549d2-3a09-4c86-83a9-0d5c90d10df6": {
+      "ProjectGuid": "81e549d2-3a09-4c86-83a9-0d5c90d10df6",
+      "DisplayName": "PureFunctions",
+      "ColorIndex": 2
+    },
+    "3df96dcb-8d25-4684-874c-57a64cedc4a7": {
+      "ProjectGuid": "3df96dcb-8d25-4684-874c-57a64cedc4a7",
+      "DisplayName": "DataImmutability",
+      "ColorIndex": 3
+    },
+    "ad4513b2-f758-490d-adb8-e8deaf29b54a": {
+      "ProjectGuid": "ad4513b2-f758-490d-adb8-e8deaf29b54a",
+      "DisplayName": "Recursion",
+      "ColorIndex": 4
+    },
+    "2de2c061-eb16-4a2e-84e8-e30f4582acdf": {
+      "ProjectGuid": "2de2c061-eb16-4a2e-84e8-e30f4582acdf",
+      "DisplayName": "HigherOrderFunctions",
+      "ColorIndex": 5
+    },
+    "42c23b18-406a-45ca-b63f-4b9dcc667f32": {
+      "ProjectGuid": "42c23b18-406a-45ca-b63f-4b9dcc667f32",
+      "DisplayName": "LambdaExpressions",
+      "ColorIndex": 6
+    },
+    "88268b5d-4c6a-47a0-ad50-c57b1649c990": {
+      "ProjectGuid": "88268b5d-4c6a-47a0-ad50-c57b1649c990",
+      "DisplayName": "MoreLambdaExpressions",
+      "ColorIndex": 7
+    },
+    "63a930f2-dd2c-4a76-a43b-a8a4c86907d3": {
+      "ProjectGuid": "63a930f2-dd2c-4a76-a43b-a8a4c86907d3",
+      "DisplayName": "LambdaEvenMore",
+      "ColorIndex": 8
+    },
+    "579de17a-dd6c-4378-b48f-b18e4f01522c": {
+      "ProjectGuid": "579de17a-dd6c-4378-b48f-b18e4f01522c",
+      "DisplayName": "01.EvenNumbers",
+      "ColorIndex": 9
+    },
+    "cec0ced9-f63d-4351-a8ae-538e1b8f3c98": {
+      "ProjectGuid": "cec0ced9-f63d-4351-a8ae-538e1b8f3c98",
+      "DisplayName": "FuncDemo",
+      "ColorIndex": 10
+    },
+    "a3b7b956-aaea-4e70-8996-3b7d99bd6970": {
+      "ProjectGuid": "a3b7b956-aaea-4e70-8996-3b7d99bd6970",
+      "DisplayName": "HigherOrderFunctionWithFuncs",
+      "ColorIndex": 11
+    },
+    "cabb8e3a-a728-4c1b-9d30-c2dd67c82d2b": {
+      "ProjectGuid": "cabb8e3a-a728-4c1b-9d30-c2dd67c82d2b",
+      "DisplayName": "HigherOrderMore",
+      "ColorIndex": 12
+    },
+    "8a8b3167-6143-4df5-ad20-13340fd769eb": {
+      "ProjectGuid": "8a8b3167-6143-4df5-ad20-13340fd769eb",
+      "DisplayName": "ActionExample",
+      "ColorIndex": 13
+    },
+    "5c6db7a7-7ca7-41f3-bd06-414eac04b527": {
+      "ProjectGuid": "5c6db7a7-7ca7-41f3-bd06-414eac04b527",
+      "DisplayName": "01.CountAndSUm",
+      "ColorIndex": 14
+    },
+    "8e2385b4-daa4-445d-9f4c-c17da609e7f7": {
+      "ProjectGuid": "8e2385b4-daa4-445d-9f4c-c17da609e7f7",
+      "DisplayName": "Predicates",
+      "ColorIndex": 15
+    },
+    "038a83c7-d0f0-4a6e-9640-7698fa26685f": {
+      "ProjectGuid": "038a83c7-d0f0-4a6e-9640-7698fa26685f",
+      "DisplayName": "03.UpperCaseLetters",
+      "ColorIndex": 0
+    },
+    "58b93623-62e7-4387-a47d-bb0b54597859": {
+      "ProjectGuid": "58b93623-62e7-4387-a47d-bb0b54597859",
+      "DisplayName": "03.OldNet",
+      "ColorIndex": 1
+    },
+    "7c44f84a-0510-49a9-b7d1-01d9fa564bdb": {
+      "ProjectGuid": "7c44f84a-0510-49a9-b7d1-01d9fa564bdb",
+      "DisplayName": "04.FilterBy",
+      "ColorIndex": 2
+    },
+    "271aab85-2868-4f10-b689-ce80b2053838": {
+      "ProjectGuid": "271aab85-2868-4f10-b689-ce80b2053838",
+      "DisplayName": "Delegates",
+      "ColorIndex": 3
+    },
+    "2d62fb80-8ab6-41fe-9dba-9526cc78387b": {
+      "ProjectGuid": "2d62fb80-8ab6-41fe-9dba-9526cc78387b",
+      "DisplayName": "DelegatePredicate",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

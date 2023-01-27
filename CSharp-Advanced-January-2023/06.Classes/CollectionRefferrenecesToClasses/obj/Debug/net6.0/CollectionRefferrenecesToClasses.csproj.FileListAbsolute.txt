@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\CollectionRefferrenecesToClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\CollectionRefferrenecesToClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\CollectionRefferrenecesToClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\CollectionRefferrenecesToClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\ref\CollectionRefferrenecesToClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\bin\Debug\net6.0\CollectionRefferrenecesToClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\ref\CollectionRefferrenecesToClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\06.Classes\CollectionRefferrenecesToClasses\obj\Debug\net6.0\CollectionRefferrenecesToClasses.genruntimeconfig.cache
