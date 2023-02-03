@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\WithoutGenerics.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\WithoutGenerics.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\WithoutGenerics.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\WithoutGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\ref\WithoutGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\bin\Debug\net6.0\WithoutGenerics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\ref\WithoutGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\WithoutGenerics\obj\Debug\net6.0\WithoutGenerics.genruntimeconfig.cache

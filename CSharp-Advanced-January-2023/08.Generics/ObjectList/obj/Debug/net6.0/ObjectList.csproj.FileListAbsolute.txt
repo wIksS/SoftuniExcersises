@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ObjectList.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ObjectList.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ObjectList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ObjectList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ref\ObjectList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\bin\Debug\net6.0\ObjectList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ref\ObjectList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ObjectList\obj\Debug\net6.0\ObjectList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\NumbersConstraint.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\NumbersConstraint.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\NumbersConstraint.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\NumbersConstraint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\ref\NumbersConstraint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\bin\Debug\net6.0\NumbersConstraint.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\ref\NumbersConstraint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\NumbersConstraint\obj\Debug\net6.0\NumbersConstraint.genruntimeconfig.cache

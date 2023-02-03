@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\LinkedListAsQueueAndStack.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\LinkedListAsQueueAndStack.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\LinkedListAsQueueAndStack.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\LinkedListAsQueueAndStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\ref\LinkedListAsQueueAndStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\bin\Debug\net6.0\LinkedListAsQueueAndStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\ref\LinkedListAsQueueAndStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\07.LinkedList\LinkedListAsQueueAndStack\obj\Debug\net6.0\LinkedListAsQueueAndStack.genruntimeconfig.cache

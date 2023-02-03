@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\Constraints.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\Constraints.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\Constraints.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\Constraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\ref\Constraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\bin\Debug\net6.0\Constraints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\ref\Constraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\Constraints\obj\Debug\net6.0\Constraints.genruntimeconfig.cache

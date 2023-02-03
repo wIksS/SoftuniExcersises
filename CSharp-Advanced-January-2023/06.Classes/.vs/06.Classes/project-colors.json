@@ -65,7 +65,12 @@
       "ProjectGuid": "48f1516e-ed98-4210-9b10-5b717796c41d",
       "DisplayName": "StaticAdvanced",
       "ColorIndex": 11
+    },
+    "f49f1a38-f9c3-49e2-be4c-bba6b585317e": {
+      "ProjectGuid": "f49f1a38-f9c3-49e2-be4c-bba6b585317e",
+      "DisplayName": "Namespaces",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

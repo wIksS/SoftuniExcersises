@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\FindGeneric.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\FindGeneric.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\FindGeneric.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\FindGeneric.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\ref\FindGeneric.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\bin\Debug\net6.0\FindGeneric.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\ref\FindGeneric.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\FindGeneric\obj\Debug\net6.0\FindGeneric.genruntimeconfig.cache

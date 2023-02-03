@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ParameterlessConstructor.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ParameterlessConstructor.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ParameterlessConstructor.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ParameterlessConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ref\ParameterlessConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\bin\Debug\net6.0\ParameterlessConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ref\ParameterlessConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\ParameterlessConstructor\obj\Debug\net6.0\ParameterlessConstructor.genruntimeconfig.cache

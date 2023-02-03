@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinkedListPerformance/1.0.0": {
+        "dependencies": {
+          "CustomLinkedList": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListPerformance.dll": {}
+        }
+      },
+      "CustomLinkedList/1.0.0": {
+        "runtime": {
+          "CustomLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListPerformance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

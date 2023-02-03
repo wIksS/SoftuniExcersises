@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\GenericsOverview.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\GenericsOverview.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\GenericsOverview.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\GenericsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\ref\GenericsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\bin\Debug\net6.0\GenericsOverview.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\ref\GenericsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\GenericsOverview\obj\Debug\net6.0\GenericsOverview.genruntimeconfig.cache

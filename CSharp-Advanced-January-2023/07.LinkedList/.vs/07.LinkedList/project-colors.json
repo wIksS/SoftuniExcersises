@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f998f24-cd54-416c-81b2-5ee5b9520ef7": {
+      "ProjectGuid": "0f998f24-cd54-416c-81b2-5ee5b9520ef7",
+      "DisplayName": "07.LinkedList",
+      "ColorIndex": 0
+    },
+    "2d5d2970-7ff4-4de3-afc1-2093747d02db": {
+      "ProjectGuid": "2d5d2970-7ff4-4de3-afc1-2093747d02db",
+      "DisplayName": "LinkedListAsQueueAndStack",
+      "ColorIndex": 1
+    },
+    "4a708a11-b479-4b01-8ee5-2afdebd9d0ee": {
+      "ProjectGuid": "4a708a11-b479-4b01-8ee5-2afdebd9d0ee",
+      "DisplayName": "CustomLinkedList",
+      "ColorIndex": 2
+    },
+    "fd0eb5d1-0539-4e0f-ba9f-639654e4902c": {
+      "ProjectGuid": "fd0eb5d1-0539-4e0f-ba9f-639654e4902c",
+      "DisplayName": "LinkedListPerformance",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

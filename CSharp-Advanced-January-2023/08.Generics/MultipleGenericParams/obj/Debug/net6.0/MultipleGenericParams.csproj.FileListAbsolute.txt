@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\MultipleGenericParams.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\MultipleGenericParams.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\MultipleGenericParams.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\MultipleGenericParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\ref\MultipleGenericParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\bin\Debug\net6.0\MultipleGenericParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\ref\MultipleGenericParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\08.Generics\MultipleGenericParams\obj\Debug\net6.0\MultipleGenericParams.genruntimeconfig.cache
