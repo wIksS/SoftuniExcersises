@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ref\ParamsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ref\ParamsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.genruntimeconfig.cache

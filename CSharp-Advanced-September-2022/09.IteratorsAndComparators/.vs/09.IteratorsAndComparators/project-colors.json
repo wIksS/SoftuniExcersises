@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bca7184b-99c8-490f-91df-777e77a7ac24": {
+      "ProjectGuid": "bca7184b-99c8-490f-91df-777e77a7ac24",
+      "DisplayName": "This",
+      "ColorIndex": 0
+    },
+    "440cce24-92ca-4523-8b89-4d498e458ab0": {
+      "ProjectGuid": "440cce24-92ca-4523-8b89-4d498e458ab0",
+      "DisplayName": "IteratorsAndComparators",
+      "ColorIndex": 1
+    },
+    "86cb1b86-ebc4-4348-b318-b3741d054e77": {
+      "ProjectGuid": "86cb1b86-ebc4-4348-b318-b3741d054e77",
+      "DisplayName": "Comparers",
+      "ColorIndex": 2
+    },
+    "b2ec1413-6305-47a1-94ca-534e1d2caf0d": {
+      "ProjectGuid": "b2ec1413-6305-47a1-94ca-534e1d2caf0d",
+      "DisplayName": "Comparable",
+      "ColorIndex": 3
+    },
+    "d8949621-f50a-46be-9d7b-ca4770709bca": {
+      "ProjectGuid": "d8949621-f50a-46be-9d7b-ca4770709bca",
+      "DisplayName": "YieldReturn",
+      "ColorIndex": 4
+    },
+    "72fb8816-1cfe-4eae-857a-a88db9b47696": {
+      "ProjectGuid": "72fb8816-1cfe-4eae-857a-a88db9b47696",
+      "DisplayName": "Params",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d6603eb5-7ab4-400d-b858-c97791ebf2d7": {
+      "ProjectGuid": "d6603eb5-7ab4-400d-b858-c97791ebf2d7",
+      "DisplayName": "YieldReturn2",
+      "ColorIndex": 6
+    },
+    "13d53cc9-4987-4fdc-aa1b-0eee2ff3e1e2": {
+      "ProjectGuid": "13d53cc9-4987-4fdc-aa1b-0eee2ff3e1e2",
+      "DisplayName": "YieldCompiled",
+      "ColorIndex": 7
+    },
+    "56983142-a2a8-4e5e-8454-4ca014f85229": {
+      "ProjectGuid": "56983142-a2a8-4e5e-8454-4ca014f85229",
+      "DisplayName": "MyList",
+      "ColorIndex": 8
+    },
+    "be5fa424-107f-4f7b-87b8-112580b68364": {
+      "ProjectGuid": "be5fa424-107f-4f7b-87b8-112580b68364",
+      "DisplayName": "IntEnumerator",
+      "ColorIndex": 9
+    },
+    "21f21730-baf0-4d0e-b618-b8fcb1744c00": {
+      "ProjectGuid": "21f21730-baf0-4d0e-b618-b8fcb1744c00",
+      "DisplayName": "09.IteratorsAndComparators",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

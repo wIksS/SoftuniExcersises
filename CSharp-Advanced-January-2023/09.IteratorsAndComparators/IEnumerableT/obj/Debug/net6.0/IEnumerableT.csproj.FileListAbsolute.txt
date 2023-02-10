@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\IEnumerableT.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\IEnumerableT.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\IEnumerableT.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\IEnumerableT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\ref\IEnumerableT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\bin\Debug\net6.0\IEnumerableT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\ref\IEnumerableT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\IEnumerableT\obj\Debug\net6.0\IEnumerableT.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\RealListEnumerator.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\RealListEnumerator.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\RealListEnumerator.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\RealListEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\ref\RealListEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\bin\Debug\net6.0\RealListEnumerator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\ref\RealListEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\RealListEnumerator\obj\Debug\net6.0\RealListEnumerator.genruntimeconfig.cache

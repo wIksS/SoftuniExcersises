@@ -7,7 +7,10 @@ namespace YieldCompiled
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            foreach (var item in ForEach())
+            {
+
+            }
         }
 
         public static IEnumerator<int> ForEach()

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ImplementIEnumerable.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ImplementIEnumerable.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ImplementIEnumerable.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ImplementIEnumerable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ref\ImplementIEnumerable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\bin\Debug\net6.0\ImplementIEnumerable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ref\ImplementIEnumerable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\09.IteratorsAndComparators\ImplementIEnumerable\obj\Debug\net6.0\ImplementIEnumerable.genruntimeconfig.cache

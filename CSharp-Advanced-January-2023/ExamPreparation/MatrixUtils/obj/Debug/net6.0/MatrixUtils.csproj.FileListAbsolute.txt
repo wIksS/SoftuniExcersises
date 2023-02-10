@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\MatrixUtils.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\MatrixUtils.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\MatrixUtils.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\MatrixUtils.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\ref\MatrixUtils.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\bin\Debug\net6.0\MatrixUtils.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\ref\MatrixUtils.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\MatrixUtils\obj\Debug\net6.0\MatrixUtils.genruntimeconfig.cache

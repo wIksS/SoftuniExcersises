@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\Params\\Params.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\Params\\Params.csproj",
       "projectName": "Params",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\Params\\Params.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\Params\\Params.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\Params\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\Params\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

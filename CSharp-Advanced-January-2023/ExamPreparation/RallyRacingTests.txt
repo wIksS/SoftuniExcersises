@@ -1,0 +1,102 @@
+INPUT:
+5
+23
+. . . . T
+. . . . .
+. . . . .
+. . T . .
+. F . . .
+right
+right
+right
+right
+down
+left
+up
+right
+End
+OUTPUT:
+Racing car 23 finished the stage!
+Distance covered 80 km.
+.....
+.....
+.....
+.....
+.C...
+===================================
+INPUT:
+5
+77
+. . . . T
+. . . . .
+. . . . .
+. . T . .
+. F . . .
+down
+right
+down
+down
+down
+left
+up
+right
+End
+OUTPUT:
+Racing car 77 finished the stage!
+Distance covered 50 km.
+....T
+.....
+.....
+..T..
+.C...
+===================================
+INPUT:
+4
+05
+. T . . 
+. . F . 
+. . . . 
+. . T . 
+down
+right
+down
+down
+left
+up
+right
+right
+End
+OUTPUT:
+Racing car 05 DNF.
+Distance covered 80 km.
+.T..
+..F.
+..C.
+..T.
+===================================
+INPUT:
+4
+50
+. T . . 
+. . F . 
+. . . . 
+. . T . 
+down
+right
+down
+down
+left
+up
+right
+right
+right
+up
+End
+OUTPUT:
+Racing car 50 DNF.
+Distance covered 100 km.
+.T..
+..FC
+....
+..T.
+===================================

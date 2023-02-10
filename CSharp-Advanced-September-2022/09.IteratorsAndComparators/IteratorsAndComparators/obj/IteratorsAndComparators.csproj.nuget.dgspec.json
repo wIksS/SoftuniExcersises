@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
         "projectName": "IteratorsAndComparators",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.IteratorsAndComparators\\IteratorsAndComparators\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-Advanced-September-2022\\09.IteratorsAndComparators\\IteratorsAndComparators\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

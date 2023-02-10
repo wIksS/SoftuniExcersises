@@ -1,0 +1,42 @@
+input:
+2, 3, 5, 2
+20, 40, 10, 15
+output:
+At least Stamat wasn't exceeding the maximum caffeine.
+Stamat is going to sleep with 300 mg caffeine.
+======================================================
+input:
+7, 5, 7, 3
+7, 20, 60, 20
+output:
+Drinks left: 60
+Stamat is going to sleep with 271 mg caffeine.
+======================================================
+input:
+11, 7, 9, 3, 6
+20, 80, 35, 50, 30
+output:
+Drinks left: 80, 35, 50, 30
+Stamat is going to sleep with 0 mg caffeine.
+======================================================
+input:
+9, 3, 6
+50, 35, 80, 20
+output:
+Drinks left: 20, 35, 80
+Stamat is going to sleep with 240 mg caffeine.
+======================================================
+input:
+7, 4, 8, 4
+60, 20
+output:
+At least Stamat wasn't exceeding the maximum caffeine.
+Stamat is going to sleep with 290 mg caffeine.
+======================================================
+input:
+8
+38, 37
+output:
+Drinks left: 37, 38
+Stamat is going to sleep with 0 mg caffeine.
+======================================================

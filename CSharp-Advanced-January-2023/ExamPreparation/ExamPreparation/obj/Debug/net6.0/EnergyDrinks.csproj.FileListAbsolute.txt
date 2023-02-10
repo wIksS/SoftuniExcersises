@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\EnergyDrinks.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\EnergyDrinks.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\EnergyDrinks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ref\EnergyDrinks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\bin\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ref\EnergyDrinks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\ExamPreparation\ExamPreparation\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache

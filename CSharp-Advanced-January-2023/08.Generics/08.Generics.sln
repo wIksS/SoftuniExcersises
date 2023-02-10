@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterlessConstructor", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericScale", "GenericScale\GenericScale.csproj", "{44D18761-EE26-4E9C-95EC-8F4C81BC9E04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.csproj", "{8B4A373D-E588-4D54-A67E-C0E7718B5474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{44D18761-EE26-4E9C-95EC-8F4C81BC9E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D18761-EE26-4E9C-95EC-8F4C81BC9E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D18761-EE26-4E9C-95EC-8F4C81BC9E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4A373D-E588-4D54-A67E-C0E7718B5474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4A373D-E588-4D54-A67E-C0E7718B5474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4A373D-E588-4D54-A67E-C0E7718B5474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4A373D-E588-4D54-A67E-C0E7718B5474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
