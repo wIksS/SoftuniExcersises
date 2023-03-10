@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\AccessModifiers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\AccessModifiers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\AccessModifiers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\AccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\ref\AccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\bin\Debug\net6.0\AccessModifiers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\ref\AccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\AccessModifiers\obj\Debug\net6.0\AccessModifiers.genruntimeconfig.cache

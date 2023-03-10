@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3863ea57-5716-4f8e-92d7-d1163ebaddfa": {
+      "ProjectGuid": "3863ea57-5716-4f8e-92d7-d1163ebaddfa",
+      "DisplayName": "BadEncapsulation",
+      "ColorIndex": 0
+    },
+    "33bb3d06-f6ff-4fd9-8af2-eb63f45a22ff": {
+      "ProjectGuid": "33bb3d06-f6ff-4fd9-8af2-eb63f45a22ff",
+      "DisplayName": "GoodEncapsulation",
+      "ColorIndex": 1
+    },
+    "84300e39-1dc8-4afe-828b-bfc0e0f6449c": {
+      "ProjectGuid": "84300e39-1dc8-4afe-828b-bfc0e0f6449c",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 2
+    },
+    "d865f3f0-dd72-4722-92eb-ea19207465e4": {
+      "ProjectGuid": "d865f3f0-dd72-4722-92eb-ea19207465e4",
+      "DisplayName": "InternalModifier",
+      "ColorIndex": 3
+    },
+    "631faaae-1b8f-4669-8a49-b00c6ed8bcae": {
+      "ProjectGuid": "631faaae-1b8f-4669-8a49-b00c6ed8bcae",
+      "DisplayName": "PersonsInfo",
+      "ColorIndex": 4
+    },
+    "b7013b60-6ed7-490d-8c01-4f23fc707415": {
+      "ProjectGuid": "b7013b60-6ed7-490d-8c01-4f23fc707415",
+      "DisplayName": "MutableImmutable",
+      "ColorIndex": 5
+    },
+    "bf700ca9-765c-41e2-991c-6fdd579f8df3": {
+      "ProjectGuid": "bf700ca9-765c-41e2-991c-6fdd579f8df3",
+      "DisplayName": "ImmutableList",
+      "ColorIndex": 6
+    },
+    "f18ce121-2165-47b6-8638-e1fb716a35a7": {
+      "ProjectGuid": "f18ce121-2165-47b6-8638-e1fb716a35a7",
+      "DisplayName": "ListReadOnlu",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

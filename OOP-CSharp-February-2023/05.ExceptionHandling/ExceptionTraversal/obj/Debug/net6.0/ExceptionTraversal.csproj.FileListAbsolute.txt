@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ExceptionTraversal.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ExceptionTraversal.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ExceptionTraversal.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ExceptionTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ref\ExceptionTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\bin\Debug\net6.0\ExceptionTraversal.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ref\ExceptionTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionTraversal\obj\Debug\net6.0\ExceptionTraversal.genruntimeconfig.cache

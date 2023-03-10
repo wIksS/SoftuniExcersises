@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\01.ArraySum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\01.ArraySum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\01.ArraySum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\01.ArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\ref\01.ArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\bin\Debug\net6.0\01.ArraySum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\ref\01.ArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\01.ArraySum\obj\Debug\net6.0\01.ArraySum.genruntimeconfig.cache

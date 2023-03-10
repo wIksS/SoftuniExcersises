@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\VirtualBenefits.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\VirtualBenefits.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\VirtualBenefits.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\VirtualBenefits.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\ref\VirtualBenefits.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\bin\Debug\net6.0\VirtualBenefits.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\ref\VirtualBenefits.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\VirtualBenefits\obj\Debug\net6.0\VirtualBenefits.genruntimeconfig.cache

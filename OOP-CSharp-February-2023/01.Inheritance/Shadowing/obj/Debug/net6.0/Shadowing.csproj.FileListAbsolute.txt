@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\Shadowing.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\Shadowing.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\Shadowing.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\Shadowing.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\ref\Shadowing.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\bin\Debug\net6.0\Shadowing.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\ref\Shadowing.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\Shadowing\obj\Debug\net6.0\Shadowing.genruntimeconfig.cache

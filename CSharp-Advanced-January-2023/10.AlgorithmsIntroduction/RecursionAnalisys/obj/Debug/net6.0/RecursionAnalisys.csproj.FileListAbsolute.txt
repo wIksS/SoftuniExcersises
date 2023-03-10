@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\RecursionAnalisys.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\RecursionAnalisys.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\RecursionAnalisys.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\RecursionAnalisys.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\ref\RecursionAnalisys.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\bin\Debug\net6.0\RecursionAnalisys.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\ref\RecursionAnalisys.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursionAnalisys\obj\Debug\net6.0\RecursionAnalisys.genruntimeconfig.cache

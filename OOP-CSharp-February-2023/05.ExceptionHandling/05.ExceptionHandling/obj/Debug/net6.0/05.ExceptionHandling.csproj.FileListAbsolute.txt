@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\05.ExceptionHandling.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\05.ExceptionHandling.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\05.ExceptionHandling.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\05.ExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\ref\05.ExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\bin\Debug\net6.0\05.ExceptionHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\ref\05.ExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\05.ExceptionHandling\obj\Debug\net6.0\05.ExceptionHandling.genruntimeconfig.cache

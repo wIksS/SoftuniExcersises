@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\ref\RecursiveSteps.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\ref\RecursiveSteps.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.genruntimeconfig.cache

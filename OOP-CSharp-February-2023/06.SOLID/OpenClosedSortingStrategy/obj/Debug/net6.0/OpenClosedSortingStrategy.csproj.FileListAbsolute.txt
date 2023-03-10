@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\OpenClosedSortingStrategy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\OpenClosedSortingStrategy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\OpenClosedSortingStrategy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\OpenClosedSortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\ref\OpenClosedSortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\bin\Debug\net6.0\OpenClosedSortingStrategy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\ref\OpenClosedSortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\OpenClosedSortingStrategy\obj\Debug\net6.0\OpenClosedSortingStrategy.genruntimeconfig.cache

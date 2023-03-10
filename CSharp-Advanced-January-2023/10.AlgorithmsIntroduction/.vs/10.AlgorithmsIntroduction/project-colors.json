@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d5000b5-6721-46fe-a250-1913663842d3": {
+      "ProjectGuid": "3d5000b5-6721-46fe-a250-1913663842d3",
+      "DisplayName": "10.AlgorithmsIntroduction",
+      "ColorIndex": 0
+    },
+    "0586f1f0-fa3c-49f3-812c-576079cc4fb7": {
+      "ProjectGuid": "0586f1f0-fa3c-49f3-812c-576079cc4fb7",
+      "DisplayName": "BigONotation",
+      "ColorIndex": 1
+    },
+    "dbedb1db-85df-4863-a26d-1a309b5a732a": {
+      "ProjectGuid": "dbedb1db-85df-4863-a26d-1a309b5a732a",
+      "DisplayName": "Recursion",
+      "ColorIndex": 2
+    },
+    "fb2294a4-5e4a-4060-9735-86fa18437078": {
+      "ProjectGuid": "fb2294a4-5e4a-4060-9735-86fa18437078",
+      "DisplayName": "RecursiveFactorial",
+      "ColorIndex": 3
+    },
+    "693e0578-dbf6-442c-8ba1-66e443756c25": {
+      "ProjectGuid": "693e0578-dbf6-442c-8ba1-66e443756c25",
+      "DisplayName": "01.ArraySum",
+      "ColorIndex": 4
+    },
+    "ac1af9e5-482d-42a7-b56a-301c5eadeb47": {
+      "ProjectGuid": "ac1af9e5-482d-42a7-b56a-301c5eadeb47",
+      "DisplayName": "RecursiveSteps",
+      "ColorIndex": 5
+    },
+    "7d3de64e-c667-4385-9604-4735cd0d8da9": {
+      "ProjectGuid": "7d3de64e-c667-4385-9604-4735cd0d8da9",
+      "DisplayName": "RecursionAnalisys",
+      "ColorIndex": 6
+    },
+    "e369df9a-9616-4b45-9a98-04d0af86a485": {
+      "ProjectGuid": "e369df9a-9616-4b45-9a98-04d0af86a485",
+      "DisplayName": "02.GreedySumOfCoins",
+      "ColorIndex": 7
+    },
+    "10a5e44b-d9e1-474a-bf41-4462c8161b07": {
+      "ProjectGuid": "10a5e44b-d9e1-474a-bf41-4462c8161b07",
+      "DisplayName": "SumOfCoins",
+      "ColorIndex": 8
+    },
+    "a9c235e5-9b79-42d9-9f9e-be38d371e638": {
+      "ProjectGuid": "a9c235e5-9b79-42d9-9f9e-be38d371e638",
+      "DisplayName": "MergeSort",
+      "ColorIndex": 9
+    },
+    "93d8cf4b-867d-468c-9d0e-4a9314c09c52": {
+      "ProjectGuid": "93d8cf4b-867d-468c-9d0e-4a9314c09c52",
+      "DisplayName": "BinarySearch",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

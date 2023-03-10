@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\ref\TryCatchFinally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\ref\TryCatchFinally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.genruntimeconfig.cache

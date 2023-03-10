@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ConstructorsAndInheritance.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ConstructorsAndInheritance.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ConstructorsAndInheritance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ConstructorsAndInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ref\ConstructorsAndInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\bin\Debug\net6.0\ConstructorsAndInheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ref\ConstructorsAndInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\ConstructorsAndInheritance\obj\Debug\net6.0\ConstructorsAndInheritance.genruntimeconfig.cache

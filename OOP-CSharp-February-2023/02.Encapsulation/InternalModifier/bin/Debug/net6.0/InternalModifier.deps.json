@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InternalModifier/1.0.0": {
+        "dependencies": {
+          "AccessModifiers": "1.0.0",
+          "CustomRandomList": "1.0.0.0"
+        },
+        "runtime": {
+          "InternalModifier.dll": {}
+        }
+      },
+      "AccessModifiers/1.0.0": {
+        "runtime": {
+          "AccessModifiers.dll": {}
+        }
+      },
+      "CustomRandomList/1.0.0.0": {
+        "runtime": {
+          "CustomRandomList.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternalModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessModifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomRandomList/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

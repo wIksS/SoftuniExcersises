@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\ref\PersonsInfo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.AssemblyReference.cache

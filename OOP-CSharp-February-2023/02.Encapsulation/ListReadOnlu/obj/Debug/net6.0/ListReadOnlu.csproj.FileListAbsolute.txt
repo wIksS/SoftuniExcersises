@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ListReadOnlu.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ListReadOnlu.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ListReadOnlu.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ListReadOnlu.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ref\ListReadOnlu.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\bin\Debug\net6.0\ListReadOnlu.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ref\ListReadOnlu.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ListReadOnlu\obj\Debug\net6.0\ListReadOnlu.genruntimeconfig.cache

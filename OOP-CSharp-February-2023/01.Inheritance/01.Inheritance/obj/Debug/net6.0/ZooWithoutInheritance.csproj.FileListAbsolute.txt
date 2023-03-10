@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ZooWithoutInheritance.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ZooWithoutInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ZooWithoutInheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ZooWithoutInheritance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ZooWithoutInheritance.csproj.CoreCompileInputs.cache

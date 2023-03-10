@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\ref\BinarySearch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2023\10.AlgorithmsIntroduction\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache

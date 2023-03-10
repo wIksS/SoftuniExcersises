@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\CustomExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\CustomExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\CustomExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\CustomExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\ref\CustomExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\bin\Debug\net6.0\CustomExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\ref\CustomExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\CustomExceptions\obj\Debug\net6.0\CustomExceptions.genruntimeconfig.cache

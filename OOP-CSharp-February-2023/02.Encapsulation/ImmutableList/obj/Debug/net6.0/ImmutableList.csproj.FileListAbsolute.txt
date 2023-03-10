@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ImmutableList.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ImmutableList.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ImmutableList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ImmutableList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ref\ImmutableList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\bin\Debug\net6.0\ImmutableList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ref\ImmutableList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\ImmutableList\obj\Debug\net6.0\ImmutableList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\MutableImmutable.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\MutableImmutable.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\MutableImmutable.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\MutableImmutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\ref\MutableImmutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\bin\Debug\net6.0\MutableImmutable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\ref\MutableImmutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\MutableImmutable\obj\Debug\net6.0\MutableImmutable.genruntimeconfig.cache

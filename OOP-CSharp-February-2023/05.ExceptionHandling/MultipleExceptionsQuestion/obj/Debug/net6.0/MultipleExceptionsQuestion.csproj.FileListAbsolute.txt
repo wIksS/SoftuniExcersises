@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\MultipleExceptionsQuestion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\MultipleExceptionsQuestion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\MultipleExceptionsQuestion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\MultipleExceptionsQuestion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\ref\MultipleExceptionsQuestion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\bin\Debug\net6.0\MultipleExceptionsQuestion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\ref\MultipleExceptionsQuestion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleExceptionsQuestion\obj\Debug\net6.0\MultipleExceptionsQuestion.genruntimeconfig.cache

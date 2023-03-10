@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ExpectionsOverview.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ExpectionsOverview.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ExpectionsOverview.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ExpectionsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ref\ExpectionsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\bin\Debug\net6.0\ExpectionsOverview.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ref\ExpectionsOverview.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExpectionsOverview\obj\Debug\net6.0\ExpectionsOverview.genruntimeconfig.cache

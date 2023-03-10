@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\MultipleCatches.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\MultipleCatches.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\MultipleCatches.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\MultipleCatches.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\ref\MultipleCatches.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\bin\Debug\net6.0\MultipleCatches.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\ref\MultipleCatches.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\MultipleCatches\obj\Debug\net6.0\MultipleCatches.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\06.SOLID.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\06.SOLID.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\06.SOLID.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\06.SOLID.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\ref\06.SOLID.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\bin\Debug\net6.0\06.SOLID.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\ref\06.SOLID.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.genruntimeconfig.cache

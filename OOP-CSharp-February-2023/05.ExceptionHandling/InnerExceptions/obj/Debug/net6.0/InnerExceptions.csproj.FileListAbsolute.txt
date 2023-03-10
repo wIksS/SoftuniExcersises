@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\InnerExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\InnerExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\InnerExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\InnerExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\ref\InnerExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\bin\Debug\net6.0\InnerExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\ref\InnerExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\InnerExceptions\obj\Debug\net6.0\InnerExceptions.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ChessDependencyInversion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ChessDependencyInversion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ChessDependencyInversion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ChessDependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ref\ChessDependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\bin\Debug\net6.0\ChessDependencyInversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ref\ChessDependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\ChessDependencyInversion\obj\Debug\net6.0\ChessDependencyInversion.genruntimeconfig.cache

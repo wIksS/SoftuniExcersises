@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\BadEncapsulation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\BadEncapsulation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\BadEncapsulation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\BadEncapsulation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\ref\BadEncapsulation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\BadEncapsulation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\ref\BadEncapsulation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\BadEncapsulation.genruntimeconfig.cache

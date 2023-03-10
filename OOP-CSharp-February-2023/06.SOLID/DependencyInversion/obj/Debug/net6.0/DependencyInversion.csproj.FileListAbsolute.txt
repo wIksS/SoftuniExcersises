@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\DependencyInversion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\DependencyInversion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\DependencyInversion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\DependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\ref\DependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\bin\Debug\net6.0\DependencyInversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\ref\DependencyInversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\06.SOLID\DependencyInversion\obj\Debug\net6.0\DependencyInversion.genruntimeconfig.cache

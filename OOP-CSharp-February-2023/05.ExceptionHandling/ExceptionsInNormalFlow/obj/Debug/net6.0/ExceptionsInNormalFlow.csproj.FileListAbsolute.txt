@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ExceptionsInNormalFlow.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ExceptionsInNormalFlow.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ExceptionsInNormalFlow.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ExceptionsInNormalFlow.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ref\ExceptionsInNormalFlow.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\bin\Debug\net6.0\ExceptionsInNormalFlow.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ref\ExceptionsInNormalFlow.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\05.ExceptionHandling\ExceptionsInNormalFlow\obj\Debug\net6.0\ExceptionsInNormalFlow.genruntimeconfig.cache
