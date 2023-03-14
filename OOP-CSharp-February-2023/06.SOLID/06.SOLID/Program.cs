@@ -1,7 +1,15 @@
 ﻿
+using _06.SOLID.Promotions;
 using OpenClosePrinciple;
 
-Store store = new Store();
+Store store = new Store(new List<IPromotion>()
+            {
+                //new DecemberPromotion(),
+                new MondayPromotion(),
+                //new StValentinePromotion(),
+                new SundayPromotion(),
+                new HourPromotion()
+            });
 
 store.Products.Add(new Product()
 {

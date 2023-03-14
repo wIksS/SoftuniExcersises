@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\SerializationWorkshop.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\SerializationWorkshop.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\SerializationWorkshop.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\SerializationWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\ref\SerializationWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\bin\Debug\net6.0\SerializationWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\ref\SerializationWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\SerializationWorkshop\obj\Debug\net6.0\SerializationWorkshop.genruntimeconfig.cache

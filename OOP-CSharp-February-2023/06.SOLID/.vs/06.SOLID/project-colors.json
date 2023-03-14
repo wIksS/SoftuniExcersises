@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02c22a92-c764-417a-8e07-fe45847e5348": {
+      "ProjectGuid": "02c22a92-c764-417a-8e07-fe45847e5348",
+      "DisplayName": "06.SOLID",
+      "ColorIndex": 0
+    },
+    "bac434ae-5204-4735-9e3c-5140fb2caffa": {
+      "ProjectGuid": "bac434ae-5204-4735-9e3c-5140fb2caffa",
+      "DisplayName": "OpenClosePrincipleBad",
+      "ColorIndex": 1
+    },
+    "d7d87c67-8a78-48cf-8931-caf06056ea64": {
+      "ProjectGuid": "d7d87c67-8a78-48cf-8931-caf06056ea64",
+      "DisplayName": "OpenClosedGood",
+      "ColorIndex": 2
+    },
+    "2e60a2f3-7c92-4ff2-a2d8-1042956bd717": {
+      "ProjectGuid": "2e60a2f3-7c92-4ff2-a2d8-1042956bd717",
+      "DisplayName": "OpenClosedSortingStrategy",
+      "ColorIndex": 3
+    },
+    "24e6d1ce-f408-4814-a1c9-4611aaf84146": {
+      "ProjectGuid": "24e6d1ce-f408-4814-a1c9-4611aaf84146",
+      "DisplayName": "LiskovSubstituonPrinciple",
+      "ColorIndex": 4
+    },
+    "91759525-129d-45fd-96ff-d8fb7601b43e": {
+      "ProjectGuid": "91759525-129d-45fd-96ff-d8fb7601b43e",
+      "DisplayName": "LiskovGood",
+      "ColorIndex": 5
+    },
+    "f6ed02af-640b-4300-ab07-0485805b645b": {
+      "ProjectGuid": "f6ed02af-640b-4300-ab07-0485805b645b",
+      "DisplayName": "AdapterPattern",
+      "ColorIndex": 6
+    },
+    "1b6e5cdf-db7c-4368-8f38-ff3ffb1e2ff3": {
+      "ProjectGuid": "1b6e5cdf-db7c-4368-8f38-ff3ffb1e2ff3",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 7
+    },
+    "96a833a9-0114-4bbb-8eac-162636d1adc5": {
+      "ProjectGuid": "96a833a9-0114-4bbb-8eac-162636d1adc5",
+      "DisplayName": "ChessDependencyInversion",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

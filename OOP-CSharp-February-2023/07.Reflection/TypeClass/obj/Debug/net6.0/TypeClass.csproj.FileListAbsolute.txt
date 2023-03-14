@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\TypeClass.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\TypeClass.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\TypeClass.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\TypeClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\ref\TypeClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\bin\Debug\net6.0\TypeClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\ref\TypeClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\TypeClass\obj\Debug\net6.0\TypeClass.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ref\ActivatorCreateInstance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ref\ActivatorCreateInstance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.genruntimeconfig.cache

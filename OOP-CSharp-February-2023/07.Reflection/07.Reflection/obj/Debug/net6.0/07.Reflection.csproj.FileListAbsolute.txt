@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\07.Reflection.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\07.Reflection.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\07.Reflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\07.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\ref\07.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\bin\Debug\net6.0\07.Reflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\ref\07.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\07.Reflection\obj\Debug\net6.0\07.Reflection.genruntimeconfig.cache

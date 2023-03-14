@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\GenericMethodsReflection.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\GenericMethodsReflection.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\GenericMethodsReflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\GenericMethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\ref\GenericMethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\bin\Debug\net6.0\GenericMethodsReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\ref\GenericMethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\GenericMethodsReflection\obj\Debug\net6.0\GenericMethodsReflection.genruntimeconfig.cache

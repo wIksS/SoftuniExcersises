@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\ref\AuthorProblem.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache

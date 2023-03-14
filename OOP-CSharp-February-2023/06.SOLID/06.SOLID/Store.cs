@@ -11,18 +11,11 @@ namespace OpenClosePrinciple
     {
         private List<IPromotion> promotions;
 
-        public Store()
+        public Store(List<IPromotion> promotions)
         {
             Products = new List<Product>();
 
-            promotions = new List<IPromotion>()
-            {
-                //new DecemberPromotion(),
-                new MondayPromotion(),
-                //new StValentinePromotion(),
-                new SundayPromotion(),
-                new HourPromotion()
-            };
+            this.promotions = promotions;
         }
 
         public List<Product> Products { get; set; }

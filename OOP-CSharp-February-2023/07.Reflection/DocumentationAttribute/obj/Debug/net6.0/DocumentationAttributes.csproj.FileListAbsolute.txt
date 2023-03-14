@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\DocumentationAttributes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\DocumentationAttributes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\DocumentationAttributes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\DocumentationAttributes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\ref\DocumentationAttributes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\bin\Debug\net6.0\DocumentationAttributes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\ref\DocumentationAttributes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\DocumentationAttribute\obj\Debug\net6.0\DocumentationAttributes.genruntimeconfig.cache

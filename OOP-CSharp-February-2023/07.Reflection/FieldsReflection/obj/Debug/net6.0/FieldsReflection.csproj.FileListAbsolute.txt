@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\FieldsReflection.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\FieldsReflection.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\FieldsReflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\FieldsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\ref\FieldsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\bin\Debug\net6.0\FieldsReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\ref\FieldsReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\FieldsReflection\obj\Debug\net6.0\FieldsReflection.csproj.AssemblyReference.cache

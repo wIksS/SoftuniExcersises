@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\EnumBinary.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\EnumBinary.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\EnumBinary.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\EnumBinary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\ref\EnumBinary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\bin\Debug\net6.0\EnumBinary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\ref\EnumBinary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\EnumBinary\obj\Debug\net6.0\EnumBinary.genruntimeconfig.cache

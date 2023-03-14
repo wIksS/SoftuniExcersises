@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\WhichFieldYouWantToRead.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\WhichFieldYouWantToRead.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\WhichFieldYouWantToRead.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\WhichFieldYouWantToRead.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\ref\WhichFieldYouWantToRead.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\bin\Debug\net6.0\WhichFieldYouWantToRead.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\ref\WhichFieldYouWantToRead.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\07.Reflection\WhichFieldYouWantToRead\obj\Debug\net6.0\WhichFieldYouWantToRead.genruntimeconfig.cache

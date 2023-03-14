@@ -1,0 +1,1 @@
+Date:14/03/2023 12:00:00 am|-|Day:14|-|DayOfWeek:Tuesday|-|DayOfYear:73|-|Hour:22|-|Kind:Local|-|Millisecond:295|-|Minute:34|-|Month:3|-|Now:14/03/2023 10:34:20 pm|-|Second:20|-|Ticks:638144300602958000|-|TimeOfDay:22:34:20.2958000|-|Today:14/03/2023 12:00:00 am|-|Year:2023|-|UtcNow:14/03/2023 8:34:20 pm|-|
