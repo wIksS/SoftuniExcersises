@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
         "projectName": "PrototypePattern",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

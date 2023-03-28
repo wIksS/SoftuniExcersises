@@ -1,0 +1,1 @@
+[{"Name":"Teniska","Price":55.0,"Quantity":2},{"Name":"Obuvki","Price":25.0,"Quantity":12},{"Name":"Riza","Price":15.0,"Quantity":2}]

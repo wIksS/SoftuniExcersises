@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj",
         "projectName": "MoqExamples",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExamples\\MoqExamples.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExamples\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FmSy6rPoNm12oQx8zYuP/VcNcBuiHMSeOTcWToptw8DenkR85H47iCaTn1S2pamknuf5UL/rGYsadOa1W5+2nA==",
+  "dgSpecHash": "LnciiidwsNsuHbm9KfR14NXAJYKQfcUoq9TsfQ4CVGN+tP7mi3pXdI8ko4kxMiCQn0Cnk0bJiRyUj1wcFJmDYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

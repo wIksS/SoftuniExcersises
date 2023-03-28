@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj",
         "projectName": "Company",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

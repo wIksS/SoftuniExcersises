@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zpjcfy4FmL+BdUSsDbF0sP9xWhf9APOB3CSDZfpPaf5FapgMiK3m5JxzTTAAWktWACLNuIERQk41BDbp49KQyQ==",
+  "dgSpecHash": "TAtY13B+PiMbBZzMr7tLZujxGqUxwoaHH7zh3Na1gSOmWQRjFXpt5daH7i0h1ppj2mRl8D5B4sih91IX59MmKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\PrototypePattern\\PrototypePattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],

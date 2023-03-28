@@ -4968,11 +4968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
       "projectName": "Company.Tests",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4995,8 +4995,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj": {
-              "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company\\Company.csproj"
+            "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj": {
+              "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company\\Company.csproj"
             }
           }
         }

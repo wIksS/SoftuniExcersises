@@ -32,6 +32,8 @@ class Product
 
     public Test Test { get; set; }
 
+    public Product Product2 { get; set; }
+
     public string Save()
     {
         return $"Id:{Id}|-|Price:{Price}|-|Quantity:{Quantity}|-|Model:{Model}|-|";

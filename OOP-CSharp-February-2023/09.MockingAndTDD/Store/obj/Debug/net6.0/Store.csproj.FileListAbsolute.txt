@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Store.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Store.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Store.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Store.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\ref\Store.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Store.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.csproj.CopyComplete
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\ref\Store.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpjpLiD9WPlWd3QhGYHM/FIsSonqbJHOPSizawurHeOhtaH/0nmCGRWAMwJDgScF5pUqjYbeH12Q1kR9dObmxw==",
+  "dgSpecHash": "LoM6m1lrNOY1CpYCMHKRtbZCy1u8CSadVkDVYJhnjzG5MGd2MPjBMP+eOo7CRFnpUB8VNxOGWcXnvmrluKbtHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Viktor\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

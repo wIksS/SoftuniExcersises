@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\Companies.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\Companies.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\Companies.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\Companies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\ref\Companies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\bin\Debug\net6.0\Companies.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\ref\Companies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Company\obj\Debug\net6.0\Companies.genruntimeconfig.cache

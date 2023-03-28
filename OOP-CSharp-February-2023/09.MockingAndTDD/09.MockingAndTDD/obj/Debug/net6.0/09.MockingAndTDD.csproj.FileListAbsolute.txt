@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\09.MockingAndTDD.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\09.MockingAndTDD.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\09.MockingAndTDD.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\09.MockingAndTDD.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\ref\09.MockingAndTDD.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\bin\Debug\net6.0\09.MockingAndTDD.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\ref\09.MockingAndTDD.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\09.MockingAndTDD\obj\Debug\net6.0\09.MockingAndTDD.genruntimeconfig.cache

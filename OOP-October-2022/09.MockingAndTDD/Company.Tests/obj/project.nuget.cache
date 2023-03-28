@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aaVEMcSVV0SF0DoLXerttgyy9ouLrMhZF9+PUJ02PIORLwOn9LXCnjWBKC0LeXCgkiarrcPFfimmqH+g7zWmHA==",
+  "dgSpecHash": "FyGJsPr4C2O4HVvyYWiWB/COIbTHVfcSMEJjuExU2XQkN6lMuP/5ax1wKBzz3InFByuJOT7J/ELbR40jBjRulA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Company.Tests\\Company.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

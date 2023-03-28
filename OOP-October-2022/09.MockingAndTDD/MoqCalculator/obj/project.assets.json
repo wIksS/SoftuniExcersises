@@ -368,11 +368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
       "projectName": "MoqCalculator",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

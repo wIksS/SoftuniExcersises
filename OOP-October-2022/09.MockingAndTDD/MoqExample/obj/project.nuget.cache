@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hbUD3+AyRBcescn3xh5h0laCHfqC2WFYL1sWR2gabl9qhg6lbiBt0KgdngndInalhcQvX8zXtnVtIWQ7SfodBA==",
+  "dgSpecHash": "XUlDoVktMjsCttkYjHHriM7qAikgV/O2aYQWnTJGd0dzARUGWApFj0GN7sxUz+/kEA5sf15c+BFnaGjvmTHYmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqExample\\MoqExample.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqExample\\MoqExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Viktor\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

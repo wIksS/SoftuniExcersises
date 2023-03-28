@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ph05IRdooIS9zU3s+4VbPEqOoeurN4k9KMlU5DRxc8PUfXFWcbi3eDIt1w6o5hnLyVAThfMCeSG7HbfZNPJuJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-CSharp-February-2023\\09.MockingAndTDD\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

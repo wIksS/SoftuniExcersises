@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
       "projectName": "CommandCalculator",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\CommandCalculator\\CommandCalculator.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\10.DesignPatterns\\CommandCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\10.DesignPatterns\\CommandCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

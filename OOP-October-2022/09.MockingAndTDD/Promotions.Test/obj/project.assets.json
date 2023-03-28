@@ -4453,11 +4453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
       "projectName": "Promotions.Test",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions.Test\\Promotions.Test.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions.Test\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4480,8 +4480,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions\\Promotions.csproj": {
-              "projectPath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\Promotions\\Promotions.csproj"
+            "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions\\Promotions.csproj": {
+              "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\Promotions\\Promotions.csproj"
             }
           }
         }

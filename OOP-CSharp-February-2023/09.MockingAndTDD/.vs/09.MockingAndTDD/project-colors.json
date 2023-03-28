@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "736b16bd-8c2c-4396-aa33-c62ea1334c74": {
+      "ProjectGuid": "736b16bd-8c2c-4396-aa33-c62ea1334c74",
+      "DisplayName": "09.MockingAndTDD",
+      "ColorIndex": 0
+    },
+    "c97e7971-c65a-4cef-ba6f-b7e74d51e788": {
+      "ProjectGuid": "c97e7971-c65a-4cef-ba6f-b7e74d51e788",
+      "DisplayName": "UnitTesting.Tests",
+      "ColorIndex": 1
+    },
+    "9f54dd84-68a0-494f-a845-cee4c5ace52b": {
+      "ProjectGuid": "9f54dd84-68a0-494f-a845-cee4c5ace52b",
+      "DisplayName": "Promotions",
+      "ColorIndex": 2
+    },
+    "4e0eed7b-e8ad-4b53-a99a-5ba22098e57e": {
+      "ProjectGuid": "4e0eed7b-e8ad-4b53-a99a-5ba22098e57e",
+      "DisplayName": "Promotions.Tests",
+      "ColorIndex": 3
+    },
+    "fece9eac-6947-4cbe-8f94-b71c281b9be2": {
+      "ProjectGuid": "fece9eac-6947-4cbe-8f94-b71c281b9be2",
+      "DisplayName": "Stores",
+      "ColorIndex": 4
+    },
+    "9024088d-50fb-4fc3-9655-e96f83ded94c": {
+      "ProjectGuid": "9024088d-50fb-4fc3-9655-e96f83ded94c",
+      "DisplayName": "Stores.Tests",
+      "ColorIndex": 5
+    },
+    "04600d18-8de6-4af8-b1f3-368e13ed2785": {
+      "ProjectGuid": "04600d18-8de6-4af8-b1f3-368e13ed2785",
+      "DisplayName": "MoqDemo",
+      "ColorIndex": 6
+    },
+    "03ef0689-594a-40c7-b470-af7a656e713d": {
+      "ProjectGuid": "03ef0689-594a-40c7-b470-af7a656e713d",
+      "DisplayName": "Calculator",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e262ade4-63f8-42a6-a027-d0e0732a5508": {
+      "ProjectGuid": "e262ade4-63f8-42a6-a027-d0e0732a5508",
+      "DisplayName": "Companies",
+      "ColorIndex": 8
+    },
+    "a061ceb8-09e4-4832-b404-d47fd3373f4f": {
+      "ProjectGuid": "a061ceb8-09e4-4832-b404-d47fd3373f4f",
+      "DisplayName": "Companies.Tests",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

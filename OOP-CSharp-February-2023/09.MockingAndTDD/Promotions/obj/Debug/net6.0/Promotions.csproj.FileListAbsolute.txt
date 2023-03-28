@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\Promotions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\Promotions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\Promotions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\Promotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\ref\Promotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\bin\Debug\net6.0\Promotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\ref\Promotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\09.MockingAndTDD\Promotions\obj\Debug\net6.0\Promotions.genruntimeconfig.cache

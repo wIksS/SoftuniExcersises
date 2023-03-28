@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\Singleton.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\Singleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\ref\Singleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\bin\Debug\net6.0\Singleton.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\ref\Singleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\Singleton.genruntimeconfig.cache

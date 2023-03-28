@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca5591c6-99f4-41e1-a6d5-04f89f1ed263": {
+      "ProjectGuid": "ca5591c6-99f4-41e1-a6d5-04f89f1ed263",
+      "DisplayName": "07.Reflection",
+      "ColorIndex": 0
+    },
+    "e3f609ea-2b13-4a46-9430-2e7e8db46f71": {
+      "ProjectGuid": "e3f609ea-2b13-4a46-9430-2e7e8db46f71",
+      "DisplayName": "TypeClass",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bbad3efa-8679-4ed1-9349-cfe420a1ef1d": {
+      "ProjectGuid": "bbad3efa-8679-4ed1-9349-cfe420a1ef1d",
+      "DisplayName": "FieldsReflection",
+      "ColorIndex": 2
+    },
+    "5e3968f2-05dc-4a1d-9d01-03a2ea649d18": {
+      "ProjectGuid": "5e3968f2-05dc-4a1d-9d01-03a2ea649d18",
+      "DisplayName": "WhichFieldYouWantToRead",
+      "ColorIndex": 3
+    },
+    "9d11cef7-31ad-4109-ac3a-a3ad4b3245b6": {
+      "ProjectGuid": "9d11cef7-31ad-4109-ac3a-a3ad4b3245b6",
+      "DisplayName": "ReadAllFields",
+      "ColorIndex": 4
+    },
+    "48e23778-1681-41c7-b539-dd24b05570bd": {
+      "ProjectGuid": "48e23778-1681-41c7-b539-dd24b05570bd",
+      "DisplayName": "GetFields",
+      "ColorIndex": 5
+    },
+    "e46245a3-469c-47bc-a003-cc68f455b585": {
+      "ProjectGuid": "e46245a3-469c-47bc-a003-cc68f455b585",
+      "DisplayName": "EnumBinary",
+      "ColorIndex": 6
+    },
+    "a376a92d-50a1-47a2-9083-2dd532f6facd": {
+      "ProjectGuid": "a376a92d-50a1-47a2-9083-2dd532f6facd",
+      "DisplayName": "PropertiesReflection",
+      "ColorIndex": 7
+    },
+    "83abbd2c-b439-4aee-a39c-71e2ddf33829": {
+      "ProjectGuid": "83abbd2c-b439-4aee-a39c-71e2ddf33829",
+      "DisplayName": "ActivatorCreateInstance",
+      "ColorIndex": 8
+    },
+    "bfbdca3f-9267-4327-bd6a-726fbf0a23bf": {
+      "ProjectGuid": "bfbdca3f-9267-4327-bd6a-726fbf0a23bf",
+      "DisplayName": "ReflectionConstructor",
+      "ColorIndex": 9
+    },
+    "eef5e466-069f-4ec3-a264-a18a3b800bb5": {
+      "ProjectGuid": "eef5e466-069f-4ec3-a264-a18a3b800bb5",
+      "DisplayName": "MethodsReflection",
+      "ColorIndex": 10
+    },
+    "67d03ebd-c400-48ab-9a98-85aaf09d5925": {
+      "ProjectGuid": "67d03ebd-c400-48ab-9a98-85aaf09d5925",
+      "DisplayName": "GenericMethodsReflection",
+      "ColorIndex": 11
+    },
+    "99601230-3d09-43cf-a009-1fc2146fca96": {
+      "ProjectGuid": "99601230-3d09-43cf-a009-1fc2146fca96",
+      "DisplayName": "Attributes",
+      "ColorIndex": 12
+    },
+    "2267b456-292d-405b-9199-965506ec60e2": {
+      "ProjectGuid": "2267b456-292d-405b-9199-965506ec60e2",
+      "DisplayName": "DocumentationAttributes",
+      "ColorIndex": 13
+    },
+    "284c2517-a431-4c67-a859-bdc75d5494d7": {
+      "ProjectGuid": "284c2517-a431-4c67-a859-bdc75d5494d7",
+      "DisplayName": "AttributesUsage",
+      "ColorIndex": 14
+    },
+    "4223ed8b-07f5-4b45-9b7f-18b6f10f37f9": {
+      "ProjectGuid": "4223ed8b-07f5-4b45-9b7f-18b6f10f37f9",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 15
+    },
+    "ff6236e1-8e14-4647-93b4-d72268ef45a2": {
+      "ProjectGuid": "ff6236e1-8e14-4647-93b4-d72268ef45a2",
+      "DisplayName": "SerializationWorkshop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

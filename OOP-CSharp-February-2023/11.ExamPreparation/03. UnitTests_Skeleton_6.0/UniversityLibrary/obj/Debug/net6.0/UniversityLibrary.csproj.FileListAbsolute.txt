@@ -1,0 +1,15 @@
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\ref\UniversityLibrary.dll
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Viktor\Downloads\03. UnitTests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\CalculatorCommandPattern.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\CalculatorCommandPattern.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\CalculatorCommandPattern.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\CalculatorCommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\ref\CalculatorCommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\bin\Debug\net6.0\CalculatorCommandPattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\ref\CalculatorCommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\CalculatorCommandPattern\obj\Debug\net6.0\CalculatorCommandPattern.genruntimeconfig.cache

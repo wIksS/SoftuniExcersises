@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\DrawIOCompositePattern.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\DrawIOCompositePattern.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\DrawIOCompositePattern.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\DrawIOCompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\ref\DrawIOCompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\bin\Debug\net6.0\DrawIOCompositePattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\ref\DrawIOCompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-CSharp-February-2023\10.DesignPatterns\DrawIOCompositePattern\obj\Debug\net6.0\DrawIOCompositePattern.genruntimeconfig.cache

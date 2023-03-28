@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CwAi9cfKLLLuGLwffPIuTMC/o1wRu32CBRWX8S8laXQFHIk+DR0yg3X3TQiKkm08Y6rBzXGPOsDfO63Fx7M0yQ==",
+  "dgSpecHash": "hHYkGeuhPVhFgdjCaNtYNG1JGtFazqcoTjS5DRWw1od5trl1jh6fgvfYLwAoHSqykJHArE9sQ2xSQkCC7FA9Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor\\source\\repos\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\09.MockingAndTDD\\MoqCalculator\\MoqCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
