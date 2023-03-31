@@ -1,0 +1,5 @@
+Chess board
+White pieces:
+PPPP
+Black pieces:
+PPPP

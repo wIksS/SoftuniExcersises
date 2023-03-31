@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12.DependencyInjectionWorkshop/1.0.0": {
+        "dependencies": {
+          "SoftuniIoC": "1.0.0"
+        },
+        "runtime": {
+          "12.DependencyInjectionWorkshop.dll": {}
+        }
+      },
+      "SoftuniIoC/1.0.0": {
+        "runtime": {
+          "SoftuniIoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12.DependencyInjectionWorkshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftuniIoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

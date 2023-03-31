@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DependencyInjectionWorkshop", "12.DependencyInjectionWorkshop\12.DependencyInjectionWorkshop.csproj", "{5159C910-CFC5-446B-B107-56A8E2C24FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniIoC", "SoftuniIoC\SoftuniIoC.csproj", "{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5159C910-CFC5-446B-B107-56A8E2C24FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5159C910-CFC5-446B-B107-56A8E2C24FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5159C910-CFC5-446B-B107-56A8E2C24FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5159C910-CFC5-446B-B107-56A8E2C24FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BAF8332-231F-4504-A137-067C612B3C5D}
+	EndGlobalSection
+EndGlobal
