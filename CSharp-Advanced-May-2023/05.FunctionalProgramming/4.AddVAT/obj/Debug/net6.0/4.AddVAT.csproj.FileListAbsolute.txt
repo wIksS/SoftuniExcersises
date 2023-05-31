@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\4.AddVAT.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\4.AddVAT.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\4.AddVAT.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\4.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\ref\4.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\bin\Debug\net6.0\4.AddVAT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\ref\4.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\4.AddVAT\obj\Debug\net6.0\4.AddVAT.genruntimeconfig.cache

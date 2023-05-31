@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\DirectionsEnum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\DirectionsEnum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\DirectionsEnum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\DirectionsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\ref\DirectionsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\bin\Debug\net6.0\DirectionsEnum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\ref\DirectionsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DirectionsEnum\obj\Debug\net6.0\DirectionsEnum.genruntimeconfig.cache

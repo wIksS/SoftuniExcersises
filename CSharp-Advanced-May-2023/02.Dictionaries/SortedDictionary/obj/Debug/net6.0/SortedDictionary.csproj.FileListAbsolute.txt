@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\SortedDictionary.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\SortedDictionary.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\SortedDictionary.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\ref\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\bin\Debug\net6.0\SortedDictionary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\ref\SortedDictionary.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedDictionary\obj\Debug\net6.0\SortedDictionary.genruntimeconfig.cache

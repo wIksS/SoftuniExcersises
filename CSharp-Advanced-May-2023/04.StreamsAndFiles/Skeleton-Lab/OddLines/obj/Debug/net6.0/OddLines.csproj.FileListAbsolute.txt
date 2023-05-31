@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\ref\OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache

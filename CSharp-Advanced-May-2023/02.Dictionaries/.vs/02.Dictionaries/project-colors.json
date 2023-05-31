@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73dc1967-ba1a-4db9-958a-8be6cee04e88": {
+      "ProjectGuid": "73dc1967-ba1a-4db9-958a-8be6cee04e88",
+      "DisplayName": "02.Dictionaries",
+      "ColorIndex": 0
+    },
+    "320e5710-8562-4a8c-ad0c-2b8da3360632": {
+      "ProjectGuid": "320e5710-8562-4a8c-ad0c-2b8da3360632",
+      "DisplayName": "SortedDictionary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5fd667b1-6923-41df-8f24-013628c56c3e": {
+      "ProjectGuid": "5fd667b1-6923-41df-8f24-013628c56c3e",
+      "DisplayName": "01.CountNumbers",
+      "ColorIndex": 2
+    },
+    "bec78685-3821-4080-9f1b-24735c05ae12": {
+      "ProjectGuid": "bec78685-3821-4080-9f1b-24735c05ae12",
+      "DisplayName": "OrderByDemo",
+      "ColorIndex": 3
+    },
+    "8f7ec7d7-d3b3-4310-b70b-03ed049acf1e": {
+      "ProjectGuid": "8f7ec7d7-d3b3-4310-b70b-03ed049acf1e",
+      "DisplayName": "DictionaryOrderBy",
+      "ColorIndex": 4
+    },
+    "43086836-11d9-4f74-a4e8-b88b7cf946cb": {
+      "ProjectGuid": "43086836-11d9-4f74-a4e8-b88b7cf946cb",
+      "DisplayName": "03.AverageGrades",
+      "ColorIndex": 5
+    },
+    "874cd891-e114-4756-8393-e8f82183cf95": {
+      "ProjectGuid": "874cd891-e114-4756-8393-e8f82183cf95",
+      "DisplayName": "04.ProductShop",
+      "ColorIndex": 6
+    },
+    "da732dd0-c51b-4e04-ba57-f653fc6ec7d5": {
+      "ProjectGuid": "da732dd0-c51b-4e04-ba57-f653fc6ec7d5",
+      "DisplayName": "05.CitiesByContinentAndCountry",
+      "ColorIndex": 7
+    },
+    "32983a09-168a-413b-97af-77c690c7d35b": {
+      "ProjectGuid": "32983a09-168a-413b-97af-77c690c7d35b",
+      "DisplayName": "Tuples",
+      "ColorIndex": 8
+    },
+    "c5c13888-363d-4860-84b5-6917c87c13a8": {
+      "ProjectGuid": "c5c13888-363d-4860-84b5-6917c87c13a8",
+      "DisplayName": "HashSets",
+      "ColorIndex": 9
+    },
+    "2b6bce96-252e-4f3f-a1c1-d9d3ba157882": {
+      "ProjectGuid": "2b6bce96-252e-4f3f-a1c1-d9d3ba157882",
+      "DisplayName": "06.PrintUniqueNames",
+      "ColorIndex": 10
+    },
+    "cc5d8a3d-12bb-4960-af9f-aa11d4631a60": {
+      "ProjectGuid": "cc5d8a3d-12bb-4960-af9f-aa11d4631a60",
+      "DisplayName": "SortedSetDemo",
+      "ColorIndex": 11
+    },
+    "02840556-9cc6-47e8-a093-e3d2f6e0ad9b": {
+      "ProjectGuid": "02840556-9cc6-47e8-a093-e3d2f6e0ad9b",
+      "DisplayName": "Performance",
+      "ColorIndex": 12
+    },
+    "edc1e2e2-3db7-490e-a803-24f01f145fec": {
+      "ProjectGuid": "edc1e2e2-3db7-490e-a803-24f01f145fec",
+      "DisplayName": "HashCode",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

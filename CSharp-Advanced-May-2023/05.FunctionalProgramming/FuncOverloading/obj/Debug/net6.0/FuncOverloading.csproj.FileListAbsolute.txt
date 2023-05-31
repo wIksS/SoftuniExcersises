@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\FuncOverloading.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\FuncOverloading.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\FuncOverloading.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\FuncOverloading.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\ref\FuncOverloading.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\bin\Debug\net6.0\FuncOverloading.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\ref\FuncOverloading.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FuncOverloading\obj\Debug\net6.0\FuncOverloading.csproj.AssemblyReference.cache

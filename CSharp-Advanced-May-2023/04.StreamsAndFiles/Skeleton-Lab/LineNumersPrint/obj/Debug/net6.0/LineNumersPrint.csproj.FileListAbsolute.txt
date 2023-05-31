@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\LineNumersPrint.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\LineNumersPrint.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\LineNumersPrint.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\LineNumersPrint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\ref\LineNumersPrint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\bin\Debug\net6.0\LineNumersPrint.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\ref\LineNumersPrint.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\LineNumersPrint\obj\Debug\net6.0\LineNumersPrint.genruntimeconfig.cache

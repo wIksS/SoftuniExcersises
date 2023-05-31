@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4f1608c-7bf2-4d63-8d59-3df92423bf7e": {
+      "ProjectGuid": "b4f1608c-7bf2-4d63-8d59-3df92423bf7e",
+      "DisplayName": "Paths",
+      "ColorIndex": 0
+    },
+    "fda0537b-e7b7-475d-ae5e-82689f3438b7": {
+      "ProjectGuid": "fda0537b-e7b7-475d-ae5e-82689f3438b7",
+      "DisplayName": "UsingStatement",
+      "ColorIndex": 1
+    },
+    "39100d96-ba4a-41d2-af0b-e13d219df7b2": {
+      "ProjectGuid": "39100d96-ba4a-41d2-af0b-e13d219df7b2",
+      "DisplayName": "StreamReaders",
+      "ColorIndex": 2
+    },
+    "519061bd-4626-4435-bc4d-591e946d20ce": {
+      "ProjectGuid": "519061bd-4626-4435-bc4d-591e946d20ce",
+      "DisplayName": "SplitMergeBinaryFile",
+      "ColorIndex": 3
+    },
+    "d33201d4-2748-411c-be7f-e81f5230fa07": {
+      "ProjectGuid": "d33201d4-2748-411c-be7f-e81f5230fa07",
+      "DisplayName": "LineNumbers",
+      "ColorIndex": 4
+    },
+    "727fba8b-ca5f-417b-89af-51607823d4cf": {
+      "ProjectGuid": "727fba8b-ca5f-417b-89af-51607823d4cf",
+      "DisplayName": "MergeFiles",
+      "ColorIndex": 5
+    },
+    "beebdca6-7709-46a4-a04b-5d641ac54d40": {
+      "ProjectGuid": "beebdca6-7709-46a4-a04b-5d641ac54d40",
+      "DisplayName": "OddLines",
+      "ColorIndex": 6
+    },
+    "4fc6be6c-c6dd-4ecf-836a-5fe88f55f978": {
+      "ProjectGuid": "4fc6be6c-c6dd-4ecf-836a-5fe88f55f978",
+      "DisplayName": "WordCount",
+      "ColorIndex": 7
+    },
+    "78cdcae0-add2-487e-98d6-ed4a938f961f": {
+      "ProjectGuid": "78cdcae0-add2-487e-98d6-ed4a938f961f",
+      "DisplayName": "FolderSize",
+      "ColorIndex": 8
+    },
+    "1bbb51a9-d42c-4229-b6a8-5737d0fc230f": {
+      "ProjectGuid": "1bbb51a9-d42c-4229-b6a8-5737d0fc230f",
+      "DisplayName": "ExtractSpecialBytes",
+      "ColorIndex": 9
+    },
+    "84b11df2-c2fb-4d66-aa81-13b0f85b9770": {
+      "ProjectGuid": "84b11df2-c2fb-4d66-aa81-13b0f85b9770",
+      "DisplayName": "LineNumersPrint",
+      "ColorIndex": 10
+    },
+    "21bee27f-dfc4-4454-b097-f6ef2c0d1958": {
+      "ProjectGuid": "21bee27f-dfc4-4454-b097-f6ef2c0d1958",
+      "DisplayName": "StreamWriters",
+      "ColorIndex": 11
+    },
+    "ea3c9eb3-70dc-42c4-a323-9d1719b8f8b9": {
+      "ProjectGuid": "ea3c9eb3-70dc-42c4-a323-9d1719b8f8b9",
+      "DisplayName": "EndOfStream",
+      "ColorIndex": 12
+    },
+    "ac5681c8-e339-4fc1-8978-13e74bccffbc": {
+      "ProjectGuid": "ac5681c8-e339-4fc1-8978-13e74bccffbc",
+      "DisplayName": "Streams",
+      "ColorIndex": 13
+    },
+    "51018837-9304-4219-b488-e9c3db430c53": {
+      "ProjectGuid": "51018837-9304-4219-b488-e9c3db430c53",
+      "DisplayName": "FileStreamWrite",
+      "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "769ce1a9-c988-4a88-98a4-98ab17a64e08": {
+      "ProjectGuid": "769ce1a9-c988-4a88-98a4-98ab17a64e08",
+      "DisplayName": "Flush",
+      "ColorIndex": 15
+    },
+    "b715cfa4-7ac2-4184-9340-e29d9f1672b9": {
+      "ProjectGuid": "b715cfa4-7ac2-4184-9340-e29d9f1672b9",
+      "DisplayName": "FileEncryptor",
+      "ColorIndex": 0
+    },
+    "813d05c8-c867-4fbc-8ee4-bf6ba7fc65d7": {
+      "ProjectGuid": "813d05c8-c867-4fbc-8ee4-bf6ba7fc65d7",
+      "DisplayName": "FileClass",
+      "ColorIndex": 1
+    },
+    "36a747ef-7c0d-4851-bab4-81acb3772713": {
+      "ProjectGuid": "36a747ef-7c0d-4851-bab4-81acb3772713",
+      "DisplayName": "Folders",
+      "ColorIndex": 2
+    },
+    "ea7fb399-6b86-4046-a466-1f06112be100": {
+      "ProjectGuid": "ea7fb399-6b86-4046-a466-1f06112be100",
+      "DisplayName": "FolderSizeCustom",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

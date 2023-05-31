@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\DiceExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\DiceExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\DiceExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\DiceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\ref\DiceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\bin\Debug\net6.0\DiceExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\ref\DiceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\DiceExample\obj\Debug\net6.0\DiceExample.genruntimeconfig.cache

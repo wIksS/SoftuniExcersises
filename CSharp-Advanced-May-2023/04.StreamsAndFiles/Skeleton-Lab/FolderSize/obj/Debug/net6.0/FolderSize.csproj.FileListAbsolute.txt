@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\ref\FolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\StaticClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\StaticClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\StaticClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\StaticClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\ref\StaticClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\bin\Debug\net6.0\StaticClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\ref\StaticClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticClasses\obj\Debug\net6.0\StaticClasses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ConsoleMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ConsoleMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ConsoleMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ConsoleMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ref\ConsoleMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\bin\Debug\net6.0\ConsoleMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ref\ConsoleMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ConsoleMatrix\obj\Debug\net6.0\ConsoleMatrix.genruntimeconfig.cache

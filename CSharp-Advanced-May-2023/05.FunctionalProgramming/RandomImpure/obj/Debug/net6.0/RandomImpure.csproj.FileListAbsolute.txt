@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\RandomImpure.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\RandomImpure.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\RandomImpure.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\RandomImpure.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\ref\RandomImpure.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\bin\Debug\net6.0\RandomImpure.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\ref\RandomImpure.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\RandomImpure\obj\Debug\net6.0\RandomImpure.genruntimeconfig.cache

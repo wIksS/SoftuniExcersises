@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\Streams.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\Streams.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\Streams.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\Streams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\ref\Streams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\bin\Debug\net6.0\Streams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\ref\Streams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\Streams\obj\Debug\net6.0\Streams.genruntimeconfig.cache

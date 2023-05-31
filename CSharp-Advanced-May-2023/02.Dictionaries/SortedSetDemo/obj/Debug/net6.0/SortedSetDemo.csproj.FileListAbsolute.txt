@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\SortedSetDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\SortedSetDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\SortedSetDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\SortedSetDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\ref\SortedSetDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\bin\Debug\net6.0\SortedSetDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\ref\SortedSetDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\SortedSetDemo\obj\Debug\net6.0\SortedSetDemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\DeclarativeVsImperativeProgramming.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\DeclarativeVsImperativeProgramming.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\DeclarativeVsImperativeProgramming.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\DeclarativeVsImperativeProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\ref\DeclarativeVsImperativeProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\bin\Debug\net6.0\DeclarativeVsImperativeProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\ref\DeclarativeVsImperativeProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclarativeVsImperativeProgramming\obj\Debug\net6.0\DeclarativeVsImperativeProgramming.genruntimeconfig.cache

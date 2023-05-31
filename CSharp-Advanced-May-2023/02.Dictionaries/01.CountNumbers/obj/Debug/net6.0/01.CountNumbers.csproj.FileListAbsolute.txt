@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\01.CountNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\01.CountNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\01.CountNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\01.CountNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\ref\01.CountNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\bin\Debug\net6.0\01.CountNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\ref\01.CountNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\01.CountNumbers\obj\Debug\net6.0\01.CountNumbers.genruntimeconfig.cache

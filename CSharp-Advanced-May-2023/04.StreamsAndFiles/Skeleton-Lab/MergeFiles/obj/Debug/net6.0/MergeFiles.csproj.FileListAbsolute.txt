@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\ref\MergeFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache

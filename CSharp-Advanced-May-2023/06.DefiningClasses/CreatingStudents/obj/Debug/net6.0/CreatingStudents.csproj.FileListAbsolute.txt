@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\CreatingStudents.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\CreatingStudents.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\CreatingStudents.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\CreatingStudents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\ref\CreatingStudents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\bin\Debug\net6.0\CreatingStudents.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\ref\CreatingStudents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\CreatingStudents\obj\Debug\net6.0\CreatingStudents.genruntimeconfig.cache

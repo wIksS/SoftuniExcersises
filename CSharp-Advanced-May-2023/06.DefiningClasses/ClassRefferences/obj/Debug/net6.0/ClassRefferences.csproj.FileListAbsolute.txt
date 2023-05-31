@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ClassRefferences.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ClassRefferences.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ClassRefferences.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ClassRefferences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ref\ClassRefferences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\bin\Debug\net6.0\ClassRefferences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ref\ClassRefferences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassRefferences\obj\Debug\net6.0\ClassRefferences.genruntimeconfig.cache

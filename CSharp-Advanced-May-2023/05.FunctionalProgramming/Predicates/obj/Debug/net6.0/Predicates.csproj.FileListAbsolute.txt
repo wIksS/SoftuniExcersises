@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\Predicates.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\Predicates.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\Predicates.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\Predicates.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\ref\Predicates.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\bin\Debug\net6.0\Predicates.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\ref\Predicates.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\Predicates\obj\Debug\net6.0\Predicates.genruntimeconfig.cache

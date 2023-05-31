@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5159c910-cfc5-446b-b107-56a8e2c24ff3": {
+      "ProjectGuid": "5159c910-cfc5-446b-b107-56a8e2c24ff3",
+      "DisplayName": "12.DependencyInjectionWorkshop",
+      "ColorIndex": 0
+    },
+    "afcaa27a-40e2-4a60-9ed6-fe98d31ce3f0": {
+      "ProjectGuid": "afcaa27a-40e2-4a60-9ed6-fe98d31ce3f0",
+      "DisplayName": "SoftuniIoC",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

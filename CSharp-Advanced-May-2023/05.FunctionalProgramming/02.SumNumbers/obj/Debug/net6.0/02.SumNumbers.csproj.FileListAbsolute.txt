@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\ref\02.SumNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\ref\02.SumNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.genruntimeconfig.cache

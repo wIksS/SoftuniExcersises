@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\03.MaxSquare.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\03.MaxSquare.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\03.MaxSquare.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\03.MaxSquare.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\ref\03.MaxSquare.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\bin\Debug\net6.0\03.MaxSquare.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\ref\03.MaxSquare.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.MaxSquare\obj\Debug\net6.0\03.MaxSquare.genruntimeconfig.cache

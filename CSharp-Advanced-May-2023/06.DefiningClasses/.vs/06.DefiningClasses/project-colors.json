@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2441ce5-a812-492c-8a7b-95a17ef7d4b0": {
+      "ProjectGuid": "a2441ce5-a812-492c-8a7b-95a17ef7d4b0",
+      "DisplayName": "06.DefiningClasses",
+      "ColorIndex": 0
+    },
+    "b0899502-3205-495f-8aa8-2cb91d29f0a0": {
+      "ProjectGuid": "b0899502-3205-495f-8aa8-2cb91d29f0a0",
+      "DisplayName": "StudentsWithClasses",
+      "ColorIndex": 1
+    },
+    "ded10784-0bb3-465e-a5f9-25c54638d20f": {
+      "ProjectGuid": "ded10784-0bb3-465e-a5f9-25c54638d20f",
+      "DisplayName": "CreatingStudents",
+      "ColorIndex": 2
+    },
+    "7279ff6d-7f5f-40ae-afb9-fbddb1b60759": {
+      "ProjectGuid": "7279ff6d-7f5f-40ae-afb9-fbddb1b60759",
+      "DisplayName": "ClassDefaultValues",
+      "ColorIndex": 3
+    },
+    "021181c3-e380-4bc7-ab62-2c4f769e796a": {
+      "ProjectGuid": "021181c3-e380-4bc7-ab62-2c4f769e796a",
+      "DisplayName": "DiceExample",
+      "ColorIndex": 4
+    },
+    "90cd2635-aaf1-440f-9cb2-cc9253110c9a": {
+      "ProjectGuid": "90cd2635-aaf1-440f-9cb2-cc9253110c9a",
+      "DisplayName": "RefferenceTypes",
+      "ColorIndex": 5
+    },
+    "fe937d6b-03c7-449a-90d3-7de120a56ae9": {
+      "ProjectGuid": "fe937d6b-03c7-449a-90d3-7de120a56ae9",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 6
+    },
+    "7827a6e7-fdbc-4047-a612-382df6285e85": {
+      "ProjectGuid": "7827a6e7-fdbc-4047-a612-382df6285e85",
+      "DisplayName": "Properties",
+      "ColorIndex": 7
+    },
+    "fbc80905-975a-499d-97b2-2fc346e38ad8": {
+      "ProjectGuid": "fbc80905-975a-499d-97b2-2fc346e38ad8",
+      "DisplayName": "PropertiesInJava",
+      "ColorIndex": 8
+    },
+    "0f122b61-a776-4813-952c-765374c4486b": {
+      "ProjectGuid": "0f122b61-a776-4813-952c-765374c4486b",
+      "DisplayName": "PropertyGrouping",
+      "ColorIndex": 9
+    },
+    "c29ec41d-5ff7-493d-8c7b-a570d6c9cd3b": {
+      "ProjectGuid": "c29ec41d-5ff7-493d-8c7b-a570d6c9cd3b",
+      "DisplayName": "PropertiesShort",
+      "ColorIndex": 10
+    },
+    "ac5eef70-7528-4ce2-9c02-2b3b78aba784": {
+      "ProjectGuid": "ac5eef70-7528-4ce2-9c02-2b3b78aba784",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 11
+    },
+    "d5575b76-4527-4893-a62b-6f156dafa87e": {
+      "ProjectGuid": "d5575b76-4527-4893-a62b-6f156dafa87e",
+      "DisplayName": "Constructors",
+      "ColorIndex": 12
+    },
+    "21dbe964-6f4f-4c9f-acf5-455525c338ac": {
+      "ProjectGuid": "21dbe964-6f4f-4c9f-acf5-455525c338ac",
+      "DisplayName": "EmptyConstructor",
+      "ColorIndex": 13
+    },
+    "150b4797-11ef-4fbc-ba6a-ee9ceee6a1bb": {
+      "ProjectGuid": "150b4797-11ef-4fbc-ba6a-ee9ceee6a1bb",
+      "DisplayName": "ConstructorChaining",
+      "ColorIndex": 14
+    },
+    "ce30f387-2c95-4cbb-b3d8-b874d9cbcc2b": {
+      "ProjectGuid": "ce30f387-2c95-4cbb-b3d8-b874d9cbcc2b",
+      "DisplayName": "ClassRefferences",
+      "ColorIndex": 15
+    },
+    "7306422a-13a7-4578-9b49-ac6400be02b2": {
+      "ProjectGuid": "7306422a-13a7-4578-9b49-ac6400be02b2",
+      "DisplayName": "Enumerations",
+      "ColorIndex": 0
+    },
+    "9db9dd68-e7b3-4dd5-8453-6f3c3da314cf": {
+      "ProjectGuid": "9db9dd68-e7b3-4dd5-8453-6f3c3da314cf",
+      "DisplayName": "DirectionsEnum",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "91d1820b-2a07-4066-b54f-6176aefc0603": {
+      "ProjectGuid": "91d1820b-2a07-4066-b54f-6176aefc0603",
+      "DisplayName": "StaticClasses",
+      "ColorIndex": 2
+    },
+    "df78e6a6-31bf-4bb8-a631-6a87e3926b7e": {
+      "ProjectGuid": "df78e6a6-31bf-4bb8-a631-6a87e3926b7e",
+      "DisplayName": "StaticInNonStaticClass",
+      "ColorIndex": 3
+    },
+    "9209b0d7-911a-45c1-99bd-26e9fc2e41a1": {
+      "ProjectGuid": "9209b0d7-911a-45c1-99bd-26e9fc2e41a1",
+      "DisplayName": "Namespaces",
+      "ColorIndex": 4
+    },
+    "8e7294b2-b0da-4421-9821-95cd43b25c1c": {
+      "ProjectGuid": "8e7294b2-b0da-4421-9821-95cd43b25c1c",
+      "DisplayName": "AnotherProjectReference",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

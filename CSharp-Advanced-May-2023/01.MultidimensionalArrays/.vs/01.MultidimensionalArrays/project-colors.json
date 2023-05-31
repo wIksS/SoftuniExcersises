@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69c771e5-a51d-4664-9226-a161214f5b2c": {
+      "ProjectGuid": "69c771e5-a51d-4664-9226-a161214f5b2c",
+      "DisplayName": "01.MultidimensionalArrays",
+      "ColorIndex": 0
+    },
+    "df065780-5069-489d-8c1e-7336dfe40aba": {
+      "ProjectGuid": "df065780-5069-489d-8c1e-7336dfe40aba",
+      "DisplayName": "NDimensionalArray",
+      "ColorIndex": 1
+    },
+    "084f3c1d-27a7-4e70-b591-bdd4e6776470": {
+      "ProjectGuid": "084f3c1d-27a7-4e70-b591-bdd4e6776470",
+      "DisplayName": "ConsoleMatrix",
+      "ColorIndex": 2
+    },
+    "ade977b2-afaa-4174-a96a-4ec9047c01c0": {
+      "ProjectGuid": "ade977b2-afaa-4174-a96a-4ec9047c01c0",
+      "DisplayName": "PrintMatrix",
+      "ColorIndex": 3
+    },
+    "502de277-6e92-4036-a778-9a5a538125ff": {
+      "ProjectGuid": "502de277-6e92-4036-a778-9a5a538125ff",
+      "DisplayName": "MatrixGeneration",
+      "ColorIndex": 4
+    },
+    "44c782d5-31fd-4130-b839-a7c1a03ec70b": {
+      "ProjectGuid": "44c782d5-31fd-4130-b839-a7c1a03ec70b",
+      "DisplayName": "ReadMatrix",
+      "ColorIndex": 5
+    },
+    "7c957e0f-e678-48c3-b55d-366bfa07d340": {
+      "ProjectGuid": "7c957e0f-e678-48c3-b55d-366bfa07d340",
+      "DisplayName": "ReadMatrixOneLine",
+      "ColorIndex": 6
+    },
+    "e8127b8d-895c-4f23-80af-c386e5ce63cc": {
+      "ProjectGuid": "e8127b8d-895c-4f23-80af-c386e5ce63cc",
+      "DisplayName": "02.SumMatrix",
+      "ColorIndex": 7
+    },
+    "19d76d82-35dc-4a32-8cc8-057515f8d5ca": {
+      "ProjectGuid": "19d76d82-35dc-4a32-8cc8-057515f8d5ca",
+      "DisplayName": "03.GetMatrixColumns",
+      "ColorIndex": 8
+    },
+    "bb096164-5379-43f7-b72c-765e543059a9": {
+      "ProjectGuid": "bb096164-5379-43f7-b72c-765e543059a9",
+      "DisplayName": "03.MaxSquare",
+      "ColorIndex": 9
+    },
+    "082db326-574c-405d-ae40-5e0bd5f67807": {
+      "ProjectGuid": "082db326-574c-405d-ae40-5e0bd5f67807",
+      "DisplayName": "JaggedArrays",
+      "ColorIndex": 10
+    },
+    "99bc3fc6-61ad-4b1a-838f-5c8db74df8ba": {
+      "ProjectGuid": "99bc3fc6-61ad-4b1a-838f-5c8db74df8ba",
+      "DisplayName": "ReadJaggedArray",
+      "ColorIndex": 11
+    },
+    "73b1aa47-55d5-4905-931c-f913ba463e3f": {
+      "ProjectGuid": "73b1aa47-55d5-4905-931c-f913ba463e3f",
+      "DisplayName": "05.JaggedArrayModification",
+      "ColorIndex": 12
+    },
+    "fd715f80-aa94-4f41-8aa2-da1996f0159b": {
+      "ProjectGuid": "fd715f80-aa94-4f41-8aa2-da1996f0159b",
+      "DisplayName": "06.PascalTriangle",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

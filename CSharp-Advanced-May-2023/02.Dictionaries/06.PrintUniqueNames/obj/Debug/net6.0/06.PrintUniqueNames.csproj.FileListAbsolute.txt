@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\06.PrintUniqueNames.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\06.PrintUniqueNames.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\06.PrintUniqueNames.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\06.PrintUniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\ref\06.PrintUniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\bin\Debug\net6.0\06.PrintUniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\ref\06.PrintUniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\06.PrintUniqueNames\obj\Debug\net6.0\06.PrintUniqueNames.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\03.AverageGrades.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\03.AverageGrades.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\03.AverageGrades.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\03.AverageGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\ref\03.AverageGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\bin\Debug\net6.0\03.AverageGrades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\ref\03.AverageGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\03.AverageGrades\obj\Debug\net6.0\03.AverageGrades.genruntimeconfig.cache

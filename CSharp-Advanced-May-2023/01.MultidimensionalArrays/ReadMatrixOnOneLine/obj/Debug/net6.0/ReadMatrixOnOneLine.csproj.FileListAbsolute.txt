@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ReadMatrixOnOneLine.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ReadMatrixOnOneLine.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ReadMatrixOnOneLine.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ReadMatrixOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ref\ReadMatrixOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\bin\Debug\net6.0\ReadMatrixOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ref\ReadMatrixOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\ReadMatrixOnOneLine\obj\Debug\net6.0\ReadMatrixOnOneLine.genruntimeconfig.cache

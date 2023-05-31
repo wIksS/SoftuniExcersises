@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\JaggedArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\JaggedArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\JaggedArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\ref\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\bin\Debug\net6.0\JaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\ref\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\JaggedArrays\obj\Debug\net6.0\JaggedArrays.genruntimeconfig.cache

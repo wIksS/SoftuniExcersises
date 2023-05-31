@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ref\ExtractSpecialBytes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\04.StreamsAndFiles\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\02.SumMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\02.SumMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\02.SumMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\02.SumMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\ref\02.SumMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\bin\Debug\net6.0\02.SumMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\ref\02.SumMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\02.SumMatrix\obj\Debug\net6.0\02.SumMatrix.genruntimeconfig.cache

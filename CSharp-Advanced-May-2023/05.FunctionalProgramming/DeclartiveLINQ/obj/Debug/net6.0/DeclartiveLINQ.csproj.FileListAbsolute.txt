@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\DeclartiveLINQ.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\DeclartiveLINQ.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\DeclartiveLINQ.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\DeclartiveLINQ.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\ref\DeclartiveLINQ.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\bin\Debug\net6.0\DeclartiveLINQ.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\ref\DeclartiveLINQ.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\DeclartiveLINQ\obj\Debug\net6.0\DeclartiveLINQ.genruntimeconfig.cache

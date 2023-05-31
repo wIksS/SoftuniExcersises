@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\FunctionsAsData.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\FunctionsAsData.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\FunctionsAsData.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\FunctionsAsData.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\ref\FunctionsAsData.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\bin\Debug\net6.0\FunctionsAsData.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\ref\FunctionsAsData.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\FunctionsAsData\obj\Debug\net6.0\FunctionsAsData.csproj.AssemblyReference.cache

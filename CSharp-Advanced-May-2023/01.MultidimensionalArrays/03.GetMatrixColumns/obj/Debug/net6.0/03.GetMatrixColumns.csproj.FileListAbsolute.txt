@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\03.GetMatrixColumns.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\03.GetMatrixColumns.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\03.GetMatrixColumns.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\03.GetMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\ref\03.GetMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\bin\Debug\net6.0\03.GetMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\ref\03.GetMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\03.GetMatrixColumns\obj\Debug\net6.0\03.GetMatrixColumns.genruntimeconfig.cache

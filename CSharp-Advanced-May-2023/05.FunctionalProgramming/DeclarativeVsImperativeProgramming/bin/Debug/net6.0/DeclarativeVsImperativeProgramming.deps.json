@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeclarativeVsImperativeProgramming/1.0.0": {
+        "runtime": {
+          "DeclarativeVsImperativeProgramming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeclarativeVsImperativeProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\RefferenceTypes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\RefferenceTypes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\RefferenceTypes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\RefferenceTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\ref\RefferenceTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\bin\Debug\net6.0\RefferenceTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\ref\RefferenceTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\RefferenceTypes\obj\Debug\net6.0\RefferenceTypes.genruntimeconfig.cache

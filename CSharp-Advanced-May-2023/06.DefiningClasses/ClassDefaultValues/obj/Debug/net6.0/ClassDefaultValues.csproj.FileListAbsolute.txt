@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ClassDefaultValues.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ClassDefaultValues.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ClassDefaultValues.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ClassDefaultValues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ref\ClassDefaultValues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\bin\Debug\net6.0\ClassDefaultValues.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ref\ClassDefaultValues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\ClassDefaultValues\obj\Debug\net6.0\ClassDefaultValues.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\StudentsWithClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\StudentsWithClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\StudentsWithClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\StudentsWithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\ref\StudentsWithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\bin\Debug\net6.0\StudentsWithClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\ref\StudentsWithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StudentsWithClasses\obj\Debug\net6.0\StudentsWithClasses.genruntimeconfig.cache

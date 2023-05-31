@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\02.Dictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\02.Dictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\02.Dictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\02.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\ref\02.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\bin\Debug\net6.0\02.Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\ref\02.Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\02.Dictionaries\obj\Debug\net6.0\02.Dictionaries.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\LoopInFunctionalProgramming.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\LoopInFunctionalProgramming.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\LoopInFunctionalProgramming.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\LoopInFunctionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\ref\LoopInFunctionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\bin\Debug\net6.0\LoopInFunctionalProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\ref\LoopInFunctionalProgramming.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\LoopInFunctionalProgramming\obj\Debug\net6.0\LoopInFunctionalProgramming.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\MatrixGeneration.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\MatrixGeneration.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\MatrixGeneration.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\MatrixGeneration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\ref\MatrixGeneration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\bin\Debug\net6.0\MatrixGeneration.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\ref\MatrixGeneration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\MatrixGeneration\obj\Debug\net6.0\MatrixGeneration.genruntimeconfig.cache

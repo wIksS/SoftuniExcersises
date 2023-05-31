@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\PropertiesInJava.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\PropertiesInJava.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\PropertiesInJava.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\PropertiesInJava.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\ref\PropertiesInJava.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\bin\Debug\net6.0\PropertiesInJava.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\ref\PropertiesInJava.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertiesInJava\obj\Debug\net6.0\PropertiesInJava.genruntimeconfig.cache

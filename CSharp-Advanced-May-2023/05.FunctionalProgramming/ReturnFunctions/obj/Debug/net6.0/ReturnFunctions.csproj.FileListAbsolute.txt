@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ReturnFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ReturnFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ReturnFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ReturnFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ref\ReturnFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\bin\Debug\net6.0\ReturnFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ref\ReturnFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\ReturnFunctions\obj\Debug\net6.0\ReturnFunctions.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\PropertyGrouping.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\PropertyGrouping.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\PropertyGrouping.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\PropertyGrouping.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\ref\PropertyGrouping.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\bin\Debug\net6.0\PropertyGrouping.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\ref\PropertyGrouping.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\PropertyGrouping\obj\Debug\net6.0\PropertyGrouping.genruntimeconfig.cache

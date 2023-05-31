@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\06.PascalTriangle.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\06.PascalTriangle.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\06.PascalTriangle.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\06.PascalTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\ref\06.PascalTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\bin\Debug\net6.0\06.PascalTriangle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\ref\06.PascalTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\06.PascalTriangle\obj\Debug\net6.0\06.PascalTriangle.genruntimeconfig.cache

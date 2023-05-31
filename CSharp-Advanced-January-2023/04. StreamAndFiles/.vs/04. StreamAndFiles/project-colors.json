@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "570bd378-fe71-4a01-a855-e5f4678f4192": {
+      "ProjectGuid": "570bd378-fe71-4a01-a855-e5f4678f4192",
+      "DisplayName": "SplitFile",
+      "ColorIndex": 0
+    },
+    "6df92b70-7d50-4f0d-a4fb-c64004bafa25": {
+      "ProjectGuid": "6df92b70-7d50-4f0d-a4fb-c64004bafa25",
+      "DisplayName": "GetDirInformation",
+      "ColorIndex": 1
+    },
+    "db918f15-538b-456a-a56d-8cb0dd651bec": {
+      "ProjectGuid": "db918f15-538b-456a-a56d-8cb0dd651bec",
+      "DisplayName": "Directories",
+      "ColorIndex": 2
+    },
+    "8a8f08d9-f3c3-4c33-b395-df10bb2d14b0": {
+      "ProjectGuid": "8a8f08d9-f3c3-4c33-b395-df10bb2d14b0",
+      "DisplayName": "Files",
+      "ColorIndex": 3
+    },
+    "3db3d1d2-c6b9-4651-85b3-b5397b6fe9be": {
+      "ProjectGuid": "3db3d1d2-c6b9-4651-85b3-b5397b6fe9be",
+      "DisplayName": "ImageEncryptor",
+      "ColorIndex": 4
+    },
+    "4ad7ec32-3a61-4660-9dd4-aee7ae829604": {
+      "ProjectGuid": "4ad7ec32-3a61-4660-9dd4-aee7ae829604",
+      "DisplayName": "Streams",
+      "ColorIndex": 5
+    },
+    "16ce0cae-059e-4986-b897-320084b731a4": {
+      "ProjectGuid": "16ce0cae-059e-4986-b897-320084b731a4",
+      "DisplayName": "02.OddLines",
+      "ColorIndex": 6
+    },
+    "ac65ddcc-e80a-4494-a45d-0875298b2989": {
+      "ProjectGuid": "ac65ddcc-e80a-4494-a45d-0875298b2989",
+      "DisplayName": "01.LineNumbers",
+      "ColorIndex": 7
+    },
+    "93395db6-4316-41b8-9d87-da084c221ddf": {
+      "ProjectGuid": "93395db6-4316-41b8-9d87-da084c221ddf",
+      "DisplayName": "04. StreamAndFiles",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\03.PrintUpperCase.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\03.PrintUpperCase.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\03.PrintUpperCase.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\03.PrintUpperCase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\ref\03.PrintUpperCase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\bin\Debug\net6.0\03.PrintUpperCase.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\ref\03.PrintUpperCase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\03.PrintUpperCase\obj\Debug\net6.0\03.PrintUpperCase.genruntimeconfig.cache

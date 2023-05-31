@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\NDimensionalArray.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\NDimensionalArray.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\NDimensionalArray.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\NDimensionalArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\ref\NDimensionalArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\bin\Debug\net6.0\NDimensionalArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\ref\NDimensionalArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\01.MultidimensionalArrays\NDimensionalArray\obj\Debug\net6.0\NDimensionalArray.genruntimeconfig.cache

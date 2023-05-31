@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ImperativeHigherOrderFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ImperativeHigherOrderFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ImperativeHigherOrderFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ImperativeHigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ref\ImperativeHigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ImperativeHigherOrderFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ref\ImperativeHigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ImperativeHigherOrderFunctions.genruntimeconfig.cache

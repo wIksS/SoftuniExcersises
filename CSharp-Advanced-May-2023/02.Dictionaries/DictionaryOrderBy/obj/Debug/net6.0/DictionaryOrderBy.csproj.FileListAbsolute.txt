@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\DictionaryOrderBy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\DictionaryOrderBy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\DictionaryOrderBy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\DictionaryOrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\ref\DictionaryOrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\bin\Debug\net6.0\DictionaryOrderBy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\ref\DictionaryOrderBy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\02.Dictionaries\DictionaryOrderBy\obj\Debug\net6.0\DictionaryOrderBy.genruntimeconfig.cache

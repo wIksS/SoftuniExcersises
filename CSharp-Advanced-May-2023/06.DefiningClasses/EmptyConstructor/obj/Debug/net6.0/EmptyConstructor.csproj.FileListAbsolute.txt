@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\EmptyConstructor.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\EmptyConstructor.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\EmptyConstructor.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\EmptyConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\ref\EmptyConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\bin\Debug\net6.0\EmptyConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\ref\EmptyConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\EmptyConstructor\obj\Debug\net6.0\EmptyConstructor.genruntimeconfig.cache

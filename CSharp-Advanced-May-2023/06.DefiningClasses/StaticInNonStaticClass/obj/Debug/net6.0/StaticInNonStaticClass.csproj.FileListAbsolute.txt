@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\StaticInNonStaticClass.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\StaticInNonStaticClass.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\StaticInNonStaticClass.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\StaticInNonStaticClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\ref\StaticInNonStaticClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\bin\Debug\net6.0\StaticInNonStaticClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\ref\StaticInNonStaticClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-May-2023\06.DefiningClasses\StaticInNonStaticClass\obj\Debug\net6.0\StaticInNonStaticClass.genruntimeconfig.cache
