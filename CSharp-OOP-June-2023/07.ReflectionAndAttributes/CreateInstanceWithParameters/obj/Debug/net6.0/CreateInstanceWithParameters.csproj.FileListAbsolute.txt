@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\CreateInstanceWithParameters.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\CreateInstanceWithParameters.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\CreateInstanceWithParameters.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\CreateInstanceWithParameters.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\ref\CreateInstanceWithParameters.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\bin\Debug\net6.0\CreateInstanceWithParameters.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\ref\CreateInstanceWithParameters.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreateInstanceWithParameters\obj\Debug\net6.0\CreateInstanceWithParameters.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\09.MockingAndTestDrivenDevelopment.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\09.MockingAndTestDrivenDevelopment.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\09.MockingAndTestDrivenDevelopment.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\09.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\ref\09.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\09.MockingAndTestDrivenDevelopment.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\ref\09.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\09.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\09.MockingAndTestDrivenDevelopment.genruntimeconfig.cache

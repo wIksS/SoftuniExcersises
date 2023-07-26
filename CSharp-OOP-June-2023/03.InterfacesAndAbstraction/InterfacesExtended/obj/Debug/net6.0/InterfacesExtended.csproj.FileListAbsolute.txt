@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\InterfacesExtended.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\InterfacesExtended.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\InterfacesExtended.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\InterfacesExtended.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\ref\InterfacesExtended.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\bin\Debug\net6.0\InterfacesExtended.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\ref\InterfacesExtended.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\InterfacesExtended\obj\Debug\net6.0\InterfacesExtended.genruntimeconfig.cache

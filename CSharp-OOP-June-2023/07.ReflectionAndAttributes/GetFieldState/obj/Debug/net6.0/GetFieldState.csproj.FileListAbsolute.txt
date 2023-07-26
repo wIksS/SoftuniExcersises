@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\GetFieldState.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\GetFieldState.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\GetFieldState.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\GetFieldState.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\ref\GetFieldState.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\bin\Debug\net6.0\GetFieldState.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\ref\GetFieldState.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetFieldState\obj\Debug\net6.0\GetFieldState.genruntimeconfig.cache

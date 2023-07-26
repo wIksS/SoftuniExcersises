@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritance.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritance.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ref\ConstructorInheritance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\bin\Debug\net6.0\ConstructorInheritance.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ref\ConstructorInheritance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorInheritance\obj\Debug\net6.0\ConstructorInheritance.genruntimeconfig.cache

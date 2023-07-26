@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ref\ExplicitInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ref\ExplicitInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\net6.0\ExplicitInterfaces.genruntimeconfig.cache

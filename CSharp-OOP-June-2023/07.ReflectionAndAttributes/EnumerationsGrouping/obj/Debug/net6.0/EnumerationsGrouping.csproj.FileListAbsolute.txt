@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\EnumerationsGrouping.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\EnumerationsGrouping.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\EnumerationsGrouping.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\EnumerationsGrouping.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\ref\EnumerationsGrouping.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\bin\Debug\net6.0\EnumerationsGrouping.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\ref\EnumerationsGrouping.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\EnumerationsGrouping\obj\Debug\net6.0\EnumerationsGrouping.genruntimeconfig.cache

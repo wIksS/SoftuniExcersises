@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\10.DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\10.DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\10.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\10.DesignPatterns.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\10.DesignPatterns\obj\Debug\net6.0\10.DesignPatterns.csproj.CoreCompileInputs.cache

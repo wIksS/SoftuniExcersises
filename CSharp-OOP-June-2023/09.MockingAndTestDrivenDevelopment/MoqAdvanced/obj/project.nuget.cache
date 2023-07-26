@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKW4QwQxGVltFWphhqIFMStYuz4kr1ZV7LyN35pT3kEicEiiY/MBJGjkptJxvGDAIqs1w2qllfa3Ksto1S5S2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\HeartsData\\09.MockingAndTestDrivenDevelopment\\MoqAdvanced\\MoqAdvanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

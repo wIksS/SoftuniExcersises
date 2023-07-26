@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\TransitiveRelation.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\TransitiveRelation.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\TransitiveRelation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\TransitiveRelation.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\ref\TransitiveRelation.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\bin\Debug\net6.0\TransitiveRelation.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\ref\TransitiveRelation.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\TransitiveRelation\obj\Debug\net6.0\TransitiveRelation.genruntimeconfig.cache

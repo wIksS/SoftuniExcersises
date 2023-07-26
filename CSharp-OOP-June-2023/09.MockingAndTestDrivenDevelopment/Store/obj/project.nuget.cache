@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0SxoWGnyNvWGR9pwyXkos8JQphy4pkGjsiv4vU0q48d6FeYDK4Ifm16sDtHiSlxAR9gHADOpi0NKqGukVMLJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\HeartsData\\09.MockingAndTestDrivenDevelopment\\Store\\Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\ref\CustomRandomList.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache

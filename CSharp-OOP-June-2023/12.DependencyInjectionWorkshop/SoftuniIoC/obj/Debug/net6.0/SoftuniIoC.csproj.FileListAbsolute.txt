@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\SoftuniIoC.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\SoftuniIoC.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\SoftuniIoC.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\SoftuniIoC.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\ref\SoftuniIoC.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\bin\Debug\net6.0\SoftuniIoC.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\ref\SoftuniIoC.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\12.DependencyInjectionWorkshop\SoftuniIoC\obj\Debug\net6.0\SoftuniIoC.genruntimeconfig.cache

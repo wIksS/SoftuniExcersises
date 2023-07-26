@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\ref\JsonSerialiseExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\JsonSerialiseExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\ref\JsonSerialiseExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\09.MockingAndTestDrivenDevelopment\JsonSerialiseExample\obj\Debug\net6.0\JsonSerialiseExample.csproj.CopyComplete

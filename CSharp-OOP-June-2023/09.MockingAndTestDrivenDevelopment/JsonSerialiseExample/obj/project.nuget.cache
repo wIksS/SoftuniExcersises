@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRqmc8IvY+LqssRWYAecmXMioKlk1sLQ/I0cbfpYZRAC9sF6OOdjxNlxGCJci0NGVCXcNaAjwVY0/zFZB95zzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\HeartsData\\09.MockingAndTestDrivenDevelopment\\JsonSerialiseExample\\JsonSerialiseExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ReflectFields.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ReflectFields.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ReflectFields.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ReflectFields.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ref\ReflectFields.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\bin\Debug\net6.0\ReflectFields.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ref\ReflectFields.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\ReflectFields\obj\Debug\net6.0\ReflectFields.csproj.AssemblyReference.cache

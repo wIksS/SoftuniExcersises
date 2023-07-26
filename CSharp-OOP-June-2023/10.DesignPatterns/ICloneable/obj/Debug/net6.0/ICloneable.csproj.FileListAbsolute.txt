@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ICloneable.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ICloneable.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ICloneable.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ICloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ref\ICloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\ICloneable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ref\ICloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-June-2023\10.DesignPatterns\ICloneable\obj\Debug\net6.0\ICloneable.csproj.CopyComplete

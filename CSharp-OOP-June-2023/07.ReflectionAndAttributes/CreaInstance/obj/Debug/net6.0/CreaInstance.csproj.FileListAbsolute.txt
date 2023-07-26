@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\CreaInstance.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\CreaInstance.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\CreaInstance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\CreaInstance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\ref\CreaInstance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\bin\Debug\net6.0\CreaInstance.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\ref\CreaInstance.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CreaInstance\obj\Debug\net6.0\CreaInstance.genruntimeconfig.cache

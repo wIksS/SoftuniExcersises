@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\07.ReflectionAndAttributes.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\07.ReflectionAndAttributes.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\07.ReflectionAndAttributes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\07.ReflectionAndAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\ref\07.ReflectionAndAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\net6.0\07.ReflectionAndAttributes.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\ref\07.ReflectionAndAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\net6.0\07.ReflectionAndAttributes.genruntimeconfig.cache

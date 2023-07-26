@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QOq2u6n6q0qlvexYWBT/3aY67mvId0eV2Jf0m3Y7p92+foUW7S4Bqny2cfymXKLYUhNHYqlMZ8v1ZPOoo2aYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-June-2023\\10.DesignPatterns\\ICloneable\\ICloneable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

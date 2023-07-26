@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\MethodsReflection.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\MethodsReflection.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\MethodsReflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\MethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\ref\MethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\bin\Debug\net6.0\MethodsReflection.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\ref\MethodsReflection.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\MethodsReflection\obj\Debug\net6.0\MethodsReflection.genruntimeconfig.cache

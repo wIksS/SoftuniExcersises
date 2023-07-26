@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\GetAllInterfaces.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\GetAllInterfaces.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\GetAllInterfaces.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\GetAllInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\ref\GetAllInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\bin\Debug\net6.0\GetAllInterfaces.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\ref\GetAllInterfaces.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\GetAllInterfaces\obj\Debug\net6.0\GetAllInterfaces.csproj.AssemblyReference.cache

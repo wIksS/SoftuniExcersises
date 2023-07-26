@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1946d93b-4d6f-4492-b0d1-62596118cdfe": {
+      "ProjectGuid": "1946d93b-4d6f-4492-b0d1-62596118cdfe",
+      "DisplayName": "01.Inheritance",
+      "ColorIndex": 0
+    },
+    "513c2809-ccf8-4159-98d7-8af205c639f7": {
+      "ProjectGuid": "513c2809-ccf8-4159-98d7-8af205c639f7",
+      "DisplayName": "GameHierarchy",
+      "ColorIndex": 1
+    },
+    "ea89f2bd-9a93-451c-a354-e1d8100674d1": {
+      "ProjectGuid": "ea89f2bd-9a93-451c-a354-e1d8100674d1",
+      "DisplayName": "ConstructorInheritance",
+      "ColorIndex": 2
+    },
+    "325eb687-204f-4930-af9b-bb3fedee9b21": {
+      "ProjectGuid": "325eb687-204f-4930-af9b-bb3fedee9b21",
+      "DisplayName": "ConstructorsInHierarchies",
+      "ColorIndex": 3
+    },
+    "0309a578-f82a-4ed3-8e14-6bf145c2b229": {
+      "ProjectGuid": "0309a578-f82a-4ed3-8e14-6bf145c2b229",
+      "DisplayName": "TransitiveRelation",
+      "ColorIndex": 4
+    },
+    "d7edcc66-475c-472b-9a7c-d6420748efdd": {
+      "ProjectGuid": "d7edcc66-475c-472b-9a7c-d6420748efdd",
+      "DisplayName": "Farm",
+      "ColorIndex": 5
+    },
+    "42ececea-bc20-4c6f-9cb9-0f1f96d487f4": {
+      "ProjectGuid": "42ececea-bc20-4c6f-9cb9-0f1f96d487f4",
+      "DisplayName": "Inheritance",
+      "ColorIndex": 6
+    },
+    "c398f2cf-6b13-4269-9eb1-8c97b3a860e7": {
+      "ProjectGuid": "c398f2cf-6b13-4269-9eb1-8c97b3a860e7",
+      "DisplayName": "Shadowing",
+      "ColorIndex": 7
+    },
+    "fba9a2a7-d3a4-4e45-9d43-fd2e02e97fa9": {
+      "ProjectGuid": "fba9a2a7-d3a4-4e45-9d43-fd2e02e97fa9",
+      "DisplayName": "Overriding",
+      "ColorIndex": 8
+    },
+    "9c40ead8-b27a-4c7d-b56c-e1604e416042": {
+      "ProjectGuid": "9c40ead8-b27a-4c7d-b56c-e1604e416042",
+      "DisplayName": "PrivateInheritance",
+      "ColorIndex": 9
+    },
+    "d3187724-a612-42c6-bdcc-75f9c6422d83": {
+      "ProjectGuid": "d3187724-a612-42c6-bdcc-75f9c6422d83",
+      "DisplayName": "SealedClasses",
+      "ColorIndex": 10
+    },
+    "6fb6955e-6f49-4830-92d8-0b261ab8c6aa": {
+      "ProjectGuid": "6fb6955e-6f49-4830-92d8-0b261ab8c6aa",
+      "DisplayName": "Composition",
+      "ColorIndex": 11
+    },
+    "815edf66-56a6-45e0-8948-a5f73c63162d": {
+      "ProjectGuid": "815edf66-56a6-45e0-8948-a5f73c63162d",
+      "DisplayName": "CustomRandomList",
+      "ColorIndex": 12
+    },
+    "0ad8f991-9e30-437b-a999-e4ecd7a04bad": {
+      "ProjectGuid": "0ad8f991-9e30-437b-a999-e4ecd7a04bad",
+      "DisplayName": "CustomStack",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

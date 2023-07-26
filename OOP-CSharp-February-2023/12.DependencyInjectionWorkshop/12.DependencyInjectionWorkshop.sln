@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DependencyInjectionWorkshop", "12.DependencyInjectionWorkshop\12.DependencyInjectionWorkshop.csproj", "{5159C910-CFC5-446B-B107-56A8E2C24FF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.DependencyInjectionWorkshop", "12.DependencyInjectionWorkshop\12.DependencyInjectionWorkshop.csproj", "{5159C910-CFC5-446B-B107-56A8E2C24FF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniIoC", "SoftuniIoC\SoftuniIoC.csproj", "{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftuniIoC", "SoftuniIoC\SoftuniIoC.csproj", "{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{72E80ED9-59DA-473C-BEEF-B6C18AB9A560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFCAA27A-40E2-4A60-9ED6-FE98D31CE3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E80ED9-59DA-473C-BEEF-B6C18AB9A560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E80ED9-59DA-473C-BEEF-B6C18AB9A560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E80ED9-59DA-473C-BEEF-B6C18AB9A560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E80ED9-59DA-473C-BEEF-B6C18AB9A560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

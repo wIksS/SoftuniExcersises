@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\RestarauntExample.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\RestarauntExample.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\RestarauntExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\RestarauntExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\ref\RestarauntExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\bin\Debug\net6.0\RestarauntExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\ref\RestarauntExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\RestarauntExample\obj\Debug\net6.0\RestarauntExample.genruntimeconfig.cache

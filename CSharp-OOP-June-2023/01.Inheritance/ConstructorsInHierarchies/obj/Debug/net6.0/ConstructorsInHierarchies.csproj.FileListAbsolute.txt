@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ConstructorsInHierarchies.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ConstructorsInHierarchies.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ConstructorsInHierarchies.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ConstructorsInHierarchies.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ref\ConstructorsInHierarchies.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\bin\Debug\net6.0\ConstructorsInHierarchies.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ref\ConstructorsInHierarchies.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\ConstructorsInHierarchies\obj\Debug\net6.0\ConstructorsInHierarchies.genruntimeconfig.cache

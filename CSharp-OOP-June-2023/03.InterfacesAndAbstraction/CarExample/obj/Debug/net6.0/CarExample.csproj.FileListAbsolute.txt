@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\CarExample.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\CarExample.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\CarExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\CarExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\ref\CarExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\bin\Debug\net6.0\CarExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\ref\CarExample.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\03.InterfacesAndAbstraction\CarExample\obj\Debug\net6.0\CarExample.genruntimeconfig.cache

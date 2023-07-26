@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5aa18ac0-8d28-4128-be12-971d6dc8c9f3": {
+      "ProjectGuid": "5aa18ac0-8d28-4128-be12-971d6dc8c9f3",
+      "DisplayName": "Promotions",
+      "ColorIndex": 0
+    },
+    "7affc715-aa29-4c8c-b08d-f05d80a3e99d": {
+      "ProjectGuid": "7affc715-aa29-4c8c-b08d-f05d80a3e99d",
+      "DisplayName": "Promotions.Tests",
+      "ColorIndex": 1
+    },
+    "c9eabe33-ea5d-46b9-bd4d-351f430a9584": {
+      "ProjectGuid": "c9eabe33-ea5d-46b9-bd4d-351f430a9584",
+      "DisplayName": "Store",
+      "ColorIndex": 2
+    },
+    "57564edd-e778-4ba2-8cb8-4608004fd50b": {
+      "ProjectGuid": "57564edd-e778-4ba2-8cb8-4608004fd50b",
+      "DisplayName": "JsonSerialiseExample",
+      "ColorIndex": 3
+    },
+    "e5f9383f-2b37-413d-a241-b73f1c43f224": {
+      "ProjectGuid": "e5f9383f-2b37-413d-a241-b73f1c43f224",
+      "DisplayName": "Store.Tests",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b8f38eab-eef9-4c17-9c05-fa5b5318d8e6": {
+      "ProjectGuid": "b8f38eab-eef9-4c17-9c05-fa5b5318d8e6",
+      "DisplayName": "Mocks",
+      "ColorIndex": 5
+    },
+    "d24b173e-a6df-4295-933d-bd1f37bfb2f5": {
+      "ProjectGuid": "d24b173e-a6df-4295-933d-bd1f37bfb2f5",
+      "DisplayName": "MoqAdvanced",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

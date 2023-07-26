@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\GameHierarchy.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\GameHierarchy.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\GameHierarchy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\GameHierarchy.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\ref\GameHierarchy.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\bin\Debug\net6.0\GameHierarchy.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\ref\GameHierarchy.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\GameHierarchy\obj\Debug\net6.0\GameHierarchy.genruntimeconfig.cache

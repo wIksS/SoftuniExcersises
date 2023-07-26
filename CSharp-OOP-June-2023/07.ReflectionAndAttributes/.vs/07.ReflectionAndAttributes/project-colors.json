@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24decf5c-76f1-44f1-b81a-5961f8d86787": {
+      "ProjectGuid": "24decf5c-76f1-44f1-b81a-5961f8d86787",
+      "DisplayName": "07.ReflectionAndAttributes",
+      "ColorIndex": 0
+    },
+    "c25a8397-47a9-434a-8596-4085329c88c8": {
+      "ProjectGuid": "c25a8397-47a9-434a-8596-4085329c88c8",
+      "DisplayName": "TypeClass",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c5ebe391-9163-486d-80dc-4cca17eebb30": {
+      "ProjectGuid": "c5ebe391-9163-486d-80dc-4cca17eebb30",
+      "DisplayName": "GetAllInterfaces",
+      "ColorIndex": 2
+    },
+    "e5069c33-51d2-4503-935b-dd508eeaf5ee": {
+      "ProjectGuid": "e5069c33-51d2-4503-935b-dd508eeaf5ee",
+      "DisplayName": "CreaInstance",
+      "ColorIndex": 3
+    },
+    "99b45781-ef3e-4bf5-8523-a8cc5a79b613": {
+      "ProjectGuid": "99b45781-ef3e-4bf5-8523-a8cc5a79b613",
+      "DisplayName": "CreateInstanceWithParameters",
+      "ColorIndex": 4
+    },
+    "d179d2d5-4eb2-4934-9c77-56147911931b": {
+      "ProjectGuid": "d179d2d5-4eb2-4934-9c77-56147911931b",
+      "DisplayName": "ReflectFields",
+      "ColorIndex": 5
+    },
+    "393cb4e4-40d4-4053-a79c-1cc397ff4ed9": {
+      "ProjectGuid": "393cb4e4-40d4-4053-a79c-1cc397ff4ed9",
+      "DisplayName": "EnumerationsGrouping",
+      "ColorIndex": 6
+    },
+    "94c9d95a-b36c-4e9a-aa07-dd59e31092a2": {
+      "ProjectGuid": "94c9d95a-b36c-4e9a-aa07-dd59e31092a2",
+      "DisplayName": "GetFieldState",
+      "ColorIndex": 7
+    },
+    "941ae2f2-57c5-4a53-88de-b0b41a12a5cf": {
+      "ProjectGuid": "941ae2f2-57c5-4a53-88de-b0b41a12a5cf",
+      "DisplayName": "ReflectConstructors",
+      "ColorIndex": 8
+    },
+    "99915eb9-13c8-49a3-b877-8f9e21af01ab": {
+      "ProjectGuid": "99915eb9-13c8-49a3-b877-8f9e21af01ab",
+      "DisplayName": "MethodsReflection",
+      "ColorIndex": 9
+    },
+    "750c091c-0651-48cc-ad34-bd5a8d2e6959": {
+      "ProjectGuid": "750c091c-0651-48cc-ad34-bd5a8d2e6959",
+      "DisplayName": "CustomAttributes",
+      "ColorIndex": 10
+    },
+    "adb114af-4033-4043-90ed-24c2e110a734": {
+      "ProjectGuid": "adb114af-4033-4043-90ed-24c2e110a734",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

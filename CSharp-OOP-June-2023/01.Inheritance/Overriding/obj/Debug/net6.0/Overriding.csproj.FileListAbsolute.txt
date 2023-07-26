@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\Overriding.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\Overriding.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\Overriding.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\Overriding.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\ref\Overriding.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\bin\Debug\net6.0\Overriding.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\ref\Overriding.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\01.Inheritance\Overriding\obj\Debug\net6.0\Overriding.genruntimeconfig.cache

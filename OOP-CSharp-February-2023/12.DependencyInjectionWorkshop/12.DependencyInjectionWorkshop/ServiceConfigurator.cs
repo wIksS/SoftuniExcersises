@@ -1,4 +1,5 @@
-﻿using _12.DependencyInjectionWorkshop.Contracts;
+﻿using _12.DependencyInjectionWorkshop;
+using _12.DependencyInjectionWorkshop.Contracts;
 using _12.DependencyInjectionWorkshop.Loggers;
 using ChessDependencyInversion;
 using ChessDependencyInversion.Renderers;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 using IServiceProvider = SoftuniIoC.Contracts.IServiceProvider;
 
-namespace _12.DependencyInjectionWorkshop
+namespace _12.DependencyInjectionWorkshop3
 {
     public class ServiceConfigurator
     {

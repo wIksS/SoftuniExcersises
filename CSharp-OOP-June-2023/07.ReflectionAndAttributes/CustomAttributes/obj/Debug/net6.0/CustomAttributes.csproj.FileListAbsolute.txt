@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.exe
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.deps.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\ref\CustomAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\bin\Debug\net6.0\CustomAttributes.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\ref\CustomAttributes.dll
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.pdb
+C:\Users\Viktor\Desktop\Work\HeartsData\07.ReflectionAndAttributes\CustomAttributes\obj\Debug\net6.0\CustomAttributes.genruntimeconfig.cache

@@ -1,10 +1,13 @@
 ﻿
-using _12.DependencyInjectionWorkshop;
-using ChessDependencyInversion;
-using ChessDependencyInversion.Renderers;
-using IServiceProvider = SoftuniIoC.Contracts.IServiceProvider;
+//using _12.DependencyInjectionWorkshop;
+//using ChessDependencyInversion;
+//using ChessDependencyInversion.Renderers;
+//using IServiceProvider = SoftuniIoC.Contracts.IServiceProvider;
 
 // IoC - Inversion of Control container
+
+using _12.DependencyInjectionWorkshop;
+using ChessDependencyInversion;
 
 IServiceProvider serviceProvider = ServiceConfigurator.ConfigureServices();
 

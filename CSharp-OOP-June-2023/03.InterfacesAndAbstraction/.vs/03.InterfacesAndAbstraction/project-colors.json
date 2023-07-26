@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7d46452-1fe5-4f8e-973b-4ded06adbace": {
+      "ProjectGuid": "e7d46452-1fe5-4f8e-973b-4ded06adbace",
+      "DisplayName": "03.InterfacesAndAbstraction",
+      "ColorIndex": 0
+    },
+    "6684b404-cfba-4298-a39d-3c64200ae95d": {
+      "ProjectGuid": "6684b404-cfba-4298-a39d-3c64200ae95d",
+      "DisplayName": "CarExample",
+      "ColorIndex": 1
+    },
+    "0e518699-90bb-4b73-a69e-29fe462ea978": {
+      "ProjectGuid": "0e518699-90bb-4b73-a69e-29fe462ea978",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "c62d5ff2-e5fd-442c-9592-03b22e4f1a34": {
+      "ProjectGuid": "c62d5ff2-e5fd-442c-9592-03b22e4f1a34",
+      "DisplayName": "RestarauntExample",
+      "ColorIndex": 3
+    },
+    "31abf830-cdce-4e1a-a21d-586dad55004f": {
+      "ProjectGuid": "31abf830-cdce-4e1a-a21d-586dad55004f",
+      "DisplayName": "ExplicitInterfaces",
+      "ColorIndex": 4
+    },
+    "304525b7-70b5-46f6-91a0-35cfca6cbe6e": {
+      "ProjectGuid": "304525b7-70b5-46f6-91a0-35cfca6cbe6e",
+      "DisplayName": "InterfaceInheritance",
+      "ColorIndex": 5
+    },
+    "4ecfb854-3306-4ccf-909c-4b8ee69ac6f8": {
+      "ProjectGuid": "4ecfb854-3306-4ccf-909c-4b8ee69ac6f8",
+      "DisplayName": "InterfacesExtended",
+      "ColorIndex": 6
+    },
+    "f1bd959f-3621-4b4e-aa6d-6106c25efb2a": {
+      "ProjectGuid": "f1bd959f-3621-4b4e-aa6d-6106c25efb2a",
+      "DisplayName": "ReturningInterfaces",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bcab3f5b-a626-4d93-b40c-f8f5f2a3dd05": {
+      "ProjectGuid": "bcab3f5b-a626-4d93-b40c-f8f5f2a3dd05",
+      "DisplayName": "Shapes",
+      "ColorIndex": 8
+    },
+    "ab292481-7b10-47ae-888c-3a7e68fd5775": {
+      "ProjectGuid": "ab292481-7b10-47ae-888c-3a7e68fd5775",
+      "DisplayName": "AbstractClass",
+      "ColorIndex": 9
+    },
+    "173538b0-611a-4c8c-b460-6ffaca2a9a44": {
+      "ProjectGuid": "173538b0-611a-4c8c-b460-6ffaca2a9a44",
+      "DisplayName": "Cars",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
