@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\IteratingOverAStack.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\IteratingOverAStack.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\IteratingOverAStack.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\IteratingOverAStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\ref\IteratingOverAStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\bin\Debug\net6.0\IteratingOverAStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\ref\IteratingOverAStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\IteratingOverAStack\obj\Debug\net6.0\IteratingOverAStack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\QueueExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\QueueExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\QueueExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\QueueExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\ref\QueueExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\bin\Debug\net6.0\QueueExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\ref\QueueExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\QueueExample\obj\Debug\net6.0\QueueExample.genruntimeconfig.cache

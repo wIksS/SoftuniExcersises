@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\04.HotPotato.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\04.HotPotato.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\04.HotPotato.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\04.HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\ref\04.HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\bin\Debug\net6.0\04.HotPotato.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\ref\04.HotPotato.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\04.HotPotato\obj\Debug\net6.0\04.HotPotato.genruntimeconfig.cache

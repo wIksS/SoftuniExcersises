@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\05.TrafficLight.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\05.TrafficLight.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\05.TrafficLight.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\05.TrafficLight.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\ref\05.TrafficLight.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\bin\Debug\net6.0\05.TrafficLight.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\ref\05.TrafficLight.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\01.StacksAndQueues\05.TrafficLight\obj\Debug\net6.0\05.TrafficLight.genruntimeconfig.cache
