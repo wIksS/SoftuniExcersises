@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ArrayOfArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ArrayOfArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ArrayOfArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ArrayOfArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ref\ArrayOfArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\bin\Debug\net6.0\ArrayOfArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ref\ArrayOfArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ArrayOfArrays\obj\Debug\net6.0\ArrayOfArrays.genruntimeconfig.cache

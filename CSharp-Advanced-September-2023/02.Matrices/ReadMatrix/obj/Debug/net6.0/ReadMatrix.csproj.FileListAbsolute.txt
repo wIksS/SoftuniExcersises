@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ReadMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ReadMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ReadMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ReadMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ref\ReadMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\bin\Debug\net6.0\ReadMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ref\ReadMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrix\obj\Debug\net6.0\ReadMatrix.genruntimeconfig.cache

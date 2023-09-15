@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\02.Matrices.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\02.Matrices.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\02.Matrices.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\02.Matrices.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\ref\02.Matrices.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\bin\Debug\net6.0\02.Matrices.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\ref\02.Matrices.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.Matrices\obj\Debug\net6.0\02.Matrices.genruntimeconfig.cache

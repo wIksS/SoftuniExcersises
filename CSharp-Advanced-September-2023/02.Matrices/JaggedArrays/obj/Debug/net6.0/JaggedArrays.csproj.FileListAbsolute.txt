@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\JaggedArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\JaggedArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\JaggedArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\ref\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\bin\Debug\net6.0\JaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\ref\JaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\JaggedArrays\obj\Debug\net6.0\JaggedArrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\03.SquareWithMaxSum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\03.SquareWithMaxSum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\03.SquareWithMaxSum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\03.SquareWithMaxSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\ref\03.SquareWithMaxSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\bin\Debug\net6.0\03.SquareWithMaxSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\ref\03.SquareWithMaxSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\03.SquareWithMaxSum\obj\Debug\net6.0\03.SquareWithMaxSum.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\MatrixIteration.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\MatrixIteration.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\MatrixIteration.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\MatrixIteration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\ref\MatrixIteration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\bin\Debug\net6.0\MatrixIteration.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\ref\MatrixIteration.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixIteration\obj\Debug\net6.0\MatrixIteration.csproj.AssemblyReference.cache

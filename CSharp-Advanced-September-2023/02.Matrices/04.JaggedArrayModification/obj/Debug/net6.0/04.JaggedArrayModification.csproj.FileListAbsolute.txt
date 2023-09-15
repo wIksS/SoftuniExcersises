@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\04.JaggedArrayModification.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\04.JaggedArrayModification.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\04.JaggedArrayModification.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\04.JaggedArrayModification.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\ref\04.JaggedArrayModification.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\bin\Debug\net6.0\04.JaggedArrayModification.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\ref\04.JaggedArrayModification.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\04.JaggedArrayModification\obj\Debug\net6.0\04.JaggedArrayModification.genruntimeconfig.cache

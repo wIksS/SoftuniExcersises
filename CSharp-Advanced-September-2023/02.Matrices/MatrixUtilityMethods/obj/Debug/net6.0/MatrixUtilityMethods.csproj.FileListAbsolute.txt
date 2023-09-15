@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\MatrixUtilityMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\MatrixUtilityMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\MatrixUtilityMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\MatrixUtilityMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\ref\MatrixUtilityMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\bin\Debug\net6.0\MatrixUtilityMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\ref\MatrixUtilityMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\MatrixUtilityMethods\obj\Debug\net6.0\MatrixUtilityMethods.genruntimeconfig.cache

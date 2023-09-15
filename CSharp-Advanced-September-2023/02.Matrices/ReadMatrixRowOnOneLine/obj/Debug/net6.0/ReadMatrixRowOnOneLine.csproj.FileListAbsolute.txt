@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ReadMatrixRowOnOneLine.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ReadMatrixRowOnOneLine.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ReadMatrixRowOnOneLine.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ReadMatrixRowOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ref\ReadMatrixRowOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\bin\Debug\net6.0\ReadMatrixRowOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ref\ReadMatrixRowOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadMatrixRowOnOneLine\obj\Debug\net6.0\ReadMatrixRowOnOneLine.genruntimeconfig.cache

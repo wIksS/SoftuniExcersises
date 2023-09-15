@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\ref\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\ref\02.SumMatrixColumns.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.genruntimeconfig.cache

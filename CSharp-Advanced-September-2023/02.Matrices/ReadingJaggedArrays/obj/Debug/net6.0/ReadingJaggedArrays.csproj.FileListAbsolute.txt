@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ReadingJaggedArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ReadingJaggedArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ReadingJaggedArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ReadingJaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ref\ReadingJaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\bin\Debug\net6.0\ReadingJaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ref\ReadingJaggedArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\ReadingJaggedArrays\obj\Debug\net6.0\ReadingJaggedArrays.genruntimeconfig.cache

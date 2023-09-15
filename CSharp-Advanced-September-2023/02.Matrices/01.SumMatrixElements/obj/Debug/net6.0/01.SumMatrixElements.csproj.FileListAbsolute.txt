@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\ref\01.SumMatrixElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\ref\01.SumMatrixElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\02.Matrices\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.genruntimeconfig.cache
