@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\This.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\This.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\This.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\This.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\ref\This.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\bin\Debug\net6.0\This.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\ref\This.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\This\obj\Debug\net6.0\This.csproj.AssemblyReference.cache

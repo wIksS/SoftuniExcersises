@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\XOR.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\XOR.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\XOR.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\XOR.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\ref\XOR.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\bin\Debug\net6.0\XOR.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\ref\XOR.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\XOR\obj\Debug\net6.0\XOR.genruntimeconfig.cache

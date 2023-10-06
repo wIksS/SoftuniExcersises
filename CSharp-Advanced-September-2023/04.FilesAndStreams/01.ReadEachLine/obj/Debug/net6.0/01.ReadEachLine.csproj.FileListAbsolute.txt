@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\01.ReadEachLine.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\01.ReadEachLine.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\01.ReadEachLine.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\01.ReadEachLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\ref\01.ReadEachLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\bin\Debug\net6.0\01.ReadEachLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\ref\01.ReadEachLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\01.ReadEachLine\obj\Debug\net6.0\01.ReadEachLine.genruntimeconfig.cache

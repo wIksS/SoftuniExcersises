@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\StackAndHeap.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\StackAndHeap.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\StackAndHeap.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\StackAndHeap.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\ref\StackAndHeap.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\bin\Debug\net6.0\StackAndHeap.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\ref\StackAndHeap.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\StackAndHeap\obj\Debug\net6.0\StackAndHeap.csproj.AssemblyReference.cache

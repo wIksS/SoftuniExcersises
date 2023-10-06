@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\ref\Enums.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\ref\Enums.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache

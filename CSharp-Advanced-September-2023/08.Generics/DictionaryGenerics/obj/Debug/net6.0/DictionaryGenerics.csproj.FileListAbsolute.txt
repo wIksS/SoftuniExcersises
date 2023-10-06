@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\DictionaryGenerics.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\DictionaryGenerics.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\DictionaryGenerics.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\DictionaryGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\ref\DictionaryGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\bin\Debug\net6.0\DictionaryGenerics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\ref\DictionaryGenerics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\DictionaryGenerics\obj\Debug\net6.0\DictionaryGenerics.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\StackWithLinkedList.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\StackWithLinkedList.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\StackWithLinkedList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\StackWithLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\ref\StackWithLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\bin\Debug\net6.0\StackWithLinkedList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\ref\StackWithLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\07.LinkedList\StackWithLinkedList\obj\Debug\net6.0\StackWithLinkedList.genruntimeconfig.cache

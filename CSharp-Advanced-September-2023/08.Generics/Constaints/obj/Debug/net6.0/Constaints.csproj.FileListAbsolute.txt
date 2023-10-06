@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\Constaints.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\Constaints.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\Constaints.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\Constaints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\ref\Constaints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\bin\Debug\net6.0\Constaints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\ref\Constaints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\Constaints\obj\Debug\net6.0\Constaints.genruntimeconfig.cache

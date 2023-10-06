@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ListOfT.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ListOfT.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ListOfT.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ListOfT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ref\ListOfT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\bin\Debug\net6.0\ListOfT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ref\ListOfT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\ListOfT\obj\Debug\net6.0\ListOfT.csproj.AssemblyReference.cache

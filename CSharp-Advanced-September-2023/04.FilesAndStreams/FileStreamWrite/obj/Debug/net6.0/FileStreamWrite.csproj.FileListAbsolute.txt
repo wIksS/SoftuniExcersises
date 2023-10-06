@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\ref\FileStreamWrite.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\ref\FileStreamWrite.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\GenericVsObject.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\GenericVsObject.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\GenericVsObject.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\GenericVsObject.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\ref\GenericVsObject.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\bin\Debug\net6.0\GenericVsObject.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\ref\GenericVsObject.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\08.Generics\GenericVsObject\obj\Debug\net6.0\GenericVsObject.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesMoreExamples\obj\Debug\net6.0\PropertiesMoreExamples.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesMoreExamples\obj\Debug\net6.0\PropertiesMoreExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesMoreExamples\obj\Debug\net6.0\PropertiesMoreExamples.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesMoreExamples\obj\Debug\net6.0\PropertiesMoreExamples.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesMoreExamples\obj\Debug\net6.0\PropertiesMoreExamples.csproj.CoreCompileInputs.cache

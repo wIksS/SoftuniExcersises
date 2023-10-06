@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\06.DefiningClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\06.DefiningClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\06.DefiningClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\06.DefiningClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\ref\06.DefiningClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\bin\Debug\net6.0\06.DefiningClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\ref\06.DefiningClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\06.DefiningClasses\obj\Debug\net6.0\06.DefiningClasses.genruntimeconfig.cache

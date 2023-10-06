@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\FieldsAndProperties.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\FieldsAndProperties.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\FieldsAndProperties.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\FieldsAndProperties.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\ref\FieldsAndProperties.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\bin\Debug\net6.0\FieldsAndProperties.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\ref\FieldsAndProperties.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\FieldsAndProperties\obj\Debug\net6.0\FieldsAndProperties.genruntimeconfig.cache

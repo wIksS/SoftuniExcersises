@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c19f6c5-7a26-434c-bbef-42698ba88202": {
+      "ProjectGuid": "0c19f6c5-7a26-434c-bbef-42698ba88202",
+      "DisplayName": "05.FunctionalProgramming",
+      "ColorIndex": 0
+    },
+    "97c7b04f-028f-46f5-8391-aefa089cbf19": {
+      "ProjectGuid": "97c7b04f-028f-46f5-8391-aefa089cbf19",
+      "DisplayName": "Promotions",
+      "ColorIndex": 1
+    },
+    "dd946529-a946-442c-961a-4aa39fd98bb6": {
+      "ProjectGuid": "dd946529-a946-442c-961a-4aa39fd98bb6",
+      "DisplayName": "DataImmutability",
+      "ColorIndex": 2
+    },
+    "620197c4-6225-4ebf-8df3-d0182f563a1c": {
+      "ProjectGuid": "620197c4-6225-4ebf-8df3-d0182f563a1c",
+      "DisplayName": "ForCycles",
+      "ColorIndex": 3
+    },
+    "200e22c2-788c-4ad7-835f-703585341717": {
+      "ProjectGuid": "200e22c2-788c-4ad7-835f-703585341717",
+      "DisplayName": "SideEffect",
+      "ColorIndex": 4
+    },
+    "87c399d8-b771-4dd5-97c7-14896098d6ef": {
+      "ProjectGuid": "87c399d8-b771-4dd5-97c7-14896098d6ef",
+      "DisplayName": "FirstClassFunctions",
+      "ColorIndex": 5
+    },
+    "b9d6d898-e781-41e0-a441-abcbc2165b8b": {
+      "ProjectGuid": "b9d6d898-e781-41e0-a441-abcbc2165b8b",
+      "DisplayName": "LambdaExpressions",
+      "ColorIndex": 6
+    },
+    "7ae03cdc-950c-4d29-a957-70568f211b9d": {
+      "ProjectGuid": "7ae03cdc-950c-4d29-a957-70568f211b9d",
+      "DisplayName": "LambdaExpressions2",
+      "ColorIndex": 7
+    },
+    "cf8a1407-998c-4e3d-8079-462ac1924a7b": {
+      "ProjectGuid": "cf8a1407-998c-4e3d-8079-462ac1924a7b",
+      "DisplayName": "01.SortEvenNumbers",
+      "ColorIndex": 8
+    },
+    "ffb95138-493d-4d7c-ad2e-11d20fd0ae67": {
+      "ProjectGuid": "ffb95138-493d-4d7c-ad2e-11d20fd0ae67",
+      "DisplayName": "Funcs",
+      "ColorIndex": 9
+    },
+    "2d322697-9c3e-4077-a76d-369c03cdc181": {
+      "ProjectGuid": "2d322697-9c3e-4077-a76d-369c03cdc181",
+      "DisplayName": "Funcs2",
+      "ColorIndex": 10
+    },
+    "8412c32e-3b3d-4dbb-a6d8-548fd97522b5": {
+      "ProjectGuid": "8412c32e-3b3d-4dbb-a6d8-548fd97522b5",
+      "DisplayName": "FuncsAndLambdas",
+      "ColorIndex": 11
+    },
+    "d6da8a8b-61ce-4525-8811-7fdb3d974738": {
+      "ProjectGuid": "d6da8a8b-61ce-4525-8811-7fdb3d974738",
+      "DisplayName": "FuncsUsage",
+      "ColorIndex": 12
+    },
+    "cf4da268-9aef-4643-8049-bbf1b12a3995": {
+      "ProjectGuid": "cf4da268-9aef-4643-8049-bbf1b12a3995",
+      "DisplayName": "Actions",
+      "ColorIndex": 13
+    },
+    "1b5a6c27-e146-4c68-9501-0f019cf04207": {
+      "ProjectGuid": "1b5a6c27-e146-4c68-9501-0f019cf04207",
+      "DisplayName": "Delegates",
+      "ColorIndex": 14
+    },
+    "ab74d630-4599-4e58-ad77-e558be07bfdb": {
+      "ProjectGuid": "ab74d630-4599-4e58-ad77-e558be07bfdb",
+      "DisplayName": "02.SumNumbers",
+      "ColorIndex": 15
+    },
+    "99e0da52-fb85-42e8-a864-725eeed52e49": {
+      "ProjectGuid": "99e0da52-fb85-42e8-a864-725eeed52e49",
+      "DisplayName": "Predicates",
+      "ColorIndex": 0
+    },
+    "8665160f-86df-4734-9a9a-2c9ab364d368": {
+      "ProjectGuid": "8665160f-86df-4734-9a9a-2c9ab364d368",
+      "DisplayName": "03.UpperCaseLetters",
+      "ColorIndex": 1
+    },
+    "c5309b3a-77a1-4e09-b19c-3e6709afbd28": {
+      "ProjectGuid": "c5309b3a-77a1-4e09-b19c-3e6709afbd28",
+      "DisplayName": "04.AddVAT",
+      "ColorIndex": 2
+    },
+    "59429212-547d-4064-8be5-37a3c2ee37df": {
+      "ProjectGuid": "59429212-547d-4064-8be5-37a3c2ee37df",
+      "DisplayName": "Aggregator",
+      "ColorIndex": 3
+    },
+    "c61238fa-9188-44f0-9369-eaa82e651162": {
+      "ProjectGuid": "c61238fa-9188-44f0-9369-eaa82e651162",
+      "DisplayName": "HigherOrderFunctions",
+      "ColorIndex": 4
+    },
+    "745203ff-e63c-48c7-b8b6-a506d65f6571": {
+      "ProjectGuid": "745203ff-e63c-48c7-b8b6-a506d65f6571",
+      "DisplayName": "06.FilterByAge",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

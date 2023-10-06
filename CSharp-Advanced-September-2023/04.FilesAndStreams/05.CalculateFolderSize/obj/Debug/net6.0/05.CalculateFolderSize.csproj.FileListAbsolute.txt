@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\05.CalculateFolderSize.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\05.CalculateFolderSize.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\05.CalculateFolderSize.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\05.CalculateFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\ref\05.CalculateFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\bin\Debug\net6.0\05.CalculateFolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\ref\05.CalculateFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\04.FilesAndStreams\05.CalculateFolderSize\obj\Debug\net6.0\05.CalculateFolderSize.genruntimeconfig.cache

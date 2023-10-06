@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\HigherOrderFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\HigherOrderFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\HigherOrderFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\HigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\ref\HigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\bin\Debug\net6.0\HigherOrderFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\ref\HigherOrderFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\HigherOrderFunctions\obj\Debug\net6.0\HigherOrderFunctions.genruntimeconfig.cache

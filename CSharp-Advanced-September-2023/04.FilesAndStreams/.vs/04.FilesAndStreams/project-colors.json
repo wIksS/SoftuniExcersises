@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ff28f7b-b14b-4153-b7eb-961b1c13d6b6": {
+      "ProjectGuid": "7ff28f7b-b14b-4153-b7eb-961b1c13d6b6",
+      "DisplayName": "04.FilesAndStreams",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0638c010-33a6-41a1-8d5d-6453e0354c85": {
+      "ProjectGuid": "0638c010-33a6-41a1-8d5d-6453e0354c85",
+      "DisplayName": "Dispose",
+      "ColorIndex": 1
+    },
+    "9fb93496-f894-4d2e-8fa3-8afb1673ad6f": {
+      "ProjectGuid": "9fb93496-f894-4d2e-8fa3-8afb1673ad6f",
+      "DisplayName": "01.ReadEachLine",
+      "ColorIndex": 2
+    },
+    "6941a82e-f7cb-47e6-9f0d-fb46506aeb46": {
+      "ProjectGuid": "6941a82e-f7cb-47e6-9f0d-fb46506aeb46",
+      "DisplayName": "AbsoluteVsRelativePath",
+      "ColorIndex": 3
+    },
+    "1f8b749a-f58e-4b58-aa76-8ba16e487233": {
+      "ProjectGuid": "1f8b749a-f58e-4b58-aa76-8ba16e487233",
+      "DisplayName": "StreamWriterExample",
+      "ColorIndex": 4
+    },
+    "9a53e81e-6c37-4337-b2e2-248aea6b611e": {
+      "ProjectGuid": "9a53e81e-6c37-4337-b2e2-248aea6b611e",
+      "DisplayName": "01.OddLines",
+      "ColorIndex": 5
+    },
+    "dbbd3f0b-0491-4d03-8cfd-aa965be30ac5": {
+      "ProjectGuid": "dbbd3f0b-0491-4d03-8cfd-aa965be30ac5",
+      "DisplayName": "BaseStreams",
+      "ColorIndex": 6
+    },
+    "552faa8e-776f-4d74-a5c4-35fa168d5968": {
+      "ProjectGuid": "552faa8e-776f-4d74-a5c4-35fa168d5968",
+      "DisplayName": "FileStreamWrite",
+      "ColorIndex": 7
+    },
+    "b09d7f7d-6279-43d4-abe5-755dbf7ed343": {
+      "ProjectGuid": "b09d7f7d-6279-43d4-abe5-755dbf7ed343",
+      "DisplayName": "Cyrilic",
+      "ColorIndex": 8
+    },
+    "03fd0db3-4f96-4bb3-b006-9bf6e8bf7309": {
+      "ProjectGuid": "03fd0db3-4f96-4bb3-b006-9bf6e8bf7309",
+      "DisplayName": "EncryptFile",
+      "ColorIndex": 9
+    },
+    "e505a642-9f6a-4a9f-96aa-72e6ea9f56cb": {
+      "ProjectGuid": "e505a642-9f6a-4a9f-96aa-72e6ea9f56cb",
+      "DisplayName": "XOR",
+      "ColorIndex": 10
+    },
+    "097ab21b-8932-45f0-b54f-d730649157e1": {
+      "ProjectGuid": "097ab21b-8932-45f0-b54f-d730649157e1",
+      "DisplayName": "FileClass",
+      "ColorIndex": 11
+    },
+    "c4b67753-cc3b-40dc-b597-ea56652e8b4f": {
+      "ProjectGuid": "c4b67753-cc3b-40dc-b597-ea56652e8b4f",
+      "DisplayName": "Directories",
+      "ColorIndex": 12
+    },
+    "ad4f5481-d9e8-4365-bbc9-b5369f1a6655": {
+      "ProjectGuid": "ad4f5481-d9e8-4365-bbc9-b5369f1a6655",
+      "DisplayName": "GetFiles",
+      "ColorIndex": 13
+    },
+    "5fbde629-60cf-409f-89b0-8299d813bac0": {
+      "ProjectGuid": "5fbde629-60cf-409f-89b0-8299d813bac0",
+      "DisplayName": "05.CalculateFolderSize",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

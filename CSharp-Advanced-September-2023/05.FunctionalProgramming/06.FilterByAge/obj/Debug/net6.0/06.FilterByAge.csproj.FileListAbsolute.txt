@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\06.FilterByAge.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\06.FilterByAge.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\06.FilterByAge.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\06.FilterByAge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\ref\06.FilterByAge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\bin\Debug\net6.0\06.FilterByAge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\ref\06.FilterByAge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\06.FilterByAge\obj\Debug\net6.0\06.FilterByAge.genruntimeconfig.cache

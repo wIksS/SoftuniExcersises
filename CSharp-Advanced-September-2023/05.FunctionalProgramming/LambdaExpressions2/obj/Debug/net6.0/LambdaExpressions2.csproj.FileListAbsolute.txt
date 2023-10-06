@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\LambdaExpressions2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\LambdaExpressions2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\LambdaExpressions2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\LambdaExpressions2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\ref\LambdaExpressions2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\bin\Debug\net6.0\LambdaExpressions2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\ref\LambdaExpressions2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\LambdaExpressions2\obj\Debug\net6.0\LambdaExpressions2.genruntimeconfig.cache

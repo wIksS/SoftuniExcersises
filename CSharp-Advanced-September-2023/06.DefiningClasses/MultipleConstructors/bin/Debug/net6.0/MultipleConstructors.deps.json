@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultipleConstructors/1.0.0": {
+        "runtime": {
+          "MultipleConstructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultipleConstructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

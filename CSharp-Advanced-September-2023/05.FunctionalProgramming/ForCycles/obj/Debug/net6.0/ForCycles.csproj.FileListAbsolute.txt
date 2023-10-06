@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ForCycles.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ForCycles.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ForCycles.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ForCycles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ref\ForCycles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\bin\Debug\net6.0\ForCycles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ref\ForCycles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\05.FunctionalProgramming\ForCycles\obj\Debug\net6.0\ForCycles.genruntimeconfig.cache

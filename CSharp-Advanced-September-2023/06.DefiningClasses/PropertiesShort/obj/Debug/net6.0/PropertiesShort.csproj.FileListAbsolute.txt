@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\PropertiesShort.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\PropertiesShort.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\PropertiesShort.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\PropertiesShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\ref\PropertiesShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\bin\Debug\net6.0\PropertiesShort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\ref\PropertiesShort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\PropertiesShort\obj\Debug\net6.0\PropertiesShort.csproj.AssemblyReference.cache

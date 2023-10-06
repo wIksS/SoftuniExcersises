@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ConstructorChaining2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ConstructorChaining2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ConstructorChaining2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ConstructorChaining2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ref\ConstructorChaining2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\bin\Debug\net6.0\ConstructorChaining2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ref\ConstructorChaining2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\ConstructorChaining2\obj\Debug\net6.0\ConstructorChaining2.genruntimeconfig.cache

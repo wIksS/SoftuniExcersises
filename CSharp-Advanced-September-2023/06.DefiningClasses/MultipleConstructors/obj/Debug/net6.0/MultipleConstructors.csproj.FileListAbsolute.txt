@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\MultipleConstructors.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\MultipleConstructors.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\MultipleConstructors.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\MultipleConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\ref\MultipleConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\bin\Debug\net6.0\MultipleConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\ref\MultipleConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\06.DefiningClasses\MultipleConstructors\obj\Debug\net6.0\MultipleConstructors.genruntimeconfig.cache
