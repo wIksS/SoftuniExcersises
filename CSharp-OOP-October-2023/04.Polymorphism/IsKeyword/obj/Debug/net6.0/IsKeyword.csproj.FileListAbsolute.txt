@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\IsKeyword.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\IsKeyword.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\IsKeyword.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\IsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\ref\IsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\bin\Debug\net6.0\IsKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\ref\IsKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\IsKeyword\obj\Debug\net6.0\IsKeyword.genruntimeconfig.cache

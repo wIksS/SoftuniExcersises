@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\PrivateInheritance.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\PrivateInheritance.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\PrivateInheritance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\PrivateInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\ref\PrivateInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\bin\Debug\net6.0\PrivateInheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\ref\PrivateInheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\PrivateInheritance\obj\Debug\net6.0\PrivateInheritance.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\Renderers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\Renderers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\Renderers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\Renderers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\ref\Renderers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\bin\Debug\net6.0\Renderers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\ref\Renderers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Renderers\obj\Debug\net6.0\Renderers.genruntimeconfig.cache

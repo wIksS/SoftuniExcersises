@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\RecursiveNFactorial.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\RecursiveNFactorial.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\RecursiveNFactorial.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\RecursiveNFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\ref\RecursiveNFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\bin\Debug\net6.0\RecursiveNFactorial.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\ref\RecursiveNFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\RecursiveNFactorial\obj\Debug\net6.0\RecursiveNFactorial.genruntimeconfig.cache

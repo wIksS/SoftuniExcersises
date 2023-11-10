@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\ref\AbstractClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache

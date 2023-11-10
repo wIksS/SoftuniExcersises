@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\CompanySingleResponsbility.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\CompanySingleResponsbility.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\CompanySingleResponsbility.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\CompanySingleResponsbility.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\ref\CompanySingleResponsbility.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\bin\Debug\net6.0\CompanySingleResponsbility.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\ref\CompanySingleResponsbility.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\CompanySingleResponsbility\obj\Debug\net6.0\CompanySingleResponsbility.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\SortingStrategy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\SortingStrategy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\SortingStrategy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\SortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\ref\SortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\bin\Debug\net6.0\SortingStrategy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\ref\SortingStrategy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\SortingStrategy\obj\Debug\net6.0\SortingStrategy.genruntimeconfig.cache

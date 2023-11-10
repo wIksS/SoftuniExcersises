@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache

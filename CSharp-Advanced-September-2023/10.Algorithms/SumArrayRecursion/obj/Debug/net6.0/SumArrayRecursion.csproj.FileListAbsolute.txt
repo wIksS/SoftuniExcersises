@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\SumArrayRecursion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\SumArrayRecursion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\SumArrayRecursion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\SumArrayRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\ref\SumArrayRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\bin\Debug\net6.0\SumArrayRecursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\ref\SumArrayRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\SumArrayRecursion\obj\Debug\net6.0\SumArrayRecursion.genruntimeconfig.cache

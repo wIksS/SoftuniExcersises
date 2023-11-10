@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af622668-da13-47f2-921f-e131f539ba37": {
+      "ProjectGuid": "af622668-da13-47f2-921f-e131f539ba37",
+      "DisplayName": "10.Algorithms",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9532ee32-c67f-47cd-a88d-16a0ea0a0394": {
+      "ProjectGuid": "9532ee32-c67f-47cd-a88d-16a0ea0a0394",
+      "DisplayName": "Recursion",
+      "ColorIndex": 1
+    },
+    "411c1f5d-90d9-4da1-bcd8-62b308a9e4b1": {
+      "ProjectGuid": "411c1f5d-90d9-4da1-bcd8-62b308a9e4b1",
+      "DisplayName": "SumArrayRecursion",
+      "ColorIndex": 2
+    },
+    "f34b1ee7-aac7-4241-b502-407a148af30a": {
+      "ProjectGuid": "f34b1ee7-aac7-4241-b502-407a148af30a",
+      "DisplayName": "RecursiveNFactorial",
+      "ColorIndex": 3
+    },
+    "b0f09a8e-46de-46d2-9ece-37b3f459cf86": {
+      "ProjectGuid": "b0f09a8e-46de-46d2-9ece-37b3f459cf86",
+      "DisplayName": "GreedySumOfCoins",
+      "ColorIndex": 4
+    },
+    "79da5888-1332-4cf8-b6fa-b36d16afd0f7": {
+      "ProjectGuid": "79da5888-1332-4cf8-b6fa-b36d16afd0f7",
+      "DisplayName": "BinarySearch",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\MultipleCatchBlocks.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\MultipleCatchBlocks.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\MultipleCatchBlocks.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\MultipleCatchBlocks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\ref\MultipleCatchBlocks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\bin\Debug\net6.0\MultipleCatchBlocks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\ref\MultipleCatchBlocks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\MultipleCatchBlocks\obj\Debug\net6.0\MultipleCatchBlocks.genruntimeconfig.cache

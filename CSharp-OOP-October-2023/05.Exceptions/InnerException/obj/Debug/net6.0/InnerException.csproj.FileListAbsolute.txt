@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\InnerException.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\InnerException.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\InnerException.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\InnerException.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\ref\InnerException.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\bin\Debug\net6.0\InnerException.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\ref\InnerException.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\InnerException\obj\Debug\net6.0\InnerException.genruntimeconfig.cache

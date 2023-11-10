@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\Hieararchy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\Hieararchy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\Hieararchy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\Hieararchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\ref\Hieararchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\bin\Debug\net6.0\Hieararchy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\ref\Hieararchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Hieararchy\obj\Debug\net6.0\Hieararchy.genruntimeconfig.cache

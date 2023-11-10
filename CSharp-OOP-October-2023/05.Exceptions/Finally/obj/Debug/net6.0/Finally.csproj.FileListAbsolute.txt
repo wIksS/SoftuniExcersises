@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\Finally.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\Finally.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\Finally.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\Finally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\ref\Finally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\bin\Debug\net6.0\Finally.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\ref\Finally.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\Finally\obj\Debug\net6.0\Finally.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\StackTravel.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\StackTravel.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\StackTravel.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\StackTravel.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\ref\StackTravel.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\bin\Debug\net6.0\StackTravel.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\ref\StackTravel.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\StackTravel\obj\Debug\net6.0\StackTravel.genruntimeconfig.cache

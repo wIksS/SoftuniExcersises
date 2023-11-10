@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\Constructors2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\Constructors2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\Constructors2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\Constructors2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\ref\Constructors2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\bin\Debug\net6.0\Constructors2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\ref\Constructors2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\Constructors2\obj\Debug\net6.0\Constructors2.csproj.AssemblyReference.cache

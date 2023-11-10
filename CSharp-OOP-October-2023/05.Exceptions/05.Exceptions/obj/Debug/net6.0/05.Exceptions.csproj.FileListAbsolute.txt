@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\05.Exceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\05.Exceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\05.Exceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\05.Exceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\ref\05.Exceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\bin\Debug\net6.0\05.Exceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\ref\05.Exceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\05.Exceptions\obj\Debug\net6.0\05.Exceptions.genruntimeconfig.cache

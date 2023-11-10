@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\06.SOLID\obj\Debug\net6.0\06.SOLID.csproj.CoreCompileInputs.cache

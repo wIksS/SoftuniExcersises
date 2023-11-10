@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\01.Inheritance.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\01.Inheritance.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\01.Inheritance.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\01.Inheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\ref\01.Inheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\bin\Debug\net6.0\01.Inheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\ref\01.Inheritance.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\01.Inheritance\obj\Debug\net6.0\01.Inheritance.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0144b111-d451-4e18-a649-34e690562dc0": {
+      "ProjectGuid": "0144b111-d451-4e18-a649-34e690562dc0",
+      "DisplayName": "03.InterfacesAndAbstraction",
+      "ColorIndex": 0
+    },
+    "49c150fe-f5ff-4b08-a4b1-512dba526807": {
+      "ProjectGuid": "49c150fe-f5ff-4b08-a4b1-512dba526807",
+      "DisplayName": "CarsExample",
+      "ColorIndex": 1
+    },
+    "7daba5ec-00f2-4810-aaff-ced5c8050751": {
+      "ProjectGuid": "7daba5ec-00f2-4810-aaff-ced5c8050751",
+      "DisplayName": "Renderers",
+      "ColorIndex": 2
+    },
+    "5abb2967-c866-47e0-87ca-a007e6a89d04": {
+      "ProjectGuid": "5abb2967-c866-47e0-87ca-a007e6a89d04",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "07e5ed6a-132e-4e6d-9a6b-e0ebbbbfd4e7": {
+      "ProjectGuid": "07e5ed6a-132e-4e6d-9a6b-e0ebbbbfd4e7",
+      "DisplayName": "ExplicitImplementation",
+      "ColorIndex": 4
+    },
+    "8d39b2f1-d47f-4c0a-ba35-b1f4a5ee7203": {
+      "ProjectGuid": "8d39b2f1-d47f-4c0a-ba35-b1f4a5ee7203",
+      "DisplayName": "Shapes",
+      "ColorIndex": 5
+    },
+    "b0096b0e-699e-4447-9319-6dafee530869": {
+      "ProjectGuid": "b0096b0e-699e-4447-9319-6dafee530869",
+      "DisplayName": "AbstractClass",
+      "ColorIndex": 6
+    },
+    "6493c1b8-dd0d-459f-bc4c-efe38baf5400": {
+      "ProjectGuid": "6493c1b8-dd0d-459f-bc4c-efe38baf5400",
+      "DisplayName": "CarsExample",
+      "ColorIndex": 7
+    },
+    "3dca72d7-3720-4fa7-9b9d-626afd162e84": {
+      "ProjectGuid": "3dca72d7-3720-4fa7-9b9d-626afd162e84",
+      "DisplayName": "Cars",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

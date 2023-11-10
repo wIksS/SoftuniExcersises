@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\HideMembers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\HideMembers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\HideMembers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\HideMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\ref\HideMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\bin\Debug\net6.0\HideMembers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\ref\HideMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\HideMembers\obj\Debug\net6.0\HideMembers.genruntimeconfig.cache

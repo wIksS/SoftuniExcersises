@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\BaseKeyword.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\BaseKeyword.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\BaseKeyword.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\BaseKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\ref\BaseKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\bin\Debug\net6.0\BaseKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\ref\BaseKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\BaseKeyword\obj\Debug\net6.0\BaseKeyword.genruntimeconfig.cache

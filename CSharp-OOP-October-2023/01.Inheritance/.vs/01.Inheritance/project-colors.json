@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1956d782-49c1-4086-b6a7-2759a9e0900d": {
+      "ProjectGuid": "1956d782-49c1-4086-b6a7-2759a9e0900d",
+      "DisplayName": "01.Inheritance",
+      "ColorIndex": 0
+    },
+    "132bcefa-365a-44f5-ab72-cd9453638ea8": {
+      "ProjectGuid": "132bcefa-365a-44f5-ab72-cd9453638ea8",
+      "DisplayName": "ConstructorInheritance",
+      "ColorIndex": 1
+    },
+    "a40793e0-f0c9-41aa-a79d-0fcfcc606095": {
+      "ProjectGuid": "a40793e0-f0c9-41aa-a79d-0fcfcc606095",
+      "DisplayName": "Constructors2",
+      "ColorIndex": 2
+    },
+    "098ec2a6-0306-44db-9dcb-d0bc43173cce": {
+      "ProjectGuid": "098ec2a6-0306-44db-9dcb-d0bc43173cce",
+      "DisplayName": "BaseKeyword",
+      "ColorIndex": 3
+    },
+    "ed2db944-2e84-4508-8580-88190609b9a3": {
+      "ProjectGuid": "ed2db944-2e84-4508-8580-88190609b9a3",
+      "DisplayName": "Farm",
+      "ColorIndex": 4
+    },
+    "258d8e0a-cf1f-4ed2-a89f-cdef24b9fe6c": {
+      "ProjectGuid": "258d8e0a-cf1f-4ed2-a89f-cdef24b9fe6c",
+      "DisplayName": "PrivateInheritance",
+      "ColorIndex": 5
+    },
+    "5d940ca9-324f-4f77-b93d-6ef3d817f157": {
+      "ProjectGuid": "5d940ca9-324f-4f77-b93d-6ef3d817f157",
+      "DisplayName": "HideMembers",
+      "ColorIndex": 6
+    },
+    "8c48f103-aabd-4686-8f0d-1f5f3fc92da1": {
+      "ProjectGuid": "8c48f103-aabd-4686-8f0d-1f5f3fc92da1",
+      "DisplayName": "VirtualKeyword",
+      "ColorIndex": 7
+    },
+    "d820fa95-38e9-4ffc-8f57-e8e5643810cb": {
+      "ProjectGuid": "d820fa95-38e9-4ffc-8f57-e8e5643810cb",
+      "DisplayName": "SealedKeyword",
+      "ColorIndex": 8
+    },
+    "e56e72b1-6631-4cd7-8555-a18505e962e3": {
+      "ProjectGuid": "e56e72b1-6631-4cd7-8555-a18505e962e3",
+      "DisplayName": "Virtual",
+      "ColorIndex": 9
+    },
+    "218e2587-f2e1-4b50-94f7-b11fd5f4b914": {
+      "ProjectGuid": "218e2587-f2e1-4b50-94f7-b11fd5f4b914",
+      "DisplayName": "CustomRandomList",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

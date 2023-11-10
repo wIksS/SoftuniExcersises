@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8d5c786-cd51-4ad1-95e3-d3fa389ece0e": {
+      "ProjectGuid": "a8d5c786-cd51-4ad1-95e3-d3fa389ece0e",
+      "DisplayName": "05.Exceptions",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2834dfd7-06ee-4ce1-89fe-f8dbd078b165": {
+      "ProjectGuid": "2834dfd7-06ee-4ce1-89fe-f8dbd078b165",
+      "DisplayName": "TryCatch",
+      "ColorIndex": 1
+    },
+    "8b464ad5-e12c-42d2-8495-d42a3e8e4d8c": {
+      "ProjectGuid": "8b464ad5-e12c-42d2-8495-d42a3e8e4d8c",
+      "DisplayName": "MultipleCatchBlocks",
+      "ColorIndex": 2
+    },
+    "f812d771-75ce-47d2-a5c6-1e8fa280f655": {
+      "ProjectGuid": "f812d771-75ce-47d2-a5c6-1e8fa280f655",
+      "DisplayName": "PersonDemo",
+      "ColorIndex": 3
+    },
+    "aea0137e-32d5-46f9-a1c0-1252c52fe67f": {
+      "ProjectGuid": "aea0137e-32d5-46f9-a1c0-1252c52fe67f",
+      "DisplayName": "Finally",
+      "ColorIndex": 4
+    },
+    "900043cb-665a-40dd-9217-29da853db97a": {
+      "ProjectGuid": "900043cb-665a-40dd-9217-29da853db97a",
+      "DisplayName": "Return",
+      "ColorIndex": 5
+    },
+    "65b06817-b2ec-4e62-b9ab-e97a4591dd18": {
+      "ProjectGuid": "65b06817-b2ec-4e62-b9ab-e97a4591dd18",
+      "DisplayName": "InnerException",
+      "ColorIndex": 6
+    },
+    "7986d19a-1d84-4d5e-b296-856d87a6b82d": {
+      "ProjectGuid": "7986d19a-1d84-4d5e-b296-856d87a6b82d",
+      "DisplayName": "StackTravel",
+      "ColorIndex": 7
+    },
+    "b48339b9-b9f4-4438-a694-4543458c2581": {
+      "ProjectGuid": "b48339b9-b9f4-4438-a694-4543458c2581",
+      "DisplayName": "ControlFlowAsExceptions",
+      "ColorIndex": 8
+    },
+    "886e701b-ff80-4d7a-b39f-bdb0528661b0": {
+      "ProjectGuid": "886e701b-ff80-4d7a-b39f-bdb0528661b0",
+      "DisplayName": "CustomExceptions",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

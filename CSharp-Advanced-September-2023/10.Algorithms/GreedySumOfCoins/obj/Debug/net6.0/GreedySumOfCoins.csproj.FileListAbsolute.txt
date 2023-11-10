@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\GreedySumOfCoins.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\GreedySumOfCoins.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\GreedySumOfCoins.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\GreedySumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\ref\GreedySumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\bin\Debug\net6.0\GreedySumOfCoins.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\ref\GreedySumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2023\10.Algorithms\GreedySumOfCoins\obj\Debug\net6.0\GreedySumOfCoins.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9d1d71f-44c0-4ee6-957b-ad494859d344": {
+      "ProjectGuid": "d9d1d71f-44c0-4ee6-957b-ad494859d344",
+      "DisplayName": "04.Polymorphism",
+      "ColorIndex": 0
+    },
+    "c3facec6-fceb-499b-b6fc-92c79f7cbe10": {
+      "ProjectGuid": "c3facec6-fceb-499b-b6fc-92c79f7cbe10",
+      "DisplayName": "Polymorphism2",
+      "ColorIndex": 1
+    },
+    "b6cc40e2-a1a0-41cd-bd38-82124ed7483b": {
+      "ProjectGuid": "b6cc40e2-a1a0-41cd-bd38-82124ed7483b",
+      "DisplayName": "Polymorphism",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "34aacae5-23f6-4f28-b545-35704b45ff71": {
+      "ProjectGuid": "34aacae5-23f6-4f28-b545-35704b45ff71",
+      "DisplayName": "Hieararchy",
+      "ColorIndex": 3
+    },
+    "7bb5890c-209c-4216-a434-692e572a50e3": {
+      "ProjectGuid": "7bb5890c-209c-4216-a434-692e572a50e3",
+      "DisplayName": "PolymorphismMore",
+      "ColorIndex": 4
+    },
+    "23b454a9-2889-488f-9ebe-505fc2261337": {
+      "ProjectGuid": "23b454a9-2889-488f-9ebe-505fc2261337",
+      "DisplayName": "IsKeyword",
+      "ColorIndex": 5
+    },
+    "597fcd27-9dce-45d1-840f-839dddec6b87": {
+      "ProjectGuid": "597fcd27-9dce-45d1-840f-839dddec6b87",
+      "DisplayName": "Operations",
+      "ColorIndex": 6
+    },
+    "447d6731-aa99-44cd-a3ce-29b334749059": {
+      "ProjectGuid": "447d6731-aa99-44cd-a3ce-29b334749059",
+      "DisplayName": "Animals",
+      "ColorIndex": 7
+    },
+    "b6233dab-7f3d-4640-bf57-2749b361021e": {
+      "ProjectGuid": "b6233dab-7f3d-4640-bf57-2749b361021e",
+      "DisplayName": "IsVarPattern",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

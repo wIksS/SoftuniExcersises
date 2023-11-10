@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ControlFlowAsExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ControlFlowAsExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ControlFlowAsExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ControlFlowAsExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ref\ControlFlowAsExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\bin\Debug\net6.0\ControlFlowAsExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ref\ControlFlowAsExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\05.Exceptions\ControlFlowAsExceptions\obj\Debug\net6.0\ControlFlowAsExceptions.genruntimeconfig.cache

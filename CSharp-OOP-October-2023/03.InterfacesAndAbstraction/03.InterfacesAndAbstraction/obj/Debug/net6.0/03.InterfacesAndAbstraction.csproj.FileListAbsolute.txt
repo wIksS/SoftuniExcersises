@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\03.InterfacesAndAbstraction.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\03.InterfacesAndAbstraction.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\03.InterfacesAndAbstraction.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\03.InterfacesAndAbstraction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\ref\03.InterfacesAndAbstraction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\bin\Debug\net6.0\03.InterfacesAndAbstraction.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\ref\03.InterfacesAndAbstraction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\03.InterfacesAndAbstraction\obj\Debug\net6.0\03.InterfacesAndAbstraction.genruntimeconfig.cache

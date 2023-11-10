@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\VirtualKeyword.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\VirtualKeyword.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\VirtualKeyword.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\VirtualKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\ref\VirtualKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\bin\Debug\net6.0\VirtualKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\ref\VirtualKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\01.Inheritance\VirtualKeyword\obj\Debug\net6.0\VirtualKeyword.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\Dependencies.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\Dependencies.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\Dependencies.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\Dependencies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\ref\Dependencies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\bin\Debug\net6.0\Dependencies.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\ref\Dependencies.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\06.SOLID\Dependencies\obj\Debug\net6.0\Dependencies.genruntimeconfig.cache

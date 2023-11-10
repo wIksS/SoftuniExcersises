@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ExplicitImplementation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ExplicitImplementation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ExplicitImplementation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ExplicitImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ref\ExplicitImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\bin\Debug\net6.0\ExplicitImplementation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ref\ExplicitImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\03.InterfacesAndAbstraction\ExplicitImplementation\obj\Debug\net6.0\ExplicitImplementation.genruntimeconfig.cache

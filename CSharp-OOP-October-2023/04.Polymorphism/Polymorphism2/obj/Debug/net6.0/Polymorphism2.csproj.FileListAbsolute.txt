@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\Polymorphism2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\Polymorphism2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\Polymorphism2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\Polymorphism2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\ref\Polymorphism2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\bin\Debug\net6.0\Polymorphism2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\ref\Polymorphism2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\04.Polymorphism\Polymorphism2\obj\Debug\net6.0\Polymorphism2.genruntimeconfig.cache
