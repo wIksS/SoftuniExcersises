@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12.DIWorkshopIOC/1.0.0": {
+        "dependencies": {
+          "SoftUniDI": "1.0.0"
+        },
+        "runtime": {
+          "12.DIWorkshopIOC.dll": {}
+        }
+      },
+      "SoftUniDI/1.0.0": {
+        "runtime": {
+          "SoftUniDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12.DIWorkshopIOC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUniDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

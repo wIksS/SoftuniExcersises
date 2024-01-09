@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ab7254b-7f3a-47c5-855a-988030f695b6": {
+      "ProjectGuid": "9ab7254b-7f3a-47c5-855a-988030f695b6",
+      "DisplayName": "12.DIWorkshopIOC",
+      "ColorIndex": 0
+    },
+    "5b73b6ac-4d5a-4741-b5ae-54c6bed06451": {
+      "ProjectGuid": "5b73b6ac-4d5a-4741-b5ae-54c6bed06451",
+      "DisplayName": "MicrosoftDI",
+      "ColorIndex": 1
+    },
+    "f872be5e-1240-4360-98ca-b54166c11812": {
+      "ProjectGuid": "f872be5e-1240-4360-98ca-b54166c11812",
+      "DisplayName": "TransientScopedAndSingleton",
+      "ColorIndex": 2
+    },
+    "a480028e-bd36-42fb-95b8-836ba5c3c4a4": {
+      "ProjectGuid": "a480028e-bd36-42fb-95b8-836ba5c3c4a4",
+      "DisplayName": "SoftUniDI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

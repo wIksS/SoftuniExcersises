@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f240c839-50ae-4cbc-9a59-762ed5a5ef82": {
+      "ProjectGuid": "f240c839-50ae-4cbc-9a59-762ed5a5ef82",
+      "DisplayName": "SmartDevice",
+      "ColorIndex": 0
+    },
+    "d8f53bb1-ea5b-4404-b4aa-a7c6598eb40a": {
+      "ProjectGuid": "d8f53bb1-ea5b-4404-b4aa-a7c6598eb40a",
+      "DisplayName": "SmartDevice.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

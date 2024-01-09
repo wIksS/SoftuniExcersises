@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\SoftUniReader.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\SoftUniReader.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\SoftUniReader.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\SoftUniReader.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\ref\SoftUniReader.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\bin\Debug\net6.0\SoftUniReader.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\ref\SoftUniReader.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\09.MockingAndTDD\SoftUniReader\obj\Debug\net6.0\SoftUniReader.genruntimeconfig.cache

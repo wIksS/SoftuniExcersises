@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\CreateDynamicObjects.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\CreateDynamicObjects.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\CreateDynamicObjects.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\CreateDynamicObjects.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\ref\CreateDynamicObjects.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\bin\Debug\net6.0\CreateDynamicObjects.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\ref\CreateDynamicObjects.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CreateDynamicObjects\obj\Debug\net6.0\CreateDynamicObjects.csproj.AssemblyReference.cache

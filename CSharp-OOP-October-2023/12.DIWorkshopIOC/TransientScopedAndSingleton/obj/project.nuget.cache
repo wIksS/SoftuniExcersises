@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQJxku2p9GlYHqObOA4dzBEhKPlWZMa9z3cHjr3XowmqRSEOfbxpDMTgVsCcVVu14joM1DHGU4vwyqjeAknEHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-October-2023\\12.DIWorkshopIOC\\TransientScopedAndSingleton\\TransientScopedAndSingleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

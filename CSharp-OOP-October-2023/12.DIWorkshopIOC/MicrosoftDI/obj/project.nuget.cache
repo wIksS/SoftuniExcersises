@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J44OBsOu1Phd3HwCmk9o/uvnvKp64q8hRzs6VqGPMZe4isXbUqq3MKpiqCtReiQQev0pnmPxImJx3ly2lRAupw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-October-2023\\12.DIWorkshopIOC\\MicrosoftDI\\MicrosoftDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

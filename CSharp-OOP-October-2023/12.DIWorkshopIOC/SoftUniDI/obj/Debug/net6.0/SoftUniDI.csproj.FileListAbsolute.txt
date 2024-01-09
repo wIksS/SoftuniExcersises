@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\SoftUniDI.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\SoftUniDI.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\SoftUniDI.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\SoftUniDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\ref\SoftUniDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\bin\Debug\net6.0\SoftUniDI.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\ref\SoftUniDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\12.DIWorkshopIOC\SoftUniDI\obj\Debug\net6.0\SoftUniDI.genruntimeconfig.cache

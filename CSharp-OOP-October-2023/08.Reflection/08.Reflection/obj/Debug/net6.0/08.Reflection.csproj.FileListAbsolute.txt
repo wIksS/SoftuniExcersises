@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\08.Reflection.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\08.Reflection.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\08.Reflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\08.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\ref\08.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\bin\Debug\net6.0\08.Reflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\ref\08.Reflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\08.Reflection\obj\Debug\net6.0\08.Reflection.genruntimeconfig.cache

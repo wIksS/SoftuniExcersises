@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ActivatorCreanteInstanceWithParams.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ActivatorCreanteInstanceWithParams.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ActivatorCreanteInstanceWithParams.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ActivatorCreanteInstanceWithParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ref\ActivatorCreanteInstanceWithParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\bin\Debug\net6.0\ActivatorCreanteInstanceWithParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ref\ActivatorCreanteInstanceWithParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ActivatorCreanteInstanceWithParams\obj\Debug\net6.0\ActivatorCreanteInstanceWithParams.csproj.AssemblyReference.cache

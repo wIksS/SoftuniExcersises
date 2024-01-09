@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36bbe85b-cfe0-42be-8f36-e620a1c61c32": {
+      "ProjectGuid": "36bbe85b-cfe0-42be-8f36-e620a1c61c32",
+      "DisplayName": "09.MockingAndTDD",
+      "ColorIndex": 0
+    },
+    "8c035662-995a-4d04-9095-df8027606d31": {
+      "ProjectGuid": "8c035662-995a-4d04-9095-df8027606d31",
+      "DisplayName": "Promotions",
+      "ColorIndex": 1
+    },
+    "b9efe249-3a30-4e13-beb7-c1a644800636": {
+      "ProjectGuid": "b9efe249-3a30-4e13-beb7-c1a644800636",
+      "DisplayName": "Promotions.Tests",
+      "ColorIndex": 2
+    },
+    "8721bdae-0f30-4577-b8bf-b3ddd061ff56": {
+      "ProjectGuid": "8721bdae-0f30-4577-b8bf-b3ddd061ff56",
+      "DisplayName": "Promotion.Tests",
+      "ColorIndex": 3
+    },
+    "5a04023a-fd71-4cb9-b3ec-4fd4debc8a48": {
+      "ProjectGuid": "5a04023a-fd71-4cb9-b3ec-4fd4debc8a48",
+      "DisplayName": "SoftUniReader",
+      "ColorIndex": 4
+    },
+    "32bcf433-d6e2-465b-ab4f-3fd760998559": {
+      "ProjectGuid": "32bcf433-d6e2-465b-ab4f-3fd760998559",
+      "DisplayName": "SoftUniReader.Tests",
+      "ColorIndex": 5
+    },
+    "558644c2-e04b-4c9c-bc4d-42fe958c18d8": {
+      "ProjectGuid": "558644c2-e04b-4c9c-bc4d-42fe958c18d8",
+      "DisplayName": "SoftUniReaders.Tests",
+      "ColorIndex": 6
+    },
+    "313f84a7-ea45-46cf-a340-dd58292a331a": {
+      "ProjectGuid": "313f84a7-ea45-46cf-a340-dd58292a331a",
+      "DisplayName": "MoqFunctionalities",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

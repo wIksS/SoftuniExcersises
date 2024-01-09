@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\FuncParams.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\FuncParams.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\FuncParams.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\FuncParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\ref\FuncParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\bin\Debug\net6.0\FuncParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\ref\FuncParams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\FuncParams\obj\Debug\net6.0\FuncParams.genruntimeconfig.cache

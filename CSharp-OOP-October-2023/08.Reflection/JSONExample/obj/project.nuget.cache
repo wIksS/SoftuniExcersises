@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSthYZM746x7s4mp0X713/SpyvsRktScuG0Jp1TGVgM5vaXqdXQKDleK5sgtkutpdAjH03ChJbotBqiM+UlX9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-October-2023\\08.Reflection\\JSONExample\\JSONExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

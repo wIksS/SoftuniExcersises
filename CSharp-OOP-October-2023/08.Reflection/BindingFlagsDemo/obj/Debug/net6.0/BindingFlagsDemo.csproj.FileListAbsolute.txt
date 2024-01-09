@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\BindingFlagsDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\BindingFlagsDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\BindingFlagsDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\BindingFlagsDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\ref\BindingFlagsDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\bin\Debug\net6.0\BindingFlagsDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\ref\BindingFlagsDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\BindingFlagsDemo\obj\Debug\net6.0\BindingFlagsDemo.genruntimeconfig.cache

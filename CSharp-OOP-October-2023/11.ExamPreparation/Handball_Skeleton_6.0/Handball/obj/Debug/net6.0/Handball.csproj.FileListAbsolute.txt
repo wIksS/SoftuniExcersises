@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\ref\Handball.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\ref\Handball.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.genruntimeconfig.cache

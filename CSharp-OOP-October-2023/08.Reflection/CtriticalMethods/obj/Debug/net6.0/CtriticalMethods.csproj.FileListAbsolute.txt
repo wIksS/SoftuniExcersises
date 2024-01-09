@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\CtriticalMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\CtriticalMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\CtriticalMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\CtriticalMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\ref\CtriticalMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\CtriticalMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.csproj.CopyComplete
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\ref\CtriticalMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\CtriticalMethods\obj\Debug\net6.0\CtriticalMethods.genruntimeconfig.cache

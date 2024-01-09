@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\ref\SmartDevice.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\11.ExamPreparation\SmartDevice_Skeleton_6.0\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache

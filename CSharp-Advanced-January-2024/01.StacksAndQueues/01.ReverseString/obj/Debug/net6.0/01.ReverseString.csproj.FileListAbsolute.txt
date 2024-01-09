@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\01.ReverseString.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\01.ReverseString.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\01.ReverseString.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\01.ReverseString.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\ref\01.ReverseString.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\bin\Debug\net6.0\01.ReverseString.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\ref\01.ReverseString.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\01.ReverseString\obj\Debug\net6.0\01.ReverseString.genruntimeconfig.cache

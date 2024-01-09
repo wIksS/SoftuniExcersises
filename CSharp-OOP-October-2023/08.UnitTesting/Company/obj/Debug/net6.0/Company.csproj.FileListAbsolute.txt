@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\Company.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\Company.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\Company.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\Company.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\ref\Company.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\bin\Debug\net6.0\Company.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\ref\Company.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\Company\obj\Debug\net6.0\Company.genruntimeconfig.cache

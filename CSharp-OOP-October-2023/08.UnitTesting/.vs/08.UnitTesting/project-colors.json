@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cc9d3d3-615e-4d31-8ac5-786041eaf2b0": {
+      "ProjectGuid": "0cc9d3d3-615e-4d31-8ac5-786041eaf2b0",
+      "DisplayName": "08.UnitTesting",
+      "ColorIndex": 0
+    },
+    "388b074a-475c-4fd6-9711-39131cc81f63": {
+      "ProjectGuid": "388b074a-475c-4fd6-9711-39131cc81f63",
+      "DisplayName": "MathHelper",
+      "ColorIndex": 1
+    },
+    "68302fd8-ddef-4f9d-b868-5e0c7c6f86aa": {
+      "ProjectGuid": "68302fd8-ddef-4f9d-b868-5e0c7c6f86aa",
+      "DisplayName": "MathHelper.Tests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e58609a2-ae11-4ef8-8d6d-866978248ffc": {
+      "ProjectGuid": "e58609a2-ae11-4ef8-8d6d-866978248ffc",
+      "DisplayName": "ProjectWithNUnit",
+      "ColorIndex": 3
+    },
+    "83db75d3-15f9-4db6-991f-a55eb479bc2d": {
+      "ProjectGuid": "83db75d3-15f9-4db6-991f-a55eb479bc2d",
+      "DisplayName": "Company",
+      "ColorIndex": 4
+    },
+    "f758c746-d9af-4e60-a7a6-d233fac9caca": {
+      "ProjectGuid": "f758c746-d9af-4e60-a7a6-d233fac9caca",
+      "DisplayName": "Company.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

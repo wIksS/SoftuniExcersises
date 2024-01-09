@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\08.UnitTesting\obj\Debug\net6.0\08.UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\08.UnitTesting\obj\Debug\net6.0\08.UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\08.UnitTesting\obj\Debug\net6.0\08.UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\08.UnitTesting\obj\Debug\net6.0\08.UnitTesting.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\08.UnitTesting\obj\Debug\net6.0\08.UnitTesting.csproj.CoreCompileInputs.cache

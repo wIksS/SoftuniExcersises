@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\Queues.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\Queues.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\Queues.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\Queues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\ref\Queues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\bin\Debug\net6.0\Queues.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\ref\Queues.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\Queues\obj\Debug\net6.0\Queues.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache

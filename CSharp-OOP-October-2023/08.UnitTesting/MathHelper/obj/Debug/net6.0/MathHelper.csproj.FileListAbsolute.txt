@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\MathHelper.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\MathHelper.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\MathHelper.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\MathHelper.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\ref\MathHelper.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\bin\Debug\net6.0\MathHelper.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\ref\MathHelper.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.UnitTesting\MathHelper\obj\Debug\net6.0\MathHelper.genruntimeconfig.cache

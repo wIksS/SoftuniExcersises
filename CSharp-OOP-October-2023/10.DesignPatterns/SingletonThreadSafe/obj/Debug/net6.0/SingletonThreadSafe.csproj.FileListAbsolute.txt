@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\SingletonThreadSafe.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\SingletonThreadSafe.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\SingletonThreadSafe.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\SingletonThreadSafe.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\ref\SingletonThreadSafe.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\bin\Debug\net6.0\SingletonThreadSafe.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\ref\SingletonThreadSafe.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\10.DesignPatterns\SingletonThreadSafe\obj\Debug\net6.0\SingletonThreadSafe.genruntimeconfig.cache

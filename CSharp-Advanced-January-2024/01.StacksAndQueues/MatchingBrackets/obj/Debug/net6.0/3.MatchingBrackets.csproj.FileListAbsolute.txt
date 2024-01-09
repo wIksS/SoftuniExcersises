@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\3.MatchingBrackets.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\3.MatchingBrackets.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\3.MatchingBrackets.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\3.MatchingBrackets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\ref\3.MatchingBrackets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\bin\Debug\net6.0\3.MatchingBrackets.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\ref\3.MatchingBrackets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\MatchingBrackets\obj\Debug\net6.0\3.MatchingBrackets.genruntimeconfig.cache

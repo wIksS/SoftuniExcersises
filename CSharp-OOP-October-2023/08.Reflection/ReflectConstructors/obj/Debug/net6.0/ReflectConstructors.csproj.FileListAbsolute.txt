@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ReflectConstructors.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ReflectConstructors.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ReflectConstructors.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ReflectConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ref\ReflectConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\bin\Debug\net6.0\ReflectConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ref\ReflectConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2023\08.Reflection\ReflectConstructors\obj\Debug\net6.0\ReflectConstructors.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08904435-38b9-4332-a744-b9599d932281": {
+      "ProjectGuid": "08904435-38b9-4332-a744-b9599d932281",
+      "DisplayName": "06.SOLID",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "40139808-54f7-4eb3-a6f8-d1f7752f71b3": {
+      "ProjectGuid": "40139808-54f7-4eb3-a6f8-d1f7752f71b3",
+      "DisplayName": "SingleResponsibility",
+      "ColorIndex": 1
+    },
+    "19a2f43c-3259-48a5-9911-223f22143365": {
+      "ProjectGuid": "19a2f43c-3259-48a5-9911-223f22143365",
+      "DisplayName": "CompanySingleResponsbility",
+      "ColorIndex": 2
+    },
+    "230e62ee-dad5-488f-9085-bfaaeed4ef34": {
+      "ProjectGuid": "230e62ee-dad5-488f-9085-bfaaeed4ef34",
+      "DisplayName": "SortingStrategy",
+      "ColorIndex": 3
+    },
+    "ad932f28-8b0d-488e-bf27-0f378183f8fb": {
+      "ProjectGuid": "ad932f28-8b0d-488e-bf27-0f378183f8fb",
+      "DisplayName": "Promotions",
+      "ColorIndex": 4
+    },
+    "704dcd8e-e51a-410d-aaf1-f71dc5888d7d": {
+      "ProjectGuid": "704dcd8e-e51a-410d-aaf1-f71dc5888d7d",
+      "DisplayName": "Worker",
+      "ColorIndex": 5
+    },
+    "c02afe06-35ab-4f50-80a7-309e45517c73": {
+      "ProjectGuid": "c02afe06-35ab-4f50-80a7-309e45517c73",
+      "DisplayName": "Dependencies",
+      "ColorIndex": 6
+    },
+    "b1696170-4b5e-4313-af84-8106920633cb": {
+      "ProjectGuid": "b1696170-4b5e-4313-af84-8106920633cb",
+      "DisplayName": "Renderers",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOsXfWcPnwi8wwb7cvcfqC+7FcYf10h0Z0vrHHKw1OqV7aYoAHZp7mlBuOekakoK9J87ncM9kh2z+4wR4GZk7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\CSharp-OOP-October-2023\\08.Reflection\\CtriticalMethods\\CtriticalMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

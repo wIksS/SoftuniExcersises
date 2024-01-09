@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\PerformanceListVsQueue.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\PerformanceListVsQueue.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\PerformanceListVsQueue.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\PerformanceListVsQueue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\ref\PerformanceListVsQueue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\bin\Debug\net6.0\PerformanceListVsQueue.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\ref\PerformanceListVsQueue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\01.StacksAndQueues\PerformanceListVsQueue\obj\Debug\net6.0\PerformanceListVsQueue.genruntimeconfig.cache
