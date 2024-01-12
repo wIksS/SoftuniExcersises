@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ReadingMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ReadingMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ReadingMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ReadingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ref\ReadingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\bin\Debug\net6.0\ReadingMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ref\ReadingMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadingMatrix\obj\Debug\net6.0\ReadingMatrix.genruntimeconfig.cache

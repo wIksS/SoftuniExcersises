@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\GenerateAndPrintMatrix.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\GenerateAndPrintMatrix.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\GenerateAndPrintMatrix.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\GenerateAndPrintMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\ref\GenerateAndPrintMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\bin\Debug\net6.0\GenerateAndPrintMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\ref\GenerateAndPrintMatrix.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\GenerateAndPrintMatrix\obj\Debug\net6.0\GenerateAndPrintMatrix.genruntimeconfig.cache

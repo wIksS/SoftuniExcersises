@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\ref\MatrixPrinting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\bin\Debug\net6.0\MatrixPrinting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\ref\MatrixPrinting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\MatrixPrinting\obj\Debug\net6.0\MatrixPrinting.genruntimeconfig.cache

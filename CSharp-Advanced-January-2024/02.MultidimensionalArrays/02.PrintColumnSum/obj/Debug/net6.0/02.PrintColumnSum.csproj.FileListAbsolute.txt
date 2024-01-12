@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\02.PrintColumnSum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\02.PrintColumnSum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\02.PrintColumnSum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\02.PrintColumnSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\ref\02.PrintColumnSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\bin\Debug\net6.0\02.PrintColumnSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\ref\02.PrintColumnSum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\02.PrintColumnSum\obj\Debug\net6.0\02.PrintColumnSum.genruntimeconfig.cache

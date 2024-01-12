@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "887f1716-f518-4dd0-97e6-6361403e463f": {
+      "ProjectGuid": "887f1716-f518-4dd0-97e6-6361403e463f",
+      "DisplayName": "01.StacksAndQueues",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8c914b7d-04c4-4122-b821-40524524600d": {
+      "ProjectGuid": "8c914b7d-04c4-4122-b821-40524524600d",
+      "DisplayName": "01.ReverseString",
+      "ColorIndex": 1
+    },
+    "c73d801b-a995-4874-9535-12330eb7c729": {
+      "ProjectGuid": "c73d801b-a995-4874-9535-12330eb7c729",
+      "DisplayName": "02.StackSum",
+      "ColorIndex": 2
+    },
+    "be3b455d-167f-4589-8794-71a66e3d86c3": {
+      "ProjectGuid": "be3b455d-167f-4589-8794-71a66e3d86c3",
+      "DisplayName": "3.MatchingBrackets",
+      "ColorIndex": 3
+    },
+    "330f9c43-988c-4c42-920a-f5a4711c6e77": {
+      "ProjectGuid": "330f9c43-988c-4c42-920a-f5a4711c6e77",
+      "DisplayName": "Queues",
+      "ColorIndex": 4
+    },
+    "e0b65078-3493-4c11-911c-c62392885d06": {
+      "ProjectGuid": "e0b65078-3493-4c11-911c-c62392885d06",
+      "DisplayName": "PerformanceListVsQueue",
+      "ColorIndex": 5
+    },
+    "d3934be1-054e-4030-bc29-8173a8dede51": {
+      "ProjectGuid": "d3934be1-054e-4030-bc29-8173a8dede51",
+      "DisplayName": "04.HotPotato",
+      "ColorIndex": 6
+    },
+    "79fa5b3a-0e05-4f73-b964-c0a2fcae6689": {
+      "ProjectGuid": "79fa5b3a-0e05-4f73-b964-c0a2fcae6689",
+      "DisplayName": "05.TrafficJam",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

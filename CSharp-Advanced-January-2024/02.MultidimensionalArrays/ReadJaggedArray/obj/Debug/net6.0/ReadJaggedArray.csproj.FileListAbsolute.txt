@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ReadJaggedArray.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ReadJaggedArray.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ReadJaggedArray.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ref\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\bin\Debug\net6.0\ReadJaggedArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ref\ReadJaggedArray.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\02.MultidimensionalArrays\ReadJaggedArray\obj\Debug\net6.0\ReadJaggedArray.genruntimeconfig.cache
