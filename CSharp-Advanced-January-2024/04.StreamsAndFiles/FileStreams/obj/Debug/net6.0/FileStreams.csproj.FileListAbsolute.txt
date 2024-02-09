@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\FileStreams.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\FileStreams.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\FileStreams.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\FileStreams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\ref\FileStreams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\bin\Debug\net6.0\FileStreams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\ref\FileStreams.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\FileStreams\obj\Debug\net6.0\FileStreams.csproj.AssemblyReference.cache

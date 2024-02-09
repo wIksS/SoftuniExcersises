@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\02.ThreeNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\02.ThreeNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\02.ThreeNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\02.ThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\ref\02.ThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\bin\Debug\net6.0\02.ThreeNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\ref\02.ThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\02.ThreeNumbers\obj\Debug\net6.0\02.ThreeNumbers.genruntimeconfig.cache

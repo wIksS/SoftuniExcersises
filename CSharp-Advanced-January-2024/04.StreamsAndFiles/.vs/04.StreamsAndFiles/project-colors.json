@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b780927-3a08-4490-9f01-b0321935d7a3": {
+      "ProjectGuid": "3b780927-3a08-4490-9f01-b0321935d7a3",
+      "DisplayName": "04.StreamsAndFiles",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "eda37d71-67fd-4f12-909e-a0e9bc0f50be": {
+      "ProjectGuid": "eda37d71-67fd-4f12-909e-a0e9bc0f50be",
+      "DisplayName": "StreamReaderDemo",
+      "ColorIndex": 1
+    },
+    "cd87d635-5eaa-4b62-b4b2-a8d2bdad8ea6": {
+      "ProjectGuid": "cd87d635-5eaa-4b62-b4b2-a8d2bdad8ea6",
+      "DisplayName": "UsingStatement",
+      "ColorIndex": 2
+    },
+    "5480b7f8-d4f1-4698-a7d3-77241415d75f": {
+      "ProjectGuid": "5480b7f8-d4f1-4698-a7d3-77241415d75f",
+      "DisplayName": "01.LineNumbers",
+      "ColorIndex": 3
+    },
+    "d63474ea-7b8b-42c5-bd35-95a0209a1b6e": {
+      "ProjectGuid": "d63474ea-7b8b-42c5-bd35-95a0209a1b6e",
+      "DisplayName": "AbsoluteVsRelativePath",
+      "ColorIndex": 4
+    },
+    "b77a3419-93b2-4225-af6a-968b70abedff": {
+      "ProjectGuid": "b77a3419-93b2-4225-af6a-968b70abedff",
+      "DisplayName": "02.OddLines",
+      "ColorIndex": 5
+    },
+    "7dd1efc0-67c0-4074-94c1-a71d0ecaf4f1": {
+      "ProjectGuid": "7dd1efc0-67c0-4074-94c1-a71d0ecaf4f1",
+      "DisplayName": "FileStreams",
+      "ColorIndex": 6
+    },
+    "0ec17fcd-608d-4861-af5c-2c6fb61a6158": {
+      "ProjectGuid": "0ec17fcd-608d-4861-af5c-2c6fb61a6158",
+      "DisplayName": "Encodings",
+      "ColorIndex": 7
+    },
+    "61eee125-92c6-44c1-91a8-2ae9260baf70": {
+      "ProjectGuid": "61eee125-92c6-44c1-91a8-2ae9260baf70",
+      "DisplayName": "04.EncryptFiles",
+      "ColorIndex": 8
+    },
+    "f2823b57-c9f0-41a2-bb6e-4e26dd7a1c87": {
+      "ProjectGuid": "f2823b57-c9f0-41a2-bb6e-4e26dd7a1c87",
+      "DisplayName": "FileHelper",
+      "ColorIndex": 9
+    },
+    "69671bb9-2d58-46cd-b7bb-264af9ba3467": {
+      "ProjectGuid": "69671bb9-2d58-46cd-b7bb-264af9ba3467",
+      "DisplayName": "Directories",
+      "ColorIndex": 10
+    },
+    "ecbdfc9f-09c7-4f31-a68c-e0c7a4f6cfb6": {
+      "ProjectGuid": "ecbdfc9f-09c7-4f31-a68c-e0c7a4f6cfb6",
+      "DisplayName": "05.RecursiveFolders",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

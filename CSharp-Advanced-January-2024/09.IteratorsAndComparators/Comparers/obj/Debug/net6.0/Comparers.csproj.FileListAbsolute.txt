@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\Comparers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\Comparers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\Comparers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\Comparers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\ref\Comparers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\bin\Debug\net6.0\Comparers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\ref\Comparers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Comparers\obj\Debug\net6.0\Comparers.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96d9c1b5-6fe4-49f3-a35d-19acd4d1ccdd": {
+      "ProjectGuid": "96d9c1b5-6fe4-49f3-a35d-19acd4d1ccdd",
+      "DisplayName": "03.DictionariesAdvanced",
+      "ColorIndex": 0
+    },
+    "7270cc0f-27e3-461a-86d6-8300766f69e1": {
+      "ProjectGuid": "7270cc0f-27e3-461a-86d6-8300766f69e1",
+      "DisplayName": "01.NumberOccurrences",
+      "ColorIndex": 1
+    },
+    "7a31f699-ceee-43af-8cbb-13299455a217": {
+      "ProjectGuid": "7a31f699-ceee-43af-8cbb-13299455a217",
+      "DisplayName": "OrderByMethod",
+      "ColorIndex": 2
+    },
+    "937bf9a4-a895-443b-9c30-6c0161a8fa0d": {
+      "ProjectGuid": "937bf9a4-a895-443b-9c30-6c0161a8fa0d",
+      "DisplayName": "SortingDictionaries",
+      "ColorIndex": 3
+    },
+    "205676cc-7889-462a-a4d7-4e959d633a4b": {
+      "ProjectGuid": "205676cc-7889-462a-a4d7-4e959d633a4b",
+      "DisplayName": "02.ThreeNumbers",
+      "ColorIndex": 4
+    },
+    "a84ed522-ccaa-41f5-b579-68728447af51": {
+      "ProjectGuid": "a84ed522-ccaa-41f5-b579-68728447af51",
+      "DisplayName": "03.AverageStudentGrades",
+      "ColorIndex": 5
+    },
+    "15f6a724-a616-4f44-99c6-d9b6873f6d2b": {
+      "ProjectGuid": "15f6a724-a616-4f44-99c6-d9b6873f6d2b",
+      "DisplayName": "04.Products",
+      "ColorIndex": 6
+    },
+    "54d352bb-e3bd-42c7-9a2d-d942935bf257": {
+      "ProjectGuid": "54d352bb-e3bd-42c7-9a2d-d942935bf257",
+      "DisplayName": "05.Continents",
+      "ColorIndex": 7
+    },
+    "4d5f577c-0597-47a8-bb43-a9a8d9c9f4f7": {
+      "ProjectGuid": "4d5f577c-0597-47a8-bb43-a9a8d9c9f4f7",
+      "DisplayName": "06.UniqueNames",
+      "ColorIndex": 8
+    },
+    "9e18ba12-fbba-430c-9175-16344ffd50c6": {
+      "ProjectGuid": "9e18ba12-fbba-430c-9175-16344ffd50c6",
+      "DisplayName": "SoftUniHashSet",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

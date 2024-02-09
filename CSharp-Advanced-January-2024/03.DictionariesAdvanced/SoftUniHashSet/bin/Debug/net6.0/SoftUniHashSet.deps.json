@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SoftUniHashSet/1.0.0": {
+        "runtime": {
+          "SoftUniHashSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUniHashSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

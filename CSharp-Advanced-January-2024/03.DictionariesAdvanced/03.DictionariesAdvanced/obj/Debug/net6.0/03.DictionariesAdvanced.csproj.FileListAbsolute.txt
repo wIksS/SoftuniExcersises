@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\03.DictionariesAdvanced.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\03.DictionariesAdvanced.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\03.DictionariesAdvanced.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\03.DictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\ref\03.DictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\bin\Debug\net6.0\03.DictionariesAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\ref\03.DictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.DictionariesAdvanced\obj\Debug\net6.0\03.DictionariesAdvanced.genruntimeconfig.cache

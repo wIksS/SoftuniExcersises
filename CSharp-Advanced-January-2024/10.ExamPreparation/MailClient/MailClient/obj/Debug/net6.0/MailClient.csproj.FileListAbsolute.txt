@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\MailClient.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\MailClient.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\MailClient.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\ref\MailClient.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\bin\Debug\net6.0\MailClient.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\ref\MailClient.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\MailClient\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache

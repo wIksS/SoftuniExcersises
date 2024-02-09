@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\Generics2.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\Generics2.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\Generics2.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\Generics2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\ref\Generics2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\bin\Debug\net6.0\Generics2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\ref\Generics2.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\Generics2\obj\Debug\net6.0\Generics2.genruntimeconfig.cache

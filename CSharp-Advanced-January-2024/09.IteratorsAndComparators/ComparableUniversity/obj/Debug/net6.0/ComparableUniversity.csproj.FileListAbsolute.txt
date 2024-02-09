@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ref\ComparableUniversity.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ref\ComparableUniversity.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.genruntimeconfig.cache

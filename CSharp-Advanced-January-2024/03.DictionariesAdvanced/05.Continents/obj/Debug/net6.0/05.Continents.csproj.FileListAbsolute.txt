@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\05.Continents.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\05.Continents.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\05.Continents.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\05.Continents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\ref\05.Continents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\bin\Debug\net6.0\05.Continents.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\ref\05.Continents.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\05.Continents\obj\Debug\net6.0\05.Continents.genruntimeconfig.cache

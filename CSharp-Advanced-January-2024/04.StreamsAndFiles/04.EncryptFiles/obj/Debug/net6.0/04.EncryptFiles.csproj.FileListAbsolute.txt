@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\04.EncryptFiles.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\04.EncryptFiles.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\04.EncryptFiles.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\04.EncryptFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\ref\04.EncryptFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\bin\Debug\net6.0\04.EncryptFiles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\ref\04.EncryptFiles.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\04.EncryptFiles\obj\Debug\net6.0\04.EncryptFiles.csproj.AssemblyReference.cache

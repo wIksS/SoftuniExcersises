@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\02.OddLines.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\02.OddLines.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\02.OddLines.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\ref\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\bin\Debug\net6.0\02.OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\ref\02.OddLines.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\02.OddLines\obj\Debug\net6.0\02.OddLines.csproj.AssemblyReference.cache

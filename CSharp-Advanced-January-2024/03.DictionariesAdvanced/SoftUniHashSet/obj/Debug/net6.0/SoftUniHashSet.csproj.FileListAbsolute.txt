@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\SoftUniHashSet.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\SoftUniHashSet.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\SoftUniHashSet.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\SoftUniHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\ref\SoftUniHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\bin\Debug\net6.0\SoftUniHashSet.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\ref\SoftUniHashSet.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SoftUniHashSet\obj\Debug\net6.0\SoftUniHashSet.genruntimeconfig.cache

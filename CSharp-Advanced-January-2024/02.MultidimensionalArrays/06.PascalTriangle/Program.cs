@@ -1,13 +1,13 @@
 ﻿
 int n = int.Parse(Console.ReadLine());
 
-int[][] pascal = new int[n][];
+long[][] pascal = new long[n][];
 
-pascal[0] = new int[1] { 1 };
+pascal[0] = new long[1] { 1 };
 
 for (int row = 1; row < n; row++)
 {
-    pascal[row] = new int[row + 1];
+    pascal[row] = new long[row + 1];
 
     for (int col = 0; col < pascal[row].Length; col++)
     {

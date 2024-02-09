@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\10.ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\10.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\10.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\10.ExamPreparation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\10.ExamPreparation.csproj.CoreCompileInputs.cache

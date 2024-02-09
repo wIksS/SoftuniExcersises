@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c8e0c16-b19c-4763-863b-350878219412": {
+      "ProjectGuid": "9c8e0c16-b19c-4763-863b-350878219412",
+      "DisplayName": "02.MultidimensionalArrays",
+      "ColorIndex": 0
+    },
+    "ec17f814-bc37-4ca4-8ed3-8ecfea322909": {
+      "ProjectGuid": "ec17f814-bc37-4ca4-8ed3-8ecfea322909",
+      "DisplayName": "Matrix",
+      "ColorIndex": 1
+    },
+    "3adb1b88-3eba-4f82-b710-3117390d909b": {
+      "ProjectGuid": "3adb1b88-3eba-4f82-b710-3117390d909b",
+      "DisplayName": "MatrixPrinting",
+      "ColorIndex": 2
+    },
+    "33a0ab61-ff3f-4a45-ac97-dc583de22ac5": {
+      "ProjectGuid": "33a0ab61-ff3f-4a45-ac97-dc583de22ac5",
+      "DisplayName": "GenerateAndPrintMatrix",
+      "ColorIndex": 3
+    },
+    "b26502ed-92f0-47b3-acb0-d8054676133d": {
+      "ProjectGuid": "b26502ed-92f0-47b3-acb0-d8054676133d",
+      "DisplayName": "ReadingMatrix",
+      "ColorIndex": 4
+    },
+    "1fb920f3-5a2b-433c-b2b4-e5aa1f589e7a": {
+      "ProjectGuid": "1fb920f3-5a2b-433c-b2b4-e5aa1f589e7a",
+      "DisplayName": "01.SumMatrix",
+      "ColorIndex": 5
+    },
+    "f8dec6ef-8b58-4e97-baae-5f57718d2fc5": {
+      "ProjectGuid": "f8dec6ef-8b58-4e97-baae-5f57718d2fc5",
+      "DisplayName": "02.PrintColumnSum",
+      "ColorIndex": 6
+    },
+    "c9c02f59-ddec-420f-9af0-88b2744f2eca": {
+      "ProjectGuid": "c9c02f59-ddec-420f-9af0-88b2744f2eca",
+      "DisplayName": "03.SquareWithMaxSum",
+      "ColorIndex": 7
+    },
+    "0f2aaed7-0a08-4f06-a4e4-d0f4e2d22374": {
+      "ProjectGuid": "0f2aaed7-0a08-4f06-a4e4-d0f4e2d22374",
+      "DisplayName": "JaggedArray",
+      "ColorIndex": 8
+    },
+    "0f43ba55-0fc9-4d12-a221-270f657654eb": {
+      "ProjectGuid": "0f43ba55-0fc9-4d12-a221-270f657654eb",
+      "DisplayName": "ListMatrix",
+      "ColorIndex": 9
+    },
+    "08b4b641-33dc-4dd2-b14c-aecfe320e88e": {
+      "ProjectGuid": "08b4b641-33dc-4dd2-b14c-aecfe320e88e",
+      "DisplayName": "ReadJaggedArray",
+      "ColorIndex": 10
+    },
+    "0acfea7d-190d-44c0-9d9f-f6ed4a4627ab": {
+      "ProjectGuid": "0acfea7d-190d-44c0-9d9f-f6ed4a4627ab",
+      "DisplayName": "05.JaggedArrayModification",
+      "ColorIndex": 11
+    },
+    "63e9d562-2605-40d5-b4c8-f054c1dcf2f2": {
+      "ProjectGuid": "63e9d562-2605-40d5-b4c8-f054c1dcf2f2",
+      "DisplayName": "06.PascalTriangle",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

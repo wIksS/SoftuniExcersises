@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\UniversityIterator.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\UniversityIterator.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\UniversityIterator.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\UniversityIterator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\ref\UniversityIterator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\bin\Debug\net6.0\UniversityIterator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\ref\UniversityIterator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\UniversityIterator\obj\Debug\net6.0\UniversityIterator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\06.LinkedListWorkshop.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\06.LinkedListWorkshop.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\06.LinkedListWorkshop.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\06.LinkedListWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\ref\06.LinkedListWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\bin\Debug\net6.0\06.LinkedListWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\ref\06.LinkedListWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\06.LinkedListWorkshop\obj\Debug\net6.0\06.LinkedListWorkshop.genruntimeconfig.cache

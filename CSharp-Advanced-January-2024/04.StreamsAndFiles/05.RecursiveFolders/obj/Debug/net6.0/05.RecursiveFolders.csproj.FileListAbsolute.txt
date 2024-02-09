@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\05.RecursiveFolders.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\05.RecursiveFolders.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\05.RecursiveFolders.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\05.RecursiveFolders.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\ref\05.RecursiveFolders.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\bin\Debug\net6.0\05.RecursiveFolders.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\ref\05.RecursiveFolders.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\05.RecursiveFolders\obj\Debug\net6.0\05.RecursiveFolders.genruntimeconfig.cache

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\05.Exceptions\\TryCatch\\TryCatch.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\05.Exceptions\\TryCatch\\TryCatch.csproj",
       "projectName": "TryCatch",
-      "projectPath": "C:\\Users\\Viktor\\source\\repos\\05.Exceptions\\TryCatch\\TryCatch.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\05.Exceptions\\TryCatch\\TryCatch.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\source\\repos\\05.Exceptions\\TryCatch\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-October-2022\\05.Exceptions\\TryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

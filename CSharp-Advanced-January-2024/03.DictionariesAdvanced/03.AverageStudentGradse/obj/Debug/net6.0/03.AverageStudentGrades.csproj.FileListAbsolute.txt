@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\03.AverageStudentGrades.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\03.AverageStudentGrades.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\03.AverageStudentGrades.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\03.AverageStudentGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\ref\03.AverageStudentGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\bin\Debug\net6.0\03.AverageStudentGrades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\ref\03.AverageStudentGrades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\03.AverageStudentGradse\obj\Debug\net6.0\03.AverageStudentGrades.genruntimeconfig.cache

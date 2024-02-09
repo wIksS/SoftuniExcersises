@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ListsConstraints.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ListsConstraints.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ListsConstraints.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ListsConstraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ref\ListsConstraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\bin\Debug\net6.0\ListsConstraints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ref\ListsConstraints.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ListsConstraints\obj\Debug\net6.0\ListsConstraints.genruntimeconfig.cache

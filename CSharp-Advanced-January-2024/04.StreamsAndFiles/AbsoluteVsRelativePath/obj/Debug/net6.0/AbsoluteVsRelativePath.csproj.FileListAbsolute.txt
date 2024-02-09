@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\AbsoluteVsRelativePath.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\AbsoluteVsRelativePath.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\AbsoluteVsRelativePath.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\AbsoluteVsRelativePath.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\ref\AbsoluteVsRelativePath.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\bin\Debug\net6.0\AbsoluteVsRelativePath.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\ref\AbsoluteVsRelativePath.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\AbsoluteVsRelativePath\obj\Debug\net6.0\AbsoluteVsRelativePath.csproj.AssemblyReference.cache

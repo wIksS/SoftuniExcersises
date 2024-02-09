@@ -1,0 +1,4 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ConstraintOnClasses\obj\Debug\net6.0\ConstraintOnClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ConstraintOnClasses\obj\Debug\net6.0\ConstraintOnClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ConstraintOnClasses\obj\Debug\net6.0\ConstraintOnClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\ConstraintOnClasses\obj\Debug\net6.0\ConstraintOnClasses.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\YieldMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\YieldMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\YieldMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\YieldMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\ref\YieldMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\bin\Debug\net6.0\YieldMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\ref\YieldMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\YieldMore\obj\Debug\net6.0\YieldMore.genruntimeconfig.cache

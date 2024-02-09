@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\Params.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\Params.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\Params.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\Params.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\ref\Params.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\bin\Debug\net6.0\Params.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\ref\Params.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\09.IteratorsAndComparators\Params\obj\Debug\net6.0\Params.genruntimeconfig.cache

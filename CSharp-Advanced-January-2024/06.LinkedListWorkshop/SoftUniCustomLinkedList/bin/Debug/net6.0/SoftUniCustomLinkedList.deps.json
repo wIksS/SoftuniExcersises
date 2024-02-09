@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SoftUniCustomLinkedList/1.0.0": {
+        "runtime": {
+          "SoftUniCustomLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUniCustomLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\GenericMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\GenericMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\GenericMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\GenericMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\ref\GenericMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\bin\Debug\net6.0\GenericMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\ref\GenericMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\08.Generics\GenericMethods\obj\Debug\net6.0\GenericMethods.genruntimeconfig.cache

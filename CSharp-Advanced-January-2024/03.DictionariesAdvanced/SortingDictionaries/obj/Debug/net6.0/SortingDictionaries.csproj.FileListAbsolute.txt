@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\SortingDictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\SortingDictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\SortingDictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\SortingDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\ref\SortingDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\bin\Debug\net6.0\SortingDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\ref\SortingDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\SortingDictionaries\obj\Debug\net6.0\SortingDictionaries.genruntimeconfig.cache

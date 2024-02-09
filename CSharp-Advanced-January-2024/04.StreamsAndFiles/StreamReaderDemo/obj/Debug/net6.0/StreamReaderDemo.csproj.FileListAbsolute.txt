@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\StreamReaderDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\StreamReaderDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\StreamReaderDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\StreamReaderDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\ref\StreamReaderDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\bin\Debug\net6.0\StreamReaderDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\ref\StreamReaderDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\04.StreamsAndFiles\StreamReaderDemo\obj\Debug\net6.0\StreamReaderDemo.csproj.AssemblyReference.cache

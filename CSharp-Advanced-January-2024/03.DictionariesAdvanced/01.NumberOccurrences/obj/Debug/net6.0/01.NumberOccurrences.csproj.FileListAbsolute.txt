@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\01.NumberOccurrences.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\01.NumberOccurrences.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\01.NumberOccurrences.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\01.NumberOccurrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\ref\01.NumberOccurrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\bin\Debug\net6.0\01.NumberOccurrences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\ref\01.NumberOccurrences.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\03.DictionariesAdvanced\01.NumberOccurrences\obj\Debug\net6.0\01.NumberOccurrences.genruntimeconfig.cache

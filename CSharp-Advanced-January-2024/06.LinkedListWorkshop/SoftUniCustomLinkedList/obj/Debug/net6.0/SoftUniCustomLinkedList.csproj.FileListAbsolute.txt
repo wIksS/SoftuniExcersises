@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\SoftUniCustomLinkedList.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\SoftUniCustomLinkedList.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\SoftUniCustomLinkedList.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\SoftUniCustomLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\ref\SoftUniCustomLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\bin\Debug\net6.0\SoftUniCustomLinkedList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\ref\SoftUniCustomLinkedList.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\06.LinkedListWorkshop\SoftUniCustomLinkedList\obj\Debug\net6.0\SoftUniCustomLinkedList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\01.OffRoad.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\01.OffRoad.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\01.OffRoad.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\01.OffRoad.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\ref\01.OffRoad.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\bin\Debug\net6.0\01.OffRoad.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\ref\01.OffRoad.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.ExamPreparation\01.OffRoad\obj\Debug\net6.0\01.OffRoad.genruntimeconfig.cache

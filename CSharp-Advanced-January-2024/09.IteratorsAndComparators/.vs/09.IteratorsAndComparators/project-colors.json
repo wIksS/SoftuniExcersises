@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01fb838f-1164-4eb8-a342-ba00712be3e5": {
+      "ProjectGuid": "01fb838f-1164-4eb8-a342-ba00712be3e5",
+      "DisplayName": "09.IteratorsAndComparators",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c9ced6bd-8a5b-4d09-981c-9ba1ba797411": {
+      "ProjectGuid": "c9ced6bd-8a5b-4d09-981c-9ba1ba797411",
+      "DisplayName": "ListEnumerator",
+      "ColorIndex": 1
+    },
+    "bfc203a6-8d3b-4999-9c5b-20a1d83964fd": {
+      "ProjectGuid": "bfc203a6-8d3b-4999-9c5b-20a1d83964fd",
+      "DisplayName": "UniversityIterator",
+      "ColorIndex": 2
+    },
+    "85fc68b0-3e3e-4fbd-9faa-d4295700517d": {
+      "ProjectGuid": "85fc68b0-3e3e-4fbd-9faa-d4295700517d",
+      "DisplayName": "Params",
+      "ColorIndex": 3
+    },
+    "24b3b28a-34b4-4bf7-9520-4872ab1be3c7": {
+      "ProjectGuid": "24b3b28a-34b4-4bf7-9520-4872ab1be3c7",
+      "DisplayName": "IteratorsAndComparators",
+      "ColorIndex": 4
+    },
+    "daa22e40-2971-47ba-86cb-7ae0c8f64be2": {
+      "ProjectGuid": "daa22e40-2971-47ba-86cb-7ae0c8f64be2",
+      "DisplayName": "YieldReturn",
+      "ColorIndex": 5
+    },
+    "b36587b0-c768-4c29-9db0-65360b4519c1": {
+      "ProjectGuid": "b36587b0-c768-4c29-9db0-65360b4519c1",
+      "DisplayName": "YieldReturnInDetail",
+      "ColorIndex": 6
+    },
+    "7b84b7ae-030c-40f2-af2c-bbb4a53d12b9": {
+      "ProjectGuid": "7b84b7ae-030c-40f2-af2c-bbb4a53d12b9",
+      "DisplayName": "YieldMore",
+      "ColorIndex": 7
+    },
+    "6f0c628d-bcfa-41cb-943c-65ddc8f23957": {
+      "ProjectGuid": "6f0c628d-bcfa-41cb-943c-65ddc8f23957",
+      "DisplayName": "YieldReturnDecompiled",
+      "ColorIndex": 8
+    },
+    "c44bafb1-4ad1-4060-98e1-d990eefd4de7": {
+      "ProjectGuid": "c44bafb1-4ad1-4060-98e1-d990eefd4de7",
+      "DisplayName": "ComparableUniversity",
+      "ColorIndex": 9
+    },
+    "75b0e7df-ee80-4c15-8d34-72e583067990": {
+      "ProjectGuid": "75b0e7df-ee80-4c15-8d34-72e583067990",
+      "DisplayName": "Comparers",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
