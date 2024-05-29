@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1mN2r3JedDMOnZyEMMI14o0wMErqFydXRECEqfnUbgcMAEc7XqZa+JgJPKxc/EkAoHTv63F7nruz5ddkDg7KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\DependencyInversionAdvanced\\DependencyInversionAdvanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

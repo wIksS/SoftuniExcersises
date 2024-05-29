@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\TypeConversion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\TypeConversion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\TypeConversion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\TypeConversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\ref\TypeConversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\bin\Debug\net6.0\TypeConversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\ref\TypeConversion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\TypeConversion\obj\Debug\net6.0\TypeConversion.genruntimeconfig.cache

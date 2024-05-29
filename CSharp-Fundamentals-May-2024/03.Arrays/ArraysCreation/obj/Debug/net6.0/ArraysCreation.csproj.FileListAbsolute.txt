@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ArraysCreation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ArraysCreation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ArraysCreation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ArraysCreation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ref\ArraysCreation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\bin\Debug\net6.0\ArraysCreation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ref\ArraysCreation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ArraysCreation\obj\Debug\net6.0\ArraysCreation.genruntimeconfig.cache

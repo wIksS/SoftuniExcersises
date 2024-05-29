@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\StackTraversal.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\StackTraversal.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\StackTraversal.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\StackTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\ref\StackTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\bin\Debug\net6.0\StackTraversal.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\ref\StackTraversal.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StackTraversal\obj\Debug\net6.0\StackTraversal.genruntimeconfig.cache

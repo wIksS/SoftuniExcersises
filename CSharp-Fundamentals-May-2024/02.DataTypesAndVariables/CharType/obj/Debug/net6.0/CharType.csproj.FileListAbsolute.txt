@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\CharType.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\CharType.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\CharType.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\CharType.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\ref\CharType.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\bin\Debug\net6.0\CharType.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\ref\CharType.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\CharType\obj\Debug\net6.0\CharType.genruntimeconfig.cache

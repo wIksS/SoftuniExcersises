@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ThrowExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ThrowExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ThrowExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ThrowExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ref\ThrowExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\bin\Debug\net6.0\ThrowExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ref\ThrowExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ThrowExceptions\obj\Debug\net6.0\ThrowExceptions.genruntimeconfig.cache

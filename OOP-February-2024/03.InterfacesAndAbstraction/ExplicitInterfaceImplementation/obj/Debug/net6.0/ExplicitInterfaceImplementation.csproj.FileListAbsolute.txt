@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ExplicitInterfaceImplementation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ExplicitInterfaceImplementation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ExplicitInterfaceImplementation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ExplicitInterfaceImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ref\ExplicitInterfaceImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\bin\Debug\net6.0\ExplicitInterfaceImplementation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ref\ExplicitInterfaceImplementation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\ExplicitInterfaceImplementation\obj\Debug\net6.0\ExplicitInterfaceImplementation.genruntimeconfig.cache

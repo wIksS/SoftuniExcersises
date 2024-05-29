@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\TryCatch.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\TryCatch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\ref\TryCatch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\ref\RecursiveArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\ref\RecursiveArraySum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.genruntimeconfig.cache

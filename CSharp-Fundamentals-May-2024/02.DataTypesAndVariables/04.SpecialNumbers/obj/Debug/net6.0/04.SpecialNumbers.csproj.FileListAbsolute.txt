@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\04.SpecialNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\04.SpecialNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\04.SpecialNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\04.SpecialNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\ref\04.SpecialNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\bin\Debug\net6.0\04.SpecialNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\ref\04.SpecialNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\04.SpecialNumbers\obj\Debug\net6.0\04.SpecialNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ScientificNotation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ScientificNotation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ScientificNotation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ScientificNotation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ref\ScientificNotation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\bin\Debug\net6.0\ScientificNotation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ref\ScientificNotation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ScientificNotation\obj\Debug\net6.0\ScientificNotation.genruntimeconfig.cache

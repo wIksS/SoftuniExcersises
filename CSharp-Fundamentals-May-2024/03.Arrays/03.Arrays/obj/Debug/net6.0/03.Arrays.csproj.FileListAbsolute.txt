@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\03.Arrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\03.Arrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\03.Arrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\03.Arrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\ref\03.Arrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\bin\Debug\net6.0\03.Arrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\ref\03.Arrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.Arrays\obj\Debug\net6.0\03.Arrays.genruntimeconfig.cache

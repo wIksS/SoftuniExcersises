@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ComplexityComparison.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ComplexityComparison.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ComplexityComparison.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ComplexityComparison.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ref\ComplexityComparison.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\bin\Debug\net6.0\ComplexityComparison.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ref\ComplexityComparison.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\ComplexityComparison\obj\Debug\net6.0\ComplexityComparison.genruntimeconfig.cache

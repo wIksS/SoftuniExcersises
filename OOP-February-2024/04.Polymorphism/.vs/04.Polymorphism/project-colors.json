@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9471b6c-e848-4c47-afa8-7f8e0393a6d6": {
+      "ProjectGuid": "c9471b6c-e848-4c47-afa8-7f8e0393a6d6",
+      "DisplayName": "04.Polymorphism",
+      "ColorIndex": 0
+    },
+    "12d791a7-6444-45b1-a465-571851937c02": {
+      "ProjectGuid": "12d791a7-6444-45b1-a465-571851937c02",
+      "DisplayName": "IsKeyword",
+      "ColorIndex": 1
+    },
+    "d149709a-59b3-4e5f-82b1-cfda892a6979": {
+      "ProjectGuid": "d149709a-59b3-4e5f-82b1-cfda892a6979",
+      "DisplayName": "IsVarPattern",
+      "ColorIndex": 2
+    },
+    "8a933f83-8c0c-4cf1-8a73-a61a689143e4": {
+      "ProjectGuid": "8a933f83-8c0c-4cf1-8a73-a61a689143e4",
+      "DisplayName": "Operations",
+      "ColorIndex": 3
+    },
+    "f64c7e9a-86d9-4f95-8e75-2c0711d3ee50": {
+      "ProjectGuid": "f64c7e9a-86d9-4f95-8e75-2c0711d3ee50",
+      "DisplayName": "Animals",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

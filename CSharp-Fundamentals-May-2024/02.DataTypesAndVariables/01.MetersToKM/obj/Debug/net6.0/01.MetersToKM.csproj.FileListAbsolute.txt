@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\01.MetersToKM.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\01.MetersToKM.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\01.MetersToKM.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\01.MetersToKM.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\ref\01.MetersToKM.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\bin\Debug\net6.0\01.MetersToKM.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\ref\01.MetersToKM.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\01.MetersToKM\obj\Debug\net6.0\01.MetersToKM.genruntimeconfig.cache

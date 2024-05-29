@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\TypeMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\TypeMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\TypeMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\TypeMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\ref\TypeMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\bin\Debug\net6.0\TypeMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\ref\TypeMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\TypeMore\obj\Debug\net6.0\TypeMore.genruntimeconfig.cache

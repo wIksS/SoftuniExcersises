@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Cloneable.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Cloneable.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Cloneable.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Cloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\ref\Cloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Cloneable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\ref\Cloneable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\Cloneable\obj\Debug\net6.0\Cloneable.csproj.CopyComplete

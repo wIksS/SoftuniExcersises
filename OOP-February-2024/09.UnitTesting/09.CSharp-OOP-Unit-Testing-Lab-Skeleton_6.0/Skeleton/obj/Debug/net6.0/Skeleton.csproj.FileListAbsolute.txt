@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\ref\Skeleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\Skeleton\obj\Debug\net6.0\Skeleton.csproj.AssemblyReference.cache

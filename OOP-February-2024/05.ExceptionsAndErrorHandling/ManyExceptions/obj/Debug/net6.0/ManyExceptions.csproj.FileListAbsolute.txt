@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ManyExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ManyExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ManyExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ManyExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ref\ManyExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\bin\Debug\net6.0\ManyExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ref\ManyExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ManyExceptions\obj\Debug\net6.0\ManyExceptions.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "04.ReverseArrayOfStrings/1.0.0": {
+        "runtime": {
+          "04.ReverseArrayOfStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04.ReverseArrayOfStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

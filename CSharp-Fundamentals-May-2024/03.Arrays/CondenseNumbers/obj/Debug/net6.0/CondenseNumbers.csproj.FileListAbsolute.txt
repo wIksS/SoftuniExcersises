@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\CondenseNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\CondenseNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\CondenseNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\CondenseNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\ref\CondenseNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\bin\Debug\net6.0\CondenseNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\ref\CondenseNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\CondenseNumbers\obj\Debug\net6.0\CondenseNumbers.genruntimeconfig.cache

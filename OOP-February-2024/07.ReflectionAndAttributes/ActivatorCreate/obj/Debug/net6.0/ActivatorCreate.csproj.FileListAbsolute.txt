@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ref\ActivatorCreate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ref\ActivatorCreate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\JoinAsForCycle.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\JoinAsForCycle.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\JoinAsForCycle.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\JoinAsForCycle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\ref\JoinAsForCycle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\bin\Debug\net6.0\JoinAsForCycle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\ref\JoinAsForCycle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\JoinAsForCycle\obj\Debug\net6.0\JoinAsForCycle.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\ref\Shapes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache

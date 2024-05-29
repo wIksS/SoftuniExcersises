@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\ref\DaysOfWeek.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\ref\DaysOfWeek.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.genruntimeconfig.cache

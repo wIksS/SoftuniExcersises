@@ -1,0 +1,4 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CustomAttribute\obj\Debug\net6.0\CustomAttribute.csproj.CoreCompileInputs.cache

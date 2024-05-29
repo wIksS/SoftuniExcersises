@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84c4f0e1-996b-4474-88be-83eef80f8de1": {
+      "ProjectGuid": "84c4f0e1-996b-4474-88be-83eef80f8de1",
+      "DisplayName": "10.MockingAndTestDrivenDevelopment",
+      "ColorIndex": 0
+    },
+    "fe5d8710-fe04-4022-8f64-7c04d1a6ad79": {
+      "ProjectGuid": "fe5d8710-fe04-4022-8f64-7c04d1a6ad79",
+      "DisplayName": "OnlineShopPromotions",
+      "ColorIndex": 1
+    },
+    "5b0b9d65-bac9-4243-84fa-92b76d703384": {
+      "ProjectGuid": "5b0b9d65-bac9-4243-84fa-92b76d703384",
+      "DisplayName": "OnlineShopPromotions.Tests",
+      "ColorIndex": 2
+    },
+    "d863f40e-8995-4a4f-aaf7-23ce1b8061fa": {
+      "ProjectGuid": "d863f40e-8995-4a4f-aaf7-23ce1b8061fa",
+      "DisplayName": "Mocks",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

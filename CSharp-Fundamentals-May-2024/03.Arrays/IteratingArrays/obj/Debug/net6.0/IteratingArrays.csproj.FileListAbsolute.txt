@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\IteratingArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\IteratingArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\IteratingArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\IteratingArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\ref\IteratingArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\bin\Debug\net6.0\IteratingArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\ref\IteratingArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\IteratingArrays\obj\Debug\net6.0\IteratingArrays.genruntimeconfig.cache

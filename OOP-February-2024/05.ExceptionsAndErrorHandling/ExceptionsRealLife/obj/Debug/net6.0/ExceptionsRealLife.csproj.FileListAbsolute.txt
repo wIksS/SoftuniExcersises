@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ExceptionsRealLife.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ExceptionsRealLife.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ExceptionsRealLife.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ExceptionsRealLife.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ref\ExceptionsRealLife.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\bin\Debug\net6.0\ExceptionsRealLife.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ref\ExceptionsRealLife.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsRealLife\obj\Debug\net6.0\ExceptionsRealLife.genruntimeconfig.cache

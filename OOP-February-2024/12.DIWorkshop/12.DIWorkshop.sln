@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DIWorkshop", "12.DIWorkshop\12.DIWorkshop.csproj", "{B47A04EC-907D-4420-B82D-788227A11D6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess", "Chess\Chess.csproj", "{21C44DE0-BBAF-4B2C-AF60-5E0D7F0316A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftDependecyInjection", "MicrosoftDependecyInjection\MicrosoftDependecyInjection.csproj", "{A2679791-74F9-44DB-A605-55609F0E04C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionAdvanced", "DependencyInversionAdvanced\DependencyInversionAdvanced.csproj", "{71CA345F-6404-4CDA-B2EC-CD90AD816C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDI", "CustomDI\CustomDI.csproj", "{6525D6F2-B1B8-4415-ADC1-DFBEDE63ABED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDIUsage", "CustomDIUsage\CustomDIUsage.csproj", "{7EF45BD0-2334-4D40-B7D7-1027830F603C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47A04EC-907D-4420-B82D-788227A11D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47A04EC-907D-4420-B82D-788227A11D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47A04EC-907D-4420-B82D-788227A11D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47A04EC-907D-4420-B82D-788227A11D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C44DE0-BBAF-4B2C-AF60-5E0D7F0316A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C44DE0-BBAF-4B2C-AF60-5E0D7F0316A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C44DE0-BBAF-4B2C-AF60-5E0D7F0316A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C44DE0-BBAF-4B2C-AF60-5E0D7F0316A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2679791-74F9-44DB-A605-55609F0E04C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2679791-74F9-44DB-A605-55609F0E04C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2679791-74F9-44DB-A605-55609F0E04C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2679791-74F9-44DB-A605-55609F0E04C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CA345F-6404-4CDA-B2EC-CD90AD816C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CA345F-6404-4CDA-B2EC-CD90AD816C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CA345F-6404-4CDA-B2EC-CD90AD816C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CA345F-6404-4CDA-B2EC-CD90AD816C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6525D6F2-B1B8-4415-ADC1-DFBEDE63ABED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6525D6F2-B1B8-4415-ADC1-DFBEDE63ABED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6525D6F2-B1B8-4415-ADC1-DFBEDE63ABED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6525D6F2-B1B8-4415-ADC1-DFBEDE63ABED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF45BD0-2334-4D40-B7D7-1027830F603C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF45BD0-2334-4D40-B7D7-1027830F603C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF45BD0-2334-4D40-B7D7-1027830F603C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF45BD0-2334-4D40-B7D7-1027830F603C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBA6D3D-D6A8-4923-9C26-D9FF263E0CF9}
+	EndGlobalSection
+EndGlobal

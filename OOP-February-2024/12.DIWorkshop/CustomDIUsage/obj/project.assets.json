@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CustomDI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CustomDI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomDI/1.0.0": {
+      "type": "project",
+      "path": "../CustomDI/CustomDI.csproj",
+      "msbuildProject": "../CustomDI/CustomDI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CustomDI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Viktor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\CustomDIUsage\\CustomDIUsage.csproj",
+      "projectName": "CustomDIUsage",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\CustomDIUsage\\CustomDIUsage.csproj",
+      "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\CustomDIUsage\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\CustomDI\\CustomDI.csproj": {
+              "projectPath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\12.DIWorkshop\\CustomDI\\CustomDI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

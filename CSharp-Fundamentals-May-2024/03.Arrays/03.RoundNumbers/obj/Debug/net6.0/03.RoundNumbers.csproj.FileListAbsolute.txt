@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\03.RoundNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\03.RoundNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\03.RoundNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\03.RoundNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\ref\03.RoundNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\bin\Debug\net6.0\03.RoundNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\ref\03.RoundNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\03.RoundNumbers\obj\Debug\net6.0\03.RoundNumbers.genruntimeconfig.cache

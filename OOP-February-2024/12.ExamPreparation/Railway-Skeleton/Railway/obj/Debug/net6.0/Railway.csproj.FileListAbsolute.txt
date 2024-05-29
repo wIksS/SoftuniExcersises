@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\ref\Railway.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\ref\Railway.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache

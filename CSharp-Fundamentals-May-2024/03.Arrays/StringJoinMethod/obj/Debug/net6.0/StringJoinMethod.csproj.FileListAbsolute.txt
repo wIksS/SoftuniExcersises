@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\StringJoinMethod.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\StringJoinMethod.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\StringJoinMethod.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\StringJoinMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\ref\StringJoinMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\bin\Debug\net6.0\StringJoinMethod.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\ref\StringJoinMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\StringJoinMethod\obj\Debug\net6.0\StringJoinMethod.genruntimeconfig.cache

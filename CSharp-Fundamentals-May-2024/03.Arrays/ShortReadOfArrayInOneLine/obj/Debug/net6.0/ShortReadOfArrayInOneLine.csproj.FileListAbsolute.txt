@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ShortReadOfArrayInOneLine.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ShortReadOfArrayInOneLine.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ShortReadOfArrayInOneLine.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ShortReadOfArrayInOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ref\ShortReadOfArrayInOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\bin\Debug\net6.0\ShortReadOfArrayInOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ref\ShortReadOfArrayInOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ShortReadOfArrayInOneLine\obj\Debug\net6.0\ShortReadOfArrayInOneLine.genruntimeconfig.cache

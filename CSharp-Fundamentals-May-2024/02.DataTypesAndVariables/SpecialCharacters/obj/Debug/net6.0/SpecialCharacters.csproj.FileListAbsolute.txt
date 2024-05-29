@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\ref\SpecialCharacters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\ref\SpecialCharacters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.genruntimeconfig.cache

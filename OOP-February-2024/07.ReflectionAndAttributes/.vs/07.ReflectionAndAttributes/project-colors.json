@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8be7a7a-8012-4139-9303-950540baff97": {
+      "ProjectGuid": "d8be7a7a-8012-4139-9303-950540baff97",
+      "DisplayName": "07.ReflectionAndAttributes",
+      "ColorIndex": 0
+    },
+    "259f5e32-b263-43fd-aadf-5892825d14ed": {
+      "ProjectGuid": "259f5e32-b263-43fd-aadf-5892825d14ed",
+      "DisplayName": "TypeClass",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "15002a5b-4eeb-4b99-a7a7-2207685e38e6": {
+      "ProjectGuid": "15002a5b-4eeb-4b99-a7a7-2207685e38e6",
+      "DisplayName": "TypeMore",
+      "ColorIndex": 2
+    },
+    "57838ab2-845e-4921-a823-f524ead1f49b": {
+      "ProjectGuid": "57838ab2-845e-4921-a823-f524ead1f49b",
+      "DisplayName": "Fields",
+      "ColorIndex": 3
+    },
+    "379e4b66-9b8d-44ba-ae24-3aa649d8da4a": {
+      "ProjectGuid": "379e4b66-9b8d-44ba-ae24-3aa649d8da4a",
+      "DisplayName": "BindingFlagsDemo",
+      "ColorIndex": 4
+    },
+    "e32ff606-2cf3-4643-a717-dd35df78ea19": {
+      "ProjectGuid": "e32ff606-2cf3-4643-a717-dd35df78ea19",
+      "DisplayName": "Enumerations",
+      "ColorIndex": 5
+    },
+    "e687db08-d68b-4a76-bcb1-4e3d2388ec0b": {
+      "ProjectGuid": "e687db08-d68b-4a76-bcb1-4e3d2388ec0b",
+      "DisplayName": "BindningFlagsEnum",
+      "ColorIndex": 6
+    },
+    "467af608-3328-4e09-bf08-a7c36e82b8ab": {
+      "ProjectGuid": "467af608-3328-4e09-bf08-a7c36e82b8ab",
+      "DisplayName": "ConstructorReflection",
+      "ColorIndex": 7
+    },
+    "98e0b208-8a25-4f9e-8117-686d68a0a0cc": {
+      "ProjectGuid": "98e0b208-8a25-4f9e-8117-686d68a0a0cc",
+      "DisplayName": "CallingConstructors",
+      "ColorIndex": 8
+    },
+    "44ef493c-863e-463d-b9f3-df23f160cee7": {
+      "ProjectGuid": "44ef493c-863e-463d-b9f3-df23f160cee7",
+      "DisplayName": "ReflectMethods",
+      "ColorIndex": 9
+    },
+    "8f744276-b01d-4c51-a082-8aaa7b4cb23b": {
+      "ProjectGuid": "8f744276-b01d-4c51-a082-8aaa7b4cb23b",
+      "DisplayName": "ActivatorCreate",
+      "ColorIndex": 10
+    },
+    "7e79322f-5000-42d5-a144-07cf2c958dc2": {
+      "ProjectGuid": "7e79322f-5000-42d5-a144-07cf2c958dc2",
+      "DisplayName": "Shapes",
+      "ColorIndex": 11
+    },
+    "5ab74083-416c-427d-a417-85b2ebfeb69b": {
+      "ProjectGuid": "5ab74083-416c-427d-a417-85b2ebfeb69b",
+      "DisplayName": "Attributes",
+      "ColorIndex": 12
+    },
+    "85bc04bd-d844-4b05-9d18-e5ac4ca45cba": {
+      "ProjectGuid": "85bc04bd-d844-4b05-9d18-e5ac4ca45cba",
+      "DisplayName": "CustomAttribute",
+      "ColorIndex": 13
+    },
+    "bb018e3a-c5af-40cb-a6a6-25ee8e1b3520": {
+      "ProjectGuid": "bb018e3a-c5af-40cb-a6a6-25ee8e1b3520",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 14
+    },
+    "f800c55d-7a91-4c74-97a4-172d3d759395": {
+      "ProjectGuid": "f800c55d-7a91-4c74-97a4-172d3d759395",
+      "DisplayName": "Serialization",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

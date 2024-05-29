@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ExactSumOfRealNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ExactSumOfRealNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ExactSumOfRealNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ref\ExactSumOfRealNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\net6.0\ExactSumOfRealNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ref\ExactSumOfRealNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\02.DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\net6.0\ExactSumOfRealNumbers.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P03.Detail_Printer/1.0.0": {
+        "runtime": {
+          "P03.Detail_Printer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P03.Detail_Printer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

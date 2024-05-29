@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79c491b0-8ee9-4585-9172-4756b837e732": {
+      "ProjectGuid": "79c491b0-8ee9-4585-9172-4756b837e732",
+      "DisplayName": "10.ExamPreparation",
+      "ColorIndex": 0
+    },
+    "1be0ff7c-43f1-49fc-a9e2-ab5c86586cb2": {
+      "ProjectGuid": "1be0ff7c-43f1-49fc-a9e2-ab5c86586cb2",
+      "DisplayName": "01.Offroad",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9f037a37-a5a6-464d-b6c7-262228d67df9": {
+      "ProjectGuid": "9f037a37-a5a6-464d-b6c7-262228d67df9",
+      "DisplayName": "02.FishingCompetition",
+      "ColorIndex": 2
+    },
+    "f6b7e1d6-8bbc-4297-8996-037cdf15255a": {
+      "ProjectGuid": "f6b7e1d6-8bbc-4297-8996-037cdf15255a",
+      "DisplayName": "MailClient",
+      "ColorIndex": 3
+    },
+    "fa95a4a5-642a-47c3-ae0a-911b4e74c90b": {
+      "ProjectGuid": "fa95a4a5-642a-47c3-ae0a-911b4e74c90b",
+      "DisplayName": "TryCatch",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\Calculator.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\Calculator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\ref\Calculator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\Calculator.genruntimeconfig.cache

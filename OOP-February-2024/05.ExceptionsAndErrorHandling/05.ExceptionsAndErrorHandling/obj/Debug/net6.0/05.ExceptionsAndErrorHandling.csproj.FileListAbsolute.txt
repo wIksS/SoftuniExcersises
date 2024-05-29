@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\05.ExceptionsAndErrorHandling.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\05.ExceptionsAndErrorHandling.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\05.ExceptionsAndErrorHandling.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\05.ExceptionsAndErrorHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\ref\05.ExceptionsAndErrorHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\bin\Debug\net6.0\05.ExceptionsAndErrorHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\ref\05.ExceptionsAndErrorHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\05.ExceptionsAndErrorHandling\obj\Debug\net6.0\05.ExceptionsAndErrorHandling.genruntimeconfig.cache

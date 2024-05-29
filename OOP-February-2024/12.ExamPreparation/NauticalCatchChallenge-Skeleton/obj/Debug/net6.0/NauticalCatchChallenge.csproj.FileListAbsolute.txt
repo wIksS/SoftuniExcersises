@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\ref\NauticalCatchChallenge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.AssemblyReference.cache

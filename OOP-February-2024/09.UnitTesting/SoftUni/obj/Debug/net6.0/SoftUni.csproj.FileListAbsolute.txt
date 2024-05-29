@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\SoftUni.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\SoftUni.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\SoftUni.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\SoftUni.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\ref\SoftUni.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\bin\Debug\net6.0\SoftUni.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\ref\SoftUni.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\SoftUni\obj\Debug\net6.0\SoftUni.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\OnlineStorePromotions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\OnlineStorePromotions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\OnlineStorePromotions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\OnlineStorePromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\ref\OnlineStorePromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\bin\Debug\net6.0\OnlineStorePromotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\ref\OnlineStorePromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\OnlineStorePromotions\obj\Debug\net6.0\OnlineStorePromotions.csproj.AssemblyReference.cache

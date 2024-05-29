@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\OnlineShopPromotions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\OnlineShopPromotions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\OnlineShopPromotions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\OnlineShopPromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\ref\OnlineShopPromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\OnlineShopPromotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\ref\OnlineShopPromotions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\OnlineShopPromotions\obj\Debug\net6.0\OnlineShopPromotions.csproj.CopyComplete

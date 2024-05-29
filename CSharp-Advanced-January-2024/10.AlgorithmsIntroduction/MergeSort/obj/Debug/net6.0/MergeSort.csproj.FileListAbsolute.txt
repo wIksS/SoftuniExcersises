@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\ref\MergeSort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache

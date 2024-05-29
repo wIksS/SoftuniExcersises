@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\03.Interfaces.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\03.Interfaces.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\03.Interfaces.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\03.Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\ref\03.Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\bin\Debug\net6.0\03.Interfaces.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\ref\03.Interfaces.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\03.InterfacesAndAbstraction\03\obj\Debug\net6.0\03.Interfaces.genruntimeconfig.cache

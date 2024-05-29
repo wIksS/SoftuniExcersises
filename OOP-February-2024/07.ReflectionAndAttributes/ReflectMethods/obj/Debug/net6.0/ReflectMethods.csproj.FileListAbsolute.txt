@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ReflectMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ReflectMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ReflectMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ReflectMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ref\ReflectMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\bin\Debug\net6.0\ReflectMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ref\ReflectMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ReflectMethods\obj\Debug\net6.0\ReflectMethods.genruntimeconfig.cache

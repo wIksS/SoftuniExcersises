@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\StreamsExceptionHandling.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\StreamsExceptionHandling.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\StreamsExceptionHandling.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\StreamsExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\ref\StreamsExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\bin\Debug\net6.0\StreamsExceptionHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\ref\StreamsExceptionHandling.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\StreamsExceptionHandling\obj\Debug\net6.0\StreamsExceptionHandling.genruntimeconfig.cache

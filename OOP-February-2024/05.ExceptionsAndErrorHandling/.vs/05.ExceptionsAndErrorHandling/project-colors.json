@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b01742d-454f-4d00-9ff7-4d34404426a5": {
+      "ProjectGuid": "6b01742d-454f-4d00-9ff7-4d34404426a5",
+      "DisplayName": "05.ExceptionsAndErrorHandling",
+      "ColorIndex": 0
+    },
+    "b020f0d1-abbd-410f-9dbd-4dc40f553364": {
+      "ProjectGuid": "b020f0d1-abbd-410f-9dbd-4dc40f553364",
+      "DisplayName": "ThrowExceptions",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cad08771-dc83-441c-b4f1-70e53fe7819e": {
+      "ProjectGuid": "cad08771-dc83-441c-b4f1-70e53fe7819e",
+      "DisplayName": "ExceptionClass",
+      "ColorIndex": 2
+    },
+    "4920f5a2-994c-4372-84d6-c7066ce55936": {
+      "ProjectGuid": "4920f5a2-994c-4372-84d6-c7066ce55936",
+      "DisplayName": "TryCatch",
+      "ColorIndex": 3
+    },
+    "7e76ce34-964c-4126-b168-acdfd268d3c0": {
+      "ProjectGuid": "7e76ce34-964c-4126-b168-acdfd268d3c0",
+      "DisplayName": "StreamsExceptionHandling",
+      "ColorIndex": 4
+    },
+    "9dc64574-576f-41a4-85f7-9475056b69f9": {
+      "ProjectGuid": "9dc64574-576f-41a4-85f7-9475056b69f9",
+      "DisplayName": "ExceptionsHierarchy",
+      "ColorIndex": 5
+    },
+    "2d33c7c6-1c8a-41b7-bfda-a3667b74a842": {
+      "ProjectGuid": "2d33c7c6-1c8a-41b7-bfda-a3667b74a842",
+      "DisplayName": "ManyExceptions",
+      "ColorIndex": 6
+    },
+    "fc3f7e41-686a-47a5-bba8-5da8b15b41f2": {
+      "ProjectGuid": "fc3f7e41-686a-47a5-bba8-5da8b15b41f2",
+      "DisplayName": "InnerExceptions",
+      "ColorIndex": 7
+    },
+    "883806f4-4152-4f19-9c8a-aafe0fb5b501": {
+      "ProjectGuid": "883806f4-4152-4f19-9c8a-aafe0fb5b501",
+      "DisplayName": "StackTraversal",
+      "ColorIndex": 8
+    },
+    "bca4fa47-47a9-47a5-b718-edaef8ac2431": {
+      "ProjectGuid": "bca4fa47-47a9-47a5-b718-edaef8ac2431",
+      "DisplayName": "ExceptionsRealLife",
+      "ColorIndex": 9
+    },
+    "8ff071f4-98e2-43dc-9598-3112ad420e50": {
+      "ProjectGuid": "8ff071f4-98e2-43dc-9598-3112ad420e50",
+      "DisplayName": "Content",
+      "ColorIndex": 10
+    },
+    "3647eea3-0012-471e-97c1-8b2711c7db2e": {
+      "ProjectGuid": "3647eea3-0012-471e-97c1-8b2711c7db2e",
+      "DisplayName": "CustomExceptions",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CustomDIUsage/1.0.0": {
+        "dependencies": {
+          "CustomDI": "1.0.0"
+        },
+        "runtime": {
+          "CustomDIUsage.dll": {}
+        }
+      },
+      "CustomDI/1.0.0": {
+        "runtime": {
+          "CustomDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomDIUsage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

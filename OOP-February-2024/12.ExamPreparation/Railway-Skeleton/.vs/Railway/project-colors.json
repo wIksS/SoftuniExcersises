@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9bfc384-c3d5-4ce3-90db-062d572aacad": {
+      "ProjectGuid": "f9bfc384-c3d5-4ce3-90db-062d572aacad",
+      "DisplayName": "Railway",
+      "ColorIndex": 0
+    },
+    "cb6a4b8d-6517-4218-9b5e-7a2905024052": {
+      "ProjectGuid": "cb6a4b8d-6517-4218-9b5e-7a2905024052",
+      "DisplayName": "Railway.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

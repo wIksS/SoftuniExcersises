@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\ref\04.ReverseArrayOfStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\ref\04.ReverseArrayOfStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.genruntimeconfig.cache

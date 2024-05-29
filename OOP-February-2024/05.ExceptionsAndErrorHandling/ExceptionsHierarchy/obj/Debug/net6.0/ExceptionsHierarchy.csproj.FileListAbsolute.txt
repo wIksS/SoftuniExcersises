@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ExceptionsHierarchy.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ExceptionsHierarchy.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ExceptionsHierarchy.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ExceptionsHierarchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ref\ExceptionsHierarchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\bin\Debug\net6.0\ExceptionsHierarchy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ref\ExceptionsHierarchy.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\05.ExceptionsAndErrorHandling\ExceptionsHierarchy\obj\Debug\net6.0\ExceptionsHierarchy.genruntimeconfig.cache

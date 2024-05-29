@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7479878c-fdec-4380-9665-f22d3db2f0ba": {
+      "ProjectGuid": "7479878c-fdec-4380-9665-f22d3db2f0ba",
+      "DisplayName": "P01.Stream_Progress",
+      "ColorIndex": 0
+    },
+    "50e2781a-d012-4c2c-966f-96b5f881c80b": {
+      "ProjectGuid": "50e2781a-d012-4c2c-966f-96b5f881c80b",
+      "DisplayName": "OnlineStorePromotions",
+      "ColorIndex": 1
+    },
+    "2b3470b2-b732-45a5-ad12-22ad47c8241e": {
+      "ProjectGuid": "2b3470b2-b732-45a5-ad12-22ad47c8241e",
+      "DisplayName": "Workers",
+      "ColorIndex": 2
+    },
+    "2924b6bf-c664-4db6-ad89-226f29ffa05b": {
+      "ProjectGuid": "2924b6bf-c664-4db6-ad89-226f29ffa05b",
+      "DisplayName": "P02.Graphic_Editor",
+      "ColorIndex": 3
+    },
+    "d959426c-6a22-489f-ab83-b9369ca8772e": {
+      "ProjectGuid": "d959426c-6a22-489f-ab83-b9369ca8772e",
+      "DisplayName": "P03.Detail_Printer",
+      "ColorIndex": 4
+    },
+    "2c4a0d52-9adb-4a67-814c-a1e1839cd6e8": {
+      "ProjectGuid": "2c4a0d52-9adb-4a67-814c-a1e1839cd6e8",
+      "DisplayName": "P04.Recharge",
+      "ColorIndex": 5
+    },
+    "b2b1f603-d46a-4d4f-8004-a144759d3096": {
+      "ProjectGuid": "b2b1f603-d46a-4d4f-8004-a144759d3096",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 6
+    },
+    "ef4f8b25-d2d4-48c0-8c3c-4502cc17b799": {
+      "ProjectGuid": "ef4f8b25-d2d4-48c0-8c3c-4502cc17b799",
+      "DisplayName": "Chess",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

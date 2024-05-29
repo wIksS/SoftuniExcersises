@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\12.DIWorkshop.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\12.DIWorkshop.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\12.DIWorkshop.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\12.DIWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\ref\12.DIWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\bin\Debug\net6.0\12.DIWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\ref\12.DIWorkshop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\12.DIWorkshop\obj\Debug\net6.0\12.DIWorkshop.genruntimeconfig.cache

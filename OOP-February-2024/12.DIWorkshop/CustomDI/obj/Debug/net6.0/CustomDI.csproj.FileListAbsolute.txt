@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\CustomDI.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\CustomDI.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\CustomDI.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\CustomDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\ref\CustomDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\bin\Debug\net6.0\CustomDI.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\ref\CustomDI.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.DIWorkshop\CustomDI\obj\Debug\net6.0\CustomDI.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08891b7d-0be1-4dd8-be2f-046f9d9348f8": {
+      "ProjectGuid": "08891b7d-0be1-4dd8-be2f-046f9d9348f8",
+      "DisplayName": "10.AlgorithmsIntroduction",
+      "ColorIndex": 0
+    },
+    "293dbeb6-a6c4-47ae-9f34-c8faa09cf9a6": {
+      "ProjectGuid": "293dbeb6-a6c4-47ae-9f34-c8faa09cf9a6",
+      "DisplayName": "FindNumber",
+      "ColorIndex": 1
+    },
+    "420c5a15-1672-4b52-927c-665d85c3cb9c": {
+      "ProjectGuid": "420c5a15-1672-4b52-927c-665d85c3cb9c",
+      "DisplayName": "ComplexityComparison",
+      "ColorIndex": 2
+    },
+    "1afab1e5-3a12-46e2-9b7b-af562f8c4888": {
+      "ProjectGuid": "1afab1e5-3a12-46e2-9b7b-af562f8c4888",
+      "DisplayName": "Recursion",
+      "ColorIndex": 3
+    },
+    "ae2d8f9d-811e-45f4-8e86-56563dc1e5e3": {
+      "ProjectGuid": "ae2d8f9d-811e-45f4-8e86-56563dc1e5e3",
+      "DisplayName": "RecursiveArraySum",
+      "ColorIndex": 4
+    },
+    "9d981732-ff73-4d42-b22f-94d00a000414": {
+      "ProjectGuid": "9d981732-ff73-4d42-b22f-94d00a000414",
+      "DisplayName": "RecursionPermutations",
+      "ColorIndex": 5
+    },
+    "ab89a376-84d1-47a7-8c16-6f265a43ae99": {
+      "ProjectGuid": "ab89a376-84d1-47a7-8c16-6f265a43ae99",
+      "DisplayName": "SumOfCoins",
+      "ColorIndex": 6
+    },
+    "3db2d50a-5022-4e7f-8a08-d7f1cc667a41": {
+      "ProjectGuid": "3db2d50a-5022-4e7f-8a08-d7f1cc667a41",
+      "DisplayName": "MergeSort",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

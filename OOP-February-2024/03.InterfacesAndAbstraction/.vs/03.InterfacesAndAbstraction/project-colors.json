@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24deec12-716c-451c-8253-13fd067e0766": {
+      "ProjectGuid": "24deec12-716c-451c-8253-13fd067e0766",
+      "DisplayName": "03.Interfaces",
+      "ColorIndex": 0
+    },
+    "02f2b17a-e3f1-4b40-a8e9-dad5831c15df": {
+      "ProjectGuid": "02f2b17a-e3f1-4b40-a8e9-dad5831c15df",
+      "DisplayName": "SnakeGame",
+      "ColorIndex": 1
+    },
+    "d2f6bd66-f3a4-4af3-82ce-2bff0f8b7d7f": {
+      "ProjectGuid": "d2f6bd66-f3a4-4af3-82ce-2bff0f8b7d7f",
+      "DisplayName": "Chess",
+      "ColorIndex": 2
+    },
+    "6bb5c61a-6d88-449e-b672-92ee164d05e7": {
+      "ProjectGuid": "6bb5c61a-6d88-449e-b672-92ee164d05e7",
+      "DisplayName": "ExplicitInterfaceImplementation",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "735c298e-584a-4e51-8c46-8d0ead8008cc": {
+      "ProjectGuid": "735c298e-584a-4e51-8c46-8d0ead8008cc",
+      "DisplayName": "Shapes",
+      "ColorIndex": 4
+    },
+    "8b28c335-b7c9-4995-9a13-d20a60996263": {
+      "ProjectGuid": "8b28c335-b7c9-4995-9a13-d20a60996263",
+      "DisplayName": "AbstractClass",
+      "ColorIndex": 5
+    },
+    "489185f9-d85c-4251-a1cf-54b6b03b6836": {
+      "ProjectGuid": "489185f9-d85c-4251-a1cf-54b6b03b6836",
+      "DisplayName": "Cars",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\FindNumber.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\FindNumber.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\FindNumber.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\FindNumber.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\ref\FindNumber.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\bin\Debug\net6.0\FindNumber.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\ref\FindNumber.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\FindNumber\obj\Debug\net6.0\FindNumber.genruntimeconfig.cache

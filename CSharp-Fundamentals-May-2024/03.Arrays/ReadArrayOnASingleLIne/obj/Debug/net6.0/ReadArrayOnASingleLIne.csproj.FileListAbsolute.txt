@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ReadArrayOnASingleLIne.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ReadArrayOnASingleLIne.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ReadArrayOnASingleLIne.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ReadArrayOnASingleLIne.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ref\ReadArrayOnASingleLIne.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\bin\Debug\net6.0\ReadArrayOnASingleLIne.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ref\ReadArrayOnASingleLIne.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadArrayOnASingleLIne\obj\Debug\net6.0\ReadArrayOnASingleLIne.genruntimeconfig.cache

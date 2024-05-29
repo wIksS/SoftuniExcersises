@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\AwayFromZeroRounding.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\AwayFromZeroRounding.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\AwayFromZeroRounding.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\AwayFromZeroRounding.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\ref\AwayFromZeroRounding.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\bin\Debug\net6.0\AwayFromZeroRounding.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\ref\AwayFromZeroRounding.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\AwayFromZeroRounding\obj\Debug\net6.0\AwayFromZeroRounding.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\ref\Animals.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\04.Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache

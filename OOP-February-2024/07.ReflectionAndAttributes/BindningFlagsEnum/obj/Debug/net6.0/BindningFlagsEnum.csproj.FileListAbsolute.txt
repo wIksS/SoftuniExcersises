@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\BindningFlagsEnum.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\BindningFlagsEnum.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\BindningFlagsEnum.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\BindningFlagsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\ref\BindningFlagsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\bin\Debug\net6.0\BindningFlagsEnum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\ref\BindningFlagsEnum.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\BindningFlagsEnum\obj\Debug\net6.0\BindningFlagsEnum.genruntimeconfig.cache

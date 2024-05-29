@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\10.AlgorithmsIntroduction.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\10.AlgorithmsIntroduction.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\10.AlgorithmsIntroduction.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\10.AlgorithmsIntroduction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\ref\10.AlgorithmsIntroduction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\bin\Debug\net6.0\10.AlgorithmsIntroduction.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\ref\10.AlgorithmsIntroduction.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\10.AlgorithmsIntroduction\obj\Debug\net6.0\10.AlgorithmsIntroduction.genruntimeconfig.cache

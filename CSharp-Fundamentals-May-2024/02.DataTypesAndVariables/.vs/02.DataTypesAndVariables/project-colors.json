@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dab8ae8-d956-4885-9528-27d86603adf0": {
+      "ProjectGuid": "0dab8ae8-d956-4885-9528-27d86603adf0",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "d8c07ed5-e9a0-4a92-9ff3-79647e9e5cf4": {
+      "ProjectGuid": "d8c07ed5-e9a0-4a92-9ff3-79647e9e5cf4",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 1
+    },
+    "023eb6d9-311f-40cd-bb07-e9e3e3b4e135": {
+      "ProjectGuid": "023eb6d9-311f-40cd-bb07-e9e3e3b4e135",
+      "DisplayName": "VariableScope",
+      "ColorIndex": 2
+    },
+    "25c2bf70-397e-4d00-b3a3-5f95b20714b6": {
+      "ProjectGuid": "25c2bf70-397e-4d00-b3a3-5f95b20714b6",
+      "DisplayName": "VarScope",
+      "ColorIndex": 3
+    },
+    "7cefff24-7b69-46ab-8fa2-71785dee4414": {
+      "ProjectGuid": "7cefff24-7b69-46ab-8fa2-71785dee4414",
+      "DisplayName": "Data",
+      "ColorIndex": 4
+    },
+    "276bb1af-8ca9-4307-a473-bfc078e54365": {
+      "ProjectGuid": "276bb1af-8ca9-4307-a473-bfc078e54365",
+      "DisplayName": "NumericalTypes",
+      "ColorIndex": 5
+    },
+    "9a9f113d-1874-45b9-8f7d-dc737f145bbf": {
+      "ProjectGuid": "9a9f113d-1874-45b9-8f7d-dc737f145bbf",
+      "DisplayName": "Overflow",
+      "ColorIndex": 6
+    },
+    "93694cc6-bc02-4e68-acb3-6f6bbeee33f4": {
+      "ProjectGuid": "93694cc6-bc02-4e68-acb3-6f6bbeee33f4",
+      "DisplayName": "Literals",
+      "ColorIndex": 7
+    },
+    "5854a07b-aa10-4cf5-85fc-9e6d4b5511f8": {
+      "ProjectGuid": "5854a07b-aa10-4cf5-85fc-9e6d4b5511f8",
+      "DisplayName": "FloatingTypes",
+      "ColorIndex": 8
+    },
+    "8a02d629-81e4-49ef-8423-5307c767f32e": {
+      "ProjectGuid": "8a02d629-81e4-49ef-8423-5307c767f32e",
+      "DisplayName": "PIPrecision",
+      "ColorIndex": 9
+    },
+    "13f322d0-309e-483c-a441-3b7949163a9f": {
+      "ProjectGuid": "13f322d0-309e-483c-a441-3b7949163a9f",
+      "DisplayName": "01.MetersToKM",
+      "ColorIndex": 10
+    },
+    "f7363101-866d-4341-9fbb-dc3bc6f2da8a": {
+      "ProjectGuid": "f7363101-866d-4341-9fbb-dc3bc6f2da8a",
+      "DisplayName": "ScientificNotation",
+      "ColorIndex": 11
+    },
+    "5870232a-cb09-4253-92e7-02201366d2ca": {
+      "ProjectGuid": "5870232a-cb09-4253-92e7-02201366d2ca",
+      "DisplayName": "Division",
+      "ColorIndex": 12
+    },
+    "e59fb833-0f69-45a5-b49c-7f462416b220": {
+      "ProjectGuid": "e59fb833-0f69-45a5-b49c-7f462416b220",
+      "DisplayName": "Calculations",
+      "ColorIndex": 13
+    },
+    "3b792126-0fee-446f-ada7-28942a927877": {
+      "ProjectGuid": "3b792126-0fee-446f-ada7-28942a927877",
+      "DisplayName": "ExactSumOfRealNumbers",
+      "ColorIndex": 14
+    },
+    "eb0b5b7e-f30a-470c-bbd8-628d7857c35c": {
+      "ProjectGuid": "eb0b5b7e-f30a-470c-bbd8-628d7857c35c",
+      "DisplayName": "TypeConversion",
+      "ColorIndex": 15
+    },
+    "d7950b16-7389-409d-a23b-bcd2b9e7a236": {
+      "ProjectGuid": "d7950b16-7389-409d-a23b-bcd2b9e7a236",
+      "DisplayName": "3.Centuries",
+      "ColorIndex": 0
+    },
+    "e9e816d5-1acc-40b4-a513-d523e84fcdd3": {
+      "ProjectGuid": "e9e816d5-1acc-40b4-a513-d523e84fcdd3",
+      "DisplayName": "BoolType",
+      "ColorIndex": 1
+    },
+    "f0de3ebb-6ae8-4974-adac-900cdfe8c636": {
+      "ProjectGuid": "f0de3ebb-6ae8-4974-adac-900cdfe8c636",
+      "DisplayName": "04.SpecialNumbers",
+      "ColorIndex": 2
+    },
+    "e5badc33-d158-4bfe-8599-a80c15c9d5ad": {
+      "ProjectGuid": "e5badc33-d158-4bfe-8599-a80c15c9d5ad",
+      "DisplayName": "CharType",
+      "ColorIndex": 3
+    },
+    "666069f7-6427-4ede-8466-4a6419b1baf8": {
+      "ProjectGuid": "666069f7-6427-4ede-8466-4a6419b1baf8",
+      "DisplayName": "SpecialCharacters",
+      "ColorIndex": 4
+    },
+    "a0ee12a6-e582-48fa-b637-069744ead69d": {
+      "ProjectGuid": "a0ee12a6-e582-48fa-b637-069744ead69d",
+      "DisplayName": "Strings",
+      "ColorIndex": 5
+    },
+    "c295efda-4ab0-4844-8e38-4e33745fd6d5": {
+      "ProjectGuid": "c295efda-4ab0-4844-8e38-4e33745fd6d5",
+      "DisplayName": "Verbatim",
+      "ColorIndex": 6
+    },
+    "ac3ea80e-7377-44e6-bfe0-697a5f02b4fc": {
+      "ProjectGuid": "ac3ea80e-7377-44e6-bfe0-697a5f02b4fc",
+      "DisplayName": "ConcatNames",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\12.ExamPreparation.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\12.ExamPreparation.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\12.ExamPreparation.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\12.ExamPreparation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\ref\12.ExamPreparation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\12.ExamPreparation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\ref\12.ExamPreparation.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\12.ExamPreparation.genruntimeconfig.cache

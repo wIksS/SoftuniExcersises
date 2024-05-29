@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\RecursionPermutations.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\RecursionPermutations.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\RecursionPermutations.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\RecursionPermutations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\ref\RecursionPermutations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\bin\Debug\net6.0\RecursionPermutations.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\ref\RecursionPermutations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-January-2024\10.AlgorithmsIntroduction\RecursionPermutations\obj\Debug\net6.0\RecursionPermutations.genruntimeconfig.cache

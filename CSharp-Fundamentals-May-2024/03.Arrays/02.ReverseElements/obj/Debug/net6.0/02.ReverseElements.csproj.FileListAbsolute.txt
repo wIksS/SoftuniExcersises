@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\02.ReverseElements.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\02.ReverseElements.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\02.ReverseElements.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\02.ReverseElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\ref\02.ReverseElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\bin\Debug\net6.0\02.ReverseElements.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\ref\02.ReverseElements.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\02.ReverseElements\obj\Debug\net6.0\02.ReverseElements.genruntimeconfig.cache

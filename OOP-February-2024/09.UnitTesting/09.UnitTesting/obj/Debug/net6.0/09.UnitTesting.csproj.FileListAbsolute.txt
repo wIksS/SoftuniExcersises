@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\09.UnitTesting.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\09.UnitTesting.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\09.UnitTesting.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\09.UnitTesting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\ref\09.UnitTesting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\bin\Debug\net6.0\09.UnitTesting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\ref\09.UnitTesting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\09.UnitTesting\09.UnitTesting\obj\Debug\net6.0\09.UnitTesting.genruntimeconfig.cache

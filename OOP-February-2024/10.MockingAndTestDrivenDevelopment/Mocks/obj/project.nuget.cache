@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsvy+H4LzY6KHzKq1EFtP+gBWfnqT8N8Lz+nDlybUozOmd6loKX3gf5I/fLIL/yw0RC09zanSp1we2EsCT1eWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\Work\\SoftuniExcersises\\OOP-February-2024\\10.MockingAndTestDrivenDevelopment\\Mocks\\Mocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

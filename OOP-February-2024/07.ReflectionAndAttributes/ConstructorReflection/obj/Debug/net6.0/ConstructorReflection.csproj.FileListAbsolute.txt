@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ConstructorReflection.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ConstructorReflection.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ConstructorReflection.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ConstructorReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ref\ConstructorReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\bin\Debug\net6.0\ConstructorReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ref\ConstructorReflection.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\ConstructorReflection\obj\Debug\net6.0\ConstructorReflection.genruntimeconfig.cache

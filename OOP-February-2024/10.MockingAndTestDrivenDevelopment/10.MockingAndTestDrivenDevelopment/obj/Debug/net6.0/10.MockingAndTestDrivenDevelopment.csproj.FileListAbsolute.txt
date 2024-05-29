@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\10.MockingAndTestDrivenDevelopment.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\10.MockingAndTestDrivenDevelopment.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\10.MockingAndTestDrivenDevelopment.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\10.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\ref\10.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\bin\Debug\net6.0\10.MockingAndTestDrivenDevelopment.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\ref\10.MockingAndTestDrivenDevelopment.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\10.MockingAndTestDrivenDevelopment\10.MockingAndTestDrivenDevelopment\obj\Debug\net6.0\10.MockingAndTestDrivenDevelopment.genruntimeconfig.cache

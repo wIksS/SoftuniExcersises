@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ReadingArraysFromConsole.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ReadingArraysFromConsole.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ReadingArraysFromConsole.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ReadingArraysFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ref\ReadingArraysFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\bin\Debug\net6.0\ReadingArraysFromConsole.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ref\ReadingArraysFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\03.Arrays\ReadingArraysFromConsole\obj\Debug\net6.0\ReadingArraysFromConsole.genruntimeconfig.cache

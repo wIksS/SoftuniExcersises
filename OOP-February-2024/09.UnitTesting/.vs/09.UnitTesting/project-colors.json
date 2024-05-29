@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36a618c0-1e84-4223-8bdb-62838a6d3812": {
+      "ProjectGuid": "36a618c0-1e84-4223-8bdb-62838a6d3812",
+      "DisplayName": "Calculators",
+      "ColorIndex": 0
+    },
+    "400350b8-589c-409f-909f-f56a40bd76b4": {
+      "ProjectGuid": "400350b8-589c-409f-909f-f56a40bd76b4",
+      "DisplayName": "Calculators.Tests",
+      "ColorIndex": 1
+    },
+    "af50924d-ed46-4db1-ae64-fef0ce266a01": {
+      "ProjectGuid": "af50924d-ed46-4db1-ae64-fef0ce266a01",
+      "DisplayName": "CalculatorTest",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c5e149bb-4df5-4c1c-9445-3a151a686e86": {
+      "ProjectGuid": "c5e149bb-4df5-4c1c-9445-3a151a686e86",
+      "DisplayName": "SoftUni",
+      "ColorIndex": 3
+    },
+    "f6549cf9-8e2c-4496-8936-02015be6e328": {
+      "ProjectGuid": "f6549cf9-8e2c-4496-8936-02015be6e328",
+      "DisplayName": "SoftUni.Tests",
+      "ColorIndex": 4
+    },
+    "62b68d9a-a6bc-4bd3-b2fa-af9d91703692": {
+      "ProjectGuid": "62b68d9a-a6bc-4bd3-b2fa-af9d91703692",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 5
+    },
+    "6574f302-be08-46c1-a8ec-715e0d1c7cf0": {
+      "ProjectGuid": "6574f302-be08-46c1-a8ec-715e0d1c7cf0",
+      "DisplayName": "Skeleton.Tests",
+      "ColorIndex": 6
+    },
+    "d4138815-384e-4df7-b27c-00779999f5d7": {
+      "ProjectGuid": "d4138815-384e-4df7-b27c-00779999f5d7",
+      "DisplayName": "Skeleton",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

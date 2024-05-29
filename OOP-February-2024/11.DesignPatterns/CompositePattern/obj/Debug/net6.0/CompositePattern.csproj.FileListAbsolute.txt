@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\CompositePattern.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\CompositePattern.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\CompositePattern.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\CompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\ref\CompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\bin\Debug\net6.0\CompositePattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\ref\CompositePattern.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\11.DesignPatterns\CompositePattern\obj\Debug\net6.0\CompositePattern.genruntimeconfig.cache

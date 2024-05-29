@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\CallingConstructors.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\CallingConstructors.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\CallingConstructors.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\CallingConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\ref\CallingConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\bin\Debug\net6.0\CallingConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\ref\CallingConstructors.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\OOP-February-2024\07.ReflectionAndAttributes\CallingConstructors\obj\Debug\net6.0\CallingConstructors.genruntimeconfig.cache

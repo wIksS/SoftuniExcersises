@@ -1,0 +1,51 @@
+MaxineHarper is successfully registered for the competition -> DiverRepository.
+JamalCarter is successfully registered for the competition -> DiverRepository.
+SkyDiver is not allowed in our competition.
+OscarWallace is successfully registered for the competition -> DiverRepository.
+LilaMoreno is successfully registered for the competition -> DiverRepository.
+LilaMoreno is already a participant -> DiverRepository.
+AzureDamselfish is allowed for chasing.
+BluestripeSnapper is allowed for chasing.
+YellowtailSurgeonfish is allowed for chasing.
+Barracuda is allowed for chasing.
+Coryphaena is allowed for chasing.
+Bluefish is allowed for chasing.
+SwordFish is allowed for chasing.
+Mahi-Mahi is allowed for chasing.
+Tuna is allowed for chasing.
+AquariumFish is forbidden for chasing in our competition.
+Barracuda is already allowed -> FishRepository.
+DiverRepository has no FionaBennett registered for the competition.
+SilverArowana is not allowed to be caught in this competition.
+MaxineHarper hits a 5pt. YellowtailSurgeonfish.
+MaxineHarper hits a 8.7pt. AzureDamselfish.
+MaxineHarper hits a 9.1pt. Mahi-Mahi.
+MaxineHarper hits a 8.5pt. Tuna.
+MaxineHarper hits a 4.4pt. Bluefish.
+MaxineHarper hits a 9.7pt. Coryphaena.
+MaxineHarper will not be allowed to dive, due to health issues.
+OscarWallace hits a 9.2pt. Barracuda.
+OscarWallace hits a 5pt. YellowtailSurgeonfish.
+OscarWallace missed a good Tuna.
+OscarWallace will not be allowed to dive, due to health issues.
+JamalCarter missed a good Tuna.
+JamalCarter missed a good BluestripeSnapper.
+LilaMoreno hits a 8.5pt. Tuna.
+LilaMoreno hits a 9.1pt. Mahi-Mahi.
+LilaMoreno hits a 10pt. SwordFish.
+Divers recovered: 4
+LilaMoreno hits a 8.5pt. Tuna.
+LilaMoreno hits a 9.1pt. Mahi-Mahi.
+LilaMoreno hits a 10pt. SwordFish.
+Diver [ Name: LilaMoreno, Oxygen left: 0, Fish caught: 6, Points earned: 55.2 ]
+Catch Report:
+DeepSeaFish: Tuna [ Points: 8.5, Time to Catch: 180 seconds ]
+DeepSeaFish: Mahi-Mahi [ Points: 9.1, Time to Catch: 180 seconds ]
+DeepSeaFish: SwordFish [ Points: 10, Time to Catch: 180 seconds ]
+DeepSeaFish: Tuna [ Points: 8.5, Time to Catch: 180 seconds ]
+DeepSeaFish: Mahi-Mahi [ Points: 9.1, Time to Catch: 180 seconds ]
+DeepSeaFish: SwordFish [ Points: 10, Time to Catch: 180 seconds ]
+**Nautical-Catch-Challenge**
+Diver [ Name: MaxineHarper, Oxygen left: 540, Fish caught: 6, Points earned: 45.4 ]
+Diver [ Name: OscarWallace, Oxygen left: 120, Fish caught: 2, Points earned: 14.2 ]
+Diver [ Name: JamalCarter, Oxygen left: 120, Fish caught: 0, Points earned: 0 ]
