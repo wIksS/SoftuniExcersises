@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\02.Grades.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\02.Grades.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\02.Grades.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\02.Grades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\ref\02.Grades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\bin\Debug\net6.0\02.Grades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\ref\02.Grades.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\02.Grades\obj\Debug\net6.0\02.Grades.genruntimeconfig.cache

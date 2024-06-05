@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\bin\Debug\netcoreapp3.1\OldCSharpTemplate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OldCSharpTemplate\obj\Debug\netcoreapp3.1\OldCSharpTemplate.genruntimeconfig.cache

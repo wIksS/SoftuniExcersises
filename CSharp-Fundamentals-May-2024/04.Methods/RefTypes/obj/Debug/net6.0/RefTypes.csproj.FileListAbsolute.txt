@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\RefTypes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\RefTypes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\RefTypes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\RefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\ref\RefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\bin\Debug\net6.0\RefTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\ref\RefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\RefTypes\obj\Debug\net6.0\RefTypes.genruntimeconfig.cache

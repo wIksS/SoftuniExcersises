@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\CallStack.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\CallStack.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\CallStack.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\CallStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\ref\CallStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\bin\Debug\net6.0\CallStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\ref\CallStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\CallStak\obj\Debug\net6.0\CallStack.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\MethodsSyntax.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\MethodsSyntax.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\MethodsSyntax.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\MethodsSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\ref\MethodsSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\bin\Debug\net6.0\MethodsSyntax.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\ref\MethodsSyntax.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsSyntax\obj\Debug\net6.0\MethodsSyntax.genruntimeconfig.cache

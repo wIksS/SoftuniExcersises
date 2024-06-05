@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\StackMemoryAndValueTypes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\StackMemoryAndValueTypes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\StackMemoryAndValueTypes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\StackMemoryAndValueTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\ref\StackMemoryAndValueTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\bin\Debug\net6.0\StackMemoryAndValueTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\ref\StackMemoryAndValueTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\StackMemoryAndValueTypes\obj\Debug\net6.0\StackMemoryAndValueTypes.genruntimeconfig.cache

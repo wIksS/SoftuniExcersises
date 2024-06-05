@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\05.CalculateRectangleArea.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\05.CalculateRectangleArea.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\05.CalculateRectangleArea.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\05.CalculateRectangleArea.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\ref\05.CalculateRectangleArea.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\bin\Debug\net6.0\05.CalculateRectangleArea.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\ref\05.CalculateRectangleArea.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\05.CalculateRectangleArea\obj\Debug\net6.0\05.CalculateRectangleArea.genruntimeconfig.cache

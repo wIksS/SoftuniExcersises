@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\OptionalParameters.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\OptionalParameters.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\OptionalParameters.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\OptionalParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\ref\OptionalParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\bin\Debug\net6.0\OptionalParameters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\ref\OptionalParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\OptionalParameters\obj\Debug\net6.0\OptionalParameters.genruntimeconfig.cache

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09b0be6b-1954-40a4-b37c-039192d15328": {
+      "ProjectGuid": "09b0be6b-1954-40a4-b37c-039192d15328",
+      "DisplayName": "03.Arrays",
+      "ColorIndex": 0
+    },
+    "769ed844-a421-4fd4-8c33-c580155197a8": {
+      "ProjectGuid": "769ed844-a421-4fd4-8c33-c580155197a8",
+      "DisplayName": "FirstArray",
+      "ColorIndex": 1
+    },
+    "8e81d9ff-1671-4f42-9b72-051f5db39be6": {
+      "ProjectGuid": "8e81d9ff-1671-4f42-9b72-051f5db39be6",
+      "DisplayName": "IteratingArrays",
+      "ColorIndex": 2
+    },
+    "367a218f-7bb5-4f94-a84e-e439af2bda13": {
+      "ProjectGuid": "367a218f-7bb5-4f94-a84e-e439af2bda13",
+      "DisplayName": "ArraysCreation",
+      "ColorIndex": 3
+    },
+    "ed694161-5c79-418b-a04b-086bb734ff8d": {
+      "ProjectGuid": "ed694161-5c79-418b-a04b-086bb734ff8d",
+      "DisplayName": "DaysOfWeek",
+      "ColorIndex": 4
+    },
+    "4491bc8c-d48c-4e9d-8b17-8ce8d2fe7ac2": {
+      "ProjectGuid": "4491bc8c-d48c-4e9d-8b17-8ce8d2fe7ac2",
+      "DisplayName": "ReadingArraysFromConsole",
+      "ColorIndex": 5
+    },
+    "525a9732-b819-4010-a35c-ec99653bf9e2": {
+      "ProjectGuid": "525a9732-b819-4010-a35c-ec99653bf9e2",
+      "DisplayName": "ReadArrayOnASingleLIne",
+      "ColorIndex": 6
+    },
+    "e608dc8b-4a41-4fd9-97b8-7c3cd2fbd30a": {
+      "ProjectGuid": "e608dc8b-4a41-4fd9-97b8-7c3cd2fbd30a",
+      "DisplayName": "ShortReadOfArrayInOneLine",
+      "ColorIndex": 7
+    },
+    "93253f43-faad-40f9-a382-f7332ee203f2": {
+      "ProjectGuid": "93253f43-faad-40f9-a382-f7332ee203f2",
+      "DisplayName": "02.ReverseElements",
+      "ColorIndex": 8
+    },
+    "57a96dfa-0adc-4912-99a3-37c895c2a622": {
+      "ProjectGuid": "57a96dfa-0adc-4912-99a3-37c895c2a622",
+      "DisplayName": "03.RoundNumbers",
+      "ColorIndex": 9
+    },
+    "c00d24c9-e6d0-4885-8637-48dda804d037": {
+      "ProjectGuid": "c00d24c9-e6d0-4885-8637-48dda804d037",
+      "DisplayName": "StringJoinMethod",
+      "ColorIndex": 10
+    },
+    "14f66f0c-5bdc-4ac2-a7f7-10b672600576": {
+      "ProjectGuid": "14f66f0c-5bdc-4ac2-a7f7-10b672600576",
+      "DisplayName": "JoinAsForCycle",
+      "ColorIndex": 11
+    },
+    "140c480e-db84-48c4-a53c-27ed11958ae3": {
+      "ProjectGuid": "140c480e-db84-48c4-a53c-27ed11958ae3",
+      "DisplayName": "04.ReverseArrayOfStrings",
+      "ColorIndex": 12
+    },
+    "4a1e5ffc-b579-44fa-849b-fb350f176c2b": {
+      "ProjectGuid": "4a1e5ffc-b579-44fa-849b-fb350f176c2b",
+      "DisplayName": "ForEach",
+      "ColorIndex": 13
+    },
+    "f94281ba-15ed-46c4-8ec1-54d110cb762e": {
+      "ProjectGuid": "f94281ba-15ed-46c4-8ec1-54d110cb762e",
+      "DisplayName": "ForEachMore",
+      "ColorIndex": 14
+    },
+    "93bc7373-49a2-4143-91b1-12d9dab24112": {
+      "ProjectGuid": "93bc7373-49a2-4143-91b1-12d9dab24112",
+      "DisplayName": "AwayFromZeroRounding",
+      "ColorIndex": 15
+    },
+    "bcabc7c5-8e87-43fc-959d-01d244d2ad3d": {
+      "ProjectGuid": "bcabc7c5-8e87-43fc-959d-01d244d2ad3d",
+      "DisplayName": "CondenseNumbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

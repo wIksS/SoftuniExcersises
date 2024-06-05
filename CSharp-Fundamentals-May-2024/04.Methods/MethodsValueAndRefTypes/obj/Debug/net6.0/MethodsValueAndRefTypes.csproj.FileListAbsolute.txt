@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\MethodsValueAndRefTypes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\MethodsValueAndRefTypes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\MethodsValueAndRefTypes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\MethodsValueAndRefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\ref\MethodsValueAndRefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\bin\Debug\net6.0\MethodsValueAndRefTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\ref\MethodsValueAndRefTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsValueAndRefTypes\obj\Debug\net6.0\MethodsValueAndRefTypes.genruntimeconfig.cache

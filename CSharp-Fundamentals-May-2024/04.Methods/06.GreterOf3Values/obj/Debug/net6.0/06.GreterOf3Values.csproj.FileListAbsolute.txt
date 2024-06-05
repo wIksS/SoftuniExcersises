@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\06.GreterOf3Values.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\06.GreterOf3Values.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\06.GreterOf3Values.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\06.GreterOf3Values.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\ref\06.GreterOf3Values.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\bin\Debug\net6.0\06.GreterOf3Values.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\ref\06.GreterOf3Values.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\06.GreterOf3Values\obj\Debug\net6.0\06.GreterOf3Values.genruntimeconfig.cache

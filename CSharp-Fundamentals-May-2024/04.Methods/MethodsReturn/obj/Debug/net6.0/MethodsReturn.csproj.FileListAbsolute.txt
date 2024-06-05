@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\MethodsReturn.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\MethodsReturn.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\MethodsReturn.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\MethodsReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\ref\MethodsReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\bin\Debug\net6.0\MethodsReturn.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\ref\MethodsReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\MethodsReturn\obj\Debug\net6.0\MethodsReturn.genruntimeconfig.cache

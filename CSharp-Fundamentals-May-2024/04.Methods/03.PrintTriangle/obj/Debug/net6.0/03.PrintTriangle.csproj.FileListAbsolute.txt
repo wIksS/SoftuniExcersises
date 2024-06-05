@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\03.PrintTriangle.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\03.PrintTriangle.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\03.PrintTriangle.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\03.PrintTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\ref\03.PrintTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\bin\Debug\net6.0\03.PrintTriangle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\ref\03.PrintTriangle.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\03.PrintTriangle\obj\Debug\net6.0\03.PrintTriangle.genruntimeconfig.cache

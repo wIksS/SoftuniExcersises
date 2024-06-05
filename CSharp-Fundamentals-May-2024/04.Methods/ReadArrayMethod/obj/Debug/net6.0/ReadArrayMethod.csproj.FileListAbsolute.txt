@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ReadArrayMethod.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ReadArrayMethod.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ReadArrayMethod.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ReadArrayMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ref\ReadArrayMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\bin\Debug\net6.0\ReadArrayMethod.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ref\ReadArrayMethod.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Methods\ReadArrayMethod\obj\Debug\net6.0\ReadArrayMethod.genruntimeconfig.cache
