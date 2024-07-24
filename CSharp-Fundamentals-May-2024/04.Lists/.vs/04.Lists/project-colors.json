@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b320e8fc-b9bb-4e51-b366-cd8059c06146": {
+      "ProjectGuid": "b320e8fc-b9bb-4e51-b366-cd8059c06146",
+      "DisplayName": "04.Lists",
+      "ColorIndex": 0
+    },
+    "939f815a-c169-4770-a20c-fb83138e9aea": {
+      "ProjectGuid": "939f815a-c169-4770-a20c-fb83138e9aea",
+      "DisplayName": "ListConstructors",
+      "ColorIndex": 1
+    },
+    "7b34bc4c-2ea2-426d-bb48-ad4621aca504": {
+      "ProjectGuid": "7b34bc4c-2ea2-426d-bb48-ad4621aca504",
+      "DisplayName": "ListConstructors2",
+      "ColorIndex": 2
+    },
+    "6d79e49a-9889-4ef7-9644-40c6a07c474e": {
+      "ProjectGuid": "6d79e49a-9889-4ef7-9644-40c6a07c474e",
+      "DisplayName": "Generics",
+      "ColorIndex": 3
+    },
+    "c80a18c8-d83d-4e32-ac41-ff3c0e55d78a": {
+      "ProjectGuid": "c80a18c8-d83d-4e32-ac41-ff3c0e55d78a",
+      "DisplayName": "OldTemplate",
+      "ColorIndex": 4
+    },
+    "20dfa949-7eeb-44cb-a5a2-aa9d64b9d100": {
+      "ProjectGuid": "20dfa949-7eeb-44cb-a5a2-aa9d64b9d100",
+      "DisplayName": "ListCreation",
+      "ColorIndex": 5
+    },
+    "930e3e69-4b1f-46ba-a57d-f0f95eba08f9": {
+      "ProjectGuid": "930e3e69-4b1f-46ba-a57d-f0f95eba08f9",
+      "DisplayName": "ListCretation2",
+      "ColorIndex": 6
+    },
+    "ee45f64c-bbc2-42bf-a577-56bd1015482d": {
+      "ProjectGuid": "ee45f64c-bbc2-42bf-a577-56bd1015482d",
+      "DisplayName": "Insert",
+      "ColorIndex": 7
+    },
+    "31641a4c-4759-48d7-a320-249f66d0217c": {
+      "ProjectGuid": "31641a4c-4759-48d7-a320-249f66d0217c",
+      "DisplayName": "ReadLists",
+      "ColorIndex": 8
+    },
+    "9bb364d7-402d-4922-acec-9912383c5722": {
+      "ProjectGuid": "9bb364d7-402d-4922-acec-9912383c5722",
+      "DisplayName": "ReadListOnOneLine",
+      "ColorIndex": 9
+    },
+    "df6c8f7d-9d4b-40f2-933a-38e7d4db03f4": {
+      "ProjectGuid": "df6c8f7d-9d4b-40f2-933a-38e7d4db03f4",
+      "DisplayName": "01.GaussTrick",
+      "ColorIndex": 10
+    },
+    "9782bf6e-d95c-4518-9f99-00958f430e14": {
+      "ProjectGuid": "9782bf6e-d95c-4518-9f99-00958f430e14",
+      "DisplayName": "02.MergingLists",
+      "ColorIndex": 11
+    },
+    "a4de0702-104e-44c5-b741-5617678a8c93": {
+      "ProjectGuid": "a4de0702-104e-44c5-b741-5617678a8c93",
+      "DisplayName": "AddRange",
+      "ColorIndex": 12
+    },
+    "d98b9d8b-8875-409d-8f32-11c20156e337": {
+      "ProjectGuid": "d98b9d8b-8875-409d-8f32-11c20156e337",
+      "DisplayName": "ListSort",
+      "ColorIndex": 13
+    },
+    "e8e1b635-9c57-4c0b-abc0-0ac56ea4bba3": {
+      "ProjectGuid": "e8e1b635-9c57-4c0b-abc0-0ac56ea4bba3",
+      "DisplayName": "03.SortedProducts",
+      "ColorIndex": 14
+    },
+    "a24b0ab1-75a0-484b-ac42-54f5e8c07baf": {
+      "ProjectGuid": "a24b0ab1-75a0-484b-ac42-54f5e8c07baf",
+      "DisplayName": "05.RemoveNegativesAndReverse",
+      "ColorIndex": 15
+    },
+    "2d34af0a-1905-4db0-9568-81fbca183146": {
+      "ProjectGuid": "2d34af0a-1905-4db0-9568-81fbca183146",
+      "DisplayName": "ListMethods",
+      "ColorIndex": 0
+    },
+    "6ac87d4f-5d55-4dba-a71e-4f3ec9505024": {
+      "ProjectGuid": "6ac87d4f-5d55-4dba-a71e-4f3ec9505024",
+      "DisplayName": "CodeSnippets",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

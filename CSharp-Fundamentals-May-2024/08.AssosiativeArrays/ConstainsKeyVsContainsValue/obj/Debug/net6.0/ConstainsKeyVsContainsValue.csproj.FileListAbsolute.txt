@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ConstainsKeyVsContainsValue.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ConstainsKeyVsContainsValue.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ConstainsKeyVsContainsValue.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ConstainsKeyVsContainsValue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ref\ConstainsKeyVsContainsValue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\bin\Debug\net6.0\ConstainsKeyVsContainsValue.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ref\ConstainsKeyVsContainsValue.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ConstainsKeyVsContainsValue\obj\Debug\net6.0\ConstainsKeyVsContainsValue.genruntimeconfig.cache

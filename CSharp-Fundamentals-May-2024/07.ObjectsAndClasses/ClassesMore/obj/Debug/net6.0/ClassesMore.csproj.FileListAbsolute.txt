@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ClassesMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ClassesMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ClassesMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ClassesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ref\ClassesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\bin\Debug\net6.0\ClassesMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ref\ClassesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ClassesMore\obj\Debug\net6.0\ClassesMore.genruntimeconfig.cache

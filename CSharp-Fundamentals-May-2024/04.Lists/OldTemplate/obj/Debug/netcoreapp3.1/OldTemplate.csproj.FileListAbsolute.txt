@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.runtimeconfig.dev.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\bin\Debug\netcoreapp3.1\OldTemplate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\OldTemplate\obj\Debug\netcoreapp3.1\OldTemplate.genruntimeconfig.cache

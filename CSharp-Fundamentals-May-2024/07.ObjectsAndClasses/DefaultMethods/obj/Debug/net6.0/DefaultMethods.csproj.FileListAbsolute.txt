@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\DefaultMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\DefaultMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\DefaultMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\DefaultMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\ref\DefaultMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\bin\Debug\net6.0\DefaultMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\ref\DefaultMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\DefaultMethods\obj\Debug\net6.0\DefaultMethods.genruntimeconfig.cache

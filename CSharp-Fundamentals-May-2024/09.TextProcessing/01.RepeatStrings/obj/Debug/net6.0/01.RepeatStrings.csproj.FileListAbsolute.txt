@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\01.RepeatStrings.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\01.RepeatStrings.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\01.RepeatStrings.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\01.RepeatStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\ref\01.RepeatStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\bin\Debug\net6.0\01.RepeatStrings.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\ref\01.RepeatStrings.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\01.RepeatStrings\obj\Debug\net6.0\01.RepeatStrings.genruntimeconfig.cache

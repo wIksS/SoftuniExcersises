@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\Splitting.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\Splitting.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\Splitting.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\Splitting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\ref\Splitting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\bin\Debug\net6.0\Splitting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\ref\Splitting.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Splitting\obj\Debug\net6.0\Splitting.genruntimeconfig.cache

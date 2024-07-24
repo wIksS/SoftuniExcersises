@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\1.WithoutStringBuilder.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\1.WithoutStringBuilder.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\1.WithoutStringBuilder.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\1.WithoutStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\ref\1.WithoutStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\bin\Debug\net6.0\1.WithoutStringBuilder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\ref\1.WithoutStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\1.WithoutStringBuilder\obj\Debug\net6.0\1.WithoutStringBuilder.genruntimeconfig.cache

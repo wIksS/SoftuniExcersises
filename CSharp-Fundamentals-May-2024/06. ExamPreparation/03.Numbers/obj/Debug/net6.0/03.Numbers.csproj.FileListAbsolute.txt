@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\ref\03.Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\bin\Debug\net6.0\03.Numbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\ref\03.Numbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\03.Numbers\obj\Debug\net6.0\03.Numbers.genruntimeconfig.cache

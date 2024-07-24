@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\02.BigInteger.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\02.BigInteger.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\02.BigInteger.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\02.BigInteger.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\ref\02.BigInteger.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\bin\Debug\net6.0\02.BigInteger.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\ref\02.BigInteger.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\02.BigInteger\obj\Debug\net6.0\02.BigInteger.genruntimeconfig.cache

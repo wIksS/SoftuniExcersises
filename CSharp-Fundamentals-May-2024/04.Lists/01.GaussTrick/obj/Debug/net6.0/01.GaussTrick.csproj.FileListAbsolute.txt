@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\ref\01.GaussTrick.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\bin\Debug\net6.0\01.GaussTrick.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\ref\01.GaussTrick.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\01.GaussTrick\obj\Debug\net6.0\01.GaussTrick.genruntimeconfig.cache

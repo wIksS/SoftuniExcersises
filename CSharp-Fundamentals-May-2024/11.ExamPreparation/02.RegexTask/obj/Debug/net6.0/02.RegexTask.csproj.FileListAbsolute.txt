@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\02.RegexTask.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\02.RegexTask.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\02.RegexTask.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\02.RegexTask.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\ref\02.RegexTask.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\bin\Debug\net6.0\02.RegexTask.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\ref\02.RegexTask.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\02.RegexTask\obj\Debug\net6.0\02.RegexTask.genruntimeconfig.cache

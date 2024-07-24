@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\SortedDictionaryExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\SortedDictionaryExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\SortedDictionaryExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\SortedDictionaryExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\ref\SortedDictionaryExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\bin\Debug\net6.0\SortedDictionaryExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\ref\SortedDictionaryExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\SortedDictionaryExample\obj\Debug\net6.0\SortedDictionaryExample.genruntimeconfig.cache

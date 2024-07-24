@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\Immutable.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\Immutable.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\Immutable.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\Immutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\ref\Immutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\bin\Debug\net6.0\Immutable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\ref\Immutable.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\Immutable\obj\Debug\net6.0\Immutable.genruntimeconfig.cache

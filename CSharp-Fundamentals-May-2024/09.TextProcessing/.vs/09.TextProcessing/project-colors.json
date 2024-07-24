@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2b30521-71ea-4749-a60f-6b8349b73c9d": {
+      "ProjectGuid": "d2b30521-71ea-4749-a60f-6b8349b73c9d",
+      "DisplayName": "09.TextProcessing",
+      "ColorIndex": 0
+    },
+    "baf75601-13d8-40b9-b1f5-6ef31dea2562": {
+      "ProjectGuid": "baf75601-13d8-40b9-b1f5-6ef31dea2562",
+      "DisplayName": "Immutable",
+      "ColorIndex": 1
+    },
+    "d0f7da80-723b-49af-98c8-61b765f47cb5": {
+      "ProjectGuid": "d0f7da80-723b-49af-98c8-61b765f47cb5",
+      "DisplayName": "01.RepeatStrings",
+      "ColorIndex": 2
+    },
+    "5db046eb-1f33-4434-9980-04f710781c70": {
+      "ProjectGuid": "5db046eb-1f33-4434-9980-04f710781c70",
+      "DisplayName": "IndexOfExample",
+      "ColorIndex": 3
+    },
+    "d8633ba2-379c-457b-aca2-e1dbda395c72": {
+      "ProjectGuid": "d8633ba2-379c-457b-aca2-e1dbda395c72",
+      "DisplayName": "WordsCounter",
+      "ColorIndex": 4
+    },
+    "b87c7749-b8fa-4748-bd7a-aca18654f7ff": {
+      "ProjectGuid": "b87c7749-b8fa-4748-bd7a-aca18654f7ff",
+      "DisplayName": "Substring",
+      "ColorIndex": 5
+    },
+    "68904630-bc32-4269-a717-4c96696dc97f": {
+      "ProjectGuid": "68904630-bc32-4269-a717-4c96696dc97f",
+      "DisplayName": "02.RemoveWord",
+      "ColorIndex": 6
+    },
+    "4d995841-db3c-4e8d-a395-768ca9554e69": {
+      "ProjectGuid": "4d995841-db3c-4e8d-a395-768ca9554e69",
+      "DisplayName": "Splitting",
+      "ColorIndex": 7
+    },
+    "4898963c-533b-46a8-b838-140227de65a4": {
+      "ProjectGuid": "4898963c-533b-46a8-b838-140227de65a4",
+      "DisplayName": "SplitOptions",
+      "ColorIndex": 8
+    },
+    "0ea4b646-707e-455e-98d1-ed05e9f9e391": {
+      "ProjectGuid": "0ea4b646-707e-455e-98d1-ed05e9f9e391",
+      "DisplayName": "Substring2",
+      "ColorIndex": 9
+    },
+    "98761aeb-268e-4c0a-b483-e79347cc1653": {
+      "ProjectGuid": "98761aeb-268e-4c0a-b483-e79347cc1653",
+      "DisplayName": "Replace",
+      "ColorIndex": 10
+    },
+    "01eba399-e4c5-4ffb-baae-3420df1059b6": {
+      "ProjectGuid": "01eba399-e4c5-4ffb-baae-3420df1059b6",
+      "DisplayName": "03.Filter",
+      "ColorIndex": 11
+    },
+    "2c50c26b-587e-4e14-8171-ed821d990e0e": {
+      "ProjectGuid": "2c50c26b-587e-4e14-8171-ed821d990e0e",
+      "DisplayName": "StringBuilderExample",
+      "ColorIndex": 12
+    },
+    "ab9f9fef-1a73-4077-ac4a-06fb5794072b": {
+      "ProjectGuid": "ab9f9fef-1a73-4077-ac4a-06fb5794072b",
+      "DisplayName": "PerformanceStringBuilder",
+      "ColorIndex": 13
+    },
+    "5e0253a6-2282-4226-9e2f-1928caba9622": {
+      "ProjectGuid": "5e0253a6-2282-4226-9e2f-1928caba9622",
+      "DisplayName": "11.ExamPreparation",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

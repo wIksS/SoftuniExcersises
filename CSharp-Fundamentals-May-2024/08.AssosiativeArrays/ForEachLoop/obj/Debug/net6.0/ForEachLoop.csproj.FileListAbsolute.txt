@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ForEachLoop.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ForEachLoop.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ForEachLoop.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ForEachLoop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ref\ForEachLoop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\bin\Debug\net6.0\ForEachLoop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ref\ForEachLoop.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ForEachLoop\obj\Debug\net6.0\ForEachLoop.genruntimeconfig.cache

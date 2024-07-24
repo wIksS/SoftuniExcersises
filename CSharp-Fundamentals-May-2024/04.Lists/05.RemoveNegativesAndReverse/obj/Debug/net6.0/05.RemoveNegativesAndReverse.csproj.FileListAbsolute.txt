@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\ref\05.RemoveNegativesAndReverse.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\05.RemoveNegativesAndReverse.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache

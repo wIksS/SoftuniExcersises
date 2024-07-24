@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\02.ShootForTheWin.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\02.ShootForTheWin.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\02.ShootForTheWin.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\02.ShootForTheWin.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\ref\02.ShootForTheWin.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\bin\Debug\net6.0\02.ShootForTheWin.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\ref\02.ShootForTheWin.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\06. ExamPreparation\02.ShootForTheWin\obj\Debug\net6.0\02.ShootForTheWin.genruntimeconfig.cache

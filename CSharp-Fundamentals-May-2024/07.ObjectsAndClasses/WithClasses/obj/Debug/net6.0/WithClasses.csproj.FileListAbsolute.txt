@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\WithClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\WithClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\WithClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\WithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\ref\WithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\bin\Debug\net6.0\WithClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\ref\WithClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\WithClasses\obj\Debug\net6.0\WithClasses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\ref\StringBuilderExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache

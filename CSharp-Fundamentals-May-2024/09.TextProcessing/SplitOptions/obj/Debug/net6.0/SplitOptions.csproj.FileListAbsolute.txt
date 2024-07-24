@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\SplitOptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\SplitOptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\SplitOptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\SplitOptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\ref\SplitOptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\bin\Debug\net6.0\SplitOptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\ref\SplitOptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\SplitOptions\obj\Debug\net6.0\SplitOptions.genruntimeconfig.cache

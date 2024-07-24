@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ReadListOnOneLine.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ReadListOnOneLine.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ReadListOnOneLine.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ReadListOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ref\ReadListOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\bin\Debug\net6.0\ReadListOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ref\ReadListOnOneLine.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\ReadListOnOneLine\obj\Debug\net6.0\ReadListOnOneLine.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\ref\Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache

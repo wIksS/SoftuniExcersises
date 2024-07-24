@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bf262a2-d037-463b-b758-cc2b607fef81": {
+      "ProjectGuid": "3bf262a2-d037-463b-b758-cc2b607fef81",
+      "DisplayName": "07.ObjectsAndClasses",
+      "ColorIndex": 0
+    },
+    "9d21447b-a0d7-4563-9092-438b51013b86": {
+      "ProjectGuid": "9d21447b-a0d7-4563-9092-438b51013b86",
+      "DisplayName": "WithClasses",
+      "ColorIndex": 1
+    },
+    "b3b111fd-e863-4b47-ae36-b0de8b0798c8": {
+      "ProjectGuid": "b3b111fd-e863-4b47-ae36-b0de8b0798c8",
+      "DisplayName": "ClassesMore",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "87c90816-4ef8-402f-98eb-6e68bcf44d51": {
+      "ProjectGuid": "87c90816-4ef8-402f-98eb-6e68bcf44d51",
+      "DisplayName": "Properties",
+      "ColorIndex": 3
+    },
+    "01731089-0812-4c07-b9a4-075814dc91a5": {
+      "ProjectGuid": "01731089-0812-4c07-b9a4-075814dc91a5",
+      "DisplayName": "dotNetClasses",
+      "ColorIndex": 4
+    },
+    "8c68c015-c939-41c3-bad8-0070f92e7282": {
+      "ProjectGuid": "8c68c015-c939-41c3-bad8-0070f92e7282",
+      "DisplayName": "01.RandomizeWords",
+      "ColorIndex": 5
+    },
+    "611d9b21-c986-43ac-8c40-d73e9961045e": {
+      "ProjectGuid": "611d9b21-c986-43ac-8c40-d73e9961045e",
+      "DisplayName": "ClassMethods",
+      "ColorIndex": 6
+    },
+    "f6cce94c-0aaa-4bb2-b8dc-ad6d7570d6e9": {
+      "ProjectGuid": "f6cce94c-0aaa-4bb2-b8dc-ad6d7570d6e9",
+      "DisplayName": "02.BigInteger",
+      "ColorIndex": 7
+    },
+    "b5e42b18-5c93-401d-b6c2-db146507d3b0": {
+      "ProjectGuid": "b5e42b18-5c93-401d-b6c2-db146507d3b0",
+      "DisplayName": "Constructors",
+      "ColorIndex": 8
+    },
+    "7e1ac455-110b-4c85-9576-7d7b0ce72216": {
+      "ProjectGuid": "7e1ac455-110b-4c85-9576-7d7b0ce72216",
+      "DisplayName": "ConstructorParameters",
+      "ColorIndex": 9
+    },
+    "99b89d7f-68bf-476a-a452-be111f244775": {
+      "ProjectGuid": "99b89d7f-68bf-476a-a452-be111f244775",
+      "DisplayName": "Next",
+      "ColorIndex": 10
+    },
+    "eed904b8-f802-4fbd-8027-ea1756a074b4": {
+      "ProjectGuid": "eed904b8-f802-4fbd-8027-ea1756a074b4",
+      "DisplayName": "Getters",
+      "ColorIndex": 11
+    },
+    "347394e1-31ae-47ab-b136-877a9c307034": {
+      "ProjectGuid": "347394e1-31ae-47ab-b136-877a9c307034",
+      "DisplayName": "DefaultMethods",
+      "ColorIndex": 12
+    },
+    "a8650ed9-ed07-4b67-816a-a477fedf798c": {
+      "ProjectGuid": "a8650ed9-ed07-4b67-816a-a477fedf798c",
+      "DisplayName": "SoftUniJudge",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

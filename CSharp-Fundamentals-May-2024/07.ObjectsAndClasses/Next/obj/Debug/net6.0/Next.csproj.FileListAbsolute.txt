@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\Next.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\Next.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\Next.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\Next.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\ref\Next.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\bin\Debug\net6.0\Next.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\ref\Next.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\Next\obj\Debug\net6.0\Next.genruntimeconfig.cache

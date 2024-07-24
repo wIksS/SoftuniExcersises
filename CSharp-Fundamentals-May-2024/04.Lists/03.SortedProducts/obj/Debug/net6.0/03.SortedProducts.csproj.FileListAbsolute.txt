@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\03.SortedProducts.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\03.SortedProducts.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\03.SortedProducts.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\03.SortedProducts.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\ref\03.SortedProducts.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\bin\Debug\net6.0\03.SortedProducts.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\ref\03.SortedProducts.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\03.SortedProducts\obj\Debug\net6.0\03.SortedProducts.genruntimeconfig.cache

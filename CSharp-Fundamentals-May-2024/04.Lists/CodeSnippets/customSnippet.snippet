@@ -1,0 +1,32 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Custom snippet</Title>
+      <Shortcut>customsnippet</Shortcut>
+      <Description>Code snippet for switch statement</Description>
+      <Author>Microsoft Corporation</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>expression</ID>
+          <ToolTip>Expression to switch on</ToolTip>
+          <Default>switch_on</Default>
+        </Literal>
+        <Literal Editable="false">
+          <ID>cases</ID>
+          <Function>GenerateSwitchCases($expression$)</Function>
+          <Default>default:</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+                    test if this will work
+                ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

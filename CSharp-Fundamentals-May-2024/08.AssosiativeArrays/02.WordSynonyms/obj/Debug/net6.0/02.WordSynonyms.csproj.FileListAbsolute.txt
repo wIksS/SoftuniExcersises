@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\02.WordSynonyms.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\02.WordSynonyms.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\02.WordSynonyms.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\02.WordSynonyms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\ref\02.WordSynonyms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\bin\Debug\net6.0\02.WordSynonyms.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\ref\02.WordSynonyms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\02.WordSynonyms\obj\Debug\net6.0\02.WordSynonyms.genruntimeconfig.cache

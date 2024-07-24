@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\ref\01.RandomizeWords.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\bin\Debug\net6.0\01.RandomizeWords.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\ref\01.RandomizeWords.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\01.RandomizeWords\obj\Debug\net6.0\01.RandomizeWords.genruntimeconfig.cache

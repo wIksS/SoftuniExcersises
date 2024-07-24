@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\02.MergingLists.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\02.MergingLists.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\02.MergingLists.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\02.MergingLists.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\ref\02.MergingLists.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\bin\Debug\net6.0\02.MergingLists.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\ref\02.MergingLists.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\04.Lists\02.MergingLists\obj\Debug\net6.0\02.MergingLists.genruntimeconfig.cache

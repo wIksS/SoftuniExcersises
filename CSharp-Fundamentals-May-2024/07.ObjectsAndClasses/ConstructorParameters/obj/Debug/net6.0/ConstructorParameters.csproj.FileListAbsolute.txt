@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ConstructorParameters.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ConstructorParameters.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ConstructorParameters.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ConstructorParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ref\ConstructorParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\bin\Debug\net6.0\ConstructorParameters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ref\ConstructorParameters.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\ConstructorParameters\obj\Debug\net6.0\ConstructorParameters.genruntimeconfig.cache

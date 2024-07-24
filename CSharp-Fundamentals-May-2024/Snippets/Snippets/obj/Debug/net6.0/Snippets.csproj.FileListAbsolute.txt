@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\Snippets.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\Snippets.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\Snippets.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\Snippets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\ref\Snippets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\bin\Debug\net6.0\Snippets.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\ref\Snippets.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\Snippets\Snippets\obj\Debug\net6.0\Snippets.genruntimeconfig.cache

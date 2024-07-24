@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ReadDictionaryFromConsole.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ReadDictionaryFromConsole.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ReadDictionaryFromConsole.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ReadDictionaryFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ref\ReadDictionaryFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\bin\Debug\net6.0\ReadDictionaryFromConsole.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ref\ReadDictionaryFromConsole.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\ReadDictionaryFromConsole\obj\Debug\net6.0\ReadDictionaryFromConsole.genruntimeconfig.cache

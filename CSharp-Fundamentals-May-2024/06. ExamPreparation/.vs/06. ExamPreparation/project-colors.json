@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55084617-d538-4e6e-a2c2-80a8e8b62e07": {
+      "ProjectGuid": "55084617-d538-4e6e-a2c2-80a8e8b62e07",
+      "DisplayName": "06. ExamPreparation",
+      "ColorIndex": 0
+    },
+    "d93297f5-d4ff-4e82-a6bf-adb96a0c06c9": {
+      "ProjectGuid": "d93297f5-d4ff-4e82-a6bf-adb96a0c06c9",
+      "DisplayName": "02.ShootForTheWin",
+      "ColorIndex": 1
+    },
+    "7dd5977a-7e3b-4ee4-88a0-0364d6f455d4": {
+      "ProjectGuid": "7dd5977a-7e3b-4ee4-88a0-0364d6f455d4",
+      "DisplayName": "03.Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

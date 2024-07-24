@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\08.AssosiativeArrays.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\08.AssosiativeArrays.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\08.AssosiativeArrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\08.AssosiativeArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\ref\08.AssosiativeArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\bin\Debug\net6.0\08.AssosiativeArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\ref\08.AssosiativeArrays.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\08.AssosiativeArrays\obj\Debug\net6.0\08.AssosiativeArrays.genruntimeconfig.cache

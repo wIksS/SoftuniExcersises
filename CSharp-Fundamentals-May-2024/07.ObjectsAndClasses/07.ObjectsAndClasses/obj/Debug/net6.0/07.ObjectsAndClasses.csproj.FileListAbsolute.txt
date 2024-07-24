@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\07.ObjectsAndClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\07.ObjectsAndClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\07.ObjectsAndClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\07.ObjectsAndClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\ref\07.ObjectsAndClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\bin\Debug\net6.0\07.ObjectsAndClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\ref\07.ObjectsAndClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\07.ObjectsAndClasses\07.ObjectsAndClasses\obj\Debug\net6.0\07.ObjectsAndClasses.genruntimeconfig.cache

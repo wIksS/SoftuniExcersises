@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\02.RemoveWord.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\02.RemoveWord.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\02.RemoveWord.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\02.RemoveWord.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\ref\02.RemoveWord.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\bin\Debug\net6.0\02.RemoveWord.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\ref\02.RemoveWord.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\02.RemoveWord\obj\Debug\net6.0\02.RemoveWord.genruntimeconfig.cache

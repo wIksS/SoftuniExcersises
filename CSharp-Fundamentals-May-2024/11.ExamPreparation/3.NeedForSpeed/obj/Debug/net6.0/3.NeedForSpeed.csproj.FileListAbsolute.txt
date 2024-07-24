@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\3.NeedForSpeed.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\3.NeedForSpeed.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\3.NeedForSpeed.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\3.NeedForSpeed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\ref\3.NeedForSpeed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\bin\Debug\net6.0\3.NeedForSpeed.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\ref\3.NeedForSpeed.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\11.ExamPreparation\3.NeedForSpeed\obj\Debug\net6.0\3.NeedForSpeed.genruntimeconfig.cache

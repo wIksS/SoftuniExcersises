@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\PerformanceStringBuilder.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\PerformanceStringBuilder.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\PerformanceStringBuilder.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\PerformanceStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\ref\PerformanceStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\bin\Debug\net6.0\PerformanceStringBuilder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\ref\PerformanceStringBuilder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\09.TextProcessing\PerformanceStringBuilder\obj\Debug\net6.0\PerformanceStringBuilder.genruntimeconfig.cache

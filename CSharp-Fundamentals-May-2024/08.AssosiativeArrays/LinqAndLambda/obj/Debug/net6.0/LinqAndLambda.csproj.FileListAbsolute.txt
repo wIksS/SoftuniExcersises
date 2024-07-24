@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\ref\LinqAndLambda.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\ref\LinqAndLambda.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\08.AssosiativeArrays\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.genruntimeconfig.cache
