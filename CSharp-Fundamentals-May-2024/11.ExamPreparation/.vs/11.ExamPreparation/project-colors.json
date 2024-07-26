@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cf611f2-5390-412c-92e8-bba4c751338b": {
+      "ProjectGuid": "7cf611f2-5390-412c-92e8-bba4c751338b",
+      "DisplayName": "11.ExamPreparation",
+      "ColorIndex": 0
+    },
+    "6c4fdd83-b7ae-45d2-acff-320f0e46ad11": {
+      "ProjectGuid": "6c4fdd83-b7ae-45d2-acff-320f0e46ad11",
+      "DisplayName": "1.WithoutStringBuilder",
+      "ColorIndex": 1
+    },
+    "c7737670-5004-4fa3-b07c-5c57cbcb4e8e": {
+      "ProjectGuid": "c7737670-5004-4fa3-b07c-5c57cbcb4e8e",
+      "DisplayName": "02.RegexTask",
+      "ColorIndex": 2
+    },
+    "91644ff9-07b7-4d27-9f82-4418cf4ce3f7": {
+      "ProjectGuid": "91644ff9-07b7-4d27-9f82-4418cf4ce3f7",
+      "DisplayName": "3.NeedForSpeed",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

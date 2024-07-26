@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\02.MirrorWorsd.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\02.MirrorWorsd.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\02.MirrorWorsd.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\02.MirrorWorsd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\ref\02.MirrorWorsd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\bin\Debug\net6.0\02.MirrorWorsd.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\ref\02.MirrorWorsd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\02.MirrorWorsd\obj\Debug\net6.0\02.MirrorWorsd.genruntimeconfig.cache

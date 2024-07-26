@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d533428-5ee0-45c3-ae3b-9d47c22d6e9f": {
+      "ProjectGuid": "6d533428-5ee0-45c3-ae3b-9d47c22d6e9f",
+      "DisplayName": "01.WorldTour",
+      "ColorIndex": 0
+    },
+    "76d784b8-da23-4359-8a66-fbccbb0a55ea": {
+      "ProjectGuid": "76d784b8-da23-4359-8a66-fbccbb0a55ea",
+      "DisplayName": "02.MirrorWorsd",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

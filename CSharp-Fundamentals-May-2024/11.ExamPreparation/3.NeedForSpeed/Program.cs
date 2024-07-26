@@ -1,5 +1,4 @@
 ﻿
-using _3.NeedForSpeed;
 
 IRenderer console = new TextRenderer(); 
 
@@ -109,4 +108,49 @@ class Car
     public int Mileage { get; set; }
 
     public int Fuel { get; set; }
+}
+
+public interface IRenderer
+{
+    void WriteLine(string message);
+    void Write(string message);
+}
+
+internal class ConsoleRenderer : IRenderer
+{
+    public void Write(string message)
+    {
+        Console.Write(message);
+    }
+
+    public void WriteLine(string message)
+    {
+        Console.WriteLine(message);
+    }
+}
+
+public class TextRenderer : IRenderer
+{
+    string path = "../../../output.txt";
+
+    public TextRenderer()
+    {
+        File.Delete(path);
+    }
+
+    public void Write(string message)
+    {
+        using (StreamWriter writer = new StreamWriter(path, true))
+        {
+            writer.Write(message);
+        }
+    }
+
+    public void WriteLine(string message)
+    {
+        using (StreamWriter writer = new StreamWriter(path, true))
+        {
+            writer.WriteLine(message);
+        }
+    }
 }

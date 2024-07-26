@@ -1,0 +1,10 @@
+Spring by Vivaldi in E Major added to the collection!
+Successfully removed The Marriage of Figaro!
+Invalid operation! Turkish March does not exist in the collection.
+Changed the key of Spring to C Major!
+Nocturne by Chopin in C# Minor added to the collection!
+Eine kleine Nachtmusik -> Composer: Mozart, Key: G Major
+La Campanella -> Composer: Liszt, Key: G# Minor
+Nocturne -> Composer: Chopin, Key: C# Minor
+Hungarian Dance No.5 -> Composer: Brahms, Key: G Minor
+Spring -> Composer: Vivaldi, Key: C Major

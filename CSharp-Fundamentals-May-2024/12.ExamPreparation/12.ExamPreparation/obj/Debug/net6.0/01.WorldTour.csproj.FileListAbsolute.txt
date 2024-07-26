@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\01.WorldTour.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\01.WorldTour.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\01.WorldTour.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\01.WorldTour.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\ref\01.WorldTour.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\bin\Debug\net6.0\01.WorldTour.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\ref\01.WorldTour.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Fundamentals-May-2024\12.ExamPreparation\12.ExamPreparation\obj\Debug\net6.0\01.WorldTour.genruntimeconfig.cache
