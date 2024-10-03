@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\05.CitiesAndCountries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\05.CitiesAndCountries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\05.CitiesAndCountries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\05.CitiesAndCountries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\ref\05.CitiesAndCountries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\bin\Debug\net6.0\05.CitiesAndCountries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\ref\05.CitiesAndCountries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\05.CitiesAndCountries\obj\Debug\net6.0\05.CitiesAndCountries.genruntimeconfig.cache

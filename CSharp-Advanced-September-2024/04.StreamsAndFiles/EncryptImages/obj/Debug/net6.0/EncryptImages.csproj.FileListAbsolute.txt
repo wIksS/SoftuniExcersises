@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\EncryptImages.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\EncryptImages.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\EncryptImages.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\EncryptImages.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\ref\EncryptImages.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\bin\Debug\net6.0\EncryptImages.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\ref\EncryptImages.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\EncryptImages\obj\Debug\net6.0\EncryptImages.csproj.AssemblyReference.cache

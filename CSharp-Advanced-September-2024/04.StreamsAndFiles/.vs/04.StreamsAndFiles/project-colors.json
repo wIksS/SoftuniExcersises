@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04483053-218c-40ea-b918-b38a832679f2": {
+      "ProjectGuid": "04483053-218c-40ea-b918-b38a832679f2",
+      "DisplayName": "04.StreamsAndFiles",
+      "ColorIndex": 0
+    },
+    "ea783761-ae80-4fc2-8928-61367f4e3ce1": {
+      "ProjectGuid": "ea783761-ae80-4fc2-8928-61367f4e3ce1",
+      "DisplayName": "StreamReaderDemo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "52aa035d-4413-42d4-baf2-23ddb5fb3219": {
+      "ProjectGuid": "52aa035d-4413-42d4-baf2-23ddb5fb3219",
+      "DisplayName": "UsingDemo",
+      "ColorIndex": 2
+    },
+    "184999cd-8df1-46c7-8b3c-5412d37c3738": {
+      "ProjectGuid": "184999cd-8df1-46c7-8b3c-5412d37c3738",
+      "DisplayName": "01.OddLines",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\LambdaFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\LambdaFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\LambdaFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\LambdaFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\ref\LambdaFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\bin\Debug\net6.0\LambdaFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\ref\LambdaFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\LambdaFunctions\obj\Debug\net6.0\LambdaFunctions.genruntimeconfig.cache

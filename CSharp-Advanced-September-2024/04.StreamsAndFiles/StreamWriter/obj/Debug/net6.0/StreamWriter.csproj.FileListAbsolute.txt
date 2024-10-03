@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\StreamWriter.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\StreamWriter.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\StreamWriter.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\StreamWriter.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\ref\StreamWriter.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\bin\Debug\net6.0\StreamWriter.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\ref\StreamWriter.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\StreamWriter\obj\Debug\net6.0\StreamWriter.genruntimeconfig.cache

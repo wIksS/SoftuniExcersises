@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "907485ef-6f9c-43b9-8195-b772a34f60f7": {
+      "ProjectGuid": "907485ef-6f9c-43b9-8195-b772a34f60f7",
+      "DisplayName": "06.LinkedList",
+      "ColorIndex": 0
+    },
+    "6638f95b-2517-4c03-9728-955d038a33e1": {
+      "ProjectGuid": "6638f95b-2517-4c03-9728-955d038a33e1",
+      "DisplayName": "IteratingOverLinkedLIst",
+      "ColorIndex": 1
+    },
+    "d04f954b-c90f-4915-8275-2596eb8093d5": {
+      "ProjectGuid": "d04f954b-c90f-4915-8275-2596eb8093d5",
+      "DisplayName": "LinkedListAsStack",
+      "ColorIndex": 2
+    },
+    "17632aa8-c8da-44e2-b165-fbe6cd70d01d": {
+      "ProjectGuid": "17632aa8-c8da-44e2-b165-fbe6cd70d01d",
+      "DisplayName": "LinkedListPerformanceTest",
+      "ColorIndex": 3
+    },
+    "2e2afe9e-0da0-40f9-ad57-454bf8140e6b": {
+      "ProjectGuid": "2e2afe9e-0da0-40f9-ad57-454bf8140e6b",
+      "DisplayName": "CustomLinkedList",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

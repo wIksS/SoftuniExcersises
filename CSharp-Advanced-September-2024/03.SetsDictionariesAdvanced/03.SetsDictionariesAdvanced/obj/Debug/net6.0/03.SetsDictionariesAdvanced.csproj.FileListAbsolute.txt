@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\03.SetsDictionariesAdvanced.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\03.SetsDictionariesAdvanced.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\03.SetsDictionariesAdvanced.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\03.SetsDictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\ref\03.SetsDictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\bin\Debug\net6.0\03.SetsDictionariesAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\ref\03.SetsDictionariesAdvanced.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\03.SetsDictionariesAdvanced\obj\Debug\net6.0\03.SetsDictionariesAdvanced.genruntimeconfig.cache

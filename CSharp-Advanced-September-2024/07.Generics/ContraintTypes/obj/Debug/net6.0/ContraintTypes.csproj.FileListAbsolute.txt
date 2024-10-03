@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ContraintTypes.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ContraintTypes.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ContraintTypes.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ContraintTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ref\ContraintTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\bin\Debug\net6.0\ContraintTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ref\ContraintTypes.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\ContraintTypes\obj\Debug\net6.0\ContraintTypes.genruntimeconfig.cache

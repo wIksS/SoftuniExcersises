@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.LinkedList", "06.LinkedList\06.LinkedList.csproj", "{907485EF-6F9C-43B9-8195-B772A34F60F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratingOverLinkedLIst", "IteratingOverLinkedLIst\IteratingOverLinkedLIst.csproj", "{6638F95B-2517-4C03-9728-955D038A33E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListAsStack", "LinkedListPerformance\LinkedListAsStack.csproj", "{D04F954B-C90F-4915-8275-2596EB8093D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListPerformanceTest", "LinkedListPerformanceTest\LinkedListPerformanceTest.csproj", "{17632AA8-C8DA-44E2-B165-FBE6CD70D01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "CustomLinkedList\CustomLinkedList.csproj", "{2E2AFE9E-0DA0-40F9-AD57-454BF8140E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907485EF-6F9C-43B9-8195-B772A34F60F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907485EF-6F9C-43B9-8195-B772A34F60F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907485EF-6F9C-43B9-8195-B772A34F60F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907485EF-6F9C-43B9-8195-B772A34F60F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6638F95B-2517-4C03-9728-955D038A33E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6638F95B-2517-4C03-9728-955D038A33E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6638F95B-2517-4C03-9728-955D038A33E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6638F95B-2517-4C03-9728-955D038A33E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04F954B-C90F-4915-8275-2596EB8093D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04F954B-C90F-4915-8275-2596EB8093D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04F954B-C90F-4915-8275-2596EB8093D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04F954B-C90F-4915-8275-2596EB8093D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17632AA8-C8DA-44E2-B165-FBE6CD70D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17632AA8-C8DA-44E2-B165-FBE6CD70D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17632AA8-C8DA-44E2-B165-FBE6CD70D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17632AA8-C8DA-44E2-B165-FBE6CD70D01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2AFE9E-0DA0-40F9-AD57-454BF8140E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2AFE9E-0DA0-40F9-AD57-454BF8140E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2AFE9E-0DA0-40F9-AD57-454BF8140E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2AFE9E-0DA0-40F9-AD57-454BF8140E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEA67B2-32CA-4C8D-9F19-93690AD15237}
+	EndGlobalSection
+EndGlobal

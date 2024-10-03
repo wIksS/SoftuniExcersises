@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f5729ee-980e-4d67-b7d9-9eedee1a38a7": {
+      "ProjectGuid": "0f5729ee-980e-4d67-b7d9-9eedee1a38a7",
+      "DisplayName": "05.FunctionalProgramming",
+      "ColorIndex": 0
+    },
+    "47e08641-6fe8-46e3-b3bc-71f602e3433a": {
+      "ProjectGuid": "47e08641-6fe8-46e3-b3bc-71f602e3433a",
+      "DisplayName": "ImpureFunctions",
+      "ColorIndex": 1
+    },
+    "05676f91-f8c5-48e1-9e44-bbbd88edb1a2": {
+      "ProjectGuid": "05676f91-f8c5-48e1-9e44-bbbd88edb1a2",
+      "DisplayName": "SideEffects",
+      "ColorIndex": 2
+    },
+    "c857c4c8-22b2-4cac-b959-07f1767cddcb": {
+      "ProjectGuid": "c857c4c8-22b2-4cac-b959-07f1767cddcb",
+      "DisplayName": "FunctionalProgrammingExample",
+      "ColorIndex": 3
+    },
+    "9db33fdf-ad80-4797-a441-4cb37663dce5": {
+      "ProjectGuid": "9db33fdf-ad80-4797-a441-4cb37663dce5",
+      "DisplayName": "LambdaFunctions",
+      "ColorIndex": 4
+    },
+    "76341c09-b6e2-4ae6-93cf-a5787728396f": {
+      "ProjectGuid": "76341c09-b6e2-4ae6-93cf-a5787728396f",
+      "DisplayName": "LambdaExperessionDemo",
+      "ColorIndex": 5
+    },
+    "75e8d217-8748-4169-9bf9-0d4613e410f0": {
+      "ProjectGuid": "75e8d217-8748-4169-9bf9-0d4613e410f0",
+      "DisplayName": "Demo",
+      "ColorIndex": 6
+    },
+    "f5dd0395-c4bb-4308-8e0c-6c410ba74d0c": {
+      "ProjectGuid": "f5dd0395-c4bb-4308-8e0c-6c410ba74d0c",
+      "DisplayName": "01.SortEvenNumbers",
+      "ColorIndex": 7
+    },
+    "af57216a-83b1-4a30-83d2-6ae964ed31ae": {
+      "ProjectGuid": "af57216a-83b1-4a30-83d2-6ae964ed31ae",
+      "DisplayName": "FunctionsAsData",
+      "ColorIndex": 8
+    },
+    "ba0c14ed-fba5-4d0b-88b1-3778d131ba04": {
+      "ProjectGuid": "ba0c14ed-fba5-4d0b-88b1-3778d131ba04",
+      "DisplayName": "Funcs7",
+      "ColorIndex": 9
+    },
+    "af7ce72c-5b16-4879-ad2d-1829d96151aa": {
+      "ProjectGuid": "af7ce72c-5b16-4879-ad2d-1829d96151aa",
+      "DisplayName": "FuncsUsage",
+      "ColorIndex": 10
+    },
+    "e62b5b74-8597-4f9c-9ce4-51bd91fecce0": {
+      "ProjectGuid": "e62b5b74-8597-4f9c-9ce4-51bd91fecce0",
+      "DisplayName": "SelectImplementation",
+      "ColorIndex": 11
+    },
+    "d21664b0-906d-4e9f-95ee-09fbf93fbe42": {
+      "ProjectGuid": "d21664b0-906d-4e9f-95ee-09fbf93fbe42",
+      "DisplayName": "Actions",
+      "ColorIndex": 12
+    },
+    "80bc09ef-509a-4fb1-8dad-6e2f9303bd24": {
+      "ProjectGuid": "80bc09ef-509a-4fb1-8dad-6e2f9303bd24",
+      "DisplayName": "Delegates",
+      "ColorIndex": 13
+    },
+    "587077d6-3fa4-48f4-b867-ef440dabc5c4": {
+      "ProjectGuid": "587077d6-3fa4-48f4-b867-ef440dabc5c4",
+      "DisplayName": "FuncsExample",
+      "ColorIndex": 14
+    },
+    "68aa4649-28b3-4572-8506-ab842ac341d7": {
+      "ProjectGuid": "68aa4649-28b3-4572-8506-ab842ac341d7",
+      "DisplayName": "PredicateExample",
+      "ColorIndex": 15
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5469009d-2416-4e2d-9af8-148341d50301": {
+      "ProjectGuid": "5469009d-2416-4e2d-9af8-148341d50301",
+      "DisplayName": "WhereExample",
+      "ColorIndex": 0
+    },
+    "98e3a046-1c61-4601-b1cc-5577c685c0e6": {
+      "ProjectGuid": "98e3a046-1c61-4601-b1cc-5577c685c0e6",
+      "DisplayName": "03.CountUppercase",
+      "ColorIndex": 1
+    },
+    "59044257-e4c5-45e4-aabb-916553fbf1b6": {
+      "ProjectGuid": "59044257-e4c5-45e4-aabb-916553fbf1b6",
+      "DisplayName": "04.AddVAT",
+      "ColorIndex": 2
+    },
+    "af09d1f3-8a1c-471d-9333-02e9e961cbf8": {
+      "ProjectGuid": "af09d1f3-8a1c-471d-9333-02e9e961cbf8",
+      "DisplayName": "AggregateHigherORder",
+      "ColorIndex": 3
+    },
+    "1ce44e20-cfa8-4b30-b432-f4bc25b630dd": {
+      "ProjectGuid": "1ce44e20-cfa8-4b30-b432-f4bc25b630dd",
+      "DisplayName": "05.FilterByAge",
+      "ColorIndex": 4
+    },
+    "34a0a8da-868d-444f-9fc5-6304dbde86a1": {
+      "ProjectGuid": "34a0a8da-868d-444f-9fc5-6304dbde86a1",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

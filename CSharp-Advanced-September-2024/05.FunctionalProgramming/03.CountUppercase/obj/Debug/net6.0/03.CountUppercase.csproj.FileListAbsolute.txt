@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\03.CountUppercase.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\03.CountUppercase.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\03.CountUppercase.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\03.CountUppercase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\ref\03.CountUppercase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\bin\Debug\net6.0\03.CountUppercase.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\ref\03.CountUppercase.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\03.CountUppercase\obj\Debug\net6.0\03.CountUppercase.genruntimeconfig.cache

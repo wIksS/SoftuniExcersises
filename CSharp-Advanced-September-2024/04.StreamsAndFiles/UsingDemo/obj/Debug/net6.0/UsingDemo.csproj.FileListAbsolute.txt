@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\UsingDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\UsingDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\UsingDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\UsingDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\ref\UsingDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\bin\Debug\net6.0\UsingDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\ref\UsingDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\UsingDemo\obj\Debug\net6.0\UsingDemo.genruntimeconfig.cache

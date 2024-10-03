@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EncryptImages/1.0.0": {
+        "runtime": {
+          "EncryptImages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncryptImages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

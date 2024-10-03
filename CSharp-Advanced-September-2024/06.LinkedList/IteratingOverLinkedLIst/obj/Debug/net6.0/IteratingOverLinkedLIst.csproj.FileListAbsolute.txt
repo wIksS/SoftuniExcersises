@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\IteratingOverLinkedLIst.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\IteratingOverLinkedLIst.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\IteratingOverLinkedLIst.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\IteratingOverLinkedLIst.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\ref\IteratingOverLinkedLIst.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\bin\Debug\net6.0\IteratingOverLinkedLIst.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\ref\IteratingOverLinkedLIst.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\IteratingOverLinkedLIst\obj\Debug\net6.0\IteratingOverLinkedLIst.genruntimeconfig.cache

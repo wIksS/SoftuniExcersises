@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\PredicateExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\PredicateExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\PredicateExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\PredicateExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\ref\PredicateExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\bin\Debug\net6.0\PredicateExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\ref\PredicateExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\PredicateExample\obj\Debug\net6.0\PredicateExample.genruntimeconfig.cache

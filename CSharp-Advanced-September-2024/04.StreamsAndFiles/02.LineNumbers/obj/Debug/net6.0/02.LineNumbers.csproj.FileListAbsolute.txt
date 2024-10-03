@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\02.LineNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\02.LineNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\02.LineNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\02.LineNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\ref\02.LineNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\bin\Debug\net6.0\02.LineNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\ref\02.LineNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\02.LineNumbers\obj\Debug\net6.0\02.LineNumbers.csproj.AssemblyReference.cache

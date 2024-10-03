@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\StaticMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\StaticMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\StaticMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\StaticMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\ref\StaticMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\bin\Debug\net6.0\StaticMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\ref\StaticMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\StaticMore\obj\Debug\net6.0\StaticMore.genruntimeconfig.cache

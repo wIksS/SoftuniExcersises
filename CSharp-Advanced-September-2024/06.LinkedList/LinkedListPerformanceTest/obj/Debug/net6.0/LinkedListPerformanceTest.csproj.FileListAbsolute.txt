@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\LinkedListPerformanceTest.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\LinkedListPerformanceTest.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\LinkedListPerformanceTest.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\LinkedListPerformanceTest.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\ref\LinkedListPerformanceTest.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\bin\Debug\net6.0\LinkedListPerformanceTest.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\ref\LinkedListPerformanceTest.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.LinkedList\LinkedListPerformanceTest\obj\Debug\net6.0\LinkedListPerformanceTest.genruntimeconfig.cache

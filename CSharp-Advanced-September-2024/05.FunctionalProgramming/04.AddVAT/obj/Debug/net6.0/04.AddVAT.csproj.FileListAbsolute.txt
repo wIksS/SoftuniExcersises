@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\04.AddVAT.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\04.AddVAT.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\04.AddVAT.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\04.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\ref\04.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\bin\Debug\net6.0\04.AddVAT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\ref\04.AddVAT.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\04.AddVAT\obj\Debug\net6.0\04.AddVAT.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\NamespacesMore.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\NamespacesMore.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\NamespacesMore.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\NamespacesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\ref\NamespacesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\bin\Debug\net6.0\NamespacesMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\ref\NamespacesMore.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\06.Classes\NamespacesMore\obj\Debug\net6.0\NamespacesMore.genruntimeconfig.cache

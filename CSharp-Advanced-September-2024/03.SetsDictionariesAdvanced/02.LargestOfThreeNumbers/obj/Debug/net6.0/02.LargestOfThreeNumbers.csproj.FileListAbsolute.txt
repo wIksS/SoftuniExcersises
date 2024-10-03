@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\02.LargestOfThreeNumbers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\02.LargestOfThreeNumbers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\02.LargestOfThreeNumbers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\02.LargestOfThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\ref\02.LargestOfThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\bin\Debug\net6.0\02.LargestOfThreeNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\ref\02.LargestOfThreeNumbers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\02.LargestOfThreeNumbers\obj\Debug\net6.0\02.LargestOfThreeNumbers.genruntimeconfig.cache

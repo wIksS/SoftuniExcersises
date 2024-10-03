@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\AggregateHigherORder.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\AggregateHigherORder.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\AggregateHigherORder.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\AggregateHigherORder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\ref\AggregateHigherORder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\bin\Debug\net6.0\AggregateHigherORder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\ref\AggregateHigherORder.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\AggregateHigherORder\obj\Debug\net6.0\AggregateHigherORder.genruntimeconfig.cache

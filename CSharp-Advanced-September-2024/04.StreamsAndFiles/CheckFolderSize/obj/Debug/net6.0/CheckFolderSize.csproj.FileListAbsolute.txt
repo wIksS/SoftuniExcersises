@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\CheckFolderSize.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\CheckFolderSize.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\CheckFolderSize.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\CheckFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\ref\CheckFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\bin\Debug\net6.0\CheckFolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\ref\CheckFolderSize.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\04.StreamsAndFiles\CheckFolderSize\obj\Debug\net6.0\CheckFolderSize.genruntimeconfig.cache

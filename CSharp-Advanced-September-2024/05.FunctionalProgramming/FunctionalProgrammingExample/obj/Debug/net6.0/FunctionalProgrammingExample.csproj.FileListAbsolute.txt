@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\FunctionalProgrammingExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\FunctionalProgrammingExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\FunctionalProgrammingExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\FunctionalProgrammingExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\ref\FunctionalProgrammingExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\bin\Debug\net6.0\FunctionalProgrammingExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\ref\FunctionalProgrammingExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\FunctionalProgrammingExample\obj\Debug\net6.0\FunctionalProgrammingExample.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\08.UniqueNames.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\08.UniqueNames.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\08.UniqueNames.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\08.UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\ref\08.UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\bin\Debug\net6.0\08.UniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\ref\08.UniqueNames.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\08.UniqueNames\obj\Debug\net6.0\08.UniqueNames.genruntimeconfig.cache

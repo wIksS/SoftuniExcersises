@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\07.Generics.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\07.Generics.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\07.Generics.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\07.Generics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\ref\07.Generics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\bin\Debug\net6.0\07.Generics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\ref\07.Generics.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\07.Generics\obj\Debug\net6.0\07.Generics.genruntimeconfig.cache

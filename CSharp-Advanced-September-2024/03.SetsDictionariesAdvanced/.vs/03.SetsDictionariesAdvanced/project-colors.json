@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfd5159f-64f6-4f67-b059-5d5d4836768e": {
+      "ProjectGuid": "dfd5159f-64f6-4f67-b059-5d5d4836768e",
+      "DisplayName": "08.UniqueNames",
+      "ColorIndex": 0
+    },
+    "7a1ea336-3703-4cd6-bbe6-2f65bff4b01f": {
+      "ProjectGuid": "7a1ea336-3703-4cd6-bbe6-2f65bff4b01f",
+      "DisplayName": "HashSetTheory",
+      "ColorIndex": 1
+    },
+    "d431d1d6-97e4-4dfc-8033-35356a35d934": {
+      "ProjectGuid": "d431d1d6-97e4-4dfc-8033-35356a35d934",
+      "DisplayName": "HashSetDemo",
+      "ColorIndex": 2
+    },
+    "4a1c9670-bdc8-41d9-8b84-c00fdea64683": {
+      "ProjectGuid": "4a1c9670-bdc8-41d9-8b84-c00fdea64683",
+      "DisplayName": "05.CitiesAndCountries",
+      "ColorIndex": 3
+    },
+    "c132ea91-d476-435d-9396-59cfcaab7de1": {
+      "ProjectGuid": "c132ea91-d476-435d-9396-59cfcaab7de1",
+      "DisplayName": "04.ProductShop",
+      "ColorIndex": 4
+    },
+    "cfeb1c26-bfe0-4131-b80c-5a314248953c": {
+      "ProjectGuid": "cfeb1c26-bfe0-4131-b80c-5a314248953c",
+      "DisplayName": "NestedDictionaries",
+      "ColorIndex": 5
+    },
+    "99cf69fd-4bd7-4f13-b7d4-cd55b11ea7ad": {
+      "ProjectGuid": "99cf69fd-4bd7-4f13-b7d4-cd55b11ea7ad",
+      "DisplayName": "02.AverageStudentGrades",
+      "ColorIndex": 6
+    },
+    "870d5445-253c-42e0-a605-b5f3b4ff76d7": {
+      "ProjectGuid": "870d5445-253c-42e0-a605-b5f3b4ff76d7",
+      "DisplayName": "MultiDictionaries",
+      "ColorIndex": 7
+    },
+    "a3e9a333-4d97-466d-ba89-e7c05eab2ba8": {
+      "ProjectGuid": "a3e9a333-4d97-466d-ba89-e7c05eab2ba8",
+      "DisplayName": "02.LargestOfThreeNumbers",
+      "ColorIndex": 8
+    },
+    "0dd164eb-98e2-472f-8ac3-15e6c616515d": {
+      "ProjectGuid": "0dd164eb-98e2-472f-8ac3-15e6c616515d",
+      "DisplayName": "SortingDictionaries",
+      "ColorIndex": 9
+    },
+    "066ecc06-ad1a-4b00-ad24-155e768ae298": {
+      "ProjectGuid": "066ecc06-ad1a-4b00-ad24-155e768ae298",
+      "DisplayName": "01.NumberOccurences",
+      "ColorIndex": 10
+    },
+    "25be94cf-3d82-43d1-98eb-82d80252a050": {
+      "ProjectGuid": "25be94cf-3d82-43d1-98eb-82d80252a050",
+      "DisplayName": "03.SetsDictionariesAdvanced",
+      "ColorIndex": 11
+    },
+    "da8ef69b-28d8-476c-a0b2-bb1ff7202c5e": {
+      "ProjectGuid": "da8ef69b-28d8-476c-a0b2-bb1ff7202c5e",
+      "DisplayName": "CustomHashset",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

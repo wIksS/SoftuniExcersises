@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\MultiDictionaries.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\MultiDictionaries.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\MultiDictionaries.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\MultiDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\ref\MultiDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\bin\Debug\net6.0\MultiDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\ref\MultiDictionaries.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\03.SetsDictionariesAdvanced\MultiDictionaries\obj\Debug\net6.0\MultiDictionaries.genruntimeconfig.cache

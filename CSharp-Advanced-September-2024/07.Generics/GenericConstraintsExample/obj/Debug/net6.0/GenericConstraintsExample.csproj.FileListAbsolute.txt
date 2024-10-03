@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\GenericConstraintsExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\GenericConstraintsExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\GenericConstraintsExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\GenericConstraintsExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\ref\GenericConstraintsExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\bin\Debug\net6.0\GenericConstraintsExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\ref\GenericConstraintsExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericConstraintsExample\obj\Debug\net6.0\GenericConstraintsExample.genruntimeconfig.cache

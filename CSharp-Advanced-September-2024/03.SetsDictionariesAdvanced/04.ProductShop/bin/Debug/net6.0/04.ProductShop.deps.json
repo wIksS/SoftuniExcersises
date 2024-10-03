@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "04.ProductShop/1.0.0": {
+        "runtime": {
+          "04.ProductShop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04.ProductShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

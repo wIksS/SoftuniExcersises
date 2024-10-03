@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ImpureFunctions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ImpureFunctions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ImpureFunctions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ImpureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ref\ImpureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\bin\Debug\net6.0\ImpureFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ref\ImpureFunctions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\05.FunctionalProgramming\ImpureFunctions\obj\Debug\net6.0\ImpureFunctions.genruntimeconfig.cache

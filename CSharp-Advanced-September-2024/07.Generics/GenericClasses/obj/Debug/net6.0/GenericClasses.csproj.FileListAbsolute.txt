@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\GenericClasses.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\GenericClasses.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\GenericClasses.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\GenericClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\ref\GenericClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\bin\Debug\net6.0\GenericClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\ref\GenericClasses.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\07.Generics\GenericClasses\obj\Debug\net6.0\GenericClasses.genruntimeconfig.cache
