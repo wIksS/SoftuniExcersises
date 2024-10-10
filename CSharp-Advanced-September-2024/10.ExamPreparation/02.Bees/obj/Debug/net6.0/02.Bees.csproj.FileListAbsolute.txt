@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\02.Bees.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\02.Bees.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\02.Bees.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\02.Bees.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\ref\02.Bees.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\bin\Debug\net6.0\02.Bees.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\ref\02.Bees.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\02.Bees\obj\Debug\net6.0\02.Bees.genruntimeconfig.cache

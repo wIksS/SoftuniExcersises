@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\Calendar.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\Calendar.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\Calendar.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\Calendar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\ref\Calendar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\bin\Debug\net6.0\Calendar.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\ref\Calendar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\Calendar\obj\Debug\net6.0\Calendar.genruntimeconfig.cache

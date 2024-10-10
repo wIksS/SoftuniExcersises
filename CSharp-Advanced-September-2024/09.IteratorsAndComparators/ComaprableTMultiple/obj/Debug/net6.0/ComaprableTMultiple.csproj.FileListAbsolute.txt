@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ComaprableTMultiple.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ComaprableTMultiple.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ComaprableTMultiple.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ComaprableTMultiple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ref\ComaprableTMultiple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\bin\Debug\net6.0\ComaprableTMultiple.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ref\ComaprableTMultiple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ComaprableTMultiple\obj\Debug\net6.0\ComaprableTMultiple.genruntimeconfig.cache

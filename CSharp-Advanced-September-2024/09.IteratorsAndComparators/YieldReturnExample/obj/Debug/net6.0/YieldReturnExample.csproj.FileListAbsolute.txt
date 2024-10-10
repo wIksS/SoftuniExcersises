@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\YieldReturnExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\YieldReturnExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\YieldReturnExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\YieldReturnExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\ref\YieldReturnExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\bin\Debug\net6.0\YieldReturnExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\ref\YieldReturnExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\YieldReturnExample\obj\Debug\net6.0\YieldReturnExample.genruntimeconfig.cache

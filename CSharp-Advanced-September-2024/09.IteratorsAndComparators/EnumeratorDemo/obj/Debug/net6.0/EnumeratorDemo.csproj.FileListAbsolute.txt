@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\EnumeratorDemo.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\EnumeratorDemo.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\EnumeratorDemo.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\EnumeratorDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\ref\EnumeratorDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\bin\Debug\net6.0\EnumeratorDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\ref\EnumeratorDemo.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorDemo\obj\Debug\net6.0\EnumeratorDemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ForEachKeyword.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ForEachKeyword.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ForEachKeyword.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ForEachKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ref\ForEachKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\bin\Debug\net6.0\ForEachKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ref\ForEachKeyword.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ForEachKeyword\obj\Debug\net6.0\ForEachKeyword.genruntimeconfig.cache

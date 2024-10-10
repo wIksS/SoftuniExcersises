@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\ref\IteratorsAndComparators.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.AssemblyReference.cache

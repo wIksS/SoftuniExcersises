@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorInterface\obj\Debug\net6.0\EnumeratorInterface.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorInterface\obj\Debug\net6.0\EnumeratorInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorInterface\obj\Debug\net6.0\EnumeratorInterface.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorInterface\obj\Debug\net6.0\EnumeratorInterface.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\EnumeratorInterface\obj\Debug\net6.0\EnumeratorInterface.csproj.CoreCompileInputs.cache

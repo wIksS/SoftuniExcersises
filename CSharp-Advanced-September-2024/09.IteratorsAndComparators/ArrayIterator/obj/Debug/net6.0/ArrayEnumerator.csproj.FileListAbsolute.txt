@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ArrayEnumerator.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ArrayEnumerator.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ArrayEnumerator.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ArrayEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ref\ArrayEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\bin\Debug\net6.0\ArrayEnumerator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ref\ArrayEnumerator.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\ArrayIterator\obj\Debug\net6.0\ArrayEnumerator.csproj.AssemblyReference.cache

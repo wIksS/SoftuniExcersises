@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55b33647-7844-42c4-af0b-f205dbf45c02": {
+      "ProjectGuid": "55b33647-7844-42c4-af0b-f205dbf45c02",
+      "DisplayName": "01.RapidCouriers",
+      "ColorIndex": 0
+    },
+    "d3225512-90c1-44c6-b174-fbd5563295fd": {
+      "ProjectGuid": "d3225512-90c1-44c6-b174-fbd5563295fd",
+      "DisplayName": "02.Bees",
+      "ColorIndex": 1
+    },
+    "c0e011e5-1ed9-4025-95e3-d3eaf113ffbc": {
+      "ProjectGuid": "c0e011e5-1ed9-4025-95e3-d3eaf113ffbc",
+      "DisplayName": "EstateAgency",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

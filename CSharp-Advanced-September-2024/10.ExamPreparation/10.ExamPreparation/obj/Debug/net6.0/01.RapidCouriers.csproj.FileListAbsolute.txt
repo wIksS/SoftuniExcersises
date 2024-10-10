@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\01.RapidCouriers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\01.RapidCouriers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\01.RapidCouriers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\01.RapidCouriers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\ref\01.RapidCouriers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\bin\Debug\net6.0\01.RapidCouriers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\ref\01.RapidCouriers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\10.ExamPreparation\obj\Debug\net6.0\01.RapidCouriers.genruntimeconfig.cache

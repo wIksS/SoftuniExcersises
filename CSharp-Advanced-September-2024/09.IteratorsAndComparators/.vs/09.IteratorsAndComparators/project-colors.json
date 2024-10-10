@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73c3779a-c502-4bdf-8629-6408b3d9d4c1": {
+      "ProjectGuid": "73c3779a-c502-4bdf-8629-6408b3d9d4c1",
+      "DisplayName": "09.IteratorsAndComparators",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1fb9f61b-c552-4be7-9b6f-b36e05be62e3": {
+      "ProjectGuid": "1fb9f61b-c552-4be7-9b6f-b36e05be62e3",
+      "DisplayName": "ForEachKeyword",
+      "ColorIndex": 1
+    },
+    "3ec6505f-652c-4429-9281-9d249cc04d05": {
+      "ProjectGuid": "3ec6505f-652c-4429-9281-9d249cc04d05",
+      "DisplayName": "Calendar",
+      "ColorIndex": 2
+    },
+    "5eda1c53-1a32-4bd5-a760-8cb13a9bb16f": {
+      "ProjectGuid": "5eda1c53-1a32-4bd5-a760-8cb13a9bb16f",
+      "DisplayName": "Demo",
+      "ColorIndex": 3
+    },
+    "872265d2-48c0-44a3-bfeb-1b5f7b614666": {
+      "ProjectGuid": "872265d2-48c0-44a3-bfeb-1b5f7b614666",
+      "DisplayName": "EnumeratorDemo",
+      "ColorIndex": 4
+    },
+    "254909e1-ee77-44b9-afba-d2ac48acc6b3": {
+      "ProjectGuid": "254909e1-ee77-44b9-afba-d2ac48acc6b3",
+      "DisplayName": "ArrayEnumerator",
+      "ColorIndex": 5
+    },
+    "9ff35bf9-ba06-4a3b-9ce6-05d839f4e21f": {
+      "ProjectGuid": "9ff35bf9-ba06-4a3b-9ce6-05d839f4e21f",
+      "DisplayName": "EnumeratorInterface",
+      "ColorIndex": 6
+    },
+    "e5bf7bb0-784a-44b3-8483-b44e668c92bf": {
+      "ProjectGuid": "e5bf7bb0-784a-44b3-8483-b44e668c92bf",
+      "DisplayName": "ParamsKeyword",
+      "ColorIndex": 7
+    },
+    "d8fa4464-6d04-4f77-86c3-6ef4ceb9acf5": {
+      "ProjectGuid": "d8fa4464-6d04-4f77-86c3-6ef4ceb9acf5",
+      "DisplayName": "IteratorsAndComparators",
+      "ColorIndex": 8
+    },
+    "2ef6d0db-474c-4eee-8987-c5646af9e289": {
+      "ProjectGuid": "2ef6d0db-474c-4eee-8987-c5646af9e289",
+      "DisplayName": "CalendarWithYieldReturn",
+      "ColorIndex": 9
+    },
+    "ebb467d3-6c55-4d0c-9652-e847bed4b842": {
+      "ProjectGuid": "ebb467d3-6c55-4d0c-9652-e847bed4b842",
+      "DisplayName": "YieldReturnExample",
+      "ColorIndex": 10
+    },
+    "098af545-ea52-4e72-837b-0009da5ad8f7": {
+      "ProjectGuid": "098af545-ea52-4e72-837b-0009da5ad8f7",
+      "DisplayName": "IComparableT",
+      "ColorIndex": 11
+    },
+    "b2282de5-67da-4761-aed6-6476084e6d9f": {
+      "ProjectGuid": "b2282de5-67da-4761-aed6-6476084e6d9f",
+      "DisplayName": "ComaprableTMultiple",
+      "ColorIndex": 12
+    },
+    "b3950586-6c04-4286-9bc7-9c43528efa6d": {
+      "ProjectGuid": "b3950586-6c04-4286-9bc7-9c43528efa6d",
+      "DisplayName": "Comparers",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

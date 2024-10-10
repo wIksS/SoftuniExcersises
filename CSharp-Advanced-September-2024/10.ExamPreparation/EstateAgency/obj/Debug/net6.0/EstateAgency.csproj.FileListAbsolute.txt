@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\ref\EstateAgency.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\10.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache

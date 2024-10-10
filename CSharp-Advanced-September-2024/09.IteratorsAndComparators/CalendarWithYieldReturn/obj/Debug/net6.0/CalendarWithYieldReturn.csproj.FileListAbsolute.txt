@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\CalendarWithYieldReturn.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\CalendarWithYieldReturn.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\CalendarWithYieldReturn.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\CalendarWithYieldReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\ref\CalendarWithYieldReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\bin\Debug\net6.0\CalendarWithYieldReturn.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\ref\CalendarWithYieldReturn.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\09.IteratorsAndComparators\CalendarWithYieldReturn\obj\Debug\net6.0\CalendarWithYieldReturn.genruntimeconfig.cache
