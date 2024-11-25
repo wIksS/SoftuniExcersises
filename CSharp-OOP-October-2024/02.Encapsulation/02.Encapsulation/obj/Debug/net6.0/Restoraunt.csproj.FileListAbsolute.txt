@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\Restoraunt.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\Restoraunt.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\Restoraunt.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\Restoraunt.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\ref\Restoraunt.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\bin\Debug\net6.0\Restoraunt.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\ref\Restoraunt.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\02.Encapsulation\02.Encapsulation\obj\Debug\net6.0\Restoraunt.genruntimeconfig.cache

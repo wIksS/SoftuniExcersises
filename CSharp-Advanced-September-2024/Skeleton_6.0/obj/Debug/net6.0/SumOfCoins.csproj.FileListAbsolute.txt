@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\ref\SumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\ref\SumOfCoins.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\CatchAndStacks.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\CatchAndStacks.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\CatchAndStacks.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\CatchAndStacks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\ref\CatchAndStacks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\bin\Debug\net6.0\CatchAndStacks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\ref\CatchAndStacks.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\CatchAndStacks\obj\Debug\net6.0\CatchAndStacks.genruntimeconfig.cache

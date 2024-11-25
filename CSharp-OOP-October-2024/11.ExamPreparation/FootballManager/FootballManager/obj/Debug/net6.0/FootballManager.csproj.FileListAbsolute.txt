@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\ref\FootballManager.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\ref\FootballManager.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\11.ExamPreparation\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.genruntimeconfig.cache

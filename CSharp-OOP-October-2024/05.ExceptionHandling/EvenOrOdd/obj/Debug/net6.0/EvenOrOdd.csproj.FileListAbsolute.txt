@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\ref\EvenOrOdd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache

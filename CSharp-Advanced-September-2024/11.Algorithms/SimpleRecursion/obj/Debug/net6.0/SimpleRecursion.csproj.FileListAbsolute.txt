@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\SimpleRecursion.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\SimpleRecursion.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\SimpleRecursion.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\SimpleRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\ref\SimpleRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\bin\Debug\net6.0\SimpleRecursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\ref\SimpleRecursion.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\SimpleRecursion\obj\Debug\net6.0\SimpleRecursion.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\ref\CustomStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache

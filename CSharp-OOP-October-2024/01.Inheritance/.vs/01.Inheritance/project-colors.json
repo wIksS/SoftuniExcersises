@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8602b2d8-fc58-4052-af7f-41fc1280c452": {
+      "ProjectGuid": "8602b2d8-fc58-4052-af7f-41fc1280c452",
+      "DisplayName": "01.Inheritance",
+      "ColorIndex": 0
+    },
+    "a95eb6ce-106e-4902-b39d-48a848d680e5": {
+      "ProjectGuid": "a95eb6ce-106e-4902-b39d-48a848d680e5",
+      "DisplayName": "InheritanceExample",
+      "ColorIndex": 1
+    },
+    "ba042625-43d3-4754-b529-afdf418b35dd": {
+      "ProjectGuid": "ba042625-43d3-4754-b529-afdf418b35dd",
+      "DisplayName": "Farm",
+      "ColorIndex": 2
+    },
+    "315ae773-0f5f-44cb-be71-5e1c34e196c8": {
+      "ProjectGuid": "315ae773-0f5f-44cb-be71-5e1c34e196c8",
+      "DisplayName": "InheritanceAndAccessModifiers",
+      "ColorIndex": 3
+    },
+    "a65cd9f4-e359-470a-86dd-384282ac7ad7": {
+      "ProjectGuid": "a65cd9f4-e359-470a-86dd-384282ac7ad7",
+      "DisplayName": "ShadowingMembers",
+      "ColorIndex": 4
+    },
+    "aef483fe-f414-4f1e-815a-615965e52f0d": {
+      "ProjectGuid": "aef483fe-f414-4f1e-815a-615965e52f0d",
+      "DisplayName": "OverridingMethods",
+      "ColorIndex": 5
+    },
+    "311edb57-88d7-483d-9ee3-45752034f43b": {
+      "ProjectGuid": "311edb57-88d7-483d-9ee3-45752034f43b",
+      "DisplayName": "SealedMethods",
+      "ColorIndex": 6
+    },
+    "5100e203-d9e2-4d61-9610-100f56ec23fe": {
+      "ProjectGuid": "5100e203-d9e2-4d61-9610-100f56ec23fe",
+      "DisplayName": "CustomRandomList",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c71da3dd-843f-4949-af12-a4f7872d0909": {
+      "ProjectGuid": "c71da3dd-843f-4949-af12-a4f7872d0909",
+      "DisplayName": "CustomStack",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

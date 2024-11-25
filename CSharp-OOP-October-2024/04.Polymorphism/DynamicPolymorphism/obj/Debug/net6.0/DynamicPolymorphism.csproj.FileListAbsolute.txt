@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\ref\DynamicPolymorphism.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\bin\Debug\net6.0\DynamicPolymorphism.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\ref\DynamicPolymorphism.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\DynamicPolymorphism\obj\Debug\net6.0\DynamicPolymorphism.genruntimeconfig.cache

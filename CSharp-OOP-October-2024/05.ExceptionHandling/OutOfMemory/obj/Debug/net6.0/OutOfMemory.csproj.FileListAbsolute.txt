@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\OutOfMemory.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\OutOfMemory.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\OutOfMemory.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\OutOfMemory.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\ref\OutOfMemory.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\bin\Debug\net6.0\OutOfMemory.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\ref\OutOfMemory.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\OutOfMemory\obj\Debug\net6.0\OutOfMemory.genruntimeconfig.cache

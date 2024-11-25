@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\InheritanceAndAccessModifiers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\InheritanceAndAccessModifiers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\InheritanceAndAccessModifiers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\InheritanceAndAccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\ref\InheritanceAndAccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\bin\Debug\net6.0\InheritanceAndAccessModifiers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\ref\InheritanceAndAccessModifiers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceAndAccessModifiers\obj\Debug\net6.0\InheritanceAndAccessModifiers.genruntimeconfig.cache

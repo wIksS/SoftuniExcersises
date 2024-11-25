@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\Operations.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\Operations.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\Operations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\ref\Operations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\bin\Debug\net6.0\Operations.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\ref\Operations.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache

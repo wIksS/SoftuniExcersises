@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\IsVar.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\IsVar.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\IsVar.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\IsVar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\ref\IsVar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\bin\Debug\net6.0\IsVar.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\ref\IsVar.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\04.Polymorphism\IsVar\obj\Debug\net6.0\IsVar.genruntimeconfig.cache

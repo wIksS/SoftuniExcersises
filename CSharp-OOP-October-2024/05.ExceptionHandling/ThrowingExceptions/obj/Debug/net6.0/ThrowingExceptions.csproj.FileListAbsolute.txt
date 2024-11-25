@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ref\ThrowingExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ref\ThrowingExceptions.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.genruntimeconfig.cache

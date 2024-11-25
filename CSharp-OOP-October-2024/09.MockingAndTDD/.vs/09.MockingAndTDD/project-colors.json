@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8468912e-1f29-45a6-a3d8-ae5f5d40c220": {
+      "ProjectGuid": "8468912e-1f29-45a6-a3d8-ae5f5d40c220",
+      "DisplayName": "09.MockingAndTDD",
+      "ColorIndex": 0
+    },
+    "b9e7a450-77cd-48f5-8322-1ce5b27370dc": {
+      "ProjectGuid": "b9e7a450-77cd-48f5-8322-1ce5b27370dc",
+      "DisplayName": "Promotions",
+      "ColorIndex": 1
+    },
+    "16fe91f3-99d2-4733-b853-9d8b5ae70170": {
+      "ProjectGuid": "16fe91f3-99d2-4733-b853-9d8b5ae70170",
+      "DisplayName": "Promotions.Tests",
+      "ColorIndex": 2
+    },
+    "a01df1eb-747e-4d8e-9549-ea36ce622222": {
+      "ProjectGuid": "a01df1eb-747e-4d8e-9549-ea36ce622222",
+      "DisplayName": "Promotions.Tests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a94b5fad-47b1-4679-a68e-5d71e035a026": {
+      "ProjectGuid": "a94b5fad-47b1-4679-a68e-5d71e035a026",
+      "DisplayName": "Test",
+      "ColorIndex": 4
+    },
+    "0f67380b-c0bf-4a1c-83a8-f9c86deec5be": {
+      "ProjectGuid": "0f67380b-c0bf-4a1c-83a8-f9c86deec5be",
+      "DisplayName": "Promotions2.Tests",
+      "ColorIndex": 5
+    },
+    "b9022e98-8f0b-4a9e-92c2-fbb6d0ec0c46": {
+      "ProjectGuid": "b9022e98-8f0b-4a9e-92c2-fbb6d0ec0c46",
+      "DisplayName": "PromotionsProject.Tests",
+      "ColorIndex": 6
+    },
+    "7e842aff-d26f-4701-be7d-f52a0213561c": {
+      "ProjectGuid": "7e842aff-d26f-4701-be7d-f52a0213561c",
+      "DisplayName": "Products",
+      "ColorIndex": 7
+    },
+    "04996777-8cd2-46be-9757-f3afb0d48f1a": {
+      "ProjectGuid": "04996777-8cd2-46be-9757-f3afb0d48f1a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 8
+    },
+    "0041c30d-44d4-40be-b086-1496ebd94468": {
+      "ProjectGuid": "0041c30d-44d4-40be-b086-1496ebd94468",
+      "DisplayName": "Products.Tests",
+      "ColorIndex": 9
+    },
+    "8f59be10-f402-4639-9cb5-9e271035d9de": {
+      "ProjectGuid": "8f59be10-f402-4639-9cb5-9e271035d9de",
+      "DisplayName": "MoqLibrary",
+      "ColorIndex": 10
+    },
+    "a26c3d67-c206-432a-bc35-4e45c42e36f5": {
+      "ProjectGuid": "a26c3d67-c206-432a-bc35-4e45c42e36f5",
+      "DisplayName": "MoqExamples",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\ref\P01.Stream_Progress.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\ref\P01.Stream_Progress.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.genruntimeconfig.cache

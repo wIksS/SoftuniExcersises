@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af28ec8d-e7f0-4877-adfd-d10aa165be7d": {
+      "ProjectGuid": "af28ec8d-e7f0-4877-adfd-d10aa165be7d",
+      "DisplayName": "10.DesignPatterns",
+      "ColorIndex": 0
+    },
+    "3afb36a2-ee60-4320-b328-f4d0739357fb": {
+      "ProjectGuid": "3afb36a2-ee60-4320-b328-f4d0739357fb",
+      "DisplayName": "Singleton",
+      "ColorIndex": 1
+    },
+    "be5c561d-14c4-4e63-a093-d2d74f57f510": {
+      "ProjectGuid": "be5c561d-14c4-4e63-a093-d2d74f57f510",
+      "DisplayName": "CompositePattern",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "76d3a33f-17d8-40d8-8954-633a3e2ca6a6": {
+      "ProjectGuid": "76d3a33f-17d8-40d8-8954-633a3e2ca6a6",
+      "DisplayName": "CommandPattern",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

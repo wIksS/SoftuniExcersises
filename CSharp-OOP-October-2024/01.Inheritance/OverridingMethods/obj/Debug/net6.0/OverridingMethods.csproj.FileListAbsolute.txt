@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\OverridingMethods.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\OverridingMethods.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\OverridingMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\OverridingMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\ref\OverridingMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\bin\Debug\net6.0\OverridingMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\ref\OverridingMethods.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\OverridingMethods\obj\Debug\net6.0\OverridingMethods.genruntimeconfig.cache

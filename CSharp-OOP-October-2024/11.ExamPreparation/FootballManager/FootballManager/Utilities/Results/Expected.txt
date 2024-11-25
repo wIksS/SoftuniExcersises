@@ -1,0 +1,74 @@
+ManchesterUnited has successfully joined the Championship.
+ManchesterCity has successfully joined the Championship.
+Liverpool has successfully joined the Championship.
+Tottenham has successfully joined the Championship.
+Arsenal has successfully joined the Championship.
+Arsenal has already joined the Championship.
+AstonVilla has successfully joined the Championship.
+Brentford has successfully joined the Championship.
+Brighton has successfully joined the Championship.
+Chelsea has successfully joined the Championship.
+Everton has successfully joined the Championship.
+Championship is full!
+Manager JurgenKlopp is assigned to team Liverpool.
+Manager ErikTenHag is assigned to team ManchesterUnited.
+Manager JosepGuardiola is assigned to team ManchesterCity.
+LicensedManager is an invalid manager type for the application.
+Manager ArsenVenger is assigned to team Arsenal.
+Manager ErikTenHag is already assigned to another team.
+Manager ThomasFrank is assigned to team Brentford.
+Manager FabianHurzeler is assigned to team Brighton.
+Manager EnzoMaresna is assigned to team Chelsea.
+Manager SeanDyche is assigned to team Everton.
+Team LeichesterCity does not take part in the Championship.
+Team QueensParkRangers does not take part in the Championship.
+Team Arsenal has already signed a contract with ArsenVenger.
+Team Arsenal wins the match against AstonVilla.
+Team Chelsea wins the match against Brighton.
+Team ManchesterUnited wins the match against Everton.
+Team ManchesterCity wins the match against Brentford.
+Team Arsenal wins the match against Liverpool.
+This match does not meet the regulation rules of the Championship.
+This match does not meet the regulation rules of the Championship.
+Team ManchesterUnited wins the match against Everton.
+Team ManchesterUnited wins the match against ManchesterCity.
+Team Brentford wins the match against Brighton.
+Team Chelsea wins the match against AstonVilla.
+Team Arsenal wins the match against Tottenham.
+Manager JoseMourinho is assigned to team Tottenham.
+Manager XabiAlonso is assigned to team AstonVilla.
+Team Chelsea wins the match against Liverpool.
+Team ManchesterUnited wins the match against Liverpool.
+This match does not meet the regulation rules of the Championship.
+Team Chelsea wins the match against Tottenham.
+Team Liverpool wins the match against Everton.
+Team ManchesterCity wins the match against Tottenham.
+Team ManchesterCity wins the match against Tottenham.
+Team Brentford wins the match against AstonVilla.
+Team AstonVilla wins the match against Tottenham.
+Team Brentford wins the match against Brighton.
+Team Everton wins the match against Brighton.
+***Ranking Table***
+1. Team: ManchesterUnited Points: 12/ErikTenHag - ProfessionalManager (Ranking: 90.00)
+2. Team: Chelsea Points: 12/EnzoMaresna - ProfessionalManager (Ranking: 90.00)
+3. Team: ManchesterCity Points: 9/JosepGuardiola - ProfessionalManager (Ranking: 75.00)
+4. Team: Arsenal Points: 9/ArsenVenger - SeniorManager (Ranking: 45.00)
+5. Team: Brentford Points: 9/ThomasFrank - SeniorManager (Ranking: 40.00)
+6. Team: AstonVilla Points: 3/XabiAlonso - ProfessionalManager (Ranking: 60.00)
+7. Team: Liverpool Points: 3/JurgenKlopp - ProfessionalManager (Ranking: 45.00)
+8. Team: Everton Points: 3/SeanDyche - SeniorManager (Ranking: 20.00)
+9. Team: Tottenham Points: 0/JoseMourinho - ProfessionalManager (Ranking: 30.00)
+10. Team: Brighton Points: 0/FabianHurzeler - AmateurManager (Ranking: 0.00)
+Team LeichesterCity does not exist in the Championship.
+Team Redding wins a promotion for the new season.
+***Ranking Table***
+1. Team: ManchesterUnited Points: 0/ErikTenHag - ProfessionalManager (Ranking: 90.00)
+2. Team: Chelsea Points: 0/EnzoMaresna - ProfessionalManager (Ranking: 90.00)
+3. Team: ManchesterCity Points: 0/JosepGuardiola - ProfessionalManager (Ranking: 75.00)
+4. Team: AstonVilla Points: 0/XabiAlonso - ProfessionalManager (Ranking: 60.00)
+5. Team: Redding Points: 0/GiovanniTrapattoni - ProfessionalManager (Ranking: 60.00)
+6. Team: Liverpool Points: 0/JurgenKlopp - ProfessionalManager (Ranking: 45.00)
+7. Team: Arsenal Points: 0/ArsenVenger - SeniorManager (Ranking: 45.00)
+8. Team: Brentford Points: 0/ThomasFrank - SeniorManager (Ranking: 40.00)
+9. Team: Tottenham Points: 0/JoseMourinho - ProfessionalManager (Ranking: 30.00)
+10. Team: Brighton Points: 0/FabianHurzeler - AmateurManager (Ranking: 0.00)

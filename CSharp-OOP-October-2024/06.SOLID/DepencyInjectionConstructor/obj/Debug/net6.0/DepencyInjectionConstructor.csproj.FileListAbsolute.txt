@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\DepencyInjectionConstructor.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\DepencyInjectionConstructor.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\DepencyInjectionConstructor.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\DepencyInjectionConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\ref\DepencyInjectionConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\bin\Debug\net6.0\DepencyInjectionConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\ref\DepencyInjectionConstructor.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\DepencyInjectionConstructor\obj\Debug\net6.0\DepencyInjectionConstructor.genruntimeconfig.cache

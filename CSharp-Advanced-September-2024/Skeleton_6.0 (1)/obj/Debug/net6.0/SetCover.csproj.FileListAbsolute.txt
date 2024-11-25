@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\ref\SetCover.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\ref\SetCover.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\11.Algorithms.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\11.Algorithms.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\11.Algorithms.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\11.Algorithms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\ref\11.Algorithms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\bin\Debug\net6.0\11.Algorithms.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\ref\11.Algorithms.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\11.Algorithms\obj\Debug\net6.0\11.Algorithms.genruntimeconfig.cache

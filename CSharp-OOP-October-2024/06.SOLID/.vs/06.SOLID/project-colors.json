@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f4dd8c3-5c74-4d4a-a04e-89dd830e0c8f": {
+      "ProjectGuid": "9f4dd8c3-5c74-4d4a-a04e-89dd830e0c8f",
+      "DisplayName": "DepencyInjectionConstructor",
+      "ColorIndex": 0
+    },
+    "16909af5-bd04-41b9-bb8c-482c03587977": {
+      "ProjectGuid": "16909af5-bd04-41b9-bb8c-482c03587977",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 1
+    },
+    "8c5d1178-fcde-4dfb-bcf2-deb5569b7e95": {
+      "ProjectGuid": "8c5d1178-fcde-4dfb-bcf2-deb5569b7e95",
+      "DisplayName": "P04.Recharge",
+      "ColorIndex": 2
+    },
+    "c253385a-c478-4890-bfe0-49e9fdbb4b26": {
+      "ProjectGuid": "c253385a-c478-4890-bfe0-49e9fdbb4b26",
+      "DisplayName": "Renderers",
+      "ColorIndex": 3
+    },
+    "0a1731d6-649a-432c-bf90-77fa67d785c2": {
+      "ProjectGuid": "0a1731d6-649a-432c-bf90-77fa67d785c2",
+      "DisplayName": "P03.Detail_Printer",
+      "ColorIndex": 4
+    },
+    "dbb419cf-dec0-4e17-8d7a-5569640ee7cb": {
+      "ProjectGuid": "dbb419cf-dec0-4e17-8d7a-5569640ee7cb",
+      "DisplayName": "P02.Graphic_Editor",
+      "ColorIndex": 5
+    },
+    "acf4f5b9-7d98-40dc-b107-b9f228f89470": {
+      "ProjectGuid": "acf4f5b9-7d98-40dc-b107-b9f228f89470",
+      "DisplayName": "P01.Stream_Progress",
+      "ColorIndex": 6
+    },
+    "9d6988a7-5cfa-47a7-a6ac-adabd53c01b0": {
+      "ProjectGuid": "9d6988a7-5cfa-47a7-a6ac-adabd53c01b0",
+      "DisplayName": "Liskov",
+      "ColorIndex": 7
+    },
+    "51ffe840-d7e0-4460-a6c4-eab70d26a0ef": {
+      "ProjectGuid": "51ffe840-d7e0-4460-a6c4-eab70d26a0ef",
+      "DisplayName": "OpenClosedPrinciple",
+      "ColorIndex": 8
+    },
+    "7e4a7589-9701-4ca7-9eda-b02d820b6fd6": {
+      "ProjectGuid": "7e4a7589-9701-4ca7-9eda-b02d820b6fd6",
+      "DisplayName": "06.SOLID",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\SoftUniDB.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\SoftUniDB.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\SoftUniDB.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\SoftUniDB.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\ref\SoftUniDB.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\bin\Debug\net6.0\SoftUniDB.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\ref\SoftUniDB.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\SoftUniDB\obj\Debug\net6.0\SoftUniDB.genruntimeconfig.cache

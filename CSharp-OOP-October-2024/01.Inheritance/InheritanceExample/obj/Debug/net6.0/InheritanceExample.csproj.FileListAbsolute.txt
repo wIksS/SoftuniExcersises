@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\InheritanceExample.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\InheritanceExample.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\InheritanceExample.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\InheritanceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\ref\InheritanceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\bin\Debug\net6.0\InheritanceExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\ref\InheritanceExample.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\InheritanceExample\obj\Debug\net6.0\InheritanceExample.genruntimeconfig.cache

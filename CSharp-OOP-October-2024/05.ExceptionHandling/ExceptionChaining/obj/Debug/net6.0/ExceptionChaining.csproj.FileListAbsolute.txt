@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ExceptionChaining.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ExceptionChaining.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ExceptionChaining.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ExceptionChaining.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ref\ExceptionChaining.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\bin\Debug\net6.0\ExceptionChaining.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ref\ExceptionChaining.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\05.ExceptionHandling\ExceptionChaining\obj\Debug\net6.0\ExceptionChaining.genruntimeconfig.cache

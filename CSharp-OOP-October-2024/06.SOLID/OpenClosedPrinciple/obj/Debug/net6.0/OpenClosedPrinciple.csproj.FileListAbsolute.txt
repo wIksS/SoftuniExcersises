@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\ref\OpenClosedPrinciple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\P04.Recharge.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\P04.Recharge.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\P04.Recharge.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\P04.Recharge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\ref\P04.Recharge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\bin\Debug\net6.0\P04.Recharge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\ref\P04.Recharge.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\P04.Recharge\obj\Debug\net6.0\P04.Recharge.genruntimeconfig.cache

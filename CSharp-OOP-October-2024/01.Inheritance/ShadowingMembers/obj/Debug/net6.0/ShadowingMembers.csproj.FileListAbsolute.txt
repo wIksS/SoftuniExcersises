@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ShadowingMembers.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ShadowingMembers.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ShadowingMembers.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ref\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\bin\Debug\net6.0\ShadowingMembers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ref\ShadowingMembers.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\01.Inheritance\ShadowingMembers\obj\Debug\net6.0\ShadowingMembers.genruntimeconfig.cache

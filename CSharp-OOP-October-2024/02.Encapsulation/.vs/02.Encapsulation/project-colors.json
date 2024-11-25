@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6399426-ca4c-4c22-af2d-d4e91891c7bc": {
+      "ProjectGuid": "c6399426-ca4c-4c22-af2d-d4e91891c7bc",
+      "DisplayName": "Restoraunt",
+      "ColorIndex": 0
+    },
+    "1b3d8fae-40f0-4795-8ffb-c427c1c5a4f1": {
+      "ProjectGuid": "1b3d8fae-40f0-4795-8ffb-c427c1c5a4f1",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 1
+    },
+    "0332b580-cd80-48d2-8250-d04132042b62": {
+      "ProjectGuid": "0332b580-cd80-48d2-8250-d04132042b62",
+      "DisplayName": "PersonsInfo",
+      "ColorIndex": 2
+    },
+    "2f44eb2d-7f1a-4d26-a83e-3970fea3e7a2": {
+      "ProjectGuid": "2f44eb2d-7f1a-4d26-a83e-3970fea3e7a2",
+      "DisplayName": "Immutable",
+      "ColorIndex": 3
+    },
+    "aa38b46e-1b91-4d43-bdb0-d8eaaeb3b5ff": {
+      "ProjectGuid": "aa38b46e-1b91-4d43-bdb0-d8eaaeb3b5ff",
+      "DisplayName": "ImmutableList",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

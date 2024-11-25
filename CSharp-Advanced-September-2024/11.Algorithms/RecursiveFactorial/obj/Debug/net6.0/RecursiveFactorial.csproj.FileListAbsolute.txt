@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\ref\RecursiveFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\ref\RecursiveFactorial.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-Advanced-September-2024\11.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.genruntimeconfig.cache

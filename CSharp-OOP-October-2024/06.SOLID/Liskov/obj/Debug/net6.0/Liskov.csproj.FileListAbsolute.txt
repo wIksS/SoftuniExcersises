@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\Liskov.exe
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\Liskov.deps.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\Liskov.runtimeconfig.json
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\Liskov.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\ref\Liskov.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\bin\Debug\net6.0\Liskov.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\ref\Liskov.dll
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.pdb
+C:\Users\Viktor\Desktop\Work\SoftuniExcersises\CSharp-OOP-October-2024\06.SOLID\Liskov\obj\Debug\net6.0\Liskov.genruntimeconfig.cache

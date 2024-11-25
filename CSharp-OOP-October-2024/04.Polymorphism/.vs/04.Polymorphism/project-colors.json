@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0ac832a-4fd8-4507-bcff-2bde82798b0e": {
+      "ProjectGuid": "f0ac832a-4fd8-4507-bcff-2bde82798b0e",
+      "DisplayName": "04.Polymorphism",
+      "ColorIndex": 0
+    },
+    "59a3c7a2-1641-4560-9e0d-085d4a6c525b": {
+      "ProjectGuid": "59a3c7a2-1641-4560-9e0d-085d4a6c525b",
+      "DisplayName": "Printing",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2c28ddae-31a5-47a7-8a56-1a7fd71cc1ba": {
+      "ProjectGuid": "2c28ddae-31a5-47a7-8a56-1a7fd71cc1ba",
+      "DisplayName": "Animals",
+      "ColorIndex": 2
+    },
+    "f3ee2a22-6dd1-4423-b04f-0e04f4ebd115": {
+      "ProjectGuid": "f3ee2a22-6dd1-4423-b04f-0e04f4ebd115",
+      "DisplayName": "IsKeyword",
+      "ColorIndex": 3
+    },
+    "0b1022ec-3b90-49b3-8a42-30ed7e8ca475": {
+      "ProjectGuid": "0b1022ec-3b90-49b3-8a42-30ed7e8ca475",
+      "DisplayName": "IsVar",
+      "ColorIndex": 4
+    },
+    "75bec86b-3d5c-448a-90c8-34cddf006404": {
+      "ProjectGuid": "75bec86b-3d5c-448a-90c8-34cddf006404",
+      "DisplayName": "Operations",
+      "ColorIndex": 5
+    },
+    "ba17a8c0-ac51-4055-903d-94adb28b4e0b": {
+      "ProjectGuid": "ba17a8c0-ac51-4055-903d-94adb28b4e0b",
+      "DisplayName": "DynamicPolymorphism",
+      "ColorIndex": 6
+    },
+    "d31d77b4-3340-403f-8771-ce06d1de9e2c": {
+      "ProjectGuid": "d31d77b4-3340-403f-8771-ce06d1de9e2c",
+      "DisplayName": "02.Animals",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
