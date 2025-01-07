@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\05.TrafficJam.exe
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\05.TrafficJam.deps.json
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\05.TrafficJam.runtimeconfig.json
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\ref\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\bin\Debug\net6.0\05.TrafficJam.pdb
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\ref\05.TrafficJam.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.pdb
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\05.TrafficJam\obj\Debug\net6.0\05.TrafficJam.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\UtilityMethods.exe
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\UtilityMethods.deps.json
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\UtilityMethods.runtimeconfig.json
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\UtilityMethods.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\ref\UtilityMethods.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\bin\Debug\net6.0\UtilityMethods.pdb
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\ref\UtilityMethods.dll
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.pdb
+C:\Users\Viktor\Desktop\Desktop\Work\SoftuniExcersises\CSharp-Advanced-Jan-2025\01.StacksAndQueues\UtilityMethods\obj\Debug\net6.0\UtilityMethods.genruntimeconfig.cache
