@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01.StackAndQueue/1.0.0": {
+        "runtime": {
+          "01.StackAndQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.StackAndQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

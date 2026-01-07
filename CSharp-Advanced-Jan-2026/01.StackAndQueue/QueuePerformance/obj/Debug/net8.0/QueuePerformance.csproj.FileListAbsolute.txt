@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\bin\Debug\net8.0\QueuePerformance.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\bin\Debug\net8.0\QueuePerformance.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\bin\Debug\net8.0\QueuePerformance.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\bin\Debug\net8.0\QueuePerformance.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\bin\Debug\net8.0\QueuePerformance.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\refint\QueuePerformance.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\QueuePerformance.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\QueuePerformance\obj\Debug\net8.0\ref\QueuePerformance.dll

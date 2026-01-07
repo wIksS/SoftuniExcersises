@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\bin\Debug\net8.0\01.StackAndQueue.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\bin\Debug\net8.0\01.StackAndQueue.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\bin\Debug\net8.0\01.StackAndQueue.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\bin\Debug\net8.0\01.StackAndQueue.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\bin\Debug\net8.0\01.StackAndQueue.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\refint\01.StackAndQueue.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\01.StackAndQueue.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.StackAndQueue\obj\Debug\net8.0\ref\01.StackAndQueue.dll

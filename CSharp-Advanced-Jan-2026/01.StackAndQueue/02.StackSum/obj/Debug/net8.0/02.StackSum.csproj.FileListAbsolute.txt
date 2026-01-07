@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\bin\Debug\net8.0\02.StackSum.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\bin\Debug\net8.0\02.StackSum.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\bin\Debug\net8.0\02.StackSum.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\bin\Debug\net8.0\02.StackSum.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\bin\Debug\net8.0\02.StackSum.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\refint\02.StackSum.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\02.StackSum.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\02.StackSum\obj\Debug\net8.0\ref\02.StackSum.dll

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\bin\Debug\net8.0\01.ReverseAString.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\bin\Debug\net8.0\01.ReverseAString.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\bin\Debug\net8.0\01.ReverseAString.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\bin\Debug\net8.0\01.ReverseAString.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\bin\Debug\net8.0\01.ReverseAString.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\refint\01.ReverseAString.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\01.ReverseAString.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\01.ReverseAString\obj\Debug\net8.0\ref\01.ReverseAString.dll

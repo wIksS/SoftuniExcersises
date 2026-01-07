@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF05D796-A590-4B90-A58D-FA55BBFB645B}|05.TrafficJam\\05.TrafficJam.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\05.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF05D796-A590-4B90-A58D-FA55BBFB645B}|05.TrafficJam\\05.TrafficJam.csproj|solutionrelative:05.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C149F2-2E41-4C4F-9CF7-85FD873AF044}|StackCreation\\StackCreation.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\stackcreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C149F2-2E41-4C4F-9CF7-85FD873AF044}|StackCreation\\StackCreation.csproj|solutionrelative:stackcreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9080950D-3581-47FD-B9B9-CFBA8ADFE286}|QueuePerformance\\QueuePerformance.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\queueperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9080950D-3581-47FD-B9B9-CFBA8ADFE286}|QueuePerformance\\QueuePerformance.csproj|solutionrelative:queueperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272C04E6-D6CA-4CF3-9279-51E74FCC9A51}|04.HotPotato\\04.HotPotato.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\04.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272C04E6-D6CA-4CF3-9279-51E74FCC9A51}|04.HotPotato\\04.HotPotato.csproj|solutionrelative:04.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569D7D35-D12A-4A99-B1EE-69326233462E}|QueueOverview\\QueueOverview.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\queueoverview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569D7D35-D12A-4A99-B1EE-69326233462E}|QueueOverview\\QueueOverview.csproj|solutionrelative:queueoverview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC5482-34B6-400B-8930-2E5A8F034B3C}|03.MatchingBrackets\\03.MatchingBrackets.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\03.matchingbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC5482-34B6-400B-8930-2E5A8F034B3C}|03.MatchingBrackets\\03.MatchingBrackets.csproj|solutionrelative:03.matchingbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9CEF23-D0C0-440F-9934-1CB31AE09D9A}|02.StackSum\\02.StackSum.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9CEF23-D0C0-440F-9934-1CB31AE09D9A}|02.StackSum\\02.StackSum.csproj|solutionrelative:02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F14FAC-6300-4DCC-BE5D-EF0F9E555A8E}|PrintAStack\\PrintAStack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\printastack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F14FAC-6300-4DCC-BE5D-EF0F9E555A8E}|PrintAStack\\PrintAStack.csproj|solutionrelative:printastack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B5C018-C149-44C4-8128-24F791833356}|01.ReverseAString\\01.ReverseAString.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B5C018-C149-44C4-8128-24F791833356}|01.ReverseAString\\01.ReverseAString.csproj|solutionrelative:01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086F17F9-FC0B-4783-B123-5B345A6AAAFC}|01.StackAndQueue\\01.StackAndQueue.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stackandqueue\\01.stackandqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086F17F9-FC0B-4783-B123-5B345A6AAAFC}|01.StackAndQueue\\01.StackAndQueue.csproj|solutionrelative:01.stackandqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\QueuePerformance\\Program.cs",
+              "RelativeDocumentMoniker": "QueuePerformance\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\QueuePerformance\\Program.cs",
+              "RelativeToolTip": "QueuePerformance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T19:24:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\05.TrafficJam\\Program.cs",
+              "RelativeDocumentMoniker": "05.TrafficJam\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\05.TrafficJam\\Program.cs*",
+              "RelativeToolTip": "05.TrafficJam\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T19:07:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\04.HotPotato\\Program.cs",
+              "RelativeDocumentMoniker": "04.HotPotato\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\04.HotPotato\\Program.cs",
+              "RelativeToolTip": "04.HotPotato\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:50:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\QueueOverview\\Program.cs",
+              "RelativeDocumentMoniker": "QueueOverview\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\QueueOverview\\Program.cs",
+              "RelativeToolTip": "QueueOverview\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:41:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\03.MatchingBrackets\\Program.cs",
+              "RelativeDocumentMoniker": "03.MatchingBrackets\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\03.MatchingBrackets\\Program.cs",
+              "RelativeToolTip": "03.MatchingBrackets\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:11:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\02.StackSum\\Program.cs",
+              "RelativeDocumentMoniker": "02.StackSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\02.StackSum\\Program.cs",
+              "RelativeToolTip": "02.StackSum\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:50:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\PrintAStack\\Program.cs",
+              "RelativeDocumentMoniker": "PrintAStack\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\PrintAStack\\Program.cs",
+              "RelativeToolTip": "PrintAStack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:27:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\01.ReverseAString\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseAString\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\01.ReverseAString\\Program.cs",
+              "RelativeToolTip": "01.ReverseAString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:22:18.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\StackCreation\\Program.cs",
+              "RelativeDocumentMoniker": "StackCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\StackCreation\\Program.cs",
+              "RelativeToolTip": "StackCreation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:15:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\01.StackAndQueue\\Program.cs",
+              "RelativeDocumentMoniker": "01.StackAndQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StackAndQueue\\01.StackAndQueue\\Program.cs",
+              "RelativeToolTip": "01.StackAndQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:04:26.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

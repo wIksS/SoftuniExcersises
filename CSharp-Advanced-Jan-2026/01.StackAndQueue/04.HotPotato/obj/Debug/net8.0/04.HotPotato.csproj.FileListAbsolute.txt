@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\bin\Debug\net8.0\04.HotPotato.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\bin\Debug\net8.0\04.HotPotato.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\bin\Debug\net8.0\04.HotPotato.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\bin\Debug\net8.0\04.HotPotato.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\bin\Debug\net8.0\04.HotPotato.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\refint\04.HotPotato.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\04.HotPotato.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StackAndQueue\04.HotPotato\obj\Debug\net8.0\ref\04.HotPotato.dll
