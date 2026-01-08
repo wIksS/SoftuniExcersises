@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\bin\Debug\net8.0\04.Trucks.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\bin\Debug\net8.0\04.Trucks.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\bin\Debug\net8.0\04.Trucks.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\bin\Debug\net8.0\04.Trucks.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\bin\Debug\net8.0\04.Trucks.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\refint\04.Trucks.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\04.Trucks.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\01.StacksAndQueuesExercises\obj\Debug\net8.0\ref\04.Trucks.dll

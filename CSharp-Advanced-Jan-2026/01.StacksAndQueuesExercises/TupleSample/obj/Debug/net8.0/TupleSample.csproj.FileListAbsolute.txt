@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\bin\Debug\net8.0\TupleSample.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\bin\Debug\net8.0\TupleSample.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\bin\Debug\net8.0\TupleSample.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\bin\Debug\net8.0\TupleSample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\bin\Debug\net8.0\TupleSample.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\refint\TupleSample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\TupleSample.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\TupleSample\obj\Debug\net8.0\ref\TupleSample.dll

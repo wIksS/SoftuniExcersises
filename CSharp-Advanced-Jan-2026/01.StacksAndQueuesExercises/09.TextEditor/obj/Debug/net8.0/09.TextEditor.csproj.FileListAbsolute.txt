@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\bin\Debug\net8.0\09.TextEditor.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\bin\Debug\net8.0\09.TextEditor.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\bin\Debug\net8.0\09.TextEditor.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\bin\Debug\net8.0\09.TextEditor.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\bin\Debug\net8.0\09.TextEditor.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\refint\09.TextEditor.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\09.TextEditor.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\09.TextEditor\obj\Debug\net8.0\ref\09.TextEditor.dll

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\bin\Debug\net8.0\StartTemplate.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\bin\Debug\net8.0\StartTemplate.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\bin\Debug\net8.0\StartTemplate.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\bin\Debug\net8.0\StartTemplate.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\bin\Debug\net8.0\StartTemplate.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\refint\StartTemplate.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\StartTemplate.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\01.StacksAndQueuesExercises\StartTemplate\obj\Debug\net8.0\ref\StartTemplate.dll

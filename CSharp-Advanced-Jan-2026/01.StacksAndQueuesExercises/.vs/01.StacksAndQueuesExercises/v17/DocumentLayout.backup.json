@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35470A65-F84E-48A0-927D-42ED51BB3CEB}|09.TextEditor\\09.TextEditor.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\09.texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35470A65-F84E-48A0-927D-42ED51BB3CEB}|09.TextEditor\\09.TextEditor.csproj|solutionrelative:09.texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B70B57-48C0-4793-8BA3-C827FD7B6FEB}|10.Crossroads\\10.Crossroads.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B70B57-48C0-4793-8BA3-C827FD7B6FEB}|10.Crossroads\\10.Crossroads.csproj|solutionrelative:10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7406E5-EAE5-4E72-8B6B-EF5ABCBF1738}|08.Paranthesis\\08.Paranthesis.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\08.paranthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7406E5-EAE5-4E72-8B6B-EF5ABCBF1738}|08.Paranthesis\\08.Paranthesis.csproj|solutionrelative:08.paranthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0B8C82-A99F-4A3A-AD6B-DBF815290A05}|TupleSample\\TupleSample.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\tuplesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0B8C82-A99F-4A3A-AD6B-DBF815290A05}|TupleSample\\TupleSample.csproj|solutionrelative:tuplesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E775D181-6564-44A3-8D06-5B09177A4D76}|StartTemplate\\StartTemplate.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\starttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E775D181-6564-44A3-8D06-5B09177A4D76}|StartTemplate\\StartTemplate.csproj|solutionrelative:starttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF47B957-F54F-4961-839E-5AA1E860B44C}|01.StacksAndQueuesExercises\\01.StacksAndQueuesExercises.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\01.stacksandqueuesexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF47B957-F54F-4961-839E-5AA1E860B44C}|01.StacksAndQueuesExercises\\01.StacksAndQueuesExercises.csproj|solutionrelative:01.stacksandqueuesexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C01E4E-BF70-43B6-9F78-0F2B8F70D690}|WithStartTemplate\\WithStartTemplate.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\withstarttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C01E4E-BF70-43B6-9F78-0F2B8F70D690}|WithStartTemplate\\WithStartTemplate.csproj|solutionrelative:withstarttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C01E4E-BF70-43B6-9F78-0F2B8F70D690}|WithStartTemplate\\WithStartTemplate.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\01.stacksandqueuesexercises\\withstarttemplate\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C01E4E-BF70-43B6-9F78-0F2B8F70D690}|WithStartTemplate\\WithStartTemplate.csproj|solutionrelative:withstarttemplate\\newclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\09.TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "09.TextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\09.TextEditor\\Program.cs",
+              "RelativeToolTip": "09.TextEditor\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwC0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:30:44.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\10.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "10.Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\10.Crossroads\\Program.cs",
+              "RelativeToolTip": "10.Crossroads\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:45:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\08.Paranthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08.Paranthesis\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\08.Paranthesis\\Program.cs",
+              "RelativeToolTip": "08.Paranthesis\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:03:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\TupleSample\\Program.cs",
+              "RelativeDocumentMoniker": "TupleSample\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\TupleSample\\Program.cs",
+              "RelativeToolTip": "TupleSample\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:48:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewClass.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\WithStartTemplate\\NewClass.cs",
+              "RelativeDocumentMoniker": "WithStartTemplate\\NewClass.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\WithStartTemplate\\NewClass.cs",
+              "RelativeToolTip": "WithStartTemplate\\NewClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:02:04.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\WithStartTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "WithStartTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\WithStartTemplate\\Program.cs",
+              "RelativeToolTip": "WithStartTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:55:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\StartTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "StartTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\StartTemplate\\Program.cs",
+              "RelativeToolTip": "StartTemplate\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:54:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\01.StacksAndQueuesExercises\\Program.cs",
+              "RelativeDocumentMoniker": "01.StacksAndQueuesExercises\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\01.StacksAndQueuesExercises\\01.StacksAndQueuesExercises\\Program.cs",
+              "RelativeToolTip": "01.StacksAndQueuesExercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:40:27.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
