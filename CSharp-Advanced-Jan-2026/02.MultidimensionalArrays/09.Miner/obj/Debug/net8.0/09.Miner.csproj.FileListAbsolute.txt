@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\bin\Debug\net8.0\09.Miner.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\bin\Debug\net8.0\09.Miner.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\bin\Debug\net8.0\09.Miner.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\bin\Debug\net8.0\09.Miner.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\bin\Debug\net8.0\09.Miner.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\refint\09.Miner.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\09.Miner.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\09.Miner\obj\Debug\net8.0\ref\09.Miner.dll

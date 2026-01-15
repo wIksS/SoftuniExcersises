@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\bin\Debug\net8.0\08.Contests.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\bin\Debug\net8.0\08.Contests.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\bin\Debug\net8.0\08.Contests.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\bin\Debug\net8.0\08.Contests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\bin\Debug\net8.0\08.Contests.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\refint\08.Contests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\08.Contests.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\08.Contests\obj\Debug\net8.0\ref\08.Contests.dll

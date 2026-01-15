@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\bin\Debug\net8.0\07.KnightGame.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\bin\Debug\net8.0\07.KnightGame.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\bin\Debug\net8.0\07.KnightGame.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\bin\Debug\net8.0\07.KnightGame.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\bin\Debug\net8.0\07.KnightGame.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\refint\07.KnightGame.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\07.KnightGame.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\07.KnightGame\obj\Debug\net8.0\ref\07.KnightGame.dll

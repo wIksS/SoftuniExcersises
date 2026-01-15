@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\bin\Debug\net8.0\DictionarySortLinq.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\bin\Debug\net8.0\DictionarySortLinq.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\bin\Debug\net8.0\DictionarySortLinq.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\bin\Debug\net8.0\DictionarySortLinq.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\bin\Debug\net8.0\DictionarySortLinq.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\refint\DictionarySortLinq.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\DictionarySortLinq.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\DictionarySortLinq\obj\Debug\net8.0\ref\DictionarySortLinq.dll

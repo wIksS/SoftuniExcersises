@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0CD77E-FEA9-4720-9038-877BC554805D}|10.Sides\\10.Sides.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.dictionariesandsets\\10.sides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0CD77E-FEA9-4720-9038-877BC554805D}|10.Sides\\10.Sides.csproj|solutionrelative:10.sides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FBF109-6AEB-40A5-B789-A82D0A0D10B7}|08.Contests\\08.Contests.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.dictionariesandsets\\08.contests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FBF109-6AEB-40A5-B789-A82D0A0D10B7}|08.Contests\\08.Contests.csproj|solutionrelative:08.contests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2691AC-C126-4BA0-AB63-7DDD4F5790D5}|DictionarySortLinq\\DictionarySortLinq.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.dictionariesandsets\\dictionarysortlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2691AC-C126-4BA0-AB63-7DDD4F5790D5}|DictionarySortLinq\\DictionarySortLinq.csproj|solutionrelative:dictionarysortlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341946CB-C927-468B-9373-C945547A8E24}|07.Vloggers\\07.Vloggers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.dictionariesandsets\\07.vloggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341946CB-C927-468B-9373-C945547A8E24}|07.Vloggers\\07.Vloggers.csproj|solutionrelative:07.vloggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B32708-A1A2-46F3-AF92-2CC5A205B7A0}|03.DictionariesAndSets\\03.DictionariesAndSets.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.dictionariesandsets\\03.dictionariesandsets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B32708-A1A2-46F3-AF92-2CC5A205B7A0}|03.DictionariesAndSets\\03.DictionariesAndSets.csproj|solutionrelative:03.dictionariesandsets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\10.Sides\\Program.cs",
+              "RelativeDocumentMoniker": "10.Sides\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\10.Sides\\Program.cs",
+              "RelativeToolTip": "10.Sides\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:13:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\08.Contests\\Program.cs",
+              "RelativeDocumentMoniker": "08.Contests\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\08.Contests\\Program.cs",
+              "RelativeToolTip": "08.Contests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:21:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\DictionarySortLinq\\Program.cs",
+              "RelativeDocumentMoniker": "DictionarySortLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\DictionarySortLinq\\Program.cs",
+              "RelativeToolTip": "DictionarySortLinq\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:32:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\07.Vloggers\\Program.cs",
+              "RelativeDocumentMoniker": "07.Vloggers\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\07.Vloggers\\Program.cs",
+              "RelativeToolTip": "07.Vloggers\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:15:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\03.DictionariesAndSets\\Program.cs",
+              "RelativeDocumentMoniker": "03.DictionariesAndSets\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.DictionariesAndSets\\03.DictionariesAndSets\\Program.cs",
+              "RelativeToolTip": "03.DictionariesAndSets\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:46:13.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

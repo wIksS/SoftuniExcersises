@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\bin\Debug\net8.0\02.MultidimensionalArrays.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\bin\Debug\net8.0\02.MultidimensionalArrays.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\bin\Debug\net8.0\02.MultidimensionalArrays.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\bin\Debug\net8.0\02.MultidimensionalArrays.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\bin\Debug\net8.0\02.MultidimensionalArrays.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\refint\02.MultidimensionalArrays.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\02.MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\02.MultidimensionalArrays\obj\Debug\net8.0\ref\02.MultidimensionalArrays.dll

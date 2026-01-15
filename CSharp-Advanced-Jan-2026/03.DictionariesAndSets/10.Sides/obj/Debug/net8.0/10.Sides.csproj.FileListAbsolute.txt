@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\bin\Debug\net8.0\10.Sides.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\bin\Debug\net8.0\10.Sides.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\bin\Debug\net8.0\10.Sides.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\bin\Debug\net8.0\10.Sides.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\bin\Debug\net8.0\10.Sides.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\refint\10.Sides.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\10.Sides.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.DictionariesAndSets\10.Sides\obj\Debug\net8.0\ref\10.Sides.dll

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\bin\Debug\net8.0\08.Bombs.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\bin\Debug\net8.0\08.Bombs.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\bin\Debug\net8.0\08.Bombs.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\bin\Debug\net8.0\08.Bombs.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\bin\Debug\net8.0\08.Bombs.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\refint\08.Bombs.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\08.Bombs.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\02.MultidimensionalArrays\08.Bombs\obj\Debug\net8.0\ref\08.Bombs.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF10E6C-A1ED-49A8-9CAD-DADAEA83A46E}|09.Miner\\09.Miner.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\02.multidimensionalarrays\\09.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF10E6C-A1ED-49A8-9CAD-DADAEA83A46E}|09.Miner\\09.Miner.csproj|solutionrelative:09.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A883EB-AB72-409E-AE71-37E781629A03}|07.KnightGame\\07.KnightGame.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\02.multidimensionalarrays\\07.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A883EB-AB72-409E-AE71-37E781629A03}|07.KnightGame\\07.KnightGame.csproj|solutionrelative:07.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57108216-50AC-47A8-9AAE-CFCC2C88CE04}|08.Bombs\\08.Bombs.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\02.multidimensionalarrays\\08.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57108216-50AC-47A8-9AAE-CFCC2C88CE04}|08.Bombs\\08.Bombs.csproj|solutionrelative:08.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683D3F19-30BD-463E-ADBD-DF9C3B62396E}|02.MultidimensionalArrays\\02.MultidimensionalArrays.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\02.multidimensionalarrays\\02.multidimensionalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683D3F19-30BD-463E-ADBD-DF9C3B62396E}|02.MultidimensionalArrays\\02.MultidimensionalArrays.csproj|solutionrelative:02.multidimensionalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\09.Miner\\Program.cs",
+              "RelativeDocumentMoniker": "09.Miner\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\09.Miner\\Program.cs",
+              "RelativeToolTip": "09.Miner\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:28:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\07.KnightGame\\Program.cs",
+              "RelativeDocumentMoniker": "07.KnightGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\07.KnightGame\\Program.cs",
+              "RelativeToolTip": "07.KnightGame\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:49:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\08.Bombs\\Program.cs",
+              "RelativeDocumentMoniker": "08.Bombs\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\08.Bombs\\Program.cs",
+              "RelativeToolTip": "08.Bombs\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:41:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\02.MultidimensionalArrays\\Program.cs",
+              "RelativeDocumentMoniker": "02.MultidimensionalArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\02.MultidimensionalArrays\\02.MultidimensionalArrays\\Program.cs",
+              "RelativeToolTip": "02.MultidimensionalArrays\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:06:05.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
