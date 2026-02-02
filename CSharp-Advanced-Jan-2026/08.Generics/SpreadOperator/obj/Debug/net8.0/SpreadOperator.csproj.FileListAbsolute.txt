@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\bin\Debug\net8.0\SpreadOperator.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\bin\Debug\net8.0\SpreadOperator.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\bin\Debug\net8.0\SpreadOperator.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\bin\Debug\net8.0\SpreadOperator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\bin\Debug\net8.0\SpreadOperator.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\refint\SpreadOperator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\SpreadOperator.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\SpreadOperator\obj\Debug\net8.0\ref\SpreadOperator.dll

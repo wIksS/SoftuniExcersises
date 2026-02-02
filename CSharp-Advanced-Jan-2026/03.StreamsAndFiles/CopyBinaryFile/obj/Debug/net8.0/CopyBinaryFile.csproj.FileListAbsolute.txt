@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\bin\Debug\net8.0\CopyBinaryFile.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\bin\Debug\net8.0\CopyBinaryFile.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\bin\Debug\net8.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\bin\Debug\net8.0\CopyBinaryFile.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\bin\Debug\net8.0\CopyBinaryFile.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\refint\CopyBinaryFile.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\CopyBinaryFile\obj\Debug\net8.0\ref\CopyBinaryFile.dll

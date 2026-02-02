@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\bin\Debug\net8.0\10.SoftuniParking.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\bin\Debug\net8.0\10.SoftuniParking.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\bin\Debug\net8.0\10.SoftuniParking.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\bin\Debug\net8.0\10.SoftuniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\bin\Debug\net8.0\10.SoftuniParking.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\refint\10.SoftuniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\10.SoftuniParking.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\10.SoftuniParking\obj\Debug\net8.0\ref\10.SoftuniParking.dll

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\bin\Debug\net8.0\ZipFileTests.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\bin\Debug\net8.0\ZipFileTests.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\bin\Debug\net8.0\ZipFileTests.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\bin\Debug\net8.0\ZipFileTests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\bin\Debug\net8.0\ZipFileTests.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\refint\ZipFileTests.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ZipFileTests.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\ZipFileTests\obj\Debug\net8.0\ref\ZipFileTests.dll

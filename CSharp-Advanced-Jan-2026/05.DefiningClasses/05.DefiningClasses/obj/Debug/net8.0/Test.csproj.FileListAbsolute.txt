@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\bin\Debug\net8.0\Test.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\bin\Debug\net8.0\Test.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\bin\Debug\net8.0\Test.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\bin\Debug\net8.0\Test.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\refint\Test.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\05.DefiningClasses\obj\Debug\net8.0\ref\Test.dll

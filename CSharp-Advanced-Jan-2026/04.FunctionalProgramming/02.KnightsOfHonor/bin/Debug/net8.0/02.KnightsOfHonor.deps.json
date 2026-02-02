@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02.KnightsOfHonor/1.0.0": {
+        "runtime": {
+          "02.KnightsOfHonor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.KnightsOfHonor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

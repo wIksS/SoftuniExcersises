@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\ref\SoftUniParking.dll

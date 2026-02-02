@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PerformanceTest/1.0.0": {
+        "dependencies": {
+          "07.CustomListAndStack": "1.0.0"
+        },
+        "runtime": {
+          "PerformanceTest.dll": {}
+        }
+      },
+      "07.CustomListAndStack/1.0.0": {
+        "runtime": {
+          "07.CustomListAndStack.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PerformanceTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07.CustomListAndStack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

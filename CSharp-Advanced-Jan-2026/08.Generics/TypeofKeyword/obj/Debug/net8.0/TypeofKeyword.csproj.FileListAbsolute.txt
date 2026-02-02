@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\bin\Debug\net8.0\TypeofKeyword.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\bin\Debug\net8.0\TypeofKeyword.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\bin\Debug\net8.0\TypeofKeyword.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\bin\Debug\net8.0\TypeofKeyword.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\bin\Debug\net8.0\TypeofKeyword.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\refint\TypeofKeyword.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\TypeofKeyword.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\TypeofKeyword\obj\Debug\net8.0\ref\TypeofKeyword.dll

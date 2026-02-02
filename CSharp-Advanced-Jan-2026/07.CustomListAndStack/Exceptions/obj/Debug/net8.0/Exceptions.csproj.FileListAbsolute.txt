@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\bin\Debug\net8.0\Exceptions.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll

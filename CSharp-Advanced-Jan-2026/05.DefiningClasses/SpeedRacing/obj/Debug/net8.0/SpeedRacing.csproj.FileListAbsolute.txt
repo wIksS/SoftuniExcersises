@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\bin\Debug\net8.0\SpeedRacing.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\bin\Debug\net8.0\SpeedRacing.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\bin\Debug\net8.0\SpeedRacing.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\bin\Debug\net8.0\SpeedRacing.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\bin\Debug\net8.0\SpeedRacing.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\refint\SpeedRacing.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\SpeedRacing\obj\Debug\net8.0\ref\SpeedRacing.dll

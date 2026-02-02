@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\bin\Debug\net8.0\Threeuples.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\bin\Debug\net8.0\Threeuples.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\bin\Debug\net8.0\Threeuples.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\bin\Debug\net8.0\Threeuples.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\bin\Debug\net8.0\Threeuples.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\refint\Threeuples.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\Threeuples.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\Threeuple\obj\Debug\net8.0\ref\Threeuples.dll

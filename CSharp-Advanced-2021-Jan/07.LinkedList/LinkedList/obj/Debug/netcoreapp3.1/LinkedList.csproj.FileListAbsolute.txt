@@ -11,3 +11,17 @@ C:\Users\user\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedL
 C:\Users\user\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
 C:\Users\user\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
 C:\Users\user\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-2021-Jan\07.LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

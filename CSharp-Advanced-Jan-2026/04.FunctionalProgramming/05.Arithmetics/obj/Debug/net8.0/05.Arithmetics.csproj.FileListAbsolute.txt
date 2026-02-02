@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\bin\Debug\net8.0\05.Arithmetics.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\bin\Debug\net8.0\05.Arithmetics.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\bin\Debug\net8.0\05.Arithmetics.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\bin\Debug\net8.0\05.Arithmetics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\bin\Debug\net8.0\05.Arithmetics.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\refint\05.Arithmetics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\05.Arithmetics.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\05.Arithmetics\obj\Debug\net8.0\ref\05.Arithmetics.dll

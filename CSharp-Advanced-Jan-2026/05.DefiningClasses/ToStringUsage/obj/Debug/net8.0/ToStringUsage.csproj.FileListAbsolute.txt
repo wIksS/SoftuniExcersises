@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\bin\Debug\net8.0\ToStringUsage.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\bin\Debug\net8.0\ToStringUsage.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\bin\Debug\net8.0\ToStringUsage.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\bin\Debug\net8.0\ToStringUsage.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\bin\Debug\net8.0\ToStringUsage.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\refint\ToStringUsage.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ToStringUsage.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\ToStringUsage\obj\Debug\net8.0\ref\ToStringUsage.dll

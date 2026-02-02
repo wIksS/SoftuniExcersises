@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\refint\PokemonTrainer.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\05.DefiningClasses\PokemonTrainer\obj\Debug\net8.0\ref\PokemonTrainer.dll

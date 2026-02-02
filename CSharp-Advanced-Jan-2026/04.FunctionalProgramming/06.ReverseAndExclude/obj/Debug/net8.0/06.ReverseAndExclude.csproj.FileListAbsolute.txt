@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\bin\Debug\net8.0\06.ReverseAndExclude.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\refint\06.ReverseAndExclude.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\06.ReverseAndExclude.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\06.ReverseAndExclude\obj\Debug\net8.0\ref\06.ReverseAndExclude.dll

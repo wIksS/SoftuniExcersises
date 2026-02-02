@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\bin\Debug\net8.0\Indexers.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\bin\Debug\net8.0\Indexers.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\bin\Debug\net8.0\Indexers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\bin\Debug\net8.0\Indexers.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\07.CustomListAndStack\Indexers\obj\Debug\net8.0\ref\Indexers.dll

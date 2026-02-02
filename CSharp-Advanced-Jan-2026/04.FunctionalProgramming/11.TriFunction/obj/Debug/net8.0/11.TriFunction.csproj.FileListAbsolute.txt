@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\bin\Debug\net8.0\11.TriFunction.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\bin\Debug\net8.0\11.TriFunction.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\bin\Debug\net8.0\11.TriFunction.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\bin\Debug\net8.0\11.TriFunction.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\bin\Debug\net8.0\11.TriFunction.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\refint\11.TriFunction.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\11.TriFunction.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\11.TriFunction\obj\Debug\net8.0\ref\11.TriFunction.dll

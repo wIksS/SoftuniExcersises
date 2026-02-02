@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\linkedlist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\linkedlist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\nodemusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\nodemusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\softunilinkedlistfastreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\softunilinkedlistfastreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-2021-jan\\07.linkedlist\\linkedlist\\musiclinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37149AF9-4B61-408E-AA57-9F652AA0E0E7}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\musiclinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedList",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\LinkedList.csproj",
+              "RelativeDocumentMoniker": "LinkedList\\LinkedList.csproj",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\LinkedList.csproj",
+              "RelativeToolTip": "LinkedList\\LinkedList.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T18:43:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\MusicLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList\\MusicLinkedList.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\MusicLinkedList.cs",
+              "RelativeToolTip": "LinkedList\\MusicLinkedList.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwG8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:41:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoftuniLinkedListFastReverse.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\SoftuniLinkedListFastReverse.cs",
+              "RelativeDocumentMoniker": "LinkedList\\SoftuniLinkedListFastReverse.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\SoftuniLinkedListFastReverse.cs",
+              "RelativeToolTip": "LinkedList\\SoftuniLinkedListFastReverse.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:40:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:39:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\DoublyLinkedList.cs",
+              "RelativeToolTip": "LinkedList\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAA4wH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:38:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NodeMusic.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\NodeMusic.cs",
+              "RelativeDocumentMoniker": "LinkedList\\NodeMusic.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\NodeMusic.cs",
+              "RelativeToolTip": "LinkedList\\NodeMusic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:37:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-2021-Jan\\07.LinkedList\\LinkedList\\Node.cs",
+              "RelativeToolTip": "LinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:37:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

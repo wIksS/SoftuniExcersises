@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\bin\Debug\net8.0\EvenLines.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\bin\Debug\net8.0\EvenLines.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\bin\Debug\net8.0\EvenLines.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\bin\Debug\net8.0\EvenLines.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\bin\Debug\net8.0\EvenLines.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\refint\EvenLines.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\EvenLines.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\EvenLines\obj\Debug\net8.0\ref\EvenLines.dll

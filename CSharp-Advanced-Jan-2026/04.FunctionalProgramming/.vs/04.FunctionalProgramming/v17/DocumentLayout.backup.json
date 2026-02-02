@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3646F75-07B2-4A67-BDED-94180D8F9D3A}|11.TriFunction\\11.TriFunction.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3646F75-07B2-4A67-BDED-94180D8F9D3A}|11.TriFunction\\11.TriFunction.csproj|solutionrelative:11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4419E8-BAF9-4C45-A882-0CD7C5E4831A}|10.PRFM\\10.PRFM.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\10.prfm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4419E8-BAF9-4C45-A882-0CD7C5E4831A}|10.PRFM\\10.PRFM.csproj|solutionrelative:10.prfm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C3B08-40AF-47FD-9FB7-57F29A3CF364}|09.PredicateParty\\09.PredicateParty.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\09.predicateparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C3B08-40AF-47FD-9FB7-57F29A3CF364}|09.PredicateParty\\09.PredicateParty.csproj|solutionrelative:09.predicateparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C45590-F503-4D93-9A4A-231141E2183F}|08.ListOfPredicates\\08.ListOfPredicates.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C45590-F503-4D93-9A4A-231141E2183F}|08.ListOfPredicates\\08.ListOfPredicates.csproj|solutionrelative:08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A97F27A-8B3D-40A8-B5D3-66BD9DAB1F06}|07.PredicateForNames\\07.PredicateForNames.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A97F27A-8B3D-40A8-B5D3-66BD9DAB1F06}|07.PredicateForNames\\07.PredicateForNames.csproj|solutionrelative:07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD3FD8D-B50E-4A37-8206-B909C576A1AC}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD3FD8D-B50E-4A37-8206-B909C576A1AC}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|solutionrelative:06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018E7A2-46D3-4725-9766-4BBDA75604BF}|05.Arithmetics\\05.Arithmetics.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\05.arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018E7A2-46D3-4725-9766-4BBDA75604BF}|05.Arithmetics\\05.Arithmetics.csproj|solutionrelative:05.arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ACFBD2-249F-4DDA-AFCB-B396F3CAB330}|04.EvenOrOdd\\04.EvenOrOdd.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\04.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ACFBD2-249F-4DDA-AFCB-B396F3CAB330}|04.EvenOrOdd\\04.EvenOrOdd.csproj|solutionrelative:04.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339943C4-FA94-4081-A83C-88C2B807E575}|03.FindSmallestNumbers\\03.FindSmallestNumbers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\03.findsmallestnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339943C4-FA94-4081-A83C-88C2B807E575}|03.FindSmallestNumbers\\03.FindSmallestNumbers.csproj|solutionrelative:03.findsmallestnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE490FA9-EAB1-4966-99F1-1E973109D6C3}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE490FA9-EAB1-4966-99F1-1E973109D6C3}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|solutionrelative:02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEE8062-85E1-44E1-A5E8-9868488554D8}|04.FunctionalProgramming\\04.FunctionalProgramming.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\04.functionalprogramming\\04.functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEE8062-85E1-44E1-A5E8-9868488554D8}|04.FunctionalProgramming\\04.FunctionalProgramming.csproj|solutionrelative:04.functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\11.TriFunction\\Program.cs",
+              "RelativeDocumentMoniker": "11.TriFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\11.TriFunction\\Program.cs*",
+              "RelativeToolTip": "11.TriFunction\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:21:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\10.PRFM\\Program.cs",
+              "RelativeDocumentMoniker": "10.PRFM\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\10.PRFM\\Program.cs",
+              "RelativeToolTip": "10.PRFM\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:05:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\09.PredicateParty\\Program.cs",
+              "RelativeDocumentMoniker": "09.PredicateParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\09.PredicateParty\\Program.cs",
+              "RelativeToolTip": "09.PredicateParty\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:45:12.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\08.ListOfPredicates\\Program.cs",
+              "RelativeDocumentMoniker": "08.ListOfPredicates\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\08.ListOfPredicates\\Program.cs",
+              "RelativeToolTip": "08.ListOfPredicates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:18:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\07.PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.PredicateForNames\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\07.PredicateForNames\\Program.cs",
+              "RelativeToolTip": "07.PredicateForNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:11:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\06.ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReverseAndExclude\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\06.ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "06.ReverseAndExclude\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:04:13.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\05.Arithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05.Arithmetics\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\05.Arithmetics\\Program.cs",
+              "RelativeToolTip": "05.Arithmetics\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:48:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\04.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenOrOdd\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\04.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "04.EvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:20:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\03.FindSmallestNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.FindSmallestNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\03.FindSmallestNumbers\\Program.cs",
+              "RelativeToolTip": "03.FindSmallestNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:00:03.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\02.KnightsOfHonor\\Program.cs",
+              "RelativeDocumentMoniker": "02.KnightsOfHonor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\02.KnightsOfHonor\\Program.cs",
+              "RelativeToolTip": "02.KnightsOfHonor\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:49:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\04.FunctionalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "04.FunctionalProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\04.FunctionalProgramming\\04.FunctionalProgramming\\Program.cs",
+              "RelativeToolTip": "04.FunctionalProgramming\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:39:59.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\bin\Debug\net8.0\LineNumbers.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\bin\Debug\net8.0\LineNumbers.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\bin\Debug\net8.0\LineNumbers.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\bin\Debug\net8.0\LineNumbers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\bin\Debug\net8.0\LineNumbers.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\refint\LineNumbers.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\LineNumbers.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LineNumbers\obj\Debug\net8.0\ref\LineNumbers.dll

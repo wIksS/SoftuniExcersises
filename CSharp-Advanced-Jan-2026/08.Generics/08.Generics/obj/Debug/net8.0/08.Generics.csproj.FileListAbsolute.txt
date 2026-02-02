@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\bin\Debug\net8.0\08.Generics.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\bin\Debug\net8.0\08.Generics.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\bin\Debug\net8.0\08.Generics.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\bin\Debug\net8.0\08.Generics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\bin\Debug\net8.0\08.Generics.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\refint\08.Generics.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\08.Generics.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\08.Generics\08.Generics\obj\Debug\net8.0\ref\08.Generics.dll

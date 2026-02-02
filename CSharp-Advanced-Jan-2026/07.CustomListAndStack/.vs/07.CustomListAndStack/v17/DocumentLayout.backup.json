@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\07.customlistandstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|solutionrelative:07.customlistandstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\07.customlistandstack\\softunilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|solutionrelative:07.customlistandstack\\softunilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30431B11-1F41-41DE-B23C-A60682D605FB}|PerformanceTest\\PerformanceTest.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\performancetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30431B11-1F41-41DE-B23C-A60682D605FB}|PerformanceTest\\PerformanceTest.csproj|solutionrelative:performancetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD38940-2655-4FA0-A99B-73B88B2CC6FA}|TestPerformance\\TestPerformance.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\testperformance\\testperformance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAD38940-2655-4FA0-A99B-73B88B2CC6FA}|TestPerformance\\TestPerformance.csproj|solutionrelative:testperformance\\testperformance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\07.customlistandstack\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81C6D9-5FFB-471B-B7CF-F9F841D15AF2}|07.CustomListAndStack\\07.CustomListAndStack.csproj|solutionrelative:07.customlistandstack\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD38940-2655-4FA0-A99B-73B88B2CC6FA}|TestPerformance\\TestPerformance.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\testperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD38940-2655-4FA0-A99B-73B88B2CC6FA}|TestPerformance\\TestPerformance.csproj|solutionrelative:testperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C32B0B5-5B62-455D-935D-47F266FB69B5}|Indexers\\Indexers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C32B0B5-5B62-455D-935D-47F266FB69B5}|Indexers\\Indexers.csproj|solutionrelative:indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969AC79-AE50-4A19-9D69-F235F175D057}|Exceptions\\Exceptions.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\07.customlistandstack\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969AC79-AE50-4A19-9D69-F235F175D057}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPerformance.csproj",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\TestPerformance\\TestPerformance.csproj",
+              "RelativeDocumentMoniker": "TestPerformance\\TestPerformance.csproj",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\TestPerformance\\TestPerformance.csproj",
+              "RelativeToolTip": "TestPerformance\\TestPerformance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T18:20:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\PerformanceTest\\Program.cs",
+              "RelativeDocumentMoniker": "PerformanceTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\PerformanceTest\\Program.cs",
+              "RelativeToolTip": "PerformanceTest\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:20:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\TestPerformance\\Program.cs",
+              "RelativeDocumentMoniker": "TestPerformance\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\TestPerformance\\Program.cs",
+              "RelativeToolTip": "TestPerformance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:20:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "07.CustomListAndStack\\CustomQueue.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\CustomQueue.cs",
+              "RelativeToolTip": "07.CustomListAndStack\\CustomQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:08:13.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\Indexers\\Program.cs",
+              "RelativeDocumentMoniker": "Indexers\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\Indexers\\Program.cs",
+              "RelativeToolTip": "Indexers\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:51:18.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:45:21.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftUniList.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\SoftUniList.cs",
+              "RelativeDocumentMoniker": "07.CustomListAndStack\\SoftUniList.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\SoftUniList.cs*",
+              "RelativeToolTip": "07.CustomListAndStack\\SoftUniList.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:53:38.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\Program.cs",
+              "RelativeDocumentMoniker": "07.CustomListAndStack\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\07.CustomListAndStack\\07.CustomListAndStack\\Program.cs*",
+              "RelativeToolTip": "07.CustomListAndStack\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:51:44.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

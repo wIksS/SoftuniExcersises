@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\bin\Debug\net8.0\10.PRFM.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\bin\Debug\net8.0\10.PRFM.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\bin\Debug\net8.0\10.PRFM.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\bin\Debug\net8.0\10.PRFM.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\bin\Debug\net8.0\10.PRFM.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\refint\10.PRFM.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\10.PRFM.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\10.PRFM\obj\Debug\net8.0\ref\10.PRFM.dll

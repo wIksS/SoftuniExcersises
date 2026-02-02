@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C82C08E-A5E7-416C-9D79-72A743C70BC0}|ZipFileTests\\ZipFileTests.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\zipfiletests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C82C08E-A5E7-416C-9D79-72A743C70BC0}|ZipFileTests\\ZipFileTests.csproj|solutionrelative:zipfiletests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|solutionrelative:copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\copybinaryfile\\txt-copy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\txt-copy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\copybinaryfile\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\copybinaryfile\\copyme.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copyme.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\linenumbers\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF74B4D-D40E-410E-97D4-87BC0479E90A}|LinqExample\\LinqExample.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\03.streamsandfiles\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF74B4D-D40E-410E-97D4-87BC0479E90A}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipAndExtract .cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract .cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract .cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wBwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:59:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\ZipFileTests\\Program.cs",
+              "RelativeDocumentMoniker": "ZipFileTests\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\ZipFileTests\\Program.cs",
+              "RelativeToolTip": "ZipFileTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:48:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:20:35.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeDocumentMoniker": "CopyDirectory\\CopyDirectory.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeToolTip": "CopyDirectory\\CopyDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:05:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "txt-copy.txt",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\txt-copy.txt",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\txt-copy.txt",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\txt-copy.txt",
+              "RelativeToolTip": "CopyBinaryFile\\txt-copy.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T17:18:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\text.txt",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\text.txt",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\text.txt",
+              "RelativeToolTip": "CopyBinaryFile\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T17:11:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CopyBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:08:11.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "copyMe.png",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\copyMe.png",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\copyMe.png",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\CopyBinaryFile\\copyMe.png",
+              "RelativeToolTip": "CopyBinaryFile\\copyMe.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-19T17:08:06.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LinqExample\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LinqExample\\Program.cs",
+              "RelativeToolTip": "LinqExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:01:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\output.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\output.txt",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\output.txt",
+              "RelativeToolTip": "LineNumbers\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T16:48:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\text.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\text.txt",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\text.txt",
+              "RelativeToolTip": "LineNumbers\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T16:45:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\03.StreamsAndFiles\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:40:19.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

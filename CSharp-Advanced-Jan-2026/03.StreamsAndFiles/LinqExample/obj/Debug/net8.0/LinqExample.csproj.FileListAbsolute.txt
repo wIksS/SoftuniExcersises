@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\bin\Debug\net8.0\LinqExample.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\bin\Debug\net8.0\LinqExample.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\bin\Debug\net8.0\LinqExample.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\bin\Debug\net8.0\LinqExample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\bin\Debug\net8.0\LinqExample.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\refint\LinqExample.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\LinqExample.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\LinqExample\obj\Debug\net8.0\ref\LinqExample.dll

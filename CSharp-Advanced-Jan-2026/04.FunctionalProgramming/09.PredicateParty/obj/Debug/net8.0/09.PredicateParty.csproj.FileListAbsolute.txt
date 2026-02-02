@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\bin\Debug\net8.0\09.PredicateParty.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\bin\Debug\net8.0\09.PredicateParty.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\bin\Debug\net8.0\09.PredicateParty.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\bin\Debug\net8.0\09.PredicateParty.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\bin\Debug\net8.0\09.PredicateParty.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\refint\09.PredicateParty.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\09.PredicateParty.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\04.FunctionalProgramming\09.PredicateParty\obj\Debug\net8.0\ref\09.PredicateParty.dll

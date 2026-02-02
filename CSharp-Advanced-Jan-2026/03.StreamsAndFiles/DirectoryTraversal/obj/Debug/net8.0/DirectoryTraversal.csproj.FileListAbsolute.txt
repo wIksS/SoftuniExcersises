@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\refint\DirectoryTraversal.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\03.StreamsAndFiles\DirectoryTraversal\obj\Debug\net8.0\ref\DirectoryTraversal.dll
