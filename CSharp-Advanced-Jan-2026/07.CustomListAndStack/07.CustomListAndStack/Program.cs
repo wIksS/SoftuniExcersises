@@ -16,6 +16,11 @@
             {
                 list.Add(i + 1);
             }
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
             for (int i = 0; i < 1_000_000; i++)
             {
                 list.RemoveAt(list.Count-1);

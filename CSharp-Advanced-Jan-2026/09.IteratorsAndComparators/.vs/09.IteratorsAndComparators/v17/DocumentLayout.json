@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8F3C6-2531-4CEF-A032-C995864118E2}|7.CustomCaparator\\7.CustomCaparator.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\7.customcaparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8F3C6-2531-4CEF-A032-C995864118E2}|7.CustomCaparator\\7.CustomCaparator.csproj|solutionrelative:7.customcaparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775FF46F-FC68-4B2A-B733-DD941418927A}|PeopleComparable\\PeopleComparable.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\peoplecomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775FF46F-FC68-4B2A-B733-DD941418927A}|PeopleComparable\\PeopleComparable.csproj|solutionrelative:peoplecomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775FF46F-FC68-4B2A-B733-DD941418927A}|PeopleComparable\\PeopleComparable.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\peoplecomparable\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775FF46F-FC68-4B2A-B733-DD941418927A}|PeopleComparable\\PeopleComparable.csproj|solutionrelative:peoplecomparable\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540428-293C-4F9E-A350-E562A7CDCFD5}|People\\People.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540428-293C-4F9E-A350-E562A7CDCFD5}|People\\People.csproj|solutionrelative:people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540428-293C-4F9E-A350-E562A7CDCFD5}|People\\People.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540428-293C-4F9E-A350-E562A7CDCFD5}|People\\People.csproj|solutionrelative:people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B499A4-8575-4837-A73D-D5AFA74629E5}|Froggy\\Froggy.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B499A4-8575-4837-A73D-D5AFA74629E5}|Froggy\\Froggy.csproj|solutionrelative:froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B499A4-8575-4837-A73D-D5AFA74629E5}|Froggy\\Froggy.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B499A4-8575-4837-A73D-D5AFA74629E5}|Froggy\\Froggy.csproj|solutionrelative:froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776ED22-6711-4ED6-995D-E0D32D2647FE}|03.Stack\\03.Stack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\03.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776ED22-6711-4ED6-995D-E0D32D2647FE}|03.Stack\\03.Stack.csproj|solutionrelative:03.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776ED22-6711-4ED6-995D-E0D32D2647FE}|03.Stack\\03.Stack.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\03.stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776ED22-6711-4ED6-995D-E0D32D2647FE}|03.Stack\\03.Stack.csproj|solutionrelative:03.stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\09.iteratorsandcomparators\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|solutionrelative:09.iteratorsandcomparators\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\09.iteratorsandcomparators\\09.iteratorsandcomparators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|solutionrelative:09.iteratorsandcomparators\\09.iteratorsandcomparators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\09.iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|solutionrelative:09.iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|c:\\users\\lectures\\documents\\softuniexcersises\\csharp-advanced-jan-2026\\09.iteratorsandcomparators\\09.iteratorsandcomparators\\softuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ABCE0C-8969-460E-9F72-E77E0343A049}|09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj|solutionrelative:09.iteratorsandcomparators\\softuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\7.CustomCaparator\\Program.cs",
+              "RelativeDocumentMoniker": "7.CustomCaparator\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\7.CustomCaparator\\Program.cs",
+              "RelativeToolTip": "7.CustomCaparator\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA2wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:51:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\PeopleComparable\\Person.cs",
+              "RelativeDocumentMoniker": "PeopleComparable\\Person.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\PeopleComparable\\Person.cs",
+              "RelativeToolTip": "PeopleComparable\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:29:38.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\PeopleComparable\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleComparable\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\PeopleComparable\\Program.cs",
+              "RelativeToolTip": "PeopleComparable\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:29:15.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\People\\Person.cs",
+              "RelativeDocumentMoniker": "People\\Person.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\People\\Person.cs",
+              "RelativeToolTip": "People\\Person.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:11:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\People\\Program.cs",
+              "RelativeDocumentMoniker": "People\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\People\\Program.cs",
+              "RelativeToolTip": "People\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:11:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lake.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeDocumentMoniker": "Froggy\\Lake.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeToolTip": "Froggy\\Lake.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:59:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeDocumentMoniker": "Froggy\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeToolTip": "Froggy\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:59:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "09.IteratorsAndComparators",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj",
+              "RelativeDocumentMoniker": "09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj",
+              "RelativeToolTip": "09.IteratorsAndComparators\\09.IteratorsAndComparators.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T17:51:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\03.Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "03.Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\03.Stack\\Stack.cs",
+              "RelativeToolTip": "03.Stack\\Stack.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:44:10.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\03.Stack\\Program.cs",
+              "RelativeDocumentMoniker": "03.Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\03.Stack\\Program.cs",
+              "RelativeToolTip": "03.Stack\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:42:15.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Softuni.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\Softuni.cs",
+              "RelativeDocumentMoniker": "09.IteratorsAndComparators\\Softuni.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\Softuni.cs",
+              "RelativeToolTip": "09.IteratorsAndComparators\\Softuni.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:16:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListyIterator.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\ListyIterator.cs",
+              "RelativeDocumentMoniker": "09.IteratorsAndComparators\\ListyIterator.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\ListyIterator.cs",
+              "RelativeToolTip": "09.IteratorsAndComparators\\ListyIterator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:37:17.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\Program.cs",
+              "RelativeDocumentMoniker": "09.IteratorsAndComparators\\Program.cs",
+              "ToolTip": "C:\\Users\\Lectures\\Documents\\SoftuniExcersises\\CSharp-Advanced-Jan-2026\\09.IteratorsAndComparators\\09.IteratorsAndComparators\\Program.cs",
+              "RelativeToolTip": "09.IteratorsAndComparators\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:36:37.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

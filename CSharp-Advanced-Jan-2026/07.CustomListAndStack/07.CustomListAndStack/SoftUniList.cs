@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SoftuniDataStructures
 {
-    public class SoftUniList<T>
+    public class SoftUniList<T> : IEnumerable<T>
     {
         private T[] internalArray;
         private int index;
@@ -194,6 +195,19 @@ namespace SoftuniDataStructures
             {
                 throw new IndexOutOfRangeException();
             }
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < index; i++)
+            {
+                yield return internalArray[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

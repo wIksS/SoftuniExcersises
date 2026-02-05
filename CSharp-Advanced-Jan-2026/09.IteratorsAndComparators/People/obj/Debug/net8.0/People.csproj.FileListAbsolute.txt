@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\bin\Debug\net8.0\People.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\bin\Debug\net8.0\People.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\bin\Debug\net8.0\People.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\bin\Debug\net8.0\People.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\bin\Debug\net8.0\People.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\refint\People.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\People.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\People\obj\Debug\net8.0\ref\People.dll

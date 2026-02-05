@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\bin\Debug\net8.0\7.CustomCaparator.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\bin\Debug\net8.0\7.CustomCaparator.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\bin\Debug\net8.0\7.CustomCaparator.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\bin\Debug\net8.0\7.CustomCaparator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\bin\Debug\net8.0\7.CustomCaparator.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\refint\7.CustomCaparator.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\7.CustomCaparator.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\09.IteratorsAndComparators\7.CustomCaparator\obj\Debug\net8.0\ref\7.CustomCaparator.dll
