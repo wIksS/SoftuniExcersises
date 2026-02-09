@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\bin\Debug\net8.0\10.ExamPrepartion.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\bin\Debug\net8.0\10.ExamPrepartion.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\bin\Debug\net8.0\10.ExamPrepartion.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\bin\Debug\net8.0\10.ExamPrepartion.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\bin\Debug\net8.0\10.ExamPrepartion.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\refint\10.ExamPrepartion.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\10.ExamPrepartion.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\10.ExamPrepartion\obj\Debug\net8.0\ref\10.ExamPrepartion.dll

@@ -1,0 +1,15 @@
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.exe
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.deps.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.runtimeconfig.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\bin\Debug\net6.0\NewsFeed.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.AssemblyInfoInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.AssemblyInfo.cs
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.csproj.CoreCompileInputs.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.sourcelink.json
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\refint\NewsFeed.dll
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.pdb
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\NewsFeed.genruntimeconfig.cache
+C:\Users\Lectures\Documents\SoftuniExcersises\CSharp-Advanced-Jan-2026\10.ExamPrepartion\NewsFeed-Skeleton\obj\Debug\net6.0\ref\NewsFeed.dll
